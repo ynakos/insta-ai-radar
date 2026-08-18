@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T10:20:16+00:00",
+ "generated_at": "2026-08-18T13:55:09+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -55,7 +55,7 @@
    "author": "elliottpierret",
    "author_url": "https://www.instagram.com/elliottpierret/",
    "date": "2026-08-14",
-   "following": false,
+   "following": true,
    "confidence": "high"
   },
   {
