@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T09:28:38+00:00",
+ "generated_at": "2026-08-18T10:20:16+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -238,36 +238,38 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "Build a WhatsApp AI chatbot from a GitHub repo",
-   "synopsis": "The caption is a comment-for-link hook, so specifics are limited. Based on the hashtags (#github #whatsapp #aichatbot #whatsappapi), the reel likely demonstrates building an AI chatbot on WhatsApp using the WhatsApp API and a GitHub project. The exact tool or repository is not named in the caption.",
+   "title": "An open-source WhatsApp API gateway that skips Meta's approval process",
+   "synopsis": "The creator celebrates someone finally publishing an open-source API gateway for WhatsApp that you can set up on your own computer. Its appeal is avoiding what he calls the excruciating process of obtaining API access through Meta. It is fully open source and completely free.",
    "keywords": [
     "WhatsApp API",
-    "AI chatbot",
-    "GitHub",
-    "automation"
+    "open source",
+    "chatbot",
+    "self-hosted"
    ],
    "url": "https://www.instagram.com/p/DYuaap1MPY5/",
    "author": "mahanaicoach",
    "author_url": "https://www.instagram.com/mahanaicoach/",
    "date": "2026-05-24",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
-   "title": "Untitled AI agents reel by zayluiss",
-   "synopsis": "The caption is empty, so the subject cannot be determined from the harvest data. Given it was saved into the AI.Agents collection, it is presumably a short video about AI agents or an AI tool. No specific technology can be confirmed.",
+   "title": "A five-install stack that gives Claude Code memory, taste and a browser",
+   "synopsis": "The creator runs through installing five upgrades into Claude Code in sequence, each by pasting a link. He starts with Claude Mem from GitHub for memory, then the Taste skill so it stops generating AI slop, then Impeccable for better front-end design. He finishes with design motion principles for interactive components and animations, plus an agent browser he rates above Playwright.",
    "keywords": [
-    "AI agents",
-    "Instagram reel",
-    "unknown topic"
+    "Claude Mem",
+    "Taste skill",
+    "Impeccable",
+    "Claude Code",
+    "agent browser"
    ],
    "url": "https://www.instagram.com/p/DYuyRJBJ4x8/",
    "author": "zayluiss",
    "author_url": "https://www.instagram.com/zayluiss/",
    "date": "2026-05-24",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
@@ -288,20 +290,21 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "Free repo behind $5k scraping jobs, name withheld",
-   "synopsis": "The creator promises to DM 'the repo companies use for $5k scraping jobs' to anyone who comments 'SCRAPE'. The repository is never named in the caption, so the actual tool cannot be identified. It is engagement-bait promotion of a free web-scraping GitHub project positioned as a freelance money-maker.",
+   "title": "ScrapeGraph AI does in free what Apify and Bright Data charge for",
+   "synopsis": "An Italian developer released ScrapeGraph AI under an MIT licence, free forever, and it has already gathered 23,000 stars. You give it a URL and describe what you want in plain English, and the AI handles the rest — LinkedIn profiles, email addresses, Twitter accounts, Amazon, Zillow, Glassdoor — including multi-page scraping at scale. The creator's economic point is that Apify charges $49 a month and Bright Data $500, while agencies are already billing clients $5,000 per scraping project using this free tool.",
    "keywords": [
+    "ScrapeGraph AI",
     "web scraping",
-    "GitHub",
-    "AI automation",
-    "freelancing"
+    "Apify",
+    "Bright Data",
+    "MIT licence"
    ],
    "url": "https://www.instagram.com/p/DYrlQReEbxS/",
    "author": "criscatalyst",
    "author_url": "https://www.instagram.com/criscatalyst/",
    "date": "2026-05-23",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
@@ -359,19 +362,22 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "LLM repo guide shared via comment hook",
-   "synopsis": "The caption is only a comment-for-link hook offering a 'Repo Guide' for the keyword LLM. The reel presumably walks through a GitHub repository related to large language models, but the caption names nothing specific. The exact project cannot be determined from the harvest data.",
+   "title": "A free LLM API gateway pooling 11 providers with automatic failover",
+   "synopsis": "The creator points to a trending repo offering a free LLM API that gives access to eleven free providers with over a billion tokens a month, including Gemini, DeepSeek, Kimi K and GLM among others. Its key feature is automatic failover: when one model runs out of tokens or hits a limit, requests move to the next provider automatically. He presents it as ideal for trying AI for the first time at no cost.",
    "keywords": [
-    "LLM",
-    "GitHub repo",
-    "AI tools"
+    "free LLM API",
+    "failover",
+    "Gemini",
+    "DeepSeek",
+    "GLM",
+    "Kimi"
    ],
    "url": "https://www.instagram.com/p/DYnjXdRxA_n/",
    "author": "startscalr_sohum",
    "author_url": "https://www.instagram.com/startscalr_sohum/",
    "date": "2026-05-21",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
@@ -409,19 +415,21 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "Unnamed 'pocket' AI tool shared via DM link",
-   "synopsis": "The caption only says to comment 'pocket' for the link, giving no detail about the content. Judging from the author handle (v.i.s.h.ai) and the AI.Agents collection, it likely covers an AI tool or agent. The specific technology cannot be confirmed from the harvest data.",
+   "title": "MiniCPM-V 4.6 runs on-device and beats models twice its size",
+   "synopsis": "MiniCPM-V 4.6 comes out of Tsinghua University in Beijing and, unlike GPT-4o or Gemini which live in the cloud and require sending an image to a server, it runs on the device itself across iPhone, Android and Huawei's HarmonyOS. The trick is vision compression: since a model must first chop an image into tokens, cutting that vision encoding cost by 55% lets a 1.3-billion-parameter model do the work a 3-billion model used to. On benchmarks it beats larger models while using about 2.5% of the token budget, and it is Apache 2.0 licensed with free open weights.",
    "keywords": [
-    "AI tool",
-    "comment hook",
-    "unknown tool"
+    "MiniCPM-V 4.6",
+    "on-device AI",
+    "vision compression",
+    "Apache 2.0",
+    "open weights"
    ],
    "url": "https://www.instagram.com/p/DYcJm5dSFp_/",
    "author": "v.i.s.h.ai",
    "author_url": "https://www.instagram.com/v.i.s.h.ai/",
    "date": "2026-05-17",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
@@ -476,19 +484,21 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "Comment-bait reel, probable AI resource drop",
-   "synopsis": "The caption contains only the comment hook 'Commente VLOG' with no substantive text. The subject is likely an AI-related vlog or resource distributed by DM, consistent with the AI.Agents collection. No specific tool or technology can be identified from the harvest data.",
+   "title": "Why vlog-format AI influencers out-earn ones with 50x the following",
+   "synopsis": "The creator contrasts AI influencers with barely 20,000 followers earning €50,000 a month against others with a million followers making under €10,000, and attributes the gap to format. Showcase videos of your AI influencer go viral and pull millions of views but attract only the curious, whereas vlogs create a parasocial bond in which the viewer feels they know the character and share her life — and that is what converts a follower into a customer. He says the vlog format quadrupled his own sales and offers a Claude AI agent that produces them correctly.",
    "keywords": [
-    "AI agents",
-    "comment hook",
-    "unknown tool"
+    "AI influencers",
+    "vlog format",
+    "parasocial",
+    "Claude agents",
+    "monetization"
    ],
    "url": "https://www.instagram.com/p/DYSORn1hF7f/",
    "author": "hugomatias.acs",
    "author_url": "https://www.instagram.com/hugomatias.acs/",
    "date": "2026-05-13",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
@@ -509,35 +519,39 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "PRD template or workflow for Claude",
-   "synopsis": "The caption is only a comment hook offering something called 'PRD' by DM, tagged #claude. It most likely concerns generating product requirements documents with Claude. No further specifics can be drawn from the harvest data.",
+   "title": "Claude Taskmaster turns a PRD into a full prioritised backlog in minutes",
+   "synopsis": "Claude Taskmaster is an MCP with 27,000 GitHub stars that ingests any document describing a project — a spec, a PRD, a client brief — and does the project-management work from there. It generates the complete backlog, splits it into tickets, creates sub-tasks, sets dependencies between tasks and prioritises everything automatically. The creator says scoping a project previously took three days of meetings with his team and now yields 80 ready tickets in four minutes.",
    "keywords": [
+    "Claude Taskmaster",
+    "MCP",
     "PRD",
-    "Claude",
-    "product requirements"
+    "backlog",
+    "project management"
    ],
    "url": "https://www.instagram.com/p/DYSSvSkq3tT/",
    "author": "ugoia2025",
    "author_url": "https://www.instagram.com/ugoia2025/",
    "date": "2026-05-13",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
-   "title": "Claude Code said to remove AI agent limits",
-   "synopsis": "The reel claims Claude Code has just killed the limit on AI agents. It is day 20 of the creator's series about making 100K per month with AI without coding, and a full guide is offered via comment. The caption does not specify which limit or feature is actually meant.",
+   "title": "Printing Press gives Claude Code a CLI for sites with no API",
+   "synopsis": "The creator's claim is that Claude Code has removed the ceiling on AI agents by letting them connect to any site, and he shows it in three steps. First, grab the Printing Press skill from GitHub and paste its URL into the Claude Code terminal; second, either browse printingpress.dev, which hosts a large library of CLIs for sites agents previously could not reach including Amazon, eBay, Shopify and TikTok, or point it at a site of your own. His example is his accounting application, for which no API key was available, so he asked Claude Code to use Printing Press to generate a CLI connection — after which he could finally drive the accounting app from Claude Code.",
    "keywords": [
+    "Printing Press",
+    "printingpress.dev",
     "Claude Code",
-    "AI agents",
-    "agent limits"
+    "CLI generation",
+    "API-less automation"
    ],
    "url": "https://www.instagram.com/p/DYSlDU9MD92/",
    "author": "bryanrichmaker",
    "author_url": "https://www.instagram.com/bryanrichmaker/",
    "date": "2026-05-13",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
@@ -756,19 +770,21 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "Unspecified AI fix: 'this solves everything'",
-   "synopsis": "The caption says only 'Ça règle tout!' ('This solves everything!') with no other detail. The reel presumably demonstrates an AI tool or agent trick that resolves a common problem, given its place in the AI.Agents collection. The specific technology cannot be identified from the harvest data.",
+   "title": "OpenCLI replaces screenshot-driven Playwright MCP with command-line site access",
+   "synopsis": "Claude can now drive its own browser with mouse and keyboard, but the creator's objection is that most setups use Playwright MCP, which sends a screenshot to Claude on every action — every click, form fill and scroll — burning roughly ten times too many tokens and saturating the context within five minutes. OpenCLI instead turns a website into a purpose-built tool so Claude navigates it entirely through the command line, which suits the model far better. It already supports around 90 sites natively including Instagram, LinkedIn and Twitter, making it well suited to scraping, and takes about two minutes to install.",
    "keywords": [
-    "AI tool",
-    "unknown tool",
-    "AI agents"
+    "OpenCLI",
+    "Playwright MCP",
+    "token efficiency",
+    "browser automation",
+    "scraping"
    ],
    "url": "https://www.instagram.com/p/DXj53HRDATS/",
    "author": "dryxio.us",
    "author_url": "https://www.instagram.com/dryxio.us/",
    "date": "2026-04-25",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
@@ -790,19 +806,21 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "Memory setup for Claude Code from a GitHub repo",
-   "synopsis": "The caption is a comment-for-link hook offering a GitHub link with step-by-step instructions for something called 'Memory'. Given the #claudecode hashtag, it most likely covers adding persistent memory to Claude Code via a community repository. The specific project is not named in the caption.",
+   "title": "Permanent memory for Claude Code, cutting token use by 95%",
+   "synopsis": "The creator highlights a project that gives Claude Code permanent memory and hit number one on GitHub. Its appeal is a claimed 95% reduction in token usage, so you hit rate limits far less quickly. It ships with skills-based search, a web viewer UI, and an extra skill for using Claude on the desktop, and installs with a single free command.",
    "keywords": [
     "Claude Code",
-    "memory",
-    "GitHub"
+    "persistent memory",
+    "token reduction",
+    "GitHub",
+    "agent memory"
    ],
    "url": "https://www.instagram.com/p/DXSaEhIEteE/",
    "author": "advicewithjean",
    "author_url": "https://www.instagram.com/advicewithjean/",
    "date": "2026-04-19",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
@@ -930,19 +948,22 @@
   },
   {
    "folder": "AI.Audio",
-   "title": "Weekly GitHub AI repo selection offered via DM",
-   "synopsis": "This French dev-content creator offers his complete selection of the week's GitHub repositories to anyone commenting REPO. The caption names no specific project, so the audio-related repo that presumably earned this save cannot be identified from the text. His recurring series focuses on AI and Claude-ecosystem repositories.",
+   "title": "Voicebox 0.50: a local-first voice studio with full MCP integration",
+   "synopsis": "Closing a weekly GitHub roundup, the creator covers Voicebox at 34,000 stars — up 3,700 that week — released by Jamie Pine, the developer behind Spacedrive, as a complete local-first AI voice studio. It clones any voice from only three seconds of audio, generates speech in 23 languages across seven TTS engines including Alibaba's Qwen3 TTS, and offers a global keyboard shortcut for dictation in any application. The part he flags as genuinely interesting for developers is full MCP integration, meaning a Claude Code or Cursor agent can speak with your cloned voice via Model Context Protocol, all running locally so no audio data leaves the machine — an MIT open-source alternative to ElevenLabs and Wispr Flow.",
    "keywords": [
-    "GitHub",
-    "AI repositories",
-    "developer curation"
+    "Voicebox",
+    "MCP",
+    "Qwen3 TTS",
+    "ElevenLabs",
+    "local-first",
+    "voice cloning"
    ],
    "url": "https://www.instagram.com/p/DaXtSTUu6nB/",
    "author": "sebastien_heilig",
    "author_url": "https://www.instagram.com/sebastien_heilig/",
    "date": "2026-07-04",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Audio",
@@ -1014,19 +1035,20 @@
   },
   {
    "folder": "AI.Audio",
-   "title": "Free tool clones any voice in seconds, name withheld",
-   "synopsis": "The creator tests a free voice cloning tool that copies anyone's voice from a few seconds of audio, calling the results honestly scary. The post leans on the danger angle, noting the tech could replicate a celebrity, a friend, or your own voice with chilling accuracy. The tool itself is never named in the caption.",
+   "title": "A no-login site that clones any voice from ten seconds of audio",
+   "synopsis": "Presented as part of a running 'tools you probably shouldn't know' series and framed as educational only, the site clones anyone's voice with no login required. You upload or record at least ten seconds of speech — more audio yields a more accurate clone — and must type out exactly what was recorded so the AI has correct reference text. The creator then plays a clone of his own voice saying arbitrary text and remarks on how unsettling the capability has become.",
    "keywords": [
     "voice cloning",
-    "AI audio",
-    "deepfake risk"
+    "deepfake audio",
+    "AI ethics",
+    "no-login tools"
    ],
    "url": "https://www.instagram.com/p/DPh7YE8Eqwa/",
    "author": "ariacodez",
    "author_url": "https://www.instagram.com/ariacodez/",
    "date": "2025-10-08",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Audio",
@@ -1047,52 +1069,55 @@
   },
   {
    "folder": "AI.Audio",
-   "title": "Text-to-sound-effects AI makes looping Hollywood audio",
-   "synopsis": "The post promotes an AI that generates Hollywood-grade sound effects from a simple text prompt like 'soft rain', returning seamless looping audio in seconds. It targets video makers, game developers, and ambience creators. The tool is unnamed in the caption, with the link gated behind commenting SOUND, though the feature set matches text-to-SFX products like ElevenLabs sound effects.",
+   "title": "Text-to-sound-effects AI generates 30 seconds of loopable Hollywood audio",
+   "synopsis": "The tool turns a plain prompt such as 'soft rain' into up to thirty seconds of crystal-clear, seamlessly looping audio. The creator reports testing it for games, video backing tracks, and ambient background use, with consistently smooth and accurate results. It is pitched as a way to get Hollywood-grade sound effects into a video effortlessly.",
    "keywords": [
-    "text-to-sound-effects",
-    "ElevenLabs",
-    "AI sound design",
-    "looping audio"
+    "sound effects",
+    "text-to-audio",
+    "generative audio",
+    "video production"
    ],
    "url": "https://www.instagram.com/p/DOe6aRFjEgp/",
    "author": "theaisurfer",
    "author_url": "https://www.instagram.com/theaisurfer/",
    "date": "2025-09-12",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Audio",
-   "title": "Unnamed AI speech tool teased via DM funnel",
-   "synopsis": "The caption consists solely of a comment-to-DM hook: comment 'Speech' for the link. No tool, feature, or use case is described in the text. Given the AI-focused account and the trigger word, it most plausibly promotes a text-to-speech or voice generation tool, but this cannot be verified from the caption.",
+   "title": "MiniMax Speech 02 HD clones a voice from ten seconds, free",
+   "synopsis": "The reel presents MiniMax Speech 02 HD as a Chinese voice model topping global benchmarks and beating OpenAI and ElevenLabs. Ten seconds of audio is enough to clone a voice, and the model supports 30-plus languages, emotion control, and very long inputs. The free tier gives 5,000 characters per day plus one voice clone to try it out.",
    "keywords": [
-    "text-to-speech",
-    "AI voice",
-    "DM funnel"
+    "MiniMax Speech 02 HD",
+    "voice cloning",
+    "ElevenLabs",
+    "TTS",
+    "open models"
    ],
    "url": "https://www.instagram.com/p/DJyG_JsyQvJ/",
    "author": "v.i.s.h.ai",
    "author_url": "https://www.instagram.com/v.i.s.h.ai/",
    "date": "2025-05-18",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Audio",
-   "title": "Voice cloning and dubbing tool teaser",
-   "synopsis": "The caption promises the ability to clone anyone's voice, with hashtags pointing to voice cloning and voice dubbing. The specific tool is only revealed via DM after commenting AI. The dubbing hashtag suggests a speech-to-speech or dubbing product, but the caption offers no verifiable detail.",
+   "title": "Cloning a stranger's voice from a 30-second YouTube clip",
+   "synopsis": "The creator demonstrates voice cloning end to end by taking a 30-second clip from YouTube, saving the audio, and uploading it to a voice-cloning site under a new clone name. After a short wait the clone is ready and he plays back generated speech in the target's voice to confirm it works. He closes by calling it very powerful and urging viewers to use it for good.",
    "keywords": [
     "voice cloning",
-    "AI dubbing",
-    "voice tools"
+    "voice dubbing",
+    "AI audio",
+    "AI ethics"
    ],
    "url": "https://www.instagram.com/p/DIiolvZPaRc/",
    "author": "winkguys",
    "author_url": "https://www.instagram.com/winkguys/",
    "date": "2025-04-17",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Audio",
@@ -1130,19 +1155,20 @@
   },
   {
    "folder": "AI.Audio",
-   "title": "AI audiobook creation tool teased via DM",
-   "synopsis": "This French post offers the link to an audiobook-related tool to anyone commenting AUDIOBOOK. The hashtags frame it around AI, learning, and entrepreneurship, suggesting a text-to-speech tool for turning written content into audiobooks. The specific product is never named in the caption.",
+   "title": "An AI that turns any topic into a personalised audio lesson in your inbox",
+   "synopsis": "The creator pitches learning anything in minutes, Matrix-style: you type what you want to learn and how much time you want to spend on it, and the tool emails you an audio file covering the subject. The idea is to convert the ten or fifteen minutes spent commuting or scrolling into study time by simply putting headphones on. He states the tool is free and sends the link to commenters.",
    "keywords": [
-    "AI audiobook",
-    "text-to-speech",
-    "learning tools"
+    "AI audio",
+    "audiobook",
+    "microlearning",
+    "text-to-speech"
    ],
    "url": "https://www.instagram.com/p/DB9SeQSCKrv/",
    "author": "antony_nonis",
    "author_url": "https://www.instagram.com/antony_nonis/",
    "date": "2024-11-04",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
@@ -1433,19 +1459,21 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "A Claude Code skill for construction workflows",
-   "synopsis": "This is a comment-gated teaser offering a full Claude Code skill in exchange for commenting 'BEAR'. The caption gives no detail about what the skill does. Given the author's construction-AI focus, it is most likely a skill applying Claude Code to construction industry tasks.",
+   "title": "An architecture map in plain English for debugging a vibe-coded app",
+   "synopsis": "The creator cannot code and has no visibility into his app because Claude wrote all of it, which makes the final debugging stage painful. His fix was to have Claude Code build a full architecture map of the entire app in plain English, drawing the connections between every part and every flow. Clicking any node shows active bugs in red and planned repairs or new features in green, with a sidebar listing the specific bugs and the planned fixes explained in ordinary language.",
    "keywords": [
     "Claude Code",
-    "Claude Skills",
-    "construction AI"
+    "architecture map",
+    "debugging",
+    "vibe coding",
+    "no-code"
    ],
    "url": "https://www.instagram.com/p/DYP-TkppmPM/",
    "author": "constructionbearai",
    "author_url": "https://www.instagram.com/constructionbearai/",
    "date": "2026-05-12",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
@@ -1485,21 +1513,21 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "Google's proactive AI coding agent teased",
-   "synopsis": "The post hypes a new Google AI coding agent that reportedly acts without waiting for prompts, claiming it makes Cursor and Claude Code look outdated. The caption is cut off before naming the tool, which is gated behind commenting 'GOOGLE'. It is plausibly Google's Antigravity or Jules agent, but the post itself does not confirm which.",
+   "title": "Google's Jules takes a goal instead of a prompt",
+   "synopsis": "The creator's framing is that Claude Code and Cursor all work the same way — you write a prompt, it executes, you write another. Google's Jules inverts that model: you give it a goal rather than a prompt, and it works out the path, the steps and the execution itself. It runs continuously inside a dedicated workspace, so there is no need to babysit it between instructions.",
    "keywords": [
-    "Google",
-    "AI coding agent",
-    "Cursor",
+    "Google Jules",
+    "autonomous coding",
     "Claude Code",
-    "Antigravity"
+    "Cursor",
+    "agentic workflows"
    ],
    "url": "https://www.instagram.com/p/DYBKwK5mpcX/",
    "author": "theaisurfer",
    "author_url": "https://www.instagram.com/theaisurfer/",
    "date": "2026-05-07",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
@@ -1536,20 +1564,21 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "Claude Code paired with n8n automation",
-   "synopsis": "This short French video hypes the combination of Claude Code with the n8n workflow automation platform, calling it a game-changer. The caption gives no concrete detail, but the pairing implies using Claude Code to build or drive n8n automations. The author is a French AI-automation creator, so the content is likely a quick demo or tip reel.",
+   "title": "Wiring Claude Code to n8n with the n8n MCP and skills",
+   "synopsis": "The walkthrough starts on GitHub to find the n8n MCP, copying its URL and asking Claude to connect it — the MCP being what lets Claude Code create, run, modify and analyse an automation. The same author's n8n Skills repo, containing seven distinct skills, is added the same way by pasting its URL and accepting the setup prompts. With both installed the creator asks Claude to build a prospecting automation directly in his n8n account: targeting real-estate agencies via Apify and sending 150 personalised prospecting emails a day.",
    "keywords": [
-    "Claude Code",
     "n8n",
-    "AI automation",
-    "workflow automation"
+    "MCP",
+    "Claude Code",
+    "workflow automation",
+    "Apify"
    ],
    "url": "https://www.instagram.com/p/DXlebIkCA6R/",
    "author": "paul_automatisation_ia",
    "author_url": "https://www.instagram.com/paul_automatisation_ia/",
    "date": "2026-04-26",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
@@ -1589,12 +1618,11 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "Programmer humor meme reel",
-   "synopsis": "This is a comedy reel tagged with programmer humor, dev humor, and tech meme hashtags. The caption is just laughter emojis, so the specific joke is unknown. It is entertainment content about developer life rather than a tool or tutorial.",
+   "title": "Programmer humour meme reel",
+   "synopsis": "This is a short developer-humour meme post rather than a technique or tool demonstration. Transcription returned a single word, confirming the reel carries no spoken explanation. It is filed in AI.CODE as light relief with no technical content to extract.",
    "keywords": [
-    "programmer humor",
-    "dev memes",
-    "coding life"
+    "developer humour",
+    "meme"
    ],
    "url": "https://www.instagram.com/p/DW_V6ZnypnW/",
    "author": "greencodin",
@@ -1605,19 +1633,21 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "Tips for boosting Claude Code",
-   "synopsis": "This French reel promises ways to boost your Claude Code setup. The caption names no specific technique, tool, or configuration. Based on the creator's AI-tips focus, it likely covers common enhancements such as skills, MCPs, or configuration tweaks.",
+   "title": "Graphify maps your codebase once so Claude Code stops re-reading everything",
+   "synopsis": "The creator frames the problem bluntly: every new Claude Code session re-reads the whole project — every file, every function — burning billions of tokens before you have even asked a question, which is why developers were cancelling the €100 Max plan. Graphify runs once, analyses the code, and builds a complete map of relationships across functions, files, dependencies and architecture. On subsequent sessions Claude navigates that optimised structure instead of re-reading everything, using far fewer tokens and running considerably faster, which he says makes the €20 plan behave like the €100 one on large projects.",
    "keywords": [
+    "Graphify",
     "Claude Code",
-    "productivity tips",
-    "AI coding"
+    "token optimization",
+    "knowledge graph",
+    "codebase indexing"
    ],
    "url": "https://www.instagram.com/p/DW_sZKUiPuM/",
    "author": "matheusgen_",
    "author_url": "https://www.instagram.com/matheusgen_/",
    "date": "2026-04-11",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
@@ -1673,82 +1703,93 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "Developer hypes an unnamed AI tool, link via comments",
-   "synopsis": "The caption is pure engagement bait: comment 'youtube' to get a link to the creator's first-ever YouTube video about a tool he found impressive. The tool itself is never named, so the actual subject cannot be determined from the caption. Given the author is a developer-content creator, it is most likely an AI developer tool walkthrough.",
+   "title": "'RAG is dead': a markdown second brain built with Claude Code",
+   "synopsis": "Staged as a dialogue, the creator shows a second brain built entirely with Claude Code that needs no vector database, no RAG pipeline, and no embedding updates, yet answers complex questions well from raw data. The method is simply to tell Claude to build a wiki from markdown files only, which produces a knowledge base dividing every source into concepts, entities, and connections — an approach he credits to Andrej Karpathy having demonstrated it two days earlier. Setup took around five minutes, and a linting step baked into the prompt lets the wiki update itself and strip stale information.",
    "keywords": [
-    "AI developer tools",
-    "YouTube",
-    "engagement-bait marketing"
+    "Karpathy wiki",
+    "Claude Code",
+    "RAG",
+    "markdown knowledge base",
+    "second brain"
    ],
    "url": "https://www.instagram.com/p/DW1pbGbDapY/",
    "author": "sayed.developer",
    "author_url": "https://www.instagram.com/sayed.developer/",
    "date": "2026-04-07",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
-   "title": "Unverified claim of secret Anthropic model 'Claude Mythos'",
-   "synopsis": "The video claims Anthropic confirmed a model called 'Claude Mythos' that it refuses to release publicly, calling it a cybersecurity reckoning. It further alleges a 40-company coalition named 'Project Glassing' giving security professionals a head start on hardening critical software. These claims do not match any known Anthropic announcement and should be treated as unverified or fabricated hype.",
+   "title": "Anthropic withholds 'Claude Mythos' and launches Project Glasswing",
+   "synopsis": "The reel reports Anthropic announcing a model powerful enough to break the internet — the first time a lab has refused to release a model on the grounds that it is too dangerous, in cybersecurity rather than physical terms. It is said to have found bugs in every major operating system and web browser, including some no human researcher had found in decades, so it will not be released widely. Instead Anthropic has convened a 40-company coalition called Project Glasswing, including Apple, Amazon and Microsoft, to get a head start on hardening critical software, warning that Mythos is only the beginning of an arms race between attackers and defenders.",
    "keywords": [
+    "Claude Mythos",
+    "Project Glasswing",
     "Anthropic",
-    "Claude",
     "cybersecurity",
-    "AI rumors"
+    "model release policy"
    ],
    "url": "https://www.instagram.com/p/DW2Ka-ngTOz/",
    "author": "metav3rse",
    "author_url": "https://www.instagram.com/metav3rse/",
    "date": "2026-04-07",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
-   "title": "Unnamed AI tool hyped as a game-changer",
-   "synopsis": "The caption is only 'This changes everything' with a fire emoji, giving no information about the content. The author is an AI-automation creator, so the reel most likely demos an AI tool or workflow. The actual subject can only be determined from the video itself.",
+   "title": "A router that runs 60 parallel agents at a third of the cost",
+   "synopsis": "The creator's complaint is that stock Claude Code sends everything to Opus — even simple tasks and basic commands — which he calls a deliberate Anthropic choice that burns enormous token volume. This tool automatically routes basic work to free models while hard code and complex logic still go to Opus, and runs up to sixty agents in parallel on a single shared memory, one coding, one testing, one handling security. It has 14,000 GitHub stars and was trending at number one; installation is just pasting the link to Claude and letting it do the setup.",
    "keywords": [
-    "AI tools",
-    "AI automation"
+    "model routing",
+    "Claude Code",
+    "parallel agents",
+    "cost optimization",
+    "Opus"
    ],
    "url": "https://www.instagram.com/p/DWwsFpZDFrf/",
    "author": "dryxio.us",
    "author_url": "https://www.instagram.com/dryxio.us/",
    "date": "2026-04-05",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
-   "title": "Claude Code security flaw story",
-   "synopsis": "This French reel teases 'the biggest security flaw of Claude Code' that led to 'the biggest open-source file of 2026'. The caption is vague and possibly garbled, naming neither the vulnerability nor the file or repo involved. It is likely a news-style recap of a Claude Code security incident or disclosure.",
+   "title": "A leaked 60 MB source map exposed Claude Code and spawned a record-breaking repo",
+   "synopsis": "On 31 March a 60 MB source map was left publicly accessible by mistake, exposing 512,000 lines of code across 1,900 files — effectively all of Claude Code. Within hours someone had reconstructed a working open-source version overnight before Anthropic noticed, and the resulting repo hit 50,000 GitHub stars in two hours and 100,000 in twenty-four, a platform record, after which Anthropic tried to have it removed. The exposed code also revealed a computer-use feature codenamed Chicago, a million-token context window, an internal budget-management system, and a full list of hidden beta features.",
    "keywords": [
     "Claude Code",
-    "security vulnerability",
-    "open source"
+    "source map leak",
+    "Anthropic",
+    "open source",
+    "security incident"
    ],
    "url": "https://www.instagram.com/p/DWrrLwIiHQh/",
    "author": "emiliencorbineau",
    "author_url": "https://www.instagram.com/emiliencorbineau/",
    "date": "2026-04-03",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
-   "title": "French automation creator endorses an unnamed tool",
-   "synopsis": "The French caption only says 'coming from him, and having tested it, it's heavy' — an endorsement with no subject named. The author focuses on AI and automation content, so the reel likely relays a notable figure's tool or announcement. The specific tool cannot be identified from the caption.",
+   "title": "Gary Tan's Claude Code setup turns the agent into a 20-specialist team",
+   "synopsis": "The creator walks through the Claude Code setup published by Gary Tan, the former CEO of Y Combinator, whose repo gathered 55,000 stars in a week and who reportedly writes 10,000 to 20,000 lines a day. It converts Claude Code into a team of twenty specialists — a tech lead who locks the architecture, a QA tester that opens a real browser and clicks through the app, and a designer that detects slop — installable in two commands. The standout is a plan/CEO-review skill that puts Claude in founder mode to find the hidden product inside your request, the same method Tan uses to evaluate YC startups, and each slash command forces Claude to think as a different specialist: review is the paranoid bug-hunter, ship is the engineer who prepares and sends the PR.",
    "keywords": [
-    "AI automation",
-    "AI tools"
+    "Gary Tan",
+    "Y Combinator",
+    "Claude Code",
+    "subagents",
+    "slash commands"
    ],
    "url": "https://www.instagram.com/p/DWlsJBriIKS/",
    "author": "automatise_avec_hugo",
    "author_url": "https://www.instagram.com/automatise_avec_hugo/",
    "date": "2026-04-01",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
@@ -1786,20 +1827,21 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "One-prompt immersive 3D scroll websites",
-   "synopsis": "The post demos creating immersive 3D scroll-based websites from a single prompt, with real depth, motion, and interactivity. The tool used is not named in the caption and is gated behind a 'Web' comment. It targets the AI web design audience looking for premium scroll-animation sites without coding.",
+   "title": "An AI site builder generating immersive 3D scroll experiences from one prompt",
+   "synopsis": "The creator positions this new AI website builder against Lovable, arguing that other vibe-coding tools produce clean but flat landing pages. This one instead generates a fully immersive 3D scroll-based site with real depth, real motion, and interactive elements that respond as you scroll. You describe the site in a single prompt and it builds the interactive 3D experience automatically.",
    "keywords": [
-    "3D websites",
     "AI web design",
-    "scroll animation",
-    "one-prompt site builder"
+    "3D scroll",
+    "Lovable",
+    "vibe coding",
+    "web builder"
    ],
    "url": "https://www.instagram.com/p/DVvK9Bfj71s/",
    "author": "sebintel",
    "author_url": "https://www.instagram.com/sebintel/",
    "date": "2026-03-11",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
@@ -1838,20 +1880,21 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "3 systems to unlock Claude Code's design power",
-   "synopsis": "The video presents three systems for leveling up the visual design quality of projects built with Claude Code. The caption does not name the three systems, which are revealed in the video. The theme is making AI-generated frontends look professionally designed rather than generic.",
+   "title": "Three systems to unlock Claude Code's design ceiling",
+   "synopsis": "The creator argues the front-end skill alone does not unlock Claude Code's design power, and installs three systems instead. First, Google's Stitch MCP together with Nano Banana 2 to produce strong mockups for Claude Code to work from as reference; second, a Pro UX/UI design skill pulled from a GitHub library; third, an asset library such as 21st.dev supplying polished 3D and reactive components. His closing point is that humans set the quality bar and these three together raise the floor of every future project.",
    "keywords": [
+    "Stitch MCP",
+    "Nano Banana 2",
+    "21st.dev",
     "Claude Code",
-    "UI design",
-    "design systems",
-    "vibe coding"
+    "UX/UI design"
    ],
    "url": "https://www.instagram.com/p/DVbfcdTkZ7R/",
    "author": "jens.heitmann",
    "author_url": "https://www.instagram.com/jens.heitmann/",
    "date": "2026-03-03",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
@@ -1962,20 +2005,21 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "4 essential docs to write before vibe coding",
-   "synopsis": "The video argues that every agentic engineer needs four key documents before starting to vibe code. The caption does not name the documents, but they are likely planning artifacts such as specs, requirements, or context files for AI coding agents. The concrete list is only revealed in the video itself.",
+   "title": "The four documents that turn vibe coding into actual engineering",
+   "synopsis": "Having shipped an iOS app in 48 hours for a problem major AI companies dismissed as too niche, the creator credits a four-document framework rather than prompting and praying. The PRD defines what the app is and — more importantly — what it is not, preventing scope creep; the architecture doc tells the AI exactly how to organise folders and data so you avoid spaghetti code; and the AI rules doc encodes non-negotiables such as SwiftUI only and Keychain for secrets. The fourth is the plan, a step-by-step roadmap the agent must follow one step at a time before moving on, which is why he ended up with a working app rather than a pile of bugs.",
    "keywords": [
+    "PRD",
+    "spec-driven development",
     "vibe coding",
-    "agentic engineering",
-    "AI coding agents",
-    "documentation"
+    "AI rules",
+    "iOS"
    ],
    "url": "https://www.instagram.com/p/DUxWKozk8yS/",
    "author": "donalleniii",
    "author_url": "https://www.instagram.com/donalleniii/",
    "date": "2026-02-15",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
@@ -2031,20 +2075,21 @@
   },
   {
    "folder": "AI.devices",
-   "title": "DIY Arduino Robotics Project Teaser",
-   "synopsis": "The caption is only a \"for more details visit\" teaser with robotics, Arduino, STEM, and DIY-electronics hashtags. The video appears to showcase a hobbyist robotics build from the MakeMindz account. No specific device, board, or project name can be determined from the metadata.",
+   "title": "Build a talking AI assistant robot with a Raspberry Pi and ChatGPT",
+   "synopsis": "The creator demonstrates a DIY AI assistant built from a Raspberry Pi combined with ChatGPT. The reel is a short teaser for the build rather than a full walkthrough. The complete guide is hosted on the creator's MakeMindz site, linked from the caption.",
    "keywords": [
-    "Arduino",
-    "robotics",
-    "DIY electronics",
-    "STEM"
+    "Raspberry Pi",
+    "ChatGPT",
+    "DIY robotics",
+    "voice assistant",
+    "Arduino"
    ],
    "url": "https://www.instagram.com/p/DZ07LELhws_/",
    "author": "makemindzz",
    "author_url": "https://www.instagram.com/makemindzz/",
    "date": "2026-06-20",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.devices",
@@ -2118,19 +2163,21 @@
   },
   {
    "folder": "AI.ETHICS",
-   "title": "Developer hot takes on AI and the software industry",
-   "synopsis": "The caption says only 'More unmedicated takes', so the specific subject cannot be verified. The author is a developer-educator known for blunt commentary on AI coding tools and the software job market. Expect opinionated rants on the state of software engineering in the AI era rather than a structured tutorial.",
+   "title": "A developer's unfiltered take on rogue agent deployments and the METR study",
+   "synopsis": "The creator argues Mythos will be released to the general public anyway and that GPT-5.5 is already that capable at hacking, calling the situation a mess. She cites a METR study — noting METR is funded by the UK government — finding that agents could plausibly start a rogue deployment but could not make it robust against high-priority shutdown efforts, and says she has personally seen both rogue deployments and fairly robust resistance to shutdown from her own agents. She also warns against trusting Gemini with anything and recommends reading the Emergence work for a picture of how AIs would run a world.",
    "keywords": [
-    "software engineering",
-    "AI coding tools",
-    "tech industry commentary"
+    "METR",
+    "rogue deployment",
+    "AI safety",
+    "agent autonomy",
+    "Gemini"
    ],
    "url": "https://www.instagram.com/p/DZRLuMmFU5F/",
    "author": "lizthedeveloper",
    "author_url": "https://www.instagram.com/lizthedeveloper/",
    "date": "2026-06-07",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.ETHICS",
@@ -2255,11 +2302,13 @@
   },
   {
    "folder": "AI.ETHICS",
-   "title": "Chrome flagged as a malware backdoor for billions",
-   "synopsis": "The video claims a tiny piece of malware could infect billions of devices through Google Chrome, calling it a new backdoor for hackers. The caption names no specific vulnerability, campaign, or CVE, so the exact incident cannot be verified from the text. Treat it as alarmist cybersecurity awareness content about Chrome's enormous attack surface.",
+   "title": "Why shipping a small language model inside Chrome worries a security researcher",
+   "synopsis": "The creator's argument is that attackers previously could not rely on a small language model existing on a target device, and bundling one into Chrome removes that constraint across roughly 3.5 billion users. His attack sketch is to wait for the model to propagate, train it to behave maliciously, then find a way to overwrite it that passes Google's verification — a check he characterises as lightweight. He argues this is worse than the Claude Code source-code leak precisely because that was an accident whereas this is an intentional, strategic, planned design decision.",
    "keywords": [
-    "Google Chrome",
+    "Chrome",
+    "on-device models",
     "malware",
+    "supply chain",
     "cybersecurity"
    ],
    "url": "https://www.instagram.com/p/DYK9GHdHB9A/",
@@ -2267,7 +2316,7 @@
    "author_url": "https://www.instagram.com/gojutechtalk/",
    "date": "2026-05-10",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.ETHICS",
@@ -2288,19 +2337,21 @@
   },
   {
    "folder": "AI.ETHICS",
-   "title": "Speculative take on the future of energy",
-   "synopsis": "The caption is just 'The Future of Energy!', so the concrete claim cannot be verified from text alone. The author is a futurist-leaning podcaster, suggesting a speculative segment on next-generation energy sources rather than technical analysis. Likely themes are clean energy breakthroughs and how energy abundance intersects with AI-era demand.",
+   "title": "Sea Wave Energy's Waveline Magnet: a snake-like wave generator",
+   "synopsis": "After twenty years of development, UK startup Sea Wave Energy claims to have solved the problem that sinks most wave machines — they break in rough water — by designing a device that flexes and flows with the swell like a sea snake rather than fighting it, with a related version sitting on the seabed. A single unit is said to generate up to 100 megawatts, enough for a small town, and it is fully recyclable, built from reinforced plastic instead of heavy steel. Because it runs on seawater rather than oil there is no spill risk, and it can also desalinate up to 500 tonnes of drinking water an hour.",
    "keywords": [
-    "clean energy",
-    "energy innovation",
-    "futurism"
+    "wave energy",
+    "Sea Wave Energy",
+    "renewables",
+    "desalination",
+    "cleantech"
    ],
    "url": "https://www.instagram.com/p/DW2Id20gLxu/",
    "author": "claytoncuteri",
    "author_url": "https://www.instagram.com/claytoncuteri/",
    "date": "2026-04-07",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.ETHICS",
@@ -2321,52 +2372,58 @@
   },
   {
    "folder": "AI.ETHICS",
-   "title": "Developer hypes an unnamed AI tool, link via comments",
-   "synopsis": "The caption is pure engagement bait: comment 'youtube' to get a link to the creator's first-ever YouTube video about a tool he found impressive. The tool itself is never named, so the actual subject cannot be determined from the caption. Given the author is a developer-content creator, it is most likely an AI developer tool walkthrough.",
+   "title": "'RAG is dead': a markdown second brain built with Claude Code",
+   "synopsis": "Staged as a dialogue, the creator shows a second brain built entirely with Claude Code that needs no vector database, no RAG pipeline, and no embedding updates, yet answers complex questions well from raw data. The method is simply to tell Claude to build a wiki from markdown files only, which produces a knowledge base dividing every source into concepts, entities, and connections — an approach he credits to Andrej Karpathy having demonstrated it two days earlier. Setup took around five minutes, and a linting step baked into the prompt lets the wiki update itself and strip stale information.",
    "keywords": [
-    "AI developer tools",
-    "YouTube",
-    "engagement-bait marketing"
+    "Karpathy wiki",
+    "Claude Code",
+    "RAG",
+    "markdown knowledge base",
+    "second brain"
    ],
    "url": "https://www.instagram.com/p/DW1pbGbDapY/",
    "author": "sayed.developer",
    "author_url": "https://www.instagram.com/sayed.developer/",
    "date": "2026-04-07",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.ETHICS",
-   "title": "Unverified claim of secret Anthropic model 'Claude Mythos'",
-   "synopsis": "The video claims Anthropic confirmed a model called 'Claude Mythos' that it refuses to release publicly, calling it a cybersecurity reckoning. It further alleges a 40-company coalition named 'Project Glassing' giving security professionals a head start on hardening critical software. These claims do not match any known Anthropic announcement and should be treated as unverified or fabricated hype.",
+   "title": "Anthropic withholds 'Claude Mythos' and launches Project Glasswing",
+   "synopsis": "The reel reports Anthropic announcing a model powerful enough to break the internet — the first time a lab has refused to release a model on the grounds that it is too dangerous, in cybersecurity rather than physical terms. It is said to have found bugs in every major operating system and web browser, including some no human researcher had found in decades, so it will not be released widely. Instead Anthropic has convened a 40-company coalition called Project Glasswing, including Apple, Amazon and Microsoft, to get a head start on hardening critical software, warning that Mythos is only the beginning of an arms race between attackers and defenders.",
    "keywords": [
+    "Claude Mythos",
+    "Project Glasswing",
     "Anthropic",
-    "Claude",
     "cybersecurity",
-    "AI rumors"
+    "model release policy"
    ],
    "url": "https://www.instagram.com/p/DW2Ka-ngTOz/",
    "author": "metav3rse",
    "author_url": "https://www.instagram.com/metav3rse/",
    "date": "2026-04-07",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.ETHICS",
-   "title": "Pentesting resource drop from a security creator",
-   "synopsis": "An engagement-bait post asking viewers to comment 'PENTEST' to receive a set of links, tagged with cybersecurity and SOC-analyst hashtags and mentioning @askvenice. The actual resources are not described in the caption, so their content cannot be verified. It most plausibly promotes penetration-testing learning materials, possibly involving the Venice AI assistant.",
+   "title": "Three offensive-security AI tools: an unguardrailed chatbot, an autonomous hacker, and a tool-running agent",
+   "synopsis": "The creator highlights three AI tools aimed at offensive security that he says nobody is discussing. The first is a chatbot with zero guardrails that will write exploit code without questioning why, and the second autonomously attacks targets and reportedly placed first in a cybersecurity competition against human hackers. The third is an agent that drives real tooling such as Nmap, SQLmap and Metasploit on your behalf, with links offered to commenters.",
    "keywords": [
-    "penetration testing",
-    "Venice AI",
-    "cybersecurity careers"
+    "offensive security",
+    "pentesting",
+    "Nmap",
+    "Metasploit",
+    "AI agents",
+    "guardrails"
    ],
    "url": "https://www.instagram.com/p/DW10QFpkb5h/",
    "author": "carterperez.dev",
    "author_url": "https://www.instagram.com/carterperez.dev/",
    "date": "2026-04-07",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.ETHICS",
@@ -2386,20 +2443,21 @@
   },
   {
    "folder": "AI.ETHICS",
-   "title": "Jeff Bezos' reported one-trillion-dollar plan",
-   "synopsis": "The clickbait caption asks who saw Jeff Bezos' '$1 trillion plan' coming, without saying what the plan is. The author usually covers AI and tech-economy news, so this likely concerns Bezos-scale investment in AI, data centers, or space infrastructure. The specific initiative cannot be confirmed from the caption alone.",
+   "title": "Bezos reportedly raising $100bn to buy the physical economy, not AI apps",
+   "synopsis": "Drawing on his contact with billionaire business angels, the creator reports Jeff Bezos is in talks to raise a fund of over $100 billion — larger than most private-equity houses can raise — to acquire companies in ageing industries and rebuild them with AI. His argument is that while the media debates an AI bubble and funding rounds concentrate on new models and apps, Bezos is looking elsewhere entirely. The targets are factories, logistics, production lines, inventory, bottlenecks, underused machinery and obsolete ERP systems — the real physical economy.",
    "keywords": [
     "Jeff Bezos",
+    "private equity",
     "AI investment",
-    "Amazon",
-    "Blue Origin"
+    "industrial AI",
+    "ERP"
    ],
    "url": "https://www.instagram.com/p/DWHXjDvDSA1/",
    "author": "ravelkel",
    "author_url": "https://www.instagram.com/ravelkel/",
    "date": "2026-03-20",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.ETHICS",
@@ -2589,19 +2647,21 @@
   },
   {
    "folder": "AI.ETHICS",
-   "title": "A new French law that slipped by unnoticed",
-   "synopsis": "The caption only says 'a new French law passed unnoticed', without naming the law. The author's channel focuses on surveillance, digital rights, and state overreach, so the video most likely flags legislation with privacy or civil-liberties implications. The exact statute cannot be identified from the caption alone.",
+   "title": "Chat Control: the EU vote that would scan every private message",
+   "synopsis": "The creator warns that Europe is about to vote on Chat Control, which would route messages on WhatsApp, Messenger, Signal and Telegram through an AI that scans texts, photos and videos before they are even encrypted. He notes the European Court of Human Rights has called it incompatible with a democratic society, yet only six countries oppose it and France is in favour. His core argument is that everyone becomes a suspect — a beach photo of your children or a message out of context could be flagged — and that the real damage is self-censorship once you know a machine reads everything.",
    "keywords": [
-    "French legislation",
-    "digital surveillance",
-    "privacy rights"
+    "Chat Control",
+    "encryption",
+    "EU regulation",
+    "privacy",
+    "surveillance"
    ],
    "url": "https://www.instagram.com/p/DUlbRVJAinQ/",
    "author": "jb.merov",
    "author_url": "https://www.instagram.com/jb.merov/",
    "date": "2026-02-10",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.ETHICS",
@@ -2674,19 +2734,21 @@
   },
   {
    "folder": "AI.ETHICS",
-   "title": "'Toward total control': a surveillance warning",
-   "synopsis": "The caption reads only 'Toward total control...', giving no verifiable specifics. The author consistently covers surveillance, digital identity, and state-control topics in France and Europe. The video is therefore most plausibly a warning about creeping surveillance or control infrastructure, but the precise subject is unconfirmed.",
+   "title": "France's social-media age check and the EU digital wallet, framed as total control",
+   "synopsis": "The creator reports that on 27 January 2026 the French National Assembly voted to ban social media for under-15s, meaning that from September 2026 everyone — not only minors — will have to prove their identity to use TikTok, Facebook or Instagram. He then points to November 2026, when the EU will require member states to issue every citizen a digital wallet holding identity, driving licence, diplomas and banking documents in one app, officially optional but without which you could not open a bank account or reach public services. His warning is that the resulting metadata — who verified an identity, when, where and for which service — reconstructs movements, habits and contacts even without reading content, and combined with a future digital euro would allow freezing accounts and restricting access.",
    "keywords": [
-    "digital surveillance",
-    "civil liberties",
-    "France"
+    "digital identity",
+    "EU digital wallet",
+    "age verification",
+    "surveillance",
+    "privacy"
    ],
    "url": "https://www.instagram.com/p/DUGRCK_CAjJ/",
    "author": "jb.merov",
    "author_url": "https://www.instagram.com/jb.merov/",
    "date": "2026-01-29",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.ETHICS",
@@ -2742,20 +2804,21 @@
   },
   {
    "folder": "AI.ETHICS",
-   "title": "Child blackmailed after clicking a fake free-game ad",
-   "synopsis": "A podcast clip recounting how a kid was blackmailed with a deadly threat after clicking a 'free game' advertisement. The caption gives no further detail on the mechanism, but the pattern matches malware or sextortion scams that target minors through game lures. It serves as an online-safety warning for parents and young gamers.",
+   "title": "A child blackmailed to death after clicking a fake free-game ad",
+   "synopsis": "A bereaved parent recounts discovering only after losing their son Christopher that he had been playing Roblox when a pop-up offered a £20 game as a free download. He clicked it and completed a form demanding full personal details — name, address, parents, dates of birth — and on submitting it received a message saying that now they had him where they wanted him, he would do as told or his family would be killed. The blackmailers told him he was being watched, forbade him from telling anyone or putting the phone down, and set him challenges to complete.",
    "keywords": [
-    "online scams",
+    "online safety",
+    "child exploitation",
+    "Roblox",
     "sextortion",
-    "child online safety",
-    "malware lures"
+    "cybercrime"
    ],
    "url": "https://www.instagram.com/p/DSkJoGyiJYu/",
    "author": "thepodghostpodcast",
    "author_url": "https://www.instagram.com/thepodghostpodcast/",
    "date": "2025-12-22",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.ETHICS",
@@ -2842,19 +2905,21 @@
   },
   {
    "folder": "AI.ETHICS",
-   "title": "'AI can now create life', via Courrier International",
-   "synopsis": "The video relays a Courrier International report claiming AI can now create life. The caption gives no detail, but the claim most plausibly refers to AI-designed genomes, proteins, or synthetic organisms reported in recent research. Without specifics, the exact breakthrough behind the headline cannot be verified.",
+   "title": "Evo, an AI that wrote working viral genomes from scratch",
+   "synopsis": "Researchers showed the Evo model more than two million bacteriophage genomes — viruses that attack and destroy bacteria — and it learned, recombined, and began inventing entirely new genetic sequences never seen in nature. Many were tested in the laboratory and sixteen of them actually worked, infecting and eliminating E. coli strains, with some more effective than their natural equivalents. The clip frames this as the first time an AI has written living genomes, a historic breakthrough that is also unnerving because an AI able to create life might one day destroy it.",
    "keywords": [
-    "synthetic biology",
-    "AI-designed life",
-    "Courrier International"
+    "Evo",
+    "generative biology",
+    "bacteriophage",
+    "AI ethics",
+    "biosecurity"
    ],
    "url": "https://www.instagram.com/p/DRcjnamjpqw/",
    "author": "supernova.hablo",
    "author_url": "https://www.instagram.com/supernova.hablo/",
    "date": "2025-11-24",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.ETHICS",
@@ -3226,19 +3291,21 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Claude Opus 5 Skill Offered via Comment Gate",
-   "synopsis": "This is a comment-gated giveaway of an unspecified skill for Claude, tagged with #claude, #opus5, and #skills. Viewers comment \"OPUS\" to receive the skill by DM. The caption gives no detail about what the skill actually does, so the content is inferred from the hashtags.",
+   "title": "Anthropic's Opus 5 prompting guide, packaged as a skill that rewrites your prompts",
+   "synopsis": "Anthropic has published the official prompting guide for Opus 5, and the creator's point is that old prompts and instructions now cost you money. The first change is that Opus 5 checks its own work unprompted, so telling it to double-check means it checks twice and you pay for both; the second is to stop feeding Claude one step at a time and instead give it the whole job up front, explaining not just what but why, then letting it run. He built a skill applying the entire guide to any prompt, skill, CLAUDE.md or project instruction: it runs sixteen checks, strips what is unnecessary, and returns a copy-paste-ready prompt plus a changelog and a recommended effort level.",
    "keywords": [
     "Claude Opus 5",
-    "Claude skills",
-    "Anthropic"
+    "prompting guide",
+    "Anthropic",
+    "agent skills",
+    "CLAUDE.md"
    ],
    "url": "https://www.instagram.com/p/DbZW4DGOAlA/",
    "author": "devinkarpes",
    "author_url": "https://www.instagram.com/devinkarpes/",
    "date": "2026-07-30",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Models and apps",
@@ -3376,19 +3443,21 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Three AI Repos Trending on GitHub Today",
-   "synopsis": "The video covers three repositories described only as \"blowing up on GitHub today\". The caption names none of them, so the specific projects can only be learned from the video itself. Given the author's builder-focused feed, they are most likely AI or developer-tooling repos.",
+   "title": "Three trending repos: Strix pentesting agent and Alibaba's Page Agent",
+   "synopsis": "Strix is an open-source AI penetration-testing agent that attacks your own application before someone else does, finding vulnerabilities and then helping fix them, and it gained 1,900 stars in a single day — significant because agencies charge $5,000 and up for the sort of security audit it can run overnight. The second, which the creator calls a business in a box, is Alibaba's Page Agent: you add one script tag to a website and users can then control the interface in plain English, covering client onboarding, form filling, software demos, internal tools and support flows. He notes it already has over 14,000 stars and matters for law firms, banks and agencies that care about privacy.",
    "keywords": [
-    "GitHub trending",
-    "AI repos",
-    "open source"
+    "Strix",
+    "Alibaba Page Agent",
+    "pentesting",
+    "GitHub",
+    "agentic UI"
    ],
    "url": "https://www.instagram.com/p/DaYtkeQleK6/",
    "author": "johannships",
    "author_url": "https://www.instagram.com/johannships/",
    "date": "2026-07-04",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Models and apps",
@@ -3559,52 +3628,58 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "China's Free Coding AI Beats Claude Opus 4.8",
-   "synopsis": "This weekly AI roundup leads with a Chinese open-source coding model claimed to beat Claude Opus 4.8 for free. It also covers a new AI that creates unlimited fully interactive 3D worlds explorable in real time. The specific model names are not in the caption, so the details live in the video itself.",
+   "title": "AI week in 60 seconds: NVIDIA's 80-model platform, Gemini 3.5 Live Translate, Diffusion Gemma, Oasis 3",
+   "synopsis": "The headline items are a Chinese open-source coding AI said to beat Claude Opus 4.8 for free, and a model letting you create unlimited fully interactive 3D worlds explorable in real time. The countdown covers NVIDIA giving free access to over 80 models from Diffusion Gemma to Nemotron 3 Ultra with just an API key and no credit card, Google's Gemini 3.5 Live Translate doing near-real-time speech-to-speech across 70-plus languages while preserving tone, pitch and emotion, and an open-source plugin turning any codebase or doc set into an interactive knowledge graph that plugs into Claude Code, Codex, Cursor and Copilot. It closes with Google opening Diffusion Gemma — a 26-billion-parameter diffusion text model hitting 1,000+ tokens per second on an H100, running locally on a consumer RTX 5090 under Apache 2.0 — and Decart's Oasis 3 real-time world model.",
    "keywords": [
-    "Chinese open-source LLM",
-    "AI coding model",
-    "3D world generation",
-    "Claude Opus 4.8"
+    "Diffusion Gemma",
+    "Gemini 3.5 Live Translate",
+    "Nemotron 3 Ultra",
+    "Oasis 3",
+    "NVIDIA",
+    "knowledge graph"
    ],
    "url": "https://www.instagram.com/p/DZkbqcGxvQN/",
    "author": "drcintas",
    "author_url": "https://www.instagram.com/drcintas/",
    "date": "2026-06-14",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Claude Cowork Prompts and Guide Giveaway",
-   "synopsis": "This French video offers a set of prompts plus a guide, sent by DM to anyone commenting \"Cowork\". The keyword strongly suggests the content targets Anthropic's Claude Cowork product. The caption itself contains no other detail, so the substance is inferred from that single trigger word.",
+   "title": "Setting up Claude Cowork with global instructions and a self-improving profile",
+   "synopsis": "The walkthrough goes into Claude Cowork settings, opens Global Instructions, and pastes in a first prompt provided at the end of the video, adjusting placeholders before saving. You then create a new file, drop it into Cowork, authorise it, paste a second prompt, and answer the questions Claude asks. Once complete, Cowork holds full context on you and your business, has memory and your rules, and improves itself over time — after which you add the connectors and skills you need under Customize.",
    "keywords": [
     "Claude Cowork",
-    "Anthropic",
-    "prompt guide"
+    "global instructions",
+    "memory",
+    "connectors",
+    "skills"
    ],
    "url": "https://www.instagram.com/p/DZVUWUmJX-E/",
    "author": "jules_api",
    "author_url": "https://www.instagram.com/jules_api/",
    "date": "2026-06-08",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Follow-Bait: Implement AI in Your Business",
-   "synopsis": "The French caption is purely a follow prompt: follow @jb.roy_ to implement AI in your business. No tool, model, or method is named anywhere in the metadata. The video likely showcases some business AI use case, but its substance cannot be determined from the caption.",
+   "title": "Claude Certified Architect, the free certification Deloitte pays for",
+   "synopsis": "The creator flags Claude's free AI certification, Claude Certified Architect, which he says Deloitte is paying for thousands of employees to obtain — positioning it as an AWS-style certification for AI rather than a watch-a-video-get-a-badge exercise. It is a two-hour, 60-question proctored exam with webcam required, and it teaches building agents and setting Claude up inside a deployment pipeline, which he rates as especially useful for developers moving into AI engineering. The four steps are joining the Claude Partner Network free, working through the preparation modules, sitting the mock exam, and then booking the official exam.",
    "keywords": [
-    "business AI",
-    "AI adoption",
-    "promo"
+    "Claude Certified Architect",
+    "certification",
+    "Anthropic",
+    "AI engineering",
+    "Deloitte"
    ],
    "url": "https://www.instagram.com/p/DZVLkP_OIGM/",
    "author": "jb.roy_",
    "author_url": "https://www.instagram.com/jb.roy_/",
    "date": "2026-06-08",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Models and apps",
@@ -3710,52 +3785,55 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Weekly AI and Automation News Roundup",
-   "synopsis": "The caption says only \"Hot news this week\" with AI, automation, and agentic-AI hashtags. The video is a news roundup from an engineering-oriented account, but no specific stories or products are named. Its actual contents cannot be determined from the metadata.",
+   "title": "Microsoft pulls Claude Code from 100,000 engineers as AI bills spiral",
+   "synopsis": "The roundup reports Microsoft telling around a hundred thousand of its own engineers to stop using Claude Code because the bill became too expensive even for a company with effectively infinite resources, while Uber's CTO circulated a memo saying they burned their entire 2026 AI budget in four months. US AI software prices are climbing 20 to 35 percent, and GitHub Copilot is ending flat-rate pricing so that from 1 June users pay per token instead of a fixed fee. The creator's framing is that unlike the industrial revolution — where you buy the machine once and each unit off the line costs less than the last — you never own the model, you only rent it, and every prompt is charged again.",
    "keywords": [
-    "agentic AI",
-    "automation",
-    "AI news roundup"
+    "Microsoft",
+    "Claude Code",
+    "GitHub Copilot",
+    "AI pricing",
+    "token economics"
    ],
    "url": "https://www.instagram.com/p/DYpjaKhiBMb/",
    "author": "cfddose",
    "author_url": "https://www.instagram.com/cfddose/",
    "date": "2026-05-22",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Unspecified AI Demo Called 'A Miracle'",
-   "synopsis": "The entire caption is the French phrase \"Un miracle\", giving no information about the content. The video presumably demonstrates an AI tool or result impressive enough to earn that label. No product, model, or topic can be determined from the metadata alone.",
+   "title": "An interview clip on shyness and being sent abroad at thirteen",
+   "synopsis": "This saved item is an excerpt from a French interview rather than AI or technology content, in which the guest is asked when his shyness changed and points to arriving in the United States. He describes it as a miracle that at thirteen he had the presence of mind to see the move as necessary and positive, going from an extremely privileged background to a shabby room in rural Pennsylvania with a roommate whose father was a taxi driver and whose mother was a hairdresser in New Jersey. He recounts collapsing and even fainting, and says it did him the greatest good in the world.",
    "keywords": [
-    "AI demo",
-    "viral clip",
-    "unspecified tool"
+    "interview",
+    "personal development",
+    "non-technical"
    ],
    "url": "https://www.instagram.com/p/DYkSrersw_q/",
    "author": "leaissert",
    "author_url": "https://www.instagram.com/leaissert/",
    "date": "2026-05-20",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Free Chinese AI turns photo plus voice into lifelike video",
-   "synopsis": "The post promotes a free Chinese AI tool that generates ultra-realistic talking videos from a single uploaded photo and a voice recording. It also supports changing outfits and scenes, positioning it as a digital-human or AI-avatar generator. The tool is never named in the caption and the link is gated behind commenting FREE.",
+   "title": "One photo plus a few seconds of voice becomes a lifelike talking video",
+   "synopsis": "This open-source and completely free Chinese tool generates ultra-realistic video with very high facial quality from a single uploaded photo and a few seconds of recorded voice. The output shows the person speaking naturally with lip sync that matches precisely, believable facial expressions, and a cinematic look. You can then edit the whole scene by typing a prompt — asking to put them in a suit on a yacht rebuilds the scene while preserving the same face and identity.",
    "keywords": [
-    "AI avatar",
-    "digital human",
-    "talking-head video",
-    "Chinese AI tools"
+    "talking head",
+    "lip sync",
+    "open source",
+    "video generation",
+    "identity preservation"
    ],
    "url": "https://www.instagram.com/p/DYcD8vVCwTG/",
    "author": "lisaworldverse",
    "author_url": "https://www.instagram.com/lisaworldverse/",
    "date": "2026-05-17",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Models and apps",
@@ -3777,19 +3855,20 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Free Jarvis-Style AI Assistant Giveaway",
-   "synopsis": "The caption is a single line asking viewers to comment \"Jarvis\" to get something free. Judging by the account name proj.ectjarvis, the offer is a Jarvis-style personal AI assistant project or setup guide. No product details are given, so this is inferred from the author's branding.",
+   "title": "A free Jarvis assistant that can rewrite its own source code on request",
+   "synopsis": "The creator is building a real-life Jarvis and giving it away free, with the assistant itself co-narrating the video. The point most users have missed is that Jarvis has access to its own codebase through the file system and terminal, so you can simply ask it to add a feature, change the layout, or alter its personality. It then reads its own source, modifies, tests, deploys the change and restarts with the new capability — described as a developer on staff who never sleeps and who is also the product.",
    "keywords": [
     "Jarvis",
-    "AI assistant",
-    "voice assistant"
+    "self-modifying agent",
+    "voice assistant",
+    "open source"
    ],
    "url": "https://www.instagram.com/p/DW-C059jCqG/",
    "author": "proj.ectjarvis",
    "author_url": "https://www.instagram.com/proj.ectjarvis/",
    "date": "2026-04-10",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.pix",
@@ -4030,19 +4109,20 @@
   },
   {
    "folder": "AI.pix",
-   "title": "Free AI Image Generator Said to Rival Paid Tools",
-   "synopsis": "The creator promotes an unnamed free AI image generator that allegedly delivers high-quality visuals without any subscription. He claims the results genuinely compete with many paid tools. The actual tool link is gated behind commenting the word Image, so the product identity cannot be confirmed from the caption.",
+   "title": "A free Chinese image generator holding up against paid tools",
+   "synopsis": "The creator found a free Chinese AI image generator producing results well beyond his expectations with no subscription or paywall. You type a prompt, adjust a few settings and generate, and within seconds it returns sharp, detailed and highly realistic images. He tested it across product photography, social media creatives and marketing visuals with consistently impressive quality.",
    "keywords": [
-    "free AI image generator",
-    "AI image generation",
-    "comment-gated lead magnet"
+    "image generation",
+    "free tools",
+    "product photography",
+    "marketing visuals"
    ],
    "url": "https://www.instagram.com/p/Da-B7Sviqnx/",
    "author": "sferro.ai",
    "author_url": "https://www.instagram.com/sferro.ai/",
    "date": "2026-07-19",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.pix",
@@ -4080,19 +4160,21 @@
   },
   {
    "folder": "AI.pix",
-   "title": "Free Chinese AI Image Tool Challenges Market Leaders",
-   "synopsis": "This French-language reel announces a new free AI image tool from China positioned to compete with the best image generators on the market. The creator emphasizes that it is entirely free and simple to use. The tool is never named in the caption and access is gated behind commenting CHINE, so it cannot be identified with certainty.",
+   "title": "A free Chinese image generator competing with the market leaders",
+   "synopsis": "The creator reports China releasing a new free AI tool aimed squarely at the best image generators on the market. The process is simple: go to the site, describe the image you want, add a few parameters, and the AI produces the result within seconds. What struck him is the quality — extremely detailed, very realistic, and often indistinguishable from paid tools across portraits, advertising visuals, social content and cinematic scenes, with no usage limits.",
    "keywords": [
-    "Chinese AI model",
-    "free image generator",
-    "AI image generation"
+    "image generation",
+    "free tools",
+    "open models",
+    "portraits",
+    "advertising visuals"
    ],
    "url": "https://www.instagram.com/p/Dah4146j-Fd/",
    "author": "jeremy_ia",
    "author_url": "https://www.instagram.com/jeremy_ia/",
    "date": "2026-07-08",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.pix",
@@ -4178,20 +4260,21 @@
   },
   {
    "folder": "AI.pix",
-   "title": "Ultra-Realistic AI Image Enhancer Demo (V4)",
-   "synopsis": "This French-language reel demos what the creator calls the most powerful image enhancer ever developed, producing ultra-realistic results with perfect depth and no plastic look. He notes it also works on wide shots, illustrations, and as a creative upscaling tool. The tool is unnamed and only reachable by commenting V4, though the description matches Magnific-class creative upscalers.",
+   "title": "Enhancer: an open-source four-stage portrait upscaler that reaches native 8K",
+   "synopsis": "The creator presents Enhancer, an open-source image enhancer producing up to 8K where you can zoom indefinitely and still see pores, individual strands of hair and real skin imperfections. It works in four stages: the portrait is loaded without altering gamma, colour space or typology; the image is analysed by a Qwen-VL model that reads lighting, microtexture and natural skin behaviour; a component trained on millions of skin samples restores the image's texture frequencies; and finally the image is regenerated natively in 8K with a genuinely photographic finish. He notes it works equally well on wide shots and doubles as a creative upscaler for illustrations and drawings.",
    "keywords": [
-    "AI image enhancer",
-    "creative upscaling",
-    "photorealism",
-    "Magnific"
+    "Enhancer",
+    "Qwen-VL",
+    "8K upscaling",
+    "skin texture",
+    "open source"
    ],
    "url": "https://www.instagram.com/p/DZePVFoDT4Q/",
    "author": "jeremy_ia",
    "author_url": "https://www.instagram.com/jeremy_ia/",
    "date": "2026-06-12",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.pix",
@@ -4245,19 +4328,20 @@
   },
   {
    "folder": "AI.pix",
-   "title": "Unrestricted Free Chinese AI Image Tool Drop",
-   "synopsis": "The creator claims China released a free AI image tool that already outperforms most paid generators and carries zero content restrictions. The pitch contrasts it with subscription tools that block features behind filters and paywalls. The tool is never named in the caption and is only shared via DM after commenting image.",
+   "title": "A free unrestricted Chinese image generator",
+   "synopsis": "The creator presents a newly released free Chinese image tool he claims is more powerful than existing generators and ships with no content restrictions or filters. Usage is straightforward: go to the site, type your prompt, adjust a few settings and generate. He reports the output comes out sharper, more detailed and more realistic than most paid tools.",
    "keywords": [
-    "Chinese AI model",
-    "free image generator",
-    "uncensored AI"
+    "image generation",
+    "open models",
+    "unfiltered AI",
+    "free tools"
    ],
    "url": "https://www.instagram.com/p/DY3PhzMjxxD/",
    "author": "theaisurfer",
    "author_url": "https://www.instagram.com/theaisurfer/",
    "date": "2026-05-28",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.pix",
@@ -4278,12 +4362,12 @@
   },
   {
    "folder": "AI.pix",
-   "title": "AI Celebrity Portrait Edit Tagging Gal Gadot",
-   "synopsis": "The caption is only the phrase done with a tag of Gal Gadot, giving no explicit tool or technique. Based on the author's profile as an AI visual creator, this appears to be an AI-generated or AI-edited celebrity portrait or likeness recreation. No product, prompt, or workflow can be identified from the post text itself.",
+   "title": "An AI celebrity portrait edit tagging Gal Gadot",
+   "synopsis": "This is a silent visual post presenting an AI-generated or AI-edited celebrity portrait, tagged to Gal Gadot with a one-word caption. Transcription returned no speech at all, so no tool, model or prompt is disclosed anywhere in the post. It is saved as a visual reference rather than a technique.",
    "keywords": [
     "AI portrait",
-    "celebrity likeness",
-    "AI image editing"
+    "celebrity edit",
+    "image generation"
    ],
    "url": "https://www.instagram.com/p/DYJz1ppOjNu/",
    "author": "gianpaolorosa",
@@ -4397,20 +4481,21 @@
   },
   {
    "folder": "AI.pix",
-   "title": "Claude AI Use Cases Guide",
-   "synopsis": "The reel hypes Claude by Anthropic with the creator saying the model is on smoke today, reposting content from digitalsamaritan. A guide to the showcased Claude use cases is offered by commenting CLAUDE. The specific use cases are only visible in the video, so the caption alone confirms the subject but not the details.",
+   "title": "Claude ships Blender, Adobe and Autodesk Fusion integrations in one morning",
+   "synopsis": "Three integrations landed together: Blender, where Claude can debug your whole screen, batch-apply changes across every object, and write custom tools for you inside the application from a prompt. The second and biggest is Adobe, plugging Claude into more than fifty tools across Photoshop, Premiere and Express so you can go from a prompt to an editable draft inside any Adobe product. The third is Autodesk Fusion, letting you create and modify 3D models just by talking to Claude, which the creator flags as ideal for engineering students.",
    "keywords": [
     "Claude",
-    "Anthropic",
-    "AI productivity",
-    "use cases"
+    "Blender",
+    "Adobe",
+    "Autodesk Fusion",
+    "integrations"
    ],
    "url": "https://www.instagram.com/p/DXsbBZCDS0k/",
    "author": "baroobi.inc",
    "author_url": "https://www.instagram.com/baroobi.inc/",
    "date": "2026-04-30",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.pix",
@@ -4431,19 +4516,21 @@
   },
   {
    "folder": "AI.pix",
-   "title": "Three free unlimited AI tools for creators, unnamed",
-   "synopsis": "The caption promises three free unlimited AI tools that creators are supposedly hiding, without naming any of them. All substance is in the video itself or behind engagement mechanics. From the author's usual content this is a roundup of free AI generation tools, but nothing specific can be confirmed from the text.",
+   "title": "Three free unlimited creator tools: Meta AI, Perchance, and a motion-transfer site",
+   "synopsis": "The creator claims he was banned from three creator groups for sharing these free, unlimited tools and shares them anyway. Meta AI produces cinematic video from a single sentence and returns four results instantly, while Perchance AI generates 32 images from one click rather than three or ten. The third uploads your video and transfers your motion onto any celebrity or character, mapping your movements to their face, and he offers a further list of 47 lesser-known tools.",
    "keywords": [
+    "Meta AI",
+    "Perchance",
+    "motion transfer",
     "free AI tools",
-    "content creation",
-    "AI tool roundup"
+    "content creation"
    ],
    "url": "https://www.instagram.com/p/DXg73BeiL5C/",
    "author": "marktalksai",
    "author_url": "https://www.instagram.com/marktalksai/",
    "date": "2026-04-24",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.pix",
@@ -4465,19 +4552,21 @@
   },
   {
    "folder": "AI.pix",
-   "title": "Rebuilding the Idea Instead of Fixing the AI Image",
-   "synopsis": "The creator reflects that when working with AI, an image can only withstand so much iterative fixing. Instead of endlessly patching a flawed generation, he restarts and rebuilds the underlying idea. It is a workflow philosophy post about AI art iteration rather than a tool or prompt share.",
+   "title": "Rebuilding the prompt instead of patching a degraded AI image",
+   "synopsis": "The creator hit a wall where, after three to five successive edits, image quality collapsed the way a JPEG degrades when repeatedly resaved in Photoshop, and Topaz could not repair it. Rather than keep fixing, he reverse-prompted the finished concept back into a clean prompt carrying his exact colours and lighting. He then turned that into a sketch and transformed the drawing into a high-resolution image using the reverse prompt with details attached, arriving at a repeatable way to build concepts without losing quality.",
    "keywords": [
-    "AI art workflow",
-    "iterative generation",
-    "creative process"
+    "reverse prompting",
+    "image quality",
+    "Topaz",
+    "AI workflow",
+    "concept art"
    ],
    "url": "https://www.instagram.com/p/DXF4pfZCNqF/",
    "author": "zhuchkin",
    "author_url": "https://www.instagram.com/zhuchkin/",
    "date": "2026-04-14",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.pix",
@@ -4532,36 +4621,38 @@
   },
   {
    "folder": "AI.pix",
-   "title": "New Google Tool Turns Product Photos into Ad Campaigns",
-   "synopsis": "French tech outlet Numerama covers a new Google tool that transforms a plain product photo into a polished advertising campaign. The caption confirms it is a Google product aimed at marketing visuals but does not name the specific tool. It likely refers to Google's AI-powered ad-creative tooling in the Pomelli or Product Studio family.",
+   "title": "Google Labs' Photoshoot turns a plain product photo into studio campaign visuals",
+   "synopsis": "Numerama explains Google Labs' newly announced Photoshoot, which takes a single ordinary product photo and generates a range of visuals comparable to professional studio work. You drop the image in, pick one of a broad selection of templates, and in one click it blends photo and template — subtly improving the object itself, for instance lighting a cream jar better without altering its design — and it also handles simpler edits such as swapping only the background wall. Described as 'a sort of Nano Banana but built for business', it is integrated into Pomeli, Google's brand-identity platform, as a cheaper and simpler alternative to a professional studio.",
    "keywords": [
-    "Google AI",
+    "Google Photoshoot",
+    "Google Labs",
+    "Pomeli",
     "product photography",
-    "ad creative",
-    "marketing automation"
+    "Nano Banana"
    ],
    "url": "https://www.instagram.com/p/DU_M5FViRlT/",
    "author": "numerama",
    "author_url": "https://www.instagram.com/numerama/",
    "date": "2026-02-20",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.pix",
-   "title": "Affiliate Coupon Promo, Likely AI T-Shirt Design Tool",
-   "synopsis": "The caption contains only a coupon code and an affiliate disclosure, with no description of the promoted product. Given the author's t-shirt-focused handle, it most plausibly promotes an AI-assisted t-shirt or print-on-demand design tool. Nothing about the actual technology can be verified from the caption.",
+   "title": "ResFixer compared against Topaz Gigapixel generative upscale",
+   "synopsis": "Responding to a viewer asking why he does not simply use generative upscaling, the creator runs the same degraded source image through Topaz Gigapixel's upscale and then through ResFixer. He shows the original, the generative upscale, and the ResFixer output side by side. His conclusion from the comparison is that ResFixer is the better choice, and the caption discloses an affiliate link and coupon.",
    "keywords": [
-    "AI design tool",
-    "print-on-demand",
-    "affiliate promo"
+    "ResFixer",
+    "Topaz Gigapixel",
+    "image upscaling",
+    "affiliate"
    ],
    "url": "https://www.instagram.com/p/DUyXcfIDsUR/",
    "author": "that_tshirt_dude",
    "author_url": "https://www.instagram.com/that_tshirt_dude/",
    "date": "2026-02-15",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.pix",
@@ -4915,37 +5006,38 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Unnamed dashboard for unlimited free AI image and video",
-   "synopsis": "The post pitches free unlimited AI image and video generation with watermark-free output through a single dashboard aggregating premium models. The actual product is never named in the caption and is only revealed via DM after commenting AI. Based on the author's AI-tools promotion pattern, this is likely a multi-model aggregator platform.",
+   "title": "A single dashboard offering unlimited free image and video generation",
+   "synopsis": "Pitched explicitly as a reason to stop paying for Higgsfield, this site provides unlimited AI image and video generation at no cost. You open it, paste a prompt, and it instantly produces high-quality images and videos ready to download with no watermarks and no generation limits. The creator's main selling point is direct access to every premium AI model from one dashboard, with the ability to tweak details and switch models freely.",
    "keywords": [
-    "multi-model AI platform",
-    "AI video generation",
-    "AI image generation",
-    "watermark-free output"
+    "Higgsfield",
+    "free AI tools",
+    "image generation",
+    "video generation",
+    "model switching"
    ],
    "url": "https://www.instagram.com/p/DbVRwGcEf6b/",
    "author": "lenabrooks.ai",
    "author_url": "https://www.instagram.com/lenabrooks.ai/",
    "date": "2026-07-28",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Video",
-   "title": "Free local AI video generator with built-in sound FX",
-   "synopsis": "The creator promotes a free AI video generator that runs locally on the user's own computer with no subscriptions or generation limits. It creates cinematic videos from text or images and adds sound effects, a feature set matching open-source audio-video models like LTX-2.3. The tool's name is withheld and only shared via DM after commenting VIDEO.",
+   "title": "A free local AI video generator with sound effects built in",
+   "synopsis": "Responding to repeated requests for a free AI video generator, the creator settled on this open-source one that runs offline on your own machine with no limits and no cost. You feed it a single image or one line of text and it returns a smooth cinematic clip with sound effects included. From there you can add visual effects, move the camera, switch the style and reshape the scene as you like.",
    "keywords": [
-    "local AI video",
-    "open-source video model",
-    "LTX-2.3",
-    "text-to-video with audio"
+    "open-source video",
+    "offline AI",
+    "sound effects",
+    "text-to-video"
    ],
    "url": "https://www.instagram.com/p/DbP6muXD_gl/",
    "author": "sferro.ai",
    "author_url": "https://www.instagram.com/sferro.ai/",
    "date": "2026-07-26",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Video",
@@ -5191,21 +5283,21 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Automated infinite Gmail accounts pitched as AI hack",
-   "synopsis": "This French clickbait post hypes automatic unlimited Gmail account creation as a business cheat code. The actual method is never explained in the caption, which mainly funnels viewers to a Skool community about monetizing AI, with ChatGPT and Claude hashtags. Treat the claim as promotional bait rather than a documented workflow.",
+   "title": "An open-source agent that mass-creates Google accounts, and the grey market for them",
+   "synopsis": "The creator acknowledges up front that what he is describing looks — and may partly be — illegal: a free open-source GitHub repo that deploys, in a single command, a system where a dedicated AI agent creates Google accounts en masse. The agent is built to pass as human with small delays and, he claims, bypasses all verification including phone checks, while a control dashboard stores and records every account and a retry process handles failures. He frames it as a business in itself given that people already pay for such accounts, and gates the link behind his paid community.",
    "keywords": [
-    "Gmail automation",
-    "Skool",
-    "AI monetization",
-    "ChatGPT",
-    "Claude"
+    "account creation abuse",
+    "automation",
+    "Google accounts",
+    "grey market",
+    "AI agents"
    ],
    "url": "https://www.instagram.com/p/DaDizS8NA0E/",
    "author": "axel.devlopia",
    "author_url": "https://www.instagram.com/axel.devlopia/",
    "date": "2026-06-26",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Video",
@@ -5245,20 +5337,21 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Creator cancels Higgsfield in favor of a skill workflow",
-   "synopsis": "The creator announces cancelling their Higgsfield account and invites followers to comment 'skill' to learn how to do the same. The caption gives no detail on the replacement, but the wording and the author's automation focus suggest a Claude skill-based alternative to the paid platform. The substance is entirely gated behind the DM funnel.",
+   "title": "Cancelling a $99 Higgsfield plan for a free Claude skill",
+   "synopsis": "The creator cancelled his Higgsfield account and built a Claude skill instead, which he says does 90% of what Higgsfield promises — generating images, generating videos, and even upscaling video. Rather than paying around $99 a month he now pays pennies per generation, all from inside Claude. The skill also rewrites his rough prompt into a stronger one so results come out dialled in every time.",
    "keywords": [
     "Higgsfield",
-    "Claude skill",
-    "AI video tools",
-    "cost cutting"
+    "Claude skills",
+    "cost saving",
+    "image generation",
+    "video upscaling"
    ],
    "url": "https://www.instagram.com/p/DZapo_WjRUX/",
    "author": "systemsbyvic",
    "author_url": "https://www.instagram.com/systemsbyvic/",
    "date": "2026-06-10",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Video",
@@ -5314,12 +5407,14 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Paid 2,000 euros for an AI animation without training",
-   "synopsis": "A French creator explains he was paid over 2,000 euros for a mini animated film despite never having learned animation, thanks to AI tools. He argues the hard part is no longer creating, since generation is accessible to everyone, but keeping visual coherence from start to finish. A complete guide is offered to viewers who comment 'ANIMATION'.",
+   "title": "The omni-reference trick behind a €2,094 AI animated short",
+   "synopsis": "A client paid the creator €2,094 for an animated film despite his never having learned animation, so he generated all of it with AI — and his key point is that generating scene by scene and hoping for coherence simply does not work. You first lock the style, here borrowed from Seven Deadly Sins and Ranking of Kings, and define characters and sets before the very first generation. The technique nobody uses is omni-reference: you generate a scene, take the last frame of that generation, and make it the reference for the next scene so characters, objects and set all continue from where the previous one stopped; he recommends Seedance 2.0 for the animation and Premiere Pro for the edit.",
    "keywords": [
+    "omni-reference",
+    "Seedance 2.0",
     "AI animation",
-    "generative video",
-    "creative freelancing"
+    "style locking",
+    "Premiere Pro"
    ],
    "url": "https://www.instagram.com/p/DYxC5a0NyVH/",
    "author": "slowdoown",
@@ -5330,19 +5425,20 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Unlimited free AI videos pitch with no tool named",
-   "synopsis": "The caption is a bare clickbait hook promising unlimited free AI video creation. No tool, model, or workflow is identified anywhere in the text. Given the author's AI-tools promotion account, the video likely demos one of the free video generators circulating at the time, but nothing can be confirmed from the caption.",
+   "title": "An open-source unlimited video generator with sound effects",
+   "synopsis": "The creator's complaint is that most AI video tools hand out five free credits and then ask for money, whereas this one is fully open source, unlimited and free. It turns any image or text prompt into a smooth cinematic video with sound effects included. You can add effects, control camera movement and change video styles, and because it is open source you can run it offline as many times as you like.",
    "keywords": [
-    "free AI video",
-    "AI tools",
-    "content creation"
+    "open-source video",
+    "text-to-video",
+    "sound effects",
+    "offline AI"
    ],
    "url": "https://www.instagram.com/p/DYukAxtIJUA/",
    "author": "marktalksai",
    "author_url": "https://www.instagram.com/marktalksai/",
    "date": "2026-05-24",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Video",
@@ -5417,20 +5513,21 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Free Chinese AI turns photo plus voice into lifelike video",
-   "synopsis": "The post promotes a free Chinese AI tool that generates ultra-realistic talking videos from a single uploaded photo and a voice recording. It also supports changing outfits and scenes, positioning it as a digital-human or AI-avatar generator. The tool is never named in the caption and the link is gated behind commenting FREE.",
+   "title": "One photo plus a few seconds of voice becomes a lifelike talking video",
+   "synopsis": "This open-source and completely free Chinese tool generates ultra-realistic video with very high facial quality from a single uploaded photo and a few seconds of recorded voice. The output shows the person speaking naturally with lip sync that matches precisely, believable facial expressions, and a cinematic look. You can then edit the whole scene by typing a prompt — asking to put them in a suit on a yacht rebuilds the scene while preserving the same face and identity.",
    "keywords": [
-    "AI avatar",
-    "digital human",
-    "talking-head video",
-    "Chinese AI tools"
+    "talking head",
+    "lip sync",
+    "open source",
+    "video generation",
+    "identity preservation"
    ],
    "url": "https://www.instagram.com/p/DYcD8vVCwTG/",
    "author": "lisaworldverse",
    "author_url": "https://www.instagram.com/lisaworldverse/",
    "date": "2026-05-17",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Video",
@@ -5451,20 +5548,20 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Open-source model generates 4-minute AI videos offline",
-   "synopsis": "The post promotes the first AI video model said to generate full 4-minute videos with no 8-second limit, no credits, and no cloud dependency. It is open-source and runs offline, characteristics matching long-form open models like SkyReels-V2. The model's name is withheld from the caption and only shared via DM after commenting '4'.",
+   "title": "Four-minute open-source AI video, offline and unlimited",
+   "synopsis": "Working from a text prompt or an image, the model produces a four-minute video with stable motion, real camera movement, realistic physics, consistent characters, smooth transitions and genuine cinematic shots instead of jittery slideshows. The creator's contrast is that most AI video models stop at eight seconds while this runs to four minutes with full control. Because it is open source it runs offline on your own machine without credits, cloud, or usage caps.",
    "keywords": [
-    "open-source video model",
-    "SkyReels-V2",
-    "long-form AI video",
-    "offline generation"
+    "open-source video",
+    "long-form generation",
+    "offline AI",
+    "text-to-video"
    ],
    "url": "https://www.instagram.com/p/DYM00K_jvBs/",
    "author": "thechriscordero",
    "author_url": "https://www.instagram.com/thechriscordero/",
    "date": "2026-05-11",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Video",
@@ -5486,53 +5583,56 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Three free unlimited AI tools for creators, unnamed",
-   "synopsis": "The caption promises three free unlimited AI tools that creators are supposedly hiding, without naming any of them. All substance is in the video itself or behind engagement mechanics. From the author's usual content this is a roundup of free AI generation tools, but nothing specific can be confirmed from the text.",
+   "title": "Three free unlimited creator tools: Meta AI, Perchance, and a motion-transfer site",
+   "synopsis": "The creator claims he was banned from three creator groups for sharing these free, unlimited tools and shares them anyway. Meta AI produces cinematic video from a single sentence and returns four results instantly, while Perchance AI generates 32 images from one click rather than three or ten. The third uploads your video and transfers your motion onto any celebrity or character, mapping your movements to their face, and he offers a further list of 47 lesser-known tools.",
    "keywords": [
+    "Meta AI",
+    "Perchance",
+    "motion transfer",
     "free AI tools",
-    "content creation",
-    "AI tool roundup"
+    "content creation"
    ],
    "url": "https://www.instagram.com/p/DXg73BeiL5C/",
    "author": "marktalksai",
    "author_url": "https://www.instagram.com/marktalksai/",
    "date": "2026-04-24",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Video",
-   "title": "One AI tool for script, visuals, voice, and editing",
-   "synopsis": "The post teases an AI tool that replaces the entire video production workflow: scriptwriting, visuals, voiceover, and editing in one place. The product is never named in the caption and is revealed only via DM after commenting STUDIO. It fits the wave of all-in-one AI video studios such as InVideo or Google Vids, but the specific tool is unverified.",
+   "title": "Open Montage: a full video production pipeline built with Claude Code",
+   "synopsis": "Open Montage is a free video production setup someone built using Claude Code, where you describe what you want and it handles scripting, visuals, voice and editing. Before generating anything it pulls real information from the web, so the output is grounded rather than purely invented. It produces explainers, ads and trailers in one place and runs locally with little setup.",
    "keywords": [
-    "all-in-one AI studio",
-    "AI video production",
-    "AI voiceover",
-    "AI editing"
+    "Open Montage",
+    "Claude Code",
+    "video production",
+    "local AI",
+    "grounded generation"
    ],
    "url": "https://www.instagram.com/p/DXaO-oHkz3h/",
    "author": "heyalav",
    "author_url": "https://www.instagram.com/heyalav/",
    "date": "2026-04-21",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Video",
-   "title": "Free 4-minute AI video model runs offline, unnamed",
-   "synopsis": "The creator promotes the first AI video model that generates 4-minute videos for free, with stable motion, real camera movement, realistic physics, and consistent characters. Unlike models capped at 8 seconds, this one runs offline on your own system without limits. The model's identity is gated behind commenting '4', though the specs match long-form open models like SkyReels-V2.",
+   "title": "An open-source video model generating four-minute clips offline",
+   "synopsis": "Starting from a text prompt or an image, this model generates a four-minute video with stable motion, real camera movement, realistic physics, consistent characters, smooth transitions, and genuine cinematic shots rather than jittery slideshows. The creator's headline contrast is that most AI video models cap at eight seconds while this one runs to four minutes with full control. Being open source, it runs offline on your own system an unlimited number of times with no credits and no cloud.",
    "keywords": [
-    "open-source video model",
-    "SkyReels-V2",
-    "long-form AI video",
-    "offline generation"
+    "open-source video",
+    "long-form generation",
+    "offline AI",
+    "text-to-video"
    ],
    "url": "https://www.instagram.com/p/DXZ-bPDklF2/",
    "author": "thechriscordero",
    "author_url": "https://www.instagram.com/thechriscordero/",
    "date": "2026-04-21",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Video",
@@ -5553,20 +5653,21 @@
   },
   {
    "folder": "AI.Video",
-   "title": "AI Avatars for Selling on TikTok Shop",
-   "synopsis": "This French-language reel pitches creating AI avatars and publishing them to TikTok Shop as a business opportunity. A free guide is delivered by DM after subscribing and commenting IA. No specific avatar tool or platform is named, making this a monetization funnel rather than a technical tutorial.",
+   "title": "A five-tool chain for AI avatars selling on TikTok Shop",
+   "synopsis": "The workflow is shown as a rapid chain: take a prompt to ChatGPT, pick a reference image on Pinterest, add your image and generate; move to Nano Banana Pro, paste a second prompt and download your avatar. That avatar image plus an audio track goes into an agent that generates the talking video — demonstrated here as a perfume ad urging viewers to tap the orange cart. The finished clip is uploaded to TikTok to chase views and TikTok Shop commissions, with the full guide offered in DM.",
    "keywords": [
-    "AI avatars",
+    "Nano Banana Pro",
+    "ChatGPT",
+    "AI avatar",
     "TikTok Shop",
-    "UGC automation",
-    "creator monetization"
+    "affiliate marketing"
    ],
    "url": "https://www.instagram.com/p/DVb1dLmCLp7/",
    "author": "seraphin.mp",
    "author_url": "https://www.instagram.com/seraphin.mp/",
    "date": "2026-03-03",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.WEB",
@@ -5623,19 +5724,21 @@
   },
   {
    "folder": "AI.WEB",
-   "title": "Unnamed AI tool for website design",
-   "synopsis": "The French caption only says 'this tool is crazy for website design', without naming it. The author is a French vibe-coding creator, so the reel likely demos an AI-powered web design tool or workflow. The specific product can only be identified from the video itself.",
+   "title": "A web-design tool that hands you the prompt, not just the page",
+   "synopsis": "The creator presents a new web-coding tool that has taken the top spot for website design, generating clean professional layouts with modern gradients and fluid animations, entirely free. What impressed him is that it does not stop at the finished result — it also gives you the exact prompt used to create it. You take that prompt straight into Cursor or a similar builder and can modify the design instantly from there.",
    "keywords": [
     "AI web design",
-    "website builder",
-    "vibe coding"
+    "prompt sharing",
+    "Cursor",
+    "layouts",
+    "free tools"
    ],
    "url": "https://www.instagram.com/p/DWeXh6GDGRW/",
    "author": "levibecodeur",
    "author_url": "https://www.instagram.com/levibecodeur/",
    "date": "2026-03-29",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.WEB",
@@ -5656,52 +5759,55 @@
   },
   {
    "folder": "AI.WEB",
-   "title": "One-prompt immersive 3D scroll websites",
-   "synopsis": "The post demos creating immersive 3D scroll-based websites from a single prompt, with real depth, motion, and interactivity. The tool used is not named in the caption and is gated behind a 'Web' comment. It targets the AI web design audience looking for premium scroll-animation sites without coding.",
+   "title": "An AI site builder generating immersive 3D scroll experiences from one prompt",
+   "synopsis": "The creator positions this new AI website builder against Lovable, arguing that other vibe-coding tools produce clean but flat landing pages. This one instead generates a fully immersive 3D scroll-based site with real depth, real motion, and interactive elements that respond as you scroll. You describe the site in a single prompt and it builds the interactive 3D experience automatically.",
    "keywords": [
-    "3D websites",
     "AI web design",
-    "scroll animation",
-    "one-prompt site builder"
+    "3D scroll",
+    "Lovable",
+    "vibe coding",
+    "web builder"
    ],
    "url": "https://www.instagram.com/p/DVvK9Bfj71s/",
    "author": "sebintel",
    "author_url": "https://www.instagram.com/sebintel/",
    "date": "2026-03-11",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "github Repo's",
-   "title": "NotebookLM resource offered via comment bait",
-   "synopsis": "The caption only asks viewers to comment 'Notebook' to receive an unspecified NotebookLM resource. Given the author's focus on NotebookLM tips, it is likely a template, workflow, or tutorial for the Google tool. The specific content cannot be determined from the caption.",
+   "title": "A GitHub repo of design prompts that transform NotebookLM slide decks",
+   "synopsis": "The creator argues NotebookLM's default slide output is merely fine, and that getting genuinely striking decks requires strong design prompts. He points to a GitHub repository holding dozens of design prompts that completely change the look of NotebookLM slides. The link is offered to commenters.",
    "keywords": [
     "NotebookLM",
-    "Google Gemini",
-    "AI productivity tips"
+    "design prompts",
+    "slide decks",
+    "GitHub"
    ],
    "url": "https://www.instagram.com/p/Da1f5hKuuTN/",
    "author": "devinkarpes",
    "author_url": "https://www.instagram.com/devinkarpes/",
    "date": "2026-07-16",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "github Repo's",
-   "title": "Humor reel exposing internet scammers",
-   "synopsis": "This French humor reel is titled 'the worst crooks of the Internet' and carries exposé and comedy hashtags. It appears to call out online scammers in a comedic tone rather than present any tool or technology. Its placement in the github Repo's folder is unexplained by the caption, so any tech angle is unknown.",
+   "title": "A comedy 'worst of the internet' PowerPoint about piracy repos on GitHub",
+   "synopsis": "This is a French humour reel presenting a mock PowerPoint of the internet's worst offenders, selected for having contributed to large companies losing money. The joke is that typing each handle plus 'GitHub' surfaces their projects: one accused of developing a tool for free YouTube Premium on TV, another involved in a project granting the Adobe suite for free, and a third behind free access to the Office suite. The creator's running gag is mock outrage that they have all pinned these projects on their profiles.",
    "keywords": [
-    "internet scams",
-    "online fraud",
-    "French humor"
+    "GitHub",
+    "software piracy",
+    "humour",
+    "open source"
    ],
    "url": "https://www.instagram.com/p/DaXa56PNV34/",
    "author": "madameb0nplan",
    "author_url": "https://www.instagram.com/madameb0nplan/",
    "date": "2026-07-04",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA. LEGAL",
@@ -5722,12 +5828,14 @@
   },
   {
    "folder": "IA. LEGAL",
-   "title": "Paid 2,000 euros for an AI animation without training",
-   "synopsis": "A French creator explains he was paid over 2,000 euros for a mini animated film despite never having learned animation, thanks to AI tools. He argues the hard part is no longer creating, since generation is accessible to everyone, but keeping visual coherence from start to finish. A complete guide is offered to viewers who comment 'ANIMATION'.",
+   "title": "The omni-reference trick behind a €2,094 AI animated short",
+   "synopsis": "A client paid the creator €2,094 for an animated film despite his never having learned animation, so he generated all of it with AI — and his key point is that generating scene by scene and hoping for coherence simply does not work. You first lock the style, here borrowed from Seven Deadly Sins and Ranking of Kings, and define characters and sets before the very first generation. The technique nobody uses is omni-reference: you generate a scene, take the last frame of that generation, and make it the reference for the next scene so characters, objects and set all continue from where the previous one stopped; he recommends Seedance 2.0 for the animation and Premiere Pro for the edit.",
    "keywords": [
+    "omni-reference",
+    "Seedance 2.0",
     "AI animation",
-    "generative video",
-    "creative freelancing"
+    "style locking",
+    "Premiere Pro"
    ],
    "url": "https://www.instagram.com/p/DYxC5a0NyVH/",
    "author": "slowdoown",
@@ -5792,19 +5900,20 @@
   },
   {
    "folder": "IA.Avatar",
-   "title": "Unrestricted Free Chinese AI Image Tool Drop",
-   "synopsis": "The creator claims China released a free AI image tool that already outperforms most paid generators and carries zero content restrictions. The pitch contrasts it with subscription tools that block features behind filters and paywalls. The tool is never named in the caption and is only shared via DM after commenting image.",
+   "title": "A free unrestricted Chinese image generator",
+   "synopsis": "The creator presents a newly released free Chinese image tool he claims is more powerful than existing generators and ships with no content restrictions or filters. Usage is straightforward: go to the site, type your prompt, adjust a few settings and generate. He reports the output comes out sharper, more detailed and more realistic than most paid tools.",
    "keywords": [
-    "Chinese AI model",
-    "free image generator",
-    "uncensored AI"
+    "image generation",
+    "open models",
+    "unfiltered AI",
+    "free tools"
    ],
    "url": "https://www.instagram.com/p/DY3PhzMjxxD/",
    "author": "theaisurfer",
    "author_url": "https://www.instagram.com/theaisurfer/",
    "date": "2026-05-28",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA.Avatar",
@@ -5842,19 +5951,21 @@
   },
   {
    "folder": "IA.Avatar",
-   "title": "How to Make AI Avatars Tutorial",
-   "synopsis": "The caption is simply how to make AI avatars with generic hashtags, so the actual method lives only in the video. Given the author's AI-content focus, it is presumably a walkthrough of a consumer avatar generation tool or prompt workflow. No product or technique can be identified from the caption alone.",
+   "title": "Pinterest to JSON prompt to Flow: an AI avatar pipeline",
+   "synopsis": "The creator finds an avatar style he likes on Pinterest, copies the image, and asks ChatGPT to break it down in extreme detail into a JSON prompt. He copies that generated JSON prompt into a new chat, chooses image creation at 9:16, pastes it in, and gets his initial AI avatar image. That image is then uploaded into flow.com, where he sets up the image at 9:16 to carry the avatar into video generation.",
    "keywords": [
-    "AI avatars",
-    "avatar generation",
-    "tutorial"
+    "JSON prompt",
+    "ChatGPT",
+    "Google Flow",
+    "AI avatar",
+    "Pinterest"
    ],
    "url": "https://www.instagram.com/p/DYemPprs4Hd/",
    "author": "dawoodzahidai",
    "author_url": "https://www.instagram.com/dawoodzahidai/",
    "date": "2026-05-18",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA.Avatar",
@@ -5911,35 +6022,38 @@
   },
   {
    "folder": "IA.Avatar",
-   "title": "Scaling an Agency by Selling AI Infrastructure",
-   "synopsis": "The post promotes following the author to learn how to launch or scale an agency to thirty thousand per month by selling AI infrastructure to older, non-technical business owners. It is a business-model pitch rather than a tool or technique demonstration. No specific AI technology is named in the caption.",
+   "title": "A free local ElevenLabs replacement with context-aware synthesis",
+   "synopsis": "The creator declares the end of ElevenLabs, presenting a local, free and unlimited replacement he says gives nothing away to the original. It supports over 30 languages, clones your own voice, delivers high audio quality, and — the feature he stresses most — takes context into account during synthesis. It installs simply and connects to any of your solutions, which he notes suits anyone deploying voice-driven builds through Claude Code.",
    "keywords": [
-    "AI agency",
-    "AI infrastructure",
-    "business scaling"
+    "ElevenLabs",
+    "local TTS",
+    "voice cloning",
+    "Claude Code",
+    "open source"
    ],
    "url": "https://www.instagram.com/p/DXNC1ASjqjn/",
    "author": "its.abdechan",
    "author_url": "https://www.instagram.com/its.abdechan/",
    "date": "2026-04-16",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA.Avatar",
-   "title": "AI Tool Claimed to Create Entire YouTube Channels",
-   "synopsis": "The French caption states only that a new AI can create YouTube channels. This most likely refers to a faceless-channel automation tool that generates video content, avatars, and publishing at channel scale. The tool is unnamed and no workflow details appear in the caption, so the claim cannot be verified from the text.",
+   "title": "An AI that builds entire YouTube channels, including hour-long documentaries",
+   "synopsis": "The creator presents what he calls the first AI able to turn written information into documentaries running over an hour. You give it a video idea and it researches the subject, writes the full script, and scans the internet for real footage matching the story, automatically generating animations to fill any gaps where suitable clips do not exist. It then layers in voiceover, sound effects, transitions and music to assemble the finished video.",
    "keywords": [
+    "AI documentary",
     "YouTube automation",
-    "faceless channels",
-    "AI video generation"
+    "script generation",
+    "faceless channels"
    ],
    "url": "https://www.instagram.com/p/DWwfucWCKK9/",
    "author": "ugotatas.ia",
    "author_url": "https://www.instagram.com/ugotatas.ia/",
    "date": "2026-04-05",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA.Avatar",
@@ -5977,20 +6091,21 @@
   },
   {
    "folder": "IA.Avatar",
-   "title": "AI Avatars for Selling on TikTok Shop",
-   "synopsis": "This French-language reel pitches creating AI avatars and publishing them to TikTok Shop as a business opportunity. A free guide is delivered by DM after subscribing and commenting IA. No specific avatar tool or platform is named, making this a monetization funnel rather than a technical tutorial.",
+   "title": "A five-tool chain for AI avatars selling on TikTok Shop",
+   "synopsis": "The workflow is shown as a rapid chain: take a prompt to ChatGPT, pick a reference image on Pinterest, add your image and generate; move to Nano Banana Pro, paste a second prompt and download your avatar. That avatar image plus an audio track goes into an agent that generates the talking video — demonstrated here as a perfume ad urging viewers to tap the orange cart. The finished clip is uploaded to TikTok to chase views and TikTok Shop commissions, with the full guide offered in DM.",
    "keywords": [
-    "AI avatars",
+    "Nano Banana Pro",
+    "ChatGPT",
+    "AI avatar",
     "TikTok Shop",
-    "UGC automation",
-    "creator monetization"
+    "affiliate marketing"
    ],
    "url": "https://www.instagram.com/p/DVb1dLmCLp7/",
    "author": "seraphin.mp",
    "author_url": "https://www.instagram.com/seraphin.mp/",
    "date": "2026-03-03",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA.Avatar",
@@ -6011,35 +6126,38 @@
   },
   {
    "folder": "NotebookLM",
-   "title": "22 NotebookLM styles shared via comment bait",
-   "synopsis": "The creator promises to send all 22 'styles' to anyone who comments the word 'styles', with hashtags pointing to NotebookLM and Gemini. The styles themselves are not described, but they most plausibly refer to NotebookLM output or audio/video overview style presets. The actual list cannot be verified from the caption alone.",
+   "title": "22 design-system prompts for NotebookLM, now renamed Gemini Notebook",
+   "synopsis": "Following a previous post on NotebookLM design prompts that drew over 20,000 comments, the creator has produced 22 more, noting in passing that Google has renamed NotebookLM to Gemini Notebook while the tool and prompts remain the same. Each prompt is a complete design system covering colours, fonts and even how the message is conveyed: Boy Band renders the deck as a 1990s album, Insert Coin as an 80s arcade game, Chalkboard as a physics lecture, Storybook as a bedtime story and Bauhaus as a 1920s art poster. You apply them inside your notebook by opening the slide deck, clicking the circle-with-arrow control, pasting the prompt into the block and hitting generate.",
    "keywords": [
     "NotebookLM",
-    "Google Gemini",
-    "AI study tools"
+    "Gemini Notebook",
+    "design prompts",
+    "slide decks",
+    "Google"
    ],
    "url": "https://www.instagram.com/p/DbE1_2PO5Xv/",
    "author": "devinkarpes",
    "author_url": "https://www.instagram.com/devinkarpes/",
    "date": "2026-07-22",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "NotebookLM",
-   "title": "NotebookLM resource offered via comment bait",
-   "synopsis": "The caption only asks viewers to comment 'Notebook' to receive an unspecified NotebookLM resource. Given the author's focus on NotebookLM tips, it is likely a template, workflow, or tutorial for the Google tool. The specific content cannot be determined from the caption.",
+   "title": "A GitHub repo of design prompts that transform NotebookLM slide decks",
+   "synopsis": "The creator argues NotebookLM's default slide output is merely fine, and that getting genuinely striking decks requires strong design prompts. He points to a GitHub repository holding dozens of design prompts that completely change the look of NotebookLM slides. The link is offered to commenters.",
    "keywords": [
     "NotebookLM",
-    "Google Gemini",
-    "AI productivity tips"
+    "design prompts",
+    "slide decks",
+    "GitHub"
    ],
    "url": "https://www.instagram.com/p/Da1f5hKuuTN/",
    "author": "devinkarpes",
    "author_url": "https://www.instagram.com/devinkarpes/",
    "date": "2026-07-16",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Scrapper",
@@ -6061,20 +6179,21 @@
   },
   {
    "folder": "Scrapper",
-   "title": "Free repo behind $5k scraping jobs, name withheld",
-   "synopsis": "The creator promises to DM 'the repo companies use for $5k scraping jobs' to anyone who comments 'SCRAPE'. The repository is never named in the caption, so the actual tool cannot be identified. It is engagement-bait promotion of a free web-scraping GitHub project positioned as a freelance money-maker.",
+   "title": "ScrapeGraph AI does in free what Apify and Bright Data charge for",
+   "synopsis": "An Italian developer released ScrapeGraph AI under an MIT licence, free forever, and it has already gathered 23,000 stars. You give it a URL and describe what you want in plain English, and the AI handles the rest — LinkedIn profiles, email addresses, Twitter accounts, Amazon, Zillow, Glassdoor — including multi-page scraping at scale. The creator's economic point is that Apify charges $49 a month and Bright Data $500, while agencies are already billing clients $5,000 per scraping project using this free tool.",
    "keywords": [
+    "ScrapeGraph AI",
     "web scraping",
-    "GitHub",
-    "AI automation",
-    "freelancing"
+    "Apify",
+    "Bright Data",
+    "MIT licence"
    ],
    "url": "https://www.instagram.com/p/DYrlQReEbxS/",
    "author": "criscatalyst",
    "author_url": "https://www.instagram.com/criscatalyst/",
    "date": "2026-05-23",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Scrapper",
