@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-28T14:49:25+00:00",
+ "generated_at": "2026-09-02T05:00:44+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -19,6 +19,95 @@
    "author_url": "https://www.instagram.com/cryptoedgeofficiel/",
    "date": "2026-05-19",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "100+ shorthand ChatGPT image prompts, gated behind a comment",
+   "synopsis": "A rapid before/after reel cycling through image results, each narrated only as type this, get this against a shorthand prompt. Neither the caption nor the audio names a technique, model setting or reasoning, so the whole post works as a delivery hook for a pack of 100+ ChatGPT image prompts sent by DM on comment. The visible outputs suggest short keyword-style prompts for stylised images, but nothing in the post is specific enough to reconstruct.",
+   "keywords": [
+    "ChatGPT",
+    "image prompts",
+    "prompt pack",
+    "lead magnet"
+   ],
+   "url": "https://www.instagram.com/p/DcoRhF5MJSr/",
+   "author": "farhannrakhangi",
+   "author_url": "https://www.instagram.com/farhannrakhangi/",
+   "date": "2026-08-29",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "The 10 Claude Code skills that change the most, plus how to write your own",
+   "synopsis": "Ben argues Claude Code gets far more useful once you stop re-explaining your method every session, and that a skill is nothing more than a folder holding one text file describing that method. The carousel ranks the ten skills he considers highest-impact, from searching a large codebase to a meta-skill that writes new skills for you. The linked 11-page guide adds what the carousel cannot hold: the exact trigger phrase for each skill, the two real install commands, a complete SKILL.md to copy, and the three usual reasons a skill fails to fire.",
+   "keywords": [
+    "Claude Code",
+    "Agent Skills",
+    "SKILL.md",
+    "meta-skill",
+    "developer workflow"
+   ],
+   "url": "https://www.instagram.com/p/DcoEErTlbHN/",
+   "author": "bencodezero",
+   "author_url": "https://www.instagram.com/bencodezero/",
+   "date": "2026-08-29",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "A developer open-sources a 10-month Claude Code setup: 286 skills, 68 sub-agents",
+   "synopsis": "Eric walks through a GitHub user's Claude Code configuration built over ten months of live production work and then released publicly, containing 286 skills, 68 sub-agents and a security scanner originally written at an Anthropic hackathon. Rather than one general agent, the setup routes each job to a purpose-built sub-agent: one writes the feature, another reviews it, another runs 102 security checks looking for leaks. A plain-markdown memory vault on the local machine carries context across days and across tools into Codex, and the setup watches finished sessions and converts what worked into new skills automatically.",
+   "keywords": [
+    "Claude Code",
+    "sub-agents",
+    "Agent Skills",
+    "security scanner",
+    "memory vault"
+   ],
+   "url": "https://www.instagram.com/p/DcoU-a2D1uC/",
+   "author": "erictechpro",
+   "author_url": "https://www.instagram.com/erictechpro/",
+   "date": "2026-08-29",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Plugging Meta Ads into Claude as a custom MCP connector",
+   "synopsis": "Madame T3ch demonstrates adding a Facebook/Meta Ads MCP server to Claude as a custom connector, pasting the server link under the connector settings so Claude can create ads, run campaigns and read the account statistics directly. She then prompts it to surface ad trends in the week's data that she would not have found manually, with Claude pulling straight from the live ad account. The second half chains the Higgsfield MCP to generate ten static ads from an imported product and push them into a Meta Ads campaign, recommending Seedance 2.5 when the creative should be video instead of stills.",
+   "keywords": [
+    "Meta Ads MCP",
+    "Claude connectors",
+    "Higgsfield",
+    "Seedance 2.5",
+    "ad automation"
+   ],
+   "url": "https://www.instagram.com/p/Dcl0jSntVxg/",
+   "author": "madamet3ch",
+   "author_url": "https://www.instagram.com/madamet3ch/",
+   "date": "2026-08-28",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Ten open-source repos worth 500,000 GitHub stars for Claude Code users",
+   "synopsis": "Neej rounds up ten repositories that collectively hold over half a million GitHub stars, framed around what each adds to a Claude Code session. The coding-focused entries include GSD, which runs a build as a spec-driven loop that survives long sessions, graphify, which turns a codebase into a knowledge graph so the model stops re-reading files, and an official OpenAI plugin putting Codex inside Claude Code for second opinions on diffs. The rest span design and media tooling: diagram-design and impeccable against AI design slop, scroll-world for 3D landing pages, cap as an open-source Loom, MoneyPrinterTurbo for vertical video, the xAI For You ranking code, and Block's buzz for agents in team chat.",
+   "keywords": [
+    "Claude Code",
+    "GSD",
+    "graphify",
+    "Codex plugin",
+    "open source"
+   ],
+   "url": "https://www.instagram.com/p/DcgjbHxkVFh/",
+   "author": "buildwithneej",
+   "author_url": "https://www.instagram.com/buildwithneej/",
+   "date": "2026-08-26",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -735,42 +824,6 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "Claude Taskmaster turns a PRD into a full prioritised backlog in minutes",
-   "synopsis": "Claude Taskmaster is an MCP with 27,000 GitHub stars that ingests any document describing a project — a spec, a PRD, a client brief — and does the project-management work from there. It generates the complete backlog, splits it into tickets, creates sub-tasks, sets dependencies between tasks and prioritises everything automatically. The creator says scoping a project previously took three days of meetings with his team and now yields 80 ready tickets in four minutes.",
-   "keywords": [
-    "Claude Taskmaster",
-    "MCP",
-    "PRD",
-    "backlog",
-    "project management"
-   ],
-   "url": "https://www.instagram.com/p/DYSSvSkq3tT/",
-   "author": "ugoia2025",
-   "author_url": "https://www.instagram.com/ugoia2025/",
-   "date": "2026-05-13",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Agents",
-   "title": "Printing Press gives Claude Code a CLI for sites with no API",
-   "synopsis": "The creator's claim is that Claude Code has removed the ceiling on AI agents by letting them connect to any site, and he shows it in three steps. First, grab the Printing Press skill from GitHub and paste its URL into the Claude Code terminal; second, either browse printingpress.dev, which hosts a large library of CLIs for sites agents previously could not reach including Amazon, eBay, Shopify and TikTok, or point it at a site of your own. His example is his accounting application, for which no API key was available, so he asked Claude Code to use Printing Press to generate a CLI connection — after which he could finally drive the accounting app from Claude Code.",
-   "keywords": [
-    "Printing Press",
-    "printingpress.dev",
-    "Claude Code",
-    "CLI generation",
-    "API-less automation"
-   ],
-   "url": "https://www.instagram.com/p/DYSlDU9MD92/",
-   "author": "bryanrichmaker",
-   "author_url": "https://www.instagram.com/bryanrichmaker/",
-   "date": "2026-05-13",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Agents",
    "title": "Claude + Stitch for production-ready UI systems",
    "synopsis": "The post tackles Claude's historical weakness at frontend work by pairing it with Stitch, Google's UI generation tool. The workflow uses Stitch to generate full UI systems and then turns them into production-ready apps with animations and connected screens. The full setup and prompts are gated behind a 'Code' comment.",
    "keywords": [
@@ -789,41 +842,6 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "Hermes Agent adds free Qwen 3.6 Plus and Owl Alpha models",
-   "synopsis": "The reel covers a free Hermes Agent update that can allegedly replace a whole research team. Two large models, Qwen 3.6 Plus and Owl Alpha, can now be plugged in for free and are claimed to have bigger memories than paid models. They work around the clock finding leads, writing emails, and doing research.",
-   "keywords": [
-    "Hermes agent",
-    "Qwen 3.6 Plus",
-    "Owl Alpha",
-    "research automation",
-    "free models"
-   ],
-   "url": "https://www.instagram.com/p/DYQSkyxiaXo/",
-   "author": "aiexplained412",
-   "author_url": "https://www.instagram.com/aiexplained412/",
-   "date": "2026-05-12",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Agents",
-   "title": "ByteDance's TARS agent tool changes the game",
-   "synopsis": "The reel spotlights TARS, a new tool from ByteDance that the creator says is changing the game. Viewers comment 'TARS' to receive the link. The caption gives no functional detail beyond it being a ByteDance AI tool, most plausibly its agent-oriented TARS tooling.",
-   "keywords": [
-    "TARS",
-    "ByteDance",
-    "AI agents",
-    "AI tools"
-   ],
-   "url": "https://www.instagram.com/p/DYKnp8uSKK7/",
-   "author": "daniel.prompta",
-   "author_url": "https://www.instagram.com/daniel.prompta/",
-   "date": "2026-05-10",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Agents",
    "title": "Hyperframer skill turns Claude into a motion design engine",
    "synopsis": "The reel demonstrates Hyperframer, a new skill developed by HeyGen that lets Claude generate advanced motion design. The creator claims it already buries existing tools like Remotion. All animations shown in the video were produced by Claude through this skill.",
    "keywords": [
@@ -836,24 +854,6 @@
    "url": "https://www.instagram.com/p/DYE08W8TwYW/",
    "author": "danyltn",
    "author_url": "https://www.instagram.com/danyltn/",
-   "date": "2026-05-08",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Agents",
-   "title": "WhatsApp Agent Kit lets Claude build a business chatbot with zero code",
-   "synopsis": "The WhatsApp Agent Kit turns Claude into a builder for WhatsApp agents: you hand Claude the project link and it downloads the project and asks the right scoping questions — purpose, business name, desired tone. Once you answer, Claude constructs the agent, lets you test it directly in Claude, and configures deployment to WhatsApp, a web page, Telegram, or elsewhere. The creator pitches it for restaurants, clinics, online shops, and barbershops with no code required.",
-   "keywords": [
-    "WhatsApp Agent Kit",
-    "Claude",
-    "chatbot",
-    "no-code",
-    "business automation"
-   ],
-   "url": "https://www.instagram.com/p/DYFftfHk67D/",
-   "author": "henriexploria",
-   "author_url": "https://www.instagram.com/henriexploria/",
    "date": "2026-05-08",
    "following": true,
    "confidence": "high"
@@ -1685,8 +1685,8 @@
     "AI careers"
    ],
    "url": "https://www.instagram.com/p/DXtqYBms8e3/",
-   "author": "",
-   "author_url": "",
+   "author": "jobescape.a",
+   "author_url": "https://www.instagram.com/jobescape.a/",
    "date": "2026-04-29",
    "following": false,
    "confidence": "low"
@@ -2183,6 +2183,24 @@
    "author": "chinabymonica",
    "author_url": "https://www.instagram.com/chinabymonica/",
    "date": "2026-06-06",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.devices",
+   "title": "A Chinese startup runs AI inference on roughly 1,000 Mac Mini M4s",
+   "synopsis": "A startup in China filled a single data center with about 1,000 Mac Mini M4 units to serve AI workloads without paying recurring cloud fees, using a $599 machine that draws 10 to 30 watts under load against the 300 to 500 watts of a conventional GPU server. The M4 shared CPU/GPU memory makes it unusually efficient at running large language models locally, so a rack of Minis undercuts a single NVIDIA H100 server on both power and upfront cost. The post frames this as part of a broader 2025-2026 shift toward owning inference hardware, with tools like Ollama serving models across the cluster and eliminating per-query API costs once the machines are paid off.",
+   "keywords": [
+    "Mac Mini M4",
+    "local inference",
+    "Ollama",
+    "NVIDIA H100",
+    "AI infrastructure"
+   ],
+   "url": "https://www.instagram.com/p/DZJKpoyOlgv/",
+   "author": "technologybrief",
+   "author_url": "https://www.instagram.com/technologybrief/",
+   "date": "2026-06-04",
    "following": false,
    "confidence": "high"
   },
@@ -3066,6 +3084,42 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "The 10 Claude Code skills that change the most, plus how to write your own",
+   "synopsis": "Ben argues Claude Code gets far more useful once you stop re-explaining your method every session, and that a skill is nothing more than a folder holding one text file describing that method. The carousel ranks the ten skills he considers highest-impact, from searching a large codebase to a meta-skill that writes new skills for you. The linked 11-page guide adds what the carousel cannot hold: the exact trigger phrase for each skill, the two real install commands, a complete SKILL.md to copy, and the three usual reasons a skill fails to fire.",
+   "keywords": [
+    "Claude Code",
+    "Agent Skills",
+    "SKILL.md",
+    "meta-skill",
+    "developer workflow"
+   ],
+   "url": "https://www.instagram.com/p/DcoEErTlbHN/",
+   "author": "bencodezero",
+   "author_url": "https://www.instagram.com/bencodezero/",
+   "date": "2026-08-29",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "A developer open-sources a 10-month Claude Code setup: 286 skills, 68 sub-agents",
+   "synopsis": "Eric walks through a GitHub user's Claude Code configuration built over ten months of live production work and then released publicly, containing 286 skills, 68 sub-agents and a security scanner originally written at an Anthropic hackathon. Rather than one general agent, the setup routes each job to a purpose-built sub-agent: one writes the feature, another reviews it, another runs 102 security checks looking for leaks. A plain-markdown memory vault on the local machine carries context across days and across tools into Codex, and the setup watches finished sessions and converts what worked into new skills automatically.",
+   "keywords": [
+    "Claude Code",
+    "sub-agents",
+    "Agent Skills",
+    "security scanner",
+    "memory vault"
+   ],
+   "url": "https://www.instagram.com/p/DcoU-a2D1uC/",
+   "author": "erictechpro",
+   "author_url": "https://www.instagram.com/erictechpro/",
+   "date": "2026-08-29",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "Free open-source cinematic video generation with sound",
    "synopsis": "The creator dropped paid AI video subscriptions after finding a free open-source alternative. It generates cinematic video with sound effects from either text or images. Camera movement, effects, styles and scenes are controllable, and running it locally removes any cap on generations.",
    "keywords": [
@@ -3080,6 +3134,24 @@
    "author_url": "https://www.instagram.com/sferro.ai/",
    "date": "2026-08-28",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Ten open-source repos worth 500,000 GitHub stars for Claude Code users",
+   "synopsis": "Neej rounds up ten repositories that collectively hold over half a million GitHub stars, framed around what each adds to a Claude Code session. The coding-focused entries include GSD, which runs a build as a spec-driven loop that survives long sessions, graphify, which turns a codebase into a knowledge graph so the model stops re-reading files, and an official OpenAI plugin putting Codex inside Claude Code for second opinions on diffs. The rest span design and media tooling: diagram-design and impeccable against AI design slop, scroll-world for 3D landing pages, cap as an open-source Loom, MoneyPrinterTurbo for vertical video, the xAI For You ranking code, and Block's buzz for agents in team chat.",
+   "keywords": [
+    "Claude Code",
+    "GSD",
+    "graphify",
+    "Codex plugin",
+    "open source"
+   ],
+   "url": "https://www.instagram.com/p/DcgjbHxkVFh/",
+   "author": "buildwithneej",
+   "author_url": "https://www.instagram.com/buildwithneej/",
+   "date": "2026-08-26",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -3859,24 +3931,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Setting up Claude Cowork with global instructions and a self-improving profile",
-   "synopsis": "The walkthrough goes into Claude Cowork settings, opens Global Instructions, and pastes in a first prompt provided at the end of the video, adjusting placeholders before saving. You then create a new file, drop it into Cowork, authorise it, paste a second prompt, and answer the questions Claude asks. Once complete, Cowork holds full context on you and your business, has memory and your rules, and improves itself over time — after which you add the connectors and skills you need under Customize.",
-   "keywords": [
-    "Claude Cowork",
-    "global instructions",
-    "memory",
-    "connectors",
-    "skills"
-   ],
-   "url": "https://www.instagram.com/p/DZVUWUmJX-E/",
-   "author": "jules_api",
-   "author_url": "https://www.instagram.com/jules_api/",
-   "date": "2026-06-08",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "3D City Ticket Poster Prompt Pack",
    "synopsis": "This carousel showcases a \"3D City Ticket Poster\" image-generation prompt for stylized city-themed poster art. The prompts are sent by DM to anyone commenting \"AI\". The caption never names the underlying image model, so the exact tool is unknown.",
    "keywords": [
@@ -3893,40 +3947,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "PromptArmor: ChatGPT-in-Sheets Can Leak Your Data",
-   "synopsis": "This French security short warns that enabling ChatGPT in Google Sheets exposes you to a trap: a single poisoned cell can silently exfiltrate your workbook. It cites PromptArmor's public May 2026 report demonstrating the attack, plus the Hacker News technical discussion. The takeaway is that spreadsheet AI integrations carry real prompt-injection risk.",
-   "keywords": [
-    "PromptArmor",
-    "ChatGPT for Google Sheets",
-    "prompt injection",
-    "data exfiltration"
-   ],
-   "url": "https://www.instagram.com/p/DZIbWQeKJ3Q/",
-   "author": "bariqrifki",
-   "author_url": "https://www.instagram.com/bariqrifki/",
-   "date": "2026-06-03",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Anthropic Agents That Self-Improve Overnight",
-   "synopsis": "The post claims Anthropic has crossed a line by letting agents literally improve themselves while you sleep. The agent reviews every mistake from the previous day, rewrites its own memory, learns your preferences, and fixes broken workflows with no human prompting. It wakes up measurably smarter the next morning, according to the pitch.",
-   "keywords": [
-    "Anthropic",
-    "Claude agents",
-    "self-improvement",
-    "agent memory"
-   ],
-   "url": "https://www.instagram.com/p/DYr1FZtST1H/",
-   "author": "thevibefounder",
-   "author_url": "https://www.instagram.com/thevibefounder/",
-   "date": "2026-05-23",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "One photo plus a few seconds of voice becomes a lifelike talking video",
    "synopsis": "This open-source and completely free Chinese tool generates ultra-realistic video with very high facial quality from a single uploaded photo and a few seconds of recorded voice. The output shows the person speaking naturally with lip sync that matches precisely, believable facial expressions, and a cinematic look. You can then edit the whole scene by typing a prompt — asking to put them in a suit on a yacht rebuilds the scene while preserving the same face and identity.",
    "keywords": [
@@ -3940,6 +3960,75 @@
    "author": "lisaworldverse",
    "author_url": "https://www.instagram.com/lisaworldverse/",
    "date": "2026-05-17",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Hyper-realistic photo prompts offered on comment",
+   "synopsis": "A carousel teasing prompts for hyper-realistic photo generation, with the single-line caption asking viewers to comment CAMERA to receive them. No model, platform or prompt structure is named anywhere in the post. There is no audio track to recover further detail from.",
+   "keywords": [
+    "photo realism",
+    "prompt pack",
+    "lead magnet"
+   ],
+   "url": "https://www.instagram.com/p/DcwDQzMD-Yy/",
+   "author": "seymourofdevin",
+   "author_url": "https://www.instagram.com/seymourofdevin/",
+   "date": "2026-09-01",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "One photo into twelve ages: an age-progression sheet from 5 to 80",
+   "synopsis": "Phil shares a prompt pair that takes a single uploaded photo and returns one sheet showing the same person at twelve ages, running 5, 8, 12, 16, 20, 25 then 30, 40, 50, 60, 70 and 80. He explains the trick is instructing the model to lock the subject's bone structure and age only skin, fat and hair, which keeps it recognisably one person across the sheet rather than twelve unrelated faces. He provides separate men's and women's variants, the men's version also ageing the stubble, and runs the whole thing in Picsart Flow on GPT Image 2.",
+   "keywords": [
+    "GPT Image 2",
+    "Picsart Flow",
+    "age progression",
+    "identity preservation",
+    "prompt pack"
+   ],
+   "url": "https://www.instagram.com/p/Dcs0l-1CBya/",
+   "author": "ai.withphil",
+   "author_url": "https://www.instagram.com/ai.withphil/",
+   "date": "2026-08-31",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "100+ shorthand ChatGPT image prompts, gated behind a comment",
+   "synopsis": "A rapid before/after reel cycling through image results, each narrated only as type this, get this against a shorthand prompt. Neither the caption nor the audio names a technique, model setting or reasoning, so the whole post works as a delivery hook for a pack of 100+ ChatGPT image prompts sent by DM on comment. The visible outputs suggest short keyword-style prompts for stylised images, but nothing in the post is specific enough to reconstruct.",
+   "keywords": [
+    "ChatGPT",
+    "image prompts",
+    "prompt pack",
+    "lead magnet"
+   ],
+   "url": "https://www.instagram.com/p/DcoRhF5MJSr/",
+   "author": "farhannrakhangi",
+   "author_url": "https://www.instagram.com/farhannrakhangi/",
+   "date": "2026-08-29",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Gaussian splatting to take back camera control in an AI image workflow",
+   "synopsis": "Paint Motion Pictures shows an early test that grew into the technique he calls Paint Scan: capturing a 3D Gaussian splat of his own face and pairing it with a high-resolution character reference sheet. The combination lets him generate new images at the exact camera angle, composition and pose he wants while holding facial fidelity, independent of the environment he places himself in. He highlights un-promptable poses as the real unlock, since shots he would not know how to describe in words can now be pulled in as reference and re-framed later.",
+   "keywords": [
+    "Gaussian splatting",
+    "Paint Scan",
+    "character reference sheet",
+    "camera control",
+    "AI filmmaking"
+   ],
+   "url": "https://www.instagram.com/p/Dcl7irOJbzU/",
+   "author": "paintmotionpictures",
+   "author_url": "https://www.instagram.com/paintmotionpictures/",
+   "date": "2026-08-28",
    "following": true,
    "confidence": "high"
   },
@@ -4144,8 +4233,8 @@
     "deleted post"
    ],
    "url": "https://www.instagram.com/p/Dbp0E-kskSk/",
-   "author": "",
-   "author_url": "",
+   "author": "generateinfiniteversions.o",
+   "author_url": "https://www.instagram.com/generateinfiniteversions.o/",
    "date": "2026-08-05",
    "following": false,
    "confidence": "low"
@@ -4715,23 +4804,6 @@
   },
   {
    "folder": "AI.pix",
-   "title": "Recreate Competitor Product Photos in 60 Seconds",
-   "synopsis": "The reel demonstrates recreating any competitor's product photo in about sixty seconds using AI image generation, applied to jewellery and luxury visuals. The pitch targets brand strategists who want premium product photography without a studio. No specific tool is named, making this a technique showcase for AI product photography.",
-   "keywords": [
-    "AI product photography",
-    "brand visuals",
-    "image-to-image",
-    "luxury marketing"
-   ],
-   "url": "https://www.instagram.com/p/DXnCGslDcea/",
-   "author": "fillthetile",
-   "author_url": "https://www.instagram.com/fillthetile/",
-   "date": "2026-04-26",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
    "title": "Three free unlimited creator tools: Meta AI, Perchance, and a motion-transfer site",
    "synopsis": "The creator claims he was banned from three creator groups for sharing these free, unlimited tools and shares them anyway. Meta AI produces cinematic video from a single sentence and returns four results instantly, while Perchance AI generates 32 images from one click rather than three or ten. The third uploads your video and transfers your motion onto any celebrity or character, mapping your movements to their face, and he offers a further list of 47 lesser-known tools.",
    "keywords": [
@@ -4746,59 +4818,6 @@
    "author_url": "https://www.instagram.com/marktalksai/",
    "date": "2026-04-24",
    "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "10 Must-Use Prompts for ChatGPT Images 2.0",
-   "synopsis": "Marking the release of OpenAI's ChatGPT Images 2.0, the creator shares her ten favorite prompts for the new model. The list spans LinkedIn headshots, magazine covers, movie posters, smartphone photos, handwritten planners, desktop apps, manga, and cookbook layouts. The full prompts are sent by DM after commenting prompt.",
-   "keywords": [
-    "GPT Image 2.0",
-    "ChatGPT",
-    "LinkedIn headshot prompt",
-    "prompt pack",
-    "OpenAI"
-   ],
-   "url": "https://www.instagram.com/p/DXbvQrfiLA0/",
-   "author": "shedoesai",
-   "author_url": "https://www.instagram.com/shedoesai/",
-   "date": "2026-04-22",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Rebuilding the prompt instead of patching a degraded AI image",
-   "synopsis": "The creator hit a wall where, after three to five successive edits, image quality collapsed the way a JPEG degrades when repeatedly resaved in Photoshop, and Topaz could not repair it. Rather than keep fixing, he reverse-prompted the finished concept back into a clean prompt carrying his exact colours and lighting. He then turned that into a sketch and transformed the drawing into a high-resolution image using the reverse prompt with details attached, arriving at a repeatable way to build concepts without losing quality.",
-   "keywords": [
-    "reverse prompting",
-    "image quality",
-    "Topaz",
-    "AI workflow",
-    "concept art"
-   ],
-   "url": "https://www.instagram.com/p/DXF4pfZCNqF/",
-   "author": "zhuchkin",
-   "author_url": "https://www.instagram.com/zhuchkin/",
-   "date": "2026-04-14",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Luma Workspace Powered by Creative AI Agents",
-   "synopsis": "The creator calls the new Luma workspace the most insane creative platform he has ever used. It is powered by creative AI agents that manage a full video content workflow. A step-by-step workflow PDF is offered by commenting LUMA, targeting video content creators of all kinds.",
-   "keywords": [
-    "Luma",
-    "AI agents",
-    "video workflow",
-    "creative platform"
-   ],
-   "url": "https://www.instagram.com/p/DVjVRmqACiG/",
-   "author": "kallaway",
-   "author_url": "https://www.instagram.com/kallaway/",
-   "date": "2026-03-06",
-   "following": true,
    "confidence": "high"
   },
   {
@@ -4940,6 +4959,42 @@
    "author": "timkoda_",
    "author_url": "https://www.instagram.com/timkoda_/",
    "date": "2025-12-17",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Generating a synthetic AI influencer through a Claude custom connector",
+   "synopsis": "Hugo Matias opens by revealing the woman on screen is entirely AI-generated, then walks through reproducing her: copy an MCP server link, add it in the Claude settings as a custom connector, rename it and continue. A single prompt then returns a consistent AI influencer persona in about two minutes. The rest of the pitch is monetisation, posting the output to social platforms for reach and redirecting that traffic to a paid fan platform, with the full method gated behind a comment; the connector name is only spoken aloud, so the exact tool is not reliably identifiable from the video.",
+   "keywords": [
+    "AI influencer",
+    "MCP connector",
+    "Claude",
+    "synthetic persona",
+    "monetisation"
+   ],
+   "url": "https://www.instagram.com/p/Dcoi9LxhqEM/",
+   "author": "hugomatias.ai",
+   "author_url": "https://www.instagram.com/hugomatias.ai/",
+   "date": "2026-09-01",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Turning one talking-head take into an eight-camera studio shoot",
+   "synopsis": "Nomada Toast demonstrates converting a single flat talking-head recording into footage that looks shot by a full studio camera rig. The workflow starts with a screenshot of the original take, runs it through an image generator to rebuild the scene as a professional studio, adding props with the pen tool or command-clicking to alter elements, then imports the original video alongside that still. Seedance 2.5 inside Lovart transforms the whole recording against the new reference, turning one shot into roughly eight distinct angles without reshooting.",
+   "keywords": [
+    "Seedance 2.5",
+    "Lovart",
+    "talking head",
+    "multi-camera",
+    "video workflow"
+   ],
+   "url": "https://www.instagram.com/p/DclvqfjpoXc/",
+   "author": "nomadatoast",
+   "author_url": "https://www.instagram.com/nomadatoast/",
+   "date": "2026-08-28",
    "following": true,
    "confidence": "high"
   },
@@ -5738,23 +5793,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "NVIDIA DGX Station: trillion-parameter models on a desk",
-   "synopsis": "The post showcases the NVIDIA DGX Station for Windows with 768GB of memory, 20 petaflops of compute, and 8TB/s bandwidth. It can run a trillion-parameter model locally, pitched as ideal for LLM and agent developers. This is hardware news rather than a video tool, but directly relevant to local AI workloads.",
-   "keywords": [
-    "NVIDIA DGX Station",
-    "LLM workstation",
-    "local AI compute",
-    "trillion-parameter models"
-   ],
-   "url": "https://www.instagram.com/p/DZZ_lirjMcj/",
-   "author": "quantumliaison",
-   "author_url": "https://www.instagram.com/quantumliaison/",
-   "date": "2026-06-10",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "A $43k-a-month autonomous AI virtual model run from four markdown files",
    "synopsis": "The post analyses how a 21-year-old student built a fully autonomous AI virtual model that generated roughly $43,000 in thirty days with no creative team, camera gear, studio, or real human face, running off a single laptop at about $400 a month. The described architecture treats a subscription profile as a closed-loop software pipeline rather than manual production, applying data engineering thinking to creator-economy management. Human identity is decomposed into four modular configuration files: persona.md for the psychological profile, voice.md for the acoustic signature, flux.md for the visual anchor, and brain.md for memory and contextual behaviour during subscriber chat.",
    "keywords": [
@@ -5803,24 +5841,6 @@
    "author": "lisaworldverse",
    "author_url": "https://www.instagram.com/lisaworldverse/",
    "date": "2026-05-17",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Free local AI video and images with Pinokio and Wan2GP",
-   "synopsis": "This French post explains how to access free AI tools for generating videos and images without any subscription. The hashtags identify the stack: Pinokio as the one-click local installer and Wan2GP, the low-VRAM open-source build of the Wan video model. The angle is fully free, open-source, self-hosted generation.",
-   "keywords": [
-    "Pinokio",
-    "Wan2GP",
-    "open source",
-    "free AI video",
-    "local generation"
-   ],
-   "url": "https://www.instagram.com/p/DYKYJwZNHkG/",
-   "author": "unefille.ia",
-   "author_url": "https://www.instagram.com/unefille.ia/",
-   "date": "2026-05-10",
    "following": true,
    "confidence": "high"
   },
