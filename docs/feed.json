@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T03:23:38+00:00",
+ "generated_at": "2026-09-05T03:50:19+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -824,6 +824,41 @@
   },
   {
    "folder": "AI.Agents",
+   "title": "Claude Taskmaster transforme un PRD en backlog de quatre-vingts tickets",
+   "synopsis": "Le post présente Claude Taskmaster, un MCP crédité de 27 000 étoiles sur GitHub, qui prend en entrée un document de spécification, un PRD ou un brief client et en dérive tout le cadrage projet. Il génère le backlog complet, découpe en tickets, crée les sous-tâches, établit les dépendances entre elles et applique une priorisation automatique. L'auteur chiffre le gain sur son propre cas : trois jours de réunions de cadrage avec son équipe remplacés par quatre-vingts tickets prêts en quatre minutes.",
+   "keywords": [
+    "Claude Taskmaster",
+    "MCP",
+    "PRD",
+    "backlog",
+    "gestion de projet"
+   ],
+   "url": "https://www.instagram.com/p/DYSSvSkq3tT/",
+   "author": "ugoia2025",
+   "author_url": "https://www.instagram.com/ugoia2025/",
+   "date": "2026-05-13",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Claude Code aurait fait sauter la limite des agents IA",
+   "synopsis": "Post en français annonçant que Claude Code supprime la limite qui bridait jusqu'ici les agents. Le message s'inscrit dans une série documentant un objectif de 100 000 euros par mois grâce à l'IA sans écrire de code, ici au vingtième jour. Rien n'est expliqué sur la nature de cette limite, le guide complet étant conditionné à un commentaire.",
+   "keywords": [
+    "Claude Code",
+    "agents",
+    "limite",
+    "monétisation"
+   ],
+   "url": "https://www.instagram.com/p/DYSlDU9MD92/",
+   "author": "bryanrichmaker",
+   "author_url": "https://www.instagram.com/bryanrichmaker/",
+   "date": "2026-05-13",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.Agents",
    "title": "Claude + Stitch for production-ready UI systems",
    "synopsis": "The post tackles Claude's historical weakness at frontend work by pairing it with Stitch, Google's UI generation tool. The workflow uses Stitch to generate full UI systems and then turns them into production-ready apps with animations and connected screens. The full setup and prompts are gated behind a 'Code' comment.",
    "keywords": [
@@ -837,6 +872,75 @@
    "author": "sferro.ai",
    "author_url": "https://www.instagram.com/sferro.ai/",
    "date": "2026-05-12",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Hermes Agent branché gratuitement sur Qwen 3.6 Plus et Owl Alpha",
+   "synopsis": "Le post annonce une mise à jour gratuite d'Hermes Agent qui permet d'y connecter deux grands modèles sans frais, Qwen 3.6 Plus et Owl Alpha, crédités de mémoires plus larges que les modèles payants. Les usages promis sont la recherche de prospects, la rédaction d'e-mails et la recherche approfondie, en continu. La promesse de remplacer une équipe de recherche entière reste une affirmation commerciale non étayée.",
+   "keywords": [
+    "Hermes Agent",
+    "Qwen 3.6 Plus",
+    "Owl Alpha",
+    "prospection",
+    "deep research"
+   ],
+   "url": "https://www.instagram.com/p/DYQSkyxiaXo/",
+   "author": "aiexplained412",
+   "author_url": "https://www.instagram.com/aiexplained412/",
+   "date": "2026-05-12",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Le skill signé Boris Cherney qui couvre toutes les bonnes pratiques Claude Code",
+   "synopsis": "Le post attribue au créateur de Claude Code, Boris Cherney, un skill présenté comme suffisant à lui seul. Il rassemblerait toutes les bonnes pratiques au même endroit : création d'agents, de commandes, de skills, de connexions, gestion de la mémoire, des paramètres, des workflows et de l'automatisation. L'auteur souligne qu'il procède de façon automatique en commençant par poser des questions sur le besoin, le lien étant envoyé par DM.",
+   "keywords": [
+    "Claude Code",
+    "skill",
+    "agents",
+    "automatisation",
+    "bonnes pratiques"
+   ],
+   "url": "https://www.instagram.com/p/DYNJXp1EVVH/",
+   "author": "henriexploria",
+   "author_url": "https://www.instagram.com/henriexploria/",
+   "date": "2026-05-11",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "TARS, le nouvel outil ByteDance",
+   "synopsis": "Le post annonce un nouvel outil de ByteDance désigné par le mot-clé TARS, présenté comme un changement de règles du jeu. La légende se limite à cette affirmation et à trois hashtags, le lien étant conditionné à un commentaire. Ni la fonction ni la catégorie de l'outil ne sont précisées par écrit.",
+   "keywords": [
+    "ByteDance",
+    "TARS",
+    "outil IA"
+   ],
+   "url": "https://www.instagram.com/p/DYKnp8uSKK7/",
+   "author": "daniel.prompta",
+   "author_url": "https://www.instagram.com/daniel.prompta/",
+   "date": "2026-05-10",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Quatre mises à jour Anthropic qui redéfinissent les agents",
+   "synopsis": "L'auteur soutient que le changement décisif n'est venu ni d'un nouveau modèle ni d'une fonction de chatbot, mais de quatre évolutions discrètes. Elles permettent selon lui à une IA de recruter d'autres IA, d'évaluer son propre travail, de s'améliorer pendant la nuit et de rendre compte une fois la tâche terminée. Il présente cela comme le plus grand saut de capacité depuis l'arrivée des chatbots, sans nommer précisément les quatre fonctionnalités.",
+   "keywords": [
+    "Anthropic",
+    "agents",
+    "auto-évaluation",
+    "orchestration"
+   ],
+   "url": "https://www.instagram.com/p/DYHjdMMgWCI/",
+   "author": "vaibhavsisinty",
+   "author_url": "https://www.instagram.com/vaibhavsisinty/",
+   "date": "2026-05-09",
    "following": true,
    "confidence": "high"
   },
@@ -860,6 +964,235 @@
   },
   {
    "folder": "AI.Agents",
+   "title": "WhatsApp Agent Kit lets Claude build a business chatbot with zero code",
+   "synopsis": "The WhatsApp Agent Kit turns Claude into a builder for WhatsApp agents: you hand Claude the project link and it downloads the project and asks the right scoping questions — purpose, business name, desired tone. Once you answer, Claude constructs the agent, lets you test it directly in Claude, and configures deployment to WhatsApp, a web page, Telegram, or elsewhere. The creator pitches it for restaurants, clinics, online shops, and barbershops with no code required.",
+   "keywords": [
+    "WhatsApp Agent Kit",
+    "Claude",
+    "chatbot",
+    "no-code",
+    "business automation"
+   ],
+   "url": "https://www.instagram.com/p/DYFftfHk67D/",
+   "author": "henriexploria",
+   "author_url": "https://www.instagram.com/henriexploria/",
+   "date": "2026-05-08",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Un dépôt de bonnes pratiques qui structure tout un workflow Claude Code",
+   "synopsis": "Le post présente un dépôt qui rassemble en un seul endroit prompts, skills, commandes et guides de configuration pour Claude Code, au lieu de les chercher au coup par coup. Les bénéfices annoncés sont un fonctionnement plus propre, une consommation de tokens réduite, une meilleure structure et un passage plus fluide de la planification à l'exécution. Le lien est envoyé par DM sur le mot-clé Skill.",
+   "keywords": [
+    "Claude Code",
+    "bonnes pratiques",
+    "skills",
+    "consommation de tokens"
+   ],
+   "url": "https://www.instagram.com/p/DYBeKU4NlOS/",
+   "author": "startscalr_sohum",
+   "author_url": "https://www.instagram.com/startscalr_sohum/",
+   "date": "2026-05-07",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Le skill data.gouv ouvre 250 000 jeux de données publics français à Claude Code",
+   "synopsis": "Le post décrit un skill qui permet d'interroger en langage naturel les données ouvertes de l'État français depuis Claude Code. Les exemples donnés sont concrets : connaître les entreprises du bâtiment créées à Lyon dans le mois via les données SIRENE en temps réel, ou obtenir un tableau filtré et analysé des permis de construire délivrés à Bordeaux en 2024. L'accès porte sur 250 000 jeux de données publics, gratuitement, le guide d'installation étant envoyé sur commentaire.",
+   "keywords": [
+    "data.gouv",
+    "SIRENE",
+    "open data",
+    "Claude Code",
+    "skill"
+   ],
+   "url": "https://www.instagram.com/p/DYDUNwvIjSF/",
+   "author": "bapt.autoai",
+   "author_url": "https://www.instagram.com/bapt.autoai/",
+   "date": "2026-05-07",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Higgsfield, Claude Cowork et Meta assemblés en machine publicitaire autonome",
+   "synopsis": "Montage en français décrivant un agent unique branché sur deux serveurs MCP pour faire tourner seule toute une chaîne de publicité Meta. Le cycle enchaîne recherche concurrentielle, génération de créas avec Sora 2, Veo et Kling, lancement des annonces sur Meta puis montée en charge sur les créas performantes. L'argument de vente est que l'ensemble s'exécute pendant que l'utilisateur dort, le guide complet passant par un commentaire.",
+   "keywords": [
+    "Higgsfield",
+    "Claude Cowork",
+    "MCP",
+    "Meta Ads",
+    "Sora 2"
+   ],
+   "url": "https://www.instagram.com/p/DYDOLpToc9H/",
+   "author": "pierrevibesai",
+   "author_url": "https://www.instagram.com/pierrevibesai/",
+   "date": "2026-05-07",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "ScrapeGraph-AI threatens paid scraping platforms",
+   "synopsis": "A developer released ScrapeGraph-AI on GitHub, an open-source LLM-powered scraping tool that has already collected over 23,000 stars. The video claims it is replacing paid scraping platforms costing around 40,000 rupees a month. It frames the project as the moment free open-source AI killed the paid web-scraping market.",
+   "keywords": [
+    "ScrapeGraph-AI",
+    "open source",
+    "LLM scraping",
+    "GitHub"
+   ],
+   "url": "https://www.instagram.com/p/DX9fGa4SgX_/",
+   "author": "thevibefounder",
+   "author_url": "https://www.instagram.com/thevibefounder/",
+   "date": "2026-05-05",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Environ 80 modèles servis gratuitement par les API NVIDIA",
+   "synopsis": "Le post signale l'accès gratuit à près de quatre-vingts modèles hébergés chez NVIDIA, dont MiniMax M2.7, GLM 5.1, Kimi 2.5, DeepSeek 3.2, GPT-OSS-120B et Sarvam-M. La configuration est détaillée noir sur blanc : récupérer une clé sur build.nvidia.com, pointer l'URL de base sur integrate.api.nvidia.com/v1, ajouter la clé et choisir le modèle. La compatibilité annoncée couvre OpenCode, Zed, Hermes Agent et Cursor.",
+   "keywords": [
+    "NVIDIA NIM",
+    "MiniMax M2.7",
+    "GLM 5.1",
+    "DeepSeek 3.2",
+    "API gratuite"
+   ],
+   "url": "https://www.instagram.com/p/DXjd4PtjiRQ/",
+   "author": "thefutureguyy.ai",
+   "author_url": "https://www.instagram.com/thefutureguyy.ai/",
+   "date": "2026-04-25",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "OpenCLI remplace Playwright MCP et divise la consommation de tokens",
+   "synopsis": "Le post identifie un problème précis du pilotage de navigateur par Claude : la plupart des montages passent par Playwright MCP, qui renvoie une capture d'écran à chaque action — clic, formulaire, défilement — et sature le contexte en quelques minutes, pour environ dix fois trop de tokens. OpenCLI prend le contre-pied en transformant le site en outil en ligne de commande, registre que le modèle manipule bien plus efficacement que des images. L'auteur indique qu'il supporte nativement quatre-vingt-dix sites, dont Instagram, LinkedIn et Twitter, et s'installe en deux minutes.",
+   "keywords": [
+    "OpenCLI",
+    "Playwright MCP",
+    "consommation de tokens",
+    "automatisation navigateur",
+    "scraping"
+   ],
+   "url": "https://www.instagram.com/p/DXj53HRDATS/",
+   "author": "dryxio.us",
+   "author_url": "https://www.instagram.com/dryxio.us/",
+   "date": "2026-04-25",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Câbler sa base de connaissance dans CLAUDE.md pour arrêter de réexpliquer son activité",
+   "synopsis": "L'auteur raconte six mois passés à recoller le même contexte — parcours, clients, objectifs — au début de chaque conversation avec Claude. Sa réponse a été de brancher directement sa base de connaissance sur Claude Code, qui lit désormais son CLAUDE.md à l'ouverture de session, vérifie ce qui est déjà documenté et décide à partir de mois de contexte accumulé. Il décrit un ensemble de trois systèmes, à commencer par un wiki structuré, et insiste sur le fait qu'il ne s'agit pas d'un second cerveau mais du cerveau qui manquait à Claude.",
+   "keywords": [
+    "CLAUDE.md",
+    "base de connaissance",
+    "contexte persistant",
+    "Claude Code"
+   ],
+   "url": "https://www.instagram.com/p/DXkEjz1M8kZ/",
+   "author": "mikemeansbusiness_ai",
+   "author_url": "https://www.instagram.com/mikemeansbusiness_ai/",
+   "date": "2026-04-25",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Claude pilote DaVinci Resolve et monte la timeline tout seul",
+   "synopsis": "Le post montre Claude prenant le contrôle du logiciel de montage DaVinci Resolve de Blackmagic, jusqu'à voir le logiciel se monter lui-même. L'auteur oppose des années passées à mémoriser des raccourcis et à suivre des tutoriels de trois heures à un seul prompt après lequel la timeline se découpe, l'étalonnage tombe juste et l'export se lance sans toucher un bouton. Le processus complet est envoyé en DM sur le mot-clé CUT.",
+   "keywords": [
+    "Claude",
+    "DaVinci Resolve",
+    "montage vidéo",
+    "automatisation",
+    "Blackmagic"
+   ],
+   "url": "https://www.instagram.com/p/DXkJqPLDO9Y/",
+   "author": "timkoda_",
+   "author_url": "https://www.instagram.com/timkoda_/",
+   "date": "2026-04-25",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Des sites à effet parallaxe 3D générés depuis une simple vidéo",
+   "synopsis": "Le post décrit une chaîne combinant Emergent et des skills Claude pour convertir des vidéos simples en animations de site à l'apparence tridimensionnelle. Le résultat est un site interactif à effet parallaxe, généré depuis des prompts puis personnalisable et publiable sans écrire de code. Le lien vers la méthode est conditionné à un commentaire.",
+   "keywords": [
+    "Emergent",
+    "Claude skills",
+    "parallaxe",
+    "no-code",
+    "webdesign"
+   ],
+   "url": "https://www.instagram.com/p/DXhCmYajj_X/",
+   "author": "nomadatoast",
+   "author_url": "https://www.instagram.com/nomadatoast/",
+   "date": "2026-04-24",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Claude Council fait débattre cinq conseillers pour trancher au lieu de flatter",
+   "synopsis": "Le post part d'un défaut réel : demandez à Claude si une idée est bonne, il argumentera brillamment qu'elle l'est, et si vous lui demandez pourquoi elle est mauvaise, il argumentera l'inverse tout aussi bien — excellent en explication, faible en décision. Claude Council répond à ce biais de complaisance : sur la commande Ask the Council, cinq conseillers IA attaquent la question sous des angles distincts. Leurs réponses sont ensuite brassées puis soumises à cinq agents relecteurs, de façon à produire un avis contradictoire plutôt qu'un écho des attentes de l'utilisateur.",
+   "keywords": [
+    "Claude Council",
+    "skill",
+    "biais de complaisance",
+    "multi-agents",
+    "aide à la décision"
+   ],
+   "url": "https://www.instagram.com/p/DXWjaZiiDw9/",
+   "author": "caesar.ia_",
+   "author_url": "https://www.instagram.com/caesar.ia_/",
+   "date": "2026-04-20",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Un dépôt GitHub pour donner de la mémoire à Claude Code",
+   "synopsis": "Le post promet un lien GitHub et des instructions pas à pas autour de la mémoire dans Claude Code. La légende ne décrit ni le mécanisme ni le dépôt, tout le contenu utile passant par un commentaire déclencheur de DM. Seuls les hashtags rattachent le sujet à Claude Code.",
+   "keywords": [
+    "Claude Code",
+    "mémoire",
+    "GitHub"
+   ],
+   "url": "https://www.instagram.com/p/DXSaEhIEteE/",
+   "author": "advicewithjean",
+   "author_url": "https://www.instagram.com/advicewithjean/",
+   "date": "2026-04-19",
+   "following": false,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Brancher Claude Code sur des modèles de code open source via Ollama",
+   "synopsis": "Le post explique comment faire tourner Claude Code sans coût en le connectant à des modèles locaux servis par Ollama. Trois familles sont citées comme les meilleurs modèles de code ouverts du moment : Qwen, Kimi et Gemma4. Le guide de configuration complet est réservé au DM derrière le mot-clé CODE.",
+   "keywords": [
+    "Ollama",
+    "Qwen",
+    "Kimi",
+    "Gemma4",
+    "Claude Code"
+   ],
+   "url": "https://www.instagram.com/p/DXUDCbZEzqp/",
+   "author": "wdf_ai",
+   "author_url": "https://www.instagram.com/wdf_ai/",
+   "date": "2026-04-19",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
    "title": "Fix how Claude builds backlinks in Obsidian",
    "synopsis": "The reel argues most people use Obsidian with Claude wrong because they ignore the network of backlinks between notes. Backlinks turn isolated notes into a knowledge graph that AI can navigate and understand. The creator shows how to instruct Claude to create those connections, since it won't do so automatically.",
    "keywords": [
@@ -873,6 +1206,41 @@
    "author": "sebastianhardy_",
    "author_url": "https://www.instagram.com/sebastianhardy_/",
    "date": "2026-04-12",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Une astuce pour économiser les tokens Claude, baptisée CAVEMAN",
+   "synopsis": "Le post promet une configuration permettant de réduire la consommation de tokens sur Claude et donc de repousser les limites d'usage. Tout le contenu utile est renvoyé en DM derrière le mot-clé CAVEMAN, la légende se limitant à une liste de hashtags. Ni la technique ni le dépôt GitHub sous-jacent ne sont décrits par écrit.",
+   "keywords": [
+    "Claude",
+    "consommation de tokens",
+    "limites d'usage",
+    "GitHub"
+   ],
+   "url": "https://www.instagram.com/p/DW-l9lQSFI0/",
+   "author": "trakin.ai",
+   "author_url": "https://www.instagram.com/trakin.ai/",
+   "date": "2026-04-11",
+   "following": false,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Kapso CLI donne un numéro WhatsApp à votre agent IA",
+   "synopsis": "Le post présente Kapso CLI, un outil qui attribue un numéro WhatsApp à un agent IA et fait de la messagerie une plateforme d'exécution de workflows. Les cas listés sont le support client à deux heures du matin, les relances commerciales, les confirmations de commande et la prise de rendez-vous avec rappel, le tout depuis une seule conversation. L'argument de marché est que plus de deux milliards de personnes utilisent déjà WhatsApp quotidiennement.",
+   "keywords": [
+    "Kapso CLI",
+    "WhatsApp",
+    "agents IA",
+    "support client",
+    "automatisation"
+   ],
+   "url": "https://www.instagram.com/p/DWUIs31jU39/",
+   "author": "thevibefounder",
+   "author_url": "https://www.instagram.com/thevibefounder/",
+   "date": "2026-03-25",
    "following": true,
    "confidence": "high"
   },
@@ -909,6 +1277,23 @@
    "author_url": "https://www.instagram.com/mattganzak/",
    "date": "2026-03-07",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Cinq agents Microsoft Copilot qui font gagner du temps dès aujourd'hui",
+   "synopsis": "Post en néerlandais qui part du constat que Microsoft Copilot reste flou à l'usage pour beaucoup d'utilisateurs. Il renvoie vers une vidéo gratuite présentant cinq agents Copilot applicables immédiatement dans le travail quotidien. Le contenu est un appât vers une ressource externe hébergée sur le site de l'auteur, sans détail des cas d'usage dans la légende.",
+   "keywords": [
+    "Microsoft Copilot",
+    "agents",
+    "productivité",
+    "formation"
+   ],
+   "url": "https://www.instagram.com/p/DTQcHnJAGf2/",
+   "author": "flowkify",
+   "author_url": "https://www.instagram.com/flowkify/",
+   "date": "2026-01-08",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -1519,6 +1904,24 @@
   },
   {
    "folder": "AI.CODE",
+   "title": "North Mini Code, l'alternative locale et Apache 2.0 de Cohere à Claude Code",
+   "synopsis": "Cohere publie North Mini Code, un modèle de code en mélange d'experts de 30 milliards de paramètres dont seulement 3 milliards sont actifs, ce qui donne la profondeur d'un grand modèle à la vitesse d'un petit. Il est sous licence Apache 2.0, à poids ouverts, et conçu pour le codage agentique : il planifie d'abord la tâche, écrit le code, puis le teste et le débogue seul. Sur l'index Coding d'Artificial Analysis il obtient 33,4, devançant des modèles ouverts quatre fois plus gros.",
+   "keywords": [
+    "North Mini Code",
+    "Cohere",
+    "Apache 2.0",
+    "mixture-of-experts",
+    "codage agentique"
+   ],
+   "url": "https://www.instagram.com/p/DZc2rBFMcs2/",
+   "author": "theopenstack",
+   "author_url": "https://www.instagram.com/theopenstack/",
+   "date": "2026-06-12",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
    "title": "840+ ChatGPT prompts pack for business roles",
    "synopsis": "The post promotes a free library of more than 840 ready-made ChatGPT prompts organized into 24 categories. The pitch is that these prompts turn ChatGPT into a combined marketing team, sales rep, copywriter, analyst, and developer. Every prompt is copy-paste ready and the pack is distributed as a lead magnet claimed to be used by 500,000+ professionals.",
    "keywords": [
@@ -2080,6 +2483,59 @@
   },
   {
    "folder": "AI.CODE",
+   "title": "Piloter Claude Code depuis son téléphone",
+   "synopsis": "Le post annonce qu'Anthropic permet désormais de contrôler Claude Code depuis un mobile, avec débogage à distance et développement en déplacement. L'auteur en tire la conclusion, volontairement provocatrice, que cela rend OpenClaw sans objet. La nouveauté est présentée comme datant de la veille, le guide de configuration passant par un commentaire.",
+   "keywords": [
+    "Claude Code",
+    "mobile",
+    "Anthropic",
+    "débogage à distance"
+   ],
+   "url": "https://www.instagram.com/p/DVLbin5k0TS/",
+   "author": "alassafi.ai",
+   "author_url": "https://www.instagram.com/alassafi.ai/",
+   "date": "2026-02-25",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "AXON : indexation de gros codebases exposée en MCP pour Claude Code et Codex",
+   "synopsis": "Le post s'adresse à ceux qui butent sur les grands dépôts avec Claude Code ou Codex, où le contexte ne suffit plus. Il signale un dépôt qui combine l'indexation du code avec le Model Context Protocol, de façon à donner à l'agent un accès structuré plutôt qu'une lecture séquentielle. Le nom du repo est conditionné à un commentaire, seul le mot-clé AXON étant donné.",
+   "keywords": [
+    "MCP",
+    "indexation de code",
+    "Claude Code",
+    "Codex",
+    "AXON"
+   ],
+   "url": "https://www.instagram.com/p/DVEbxVwEdn4/",
+   "author": "michaelpkocher",
+   "author_url": "https://www.instagram.com/michaelpkocher/",
+   "date": "2026-02-22",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Cinq alternatives à OpenClaw qui poussent l'agent personnel plus loin",
+   "synopsis": "Après le succès d'OpenClaw et ses 180 000 étoiles, l'auteur recense cinq projets qui en reprennent le principe en le spécialisant. NanoClaw tient en 500 lignes, garde mémoire, WhatsApp et planification, tourne dans des Apple Containers et permet de lancer des essaims d'agents depuis le chat ; ZeroClaw est écrit en Rust, tient en 3,4 Mo, fonctionne sur un appareil à 10 dollars et importe la mémoire OpenClaw ; TrustClaw isole les clés API de l'agent avec un millier d'intégrations sans configuration. Le post est un panorama d'écosystème plutôt qu'un tutoriel.",
+   "keywords": [
+    "OpenClaw",
+    "NanoClaw",
+    "ZeroClaw",
+    "TrustClaw",
+    "agents personnels"
+   ],
+   "url": "https://www.instagram.com/p/DU6RssVjn8e/",
+   "author": "thevibefounder",
+   "author_url": "https://www.instagram.com/thevibefounder/",
+   "date": "2026-02-18",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
    "title": "The four documents that turn vibe coding into actual engineering",
    "synopsis": "Having shipped an iOS app in 48 hours for a problem major AI companies dismissed as too niche, the creator credits a four-document framework rather than prompting and praying. The PRD defines what the app is and — more importantly — what it is not, preventing scope creep; the architecture doc tells the AI exactly how to organise folders and data so you avoid spaghetti code; and the AI rules doc encodes non-negotiables such as SwiftUI only and Keychain for secrets. The fourth is the plan, a step-by-step roadmap the agent must follow one step at a time before moving on, which is why he ended up with a working app rather than a pile of bugs.",
    "keywords": [
@@ -2094,6 +2550,319 @@
    "author_url": "https://www.instagram.com/donalleniii/",
    "date": "2026-02-15",
    "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Installer OpenClaw proprement sur un Mac mini dédié",
+   "synopsis": "Guide d'installation qui insiste sur l'isolement de la machine plutôt que sur la procédure elle-même : identifiant Apple neuf, machine dédiée, Homebrew installé correctement, Node en version 22 ou supérieure, passerelle active et bot en ligne. L'auteur souligne que l'étape d'isolation est celle que la plupart des gens sautent et regrettent ensuite. La recommandation de fond est de traiter ce Mac mini comme de l'infrastructure et non comme un poste personnel.",
+   "keywords": [
+    "OpenClaw",
+    "Mac mini",
+    "isolation",
+    "Homebrew",
+    "Node 22"
+   ],
+   "url": "https://www.instagram.com/p/DUscvh0D-OM/",
+   "author": "adamstewartmarketing",
+   "author_url": "https://www.instagram.com/adamstewartmarketing/",
+   "date": "2026-02-13",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Faire tourner Claude Code sur un modèle local avec Ollama en dix minutes",
+   "synopsis": "Tutoriel condensé qui enchaîne l'installation d'Ollama, le téléchargement d'un modèle et la configuration de Claude Code pour l'utiliser en local. L'objectif affiché est de coder avec un modèle qui tourne sur sa propre machine plutôt que via une API distante. Le post renvoie vers une vidéo YouTube pour la procédure complète.",
+   "keywords": [
+    "Ollama",
+    "Claude Code",
+    "modèle local",
+    "installation"
+   ],
+   "url": "https://www.instagram.com/p/DUgPbeKAcUd/",
+   "author": "vasilijnevlev",
+   "author_url": "https://www.instagram.com/vasilijnevlev/",
+   "date": "2026-02-08",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Installer Claude Code sans terminal, via Antigravity",
+   "synopsis": "Le post part d'un frein concret : tous les tutoriels Claude Code commencent par ouvrir un terminal, ce qui décourage les non-développeurs. La solution proposée est Antigravity, l'outil de code IA gratuit de Google, où il suffit de télécharger, se connecter avec un compte Google et installer Claude Code comme extension. L'installation est annoncée en moins de cinq minutes, sans ligne de commande.",
+   "keywords": [
+    "Claude Code",
+    "Antigravity",
+    "Google",
+    "installation",
+    "no-terminal"
+   ],
+   "url": "https://www.instagram.com/p/DUHGe05Dszy/",
+   "author": "liamjohnston.ai",
+   "author_url": "https://www.instagram.com/liamjohnston.ai/",
+   "date": "2026-01-29",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "AMD Ryzen AI Halo, un mini-PC pour faire tourner des LLM en local",
+   "synopsis": "AMD présente le Ryzen AI Halo, un mini-PC équipé du Ryzen AI Max+ qui vise une puissance de calcul IA de classe desktop avec graphiques intégrés. Le positionnement explicite est l'exécution de grands modèles de langage en local. La machine est annoncée prête dès le premier jour avec ROCm à jour, des workflows développeur optimisés et des applications et modèles IA préinstallés.",
+   "keywords": [
+    "AMD",
+    "Ryzen AI Max+",
+    "LLM local",
+    "ROCm",
+    "mini-PC"
+   ],
+   "url": "https://www.instagram.com/p/DT3ZShtCM0I/",
+   "author": "amd",
+   "author_url": "https://www.instagram.com/amd/",
+   "date": "2026-01-23",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "RT-DETR, le modèle de détection d'objets temps réel expliqué",
+   "synopsis": "Vulgarisation en français de RT-DETR, un modèle capable de détecter n'importe quel élément dans un flux vidéo : personne, véhicule, plante ou objet quelconque. Ses usages actuels sont concrets, du contrôle des bagages et objets dangereux en aéroport au comptage de véhicules sur autoroute pour évaluer la fluidité du trafic. Créé en 2023 par un géant technologique chinois, il se distingue par une latence de l'ordre du millième de seconde et une grande précision, avec pour horizon la conduite autonome, la robotique et la médecine.",
+   "keywords": [
+    "RT-DETR",
+    "détection d'objets",
+    "temps réel",
+    "vision par ordinateur",
+    "Ultralytics"
+   ],
+   "url": "https://www.instagram.com/p/DTnnjT8iLTK/",
+   "author": "martin.dev.saas",
+   "author_url": "https://www.instagram.com/martin.dev.saas/",
+   "date": "2026-01-17",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Le plugin frontend-design de Claude Code, jour 237",
+   "synopsis": "Note de journal de développement saluant la sortie par Anthropic d'un plugin Claude Code doté d'un skill frontend-design. L'intérêt mis en avant est de produire des interfaces qui échappent à l'uniformité des UI générées par IA. Le post reste un signalement enthousiaste, sans démonstration détaillée du rendu.",
+   "keywords": [
+    "Claude Code",
+    "frontend-design",
+    "plugin",
+    "UI"
+   ],
+   "url": "https://www.instagram.com/p/DTQ4tbsABGV/",
+   "author": "laforet.dev",
+   "author_url": "https://www.instagram.com/laforet.dev/",
+   "date": "2026-01-08",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Une extension Chrome qui réécrit automatiquement les prompts ChatGPT et Claude",
+   "synopsis": "Présentation d'une extension navigateur qui optimise un prompt en un clic directement dans l'interface de ChatGPT et de Claude. La promesse est d'obtenir des réponses plus claires et plus exploitables sans avoir à formuler soi-même un prompt élaboré. L'extension n'est pas nommée dans la légende et aucune comparaison avant/après n'est fournie par écrit.",
+   "keywords": [
+    "prompt engineering",
+    "extension Chrome",
+    "ChatGPT",
+    "Claude"
+   ],
+   "url": "https://www.instagram.com/p/DS-Xh-kgoi8/",
+   "author": "ia.boss.officiel",
+   "author_url": "https://www.instagram.com/ia.boss.officiel/",
+   "date": "2026-01-01",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Ce que Claude Opus 4.5 arrive réellement à construire",
+   "synopsis": "Le post met Claude Opus 4.5 à l'épreuve sur une application complète et en liste le résultat : interface moderne soignée, authentification avec login, et backend fonctionnel. L'argument de fond est que la capacité à produire du logiciel devient l'actif à posséder. La démonstration reste déclarative dans la légende, sans détail sur la stack ni le nombre d'itérations.",
+   "keywords": [
+    "Claude Opus 4.5",
+    "génération de code",
+    "application full-stack",
+    "authentification"
+   ],
+   "url": "https://www.instagram.com/p/DSyK9RNEkmY/",
+   "author": "sina.growthtech",
+   "author_url": "https://www.instagram.com/sina.growthtech/",
+   "date": "2025-12-27",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Douze outils IA gratuits de Google en alternative à Cursor et Lovable",
+   "synopsis": "Le post part du coût des outils de code payants (Cursor, Lovable) et de leurs limites de crédits pour proposer douze outils Google gratuits. Il détaille notamment Antigravity, qui construit des applications complètes depuis un prompt à la manière de Cursor, Opal pour des applications no-code générées par Gemini, Stitch qui transforme des wireframes en interfaces avec le code front, et Jules qui se connecte à GitHub pour gérer un codebase de façon autonome. La liste complète est réservée au DM.",
+   "keywords": [
+    "Google",
+    "Antigravity",
+    "Jules",
+    "Stitch",
+    "Opal"
+   ],
+   "url": "https://www.instagram.com/p/DSyHciHjOIF/",
+   "author": "itsjamesmwild",
+   "author_url": "https://www.instagram.com/itsjamesmwild/",
+   "date": "2025-12-27",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Trois sites gratuits pour améliorer ses prompts, liens en DM",
+   "synopsis": "Le post annonce trois ressources gratuites classées par usage : des prompts prêts à l'emploi, des générateurs de prompts sur mesure et des prompts longs destinés à obtenir des réponses plus profondes. Aucun des trois sites n'est nommé dans la légende, les liens étant conditionnés à un commentaire. La valeur annoncée tient donc entièrement dans le contenu de la vidéo et le DM.",
+   "keywords": [
+    "prompts",
+    "ressources gratuites",
+    "prompt engineering"
+   ],
+   "url": "https://www.instagram.com/p/DSwq7M9lAex/",
+   "author": "sebintel",
+   "author_url": "https://www.instagram.com/sebintel/",
+   "date": "2025-12-27",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Code Wiki : Google transforme un dépôt GitHub en documentation vivante interrogeable",
+   "synopsis": "Le post présente Code Wiki, un outil Google qui lit un dépôt GitHub entier et le convertit en documentation structurée qui se met à jour seule. Le problème visé est le temps qu'un développeur passe à comprendre le code d'autrui, souvent plusieurs semaines pour cartographier les appels de fonctions. L'outil produit documentation, diagrammes et un chatbot appuyé sur Gemini capable de répondre sur la base réelle du code.",
+   "keywords": [
+    "Code Wiki",
+    "Google",
+    "Gemini",
+    "documentation",
+    "onboarding développeur"
+   ],
+   "url": "https://www.instagram.com/p/DSrn8Nkiby3/",
+   "author": "100xengineers",
+   "author_url": "https://www.instagram.com/100xengineers/",
+   "date": "2025-12-25",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "L'IA de création de sites la mieux classée du moment, selon l'auteur",
+   "synopsis": "Reel en français vantant un générateur de sites web qui produit des pages premium et animées depuis un simple prompt, sans code ni configuration. L'argument est le passage direct du prompt au site prêt à déployer. Le nom de l'outil n'apparaît pas dans la légende, qui reste au niveau du claim de classement.",
+   "keywords": [
+    "génération de sites",
+    "no-code",
+    "webdesign",
+    "prompt-to-site"
+   ],
+   "url": "https://www.instagram.com/p/DRhtsDiAvPD/",
+   "author": "ia.boss.officiel",
+   "author_url": "https://www.instagram.com/ia.boss.officiel/",
+   "date": "2025-11-26",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Un dépôt GitHub qui recense des centaines d'API gratuites par catégorie",
+   "synopsis": "Le post présente un répertoire GitHub regroupant des centaines d'API publiques et gratuites, classées par domaine : programmation, finance, actualité, divertissement. L'auteur explique la notion d'API par l'exemple d'un tracker crypto branché sur une API financière pour récupérer des prix en temps réel. La ressource est positionnée pour qui construit des applications, des outils IA ou des automatisations, mais le lien est réservé aux commentaires.",
+   "keywords": [
+    "GitHub",
+    "API publiques",
+    "développement",
+    "ressources gratuites"
+   ],
+   "url": "https://www.instagram.com/p/DRFOqJADUtV/",
+   "author": "drcintas",
+   "author_url": "https://www.instagram.com/drcintas/",
+   "date": "2025-11-15",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Ultimate Web Scraper, une extension Chrome d'extraction de données",
+   "synopsis": "Le post nomme une extension Chrome appelée Ultimate Web Scraper, positionnée pour extraire des données de pages web sans écrire de code. La légende se limite au nom de l'outil et à des hashtags orientés e-commerce et productivité. Le fonctionnement réel, les limites et le modèle tarifaire ne sont pas abordés dans le texte.",
+   "keywords": [
+    "web scraping",
+    "extension Chrome",
+    "extraction de données",
+    "e-commerce"
+   ],
+   "url": "https://www.instagram.com/p/DRFf8-JDxhS/",
+   "author": "arthur.webscraping",
+   "author_url": "https://www.instagram.com/arthur.webscraping/",
+   "date": "2025-11-15",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Cent agents construits en un jour avec Lovable et Neural Seek",
+   "synopsis": "L'auteur affirme avoir généré cent agents IA en une seule journée en combinant Lovable et un outil nommé Neural Seek, chaque agent étant produit à partir d'un unique prompt décrivant le cas d'usage. Il détaille l'un d'eux, un générateur de scripts vidéo auquel on donne le type de vidéo, l'audience et le message clé, et qui rend en quelques secondes un script professionnel complet avec voix off et indications de caméra. Il en tire une provocation sur la société Writer, valorisée deux milliards de dollars pour une bibliothèque d'une centaine d'agents, et résume le basculement par la formule : ce n'est plus du no-code, c'est du no-work.",
+   "keywords": [
+    "Neural Seek",
+    "Lovable",
+    "agents IA",
+    "génération de scripts",
+    "n8n"
+   ],
+   "url": "https://www.instagram.com/p/DQnShouDIns/",
+   "author": "liambuilds.ai",
+   "author_url": "https://www.instagram.com/liambuilds.ai/",
+   "date": "2025-11-04",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Construire un workflow n8n complet en un prompt via le MCP n8n de Claude Desktop",
+   "synopsis": "Tutoriel qui présente le Model Context Protocol comme une connexion unique entre Claude Desktop et les autres outils, plutôt qu'une intégration par outil. L'auteur déroule l'installation complète (Claude Desktop, Node.js, puis le serveur n8n-mcp) et sa configuration. Il s'en sert ensuite pour faire générer une automatisation n8n entière à partir d'un seul prompt, en opposition au montage manuel d'un agent IA dans n8n.",
+   "keywords": [
+    "MCP",
+    "n8n",
+    "Claude Desktop",
+    "n8n-mcp",
+    "automatisation"
+   ],
+   "url": "https://www.instagram.com/p/DQOwhO7j_DJ/",
+   "author": "mich.alcalde5",
+   "author_url": "https://www.instagram.com/mich.alcalde5/",
+   "date": "2025-10-25",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "AI Hedge Fund Bot V2 : un bot Telegram de gestion de portefeuille monté sur n8n",
+   "synopsis": "Démonstration de la version 2 d'un bot Telegram qui joue le rôle d'assistant d'investissement : commandes pour consulter le portefeuille, analyser un actif, demander un avis et suivre la performance. L'ensemble agrège plusieurs sources de données financières et est orchestré côté automatisation avec n8n. Le format reste une présentation de fonctionnalités, sans démonstration de résultats de performance.",
+   "keywords": [
+    "n8n",
+    "Telegram bot",
+    "portefeuille",
+    "agent IA"
+   ],
+   "url": "https://www.instagram.com/p/DP_g60TDFw8/",
+   "author": "greymatter_ai",
+   "author_url": "https://www.instagram.com/greymatter_ai/",
+   "date": "2025-10-19",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Un détecteur d'écriture assistée qui rejoue la rédaction d'un devoir",
+   "synopsis": "Présentation en français d'un outil destiné aux enseignants qui reconstitue la manière dont un texte a été écrit : durée de rédaction, rythme de frappe et passages collés depuis une autre source. L'argument est qu'il devient très difficile de faire passer un texte ChatGPT pour un devoir personnel, la détection portant sur le processus d'écriture plutôt que sur le style du résultat. Le créateur laisse ouverte la question de savoir si c'est souhaitable et sollicite l'avis en commentaires.",
+   "keywords": [
+    "détection IA",
+    "ChatGPT",
+    "éducation",
+    "intégrité académique"
+   ],
+   "url": "https://www.instagram.com/p/DNOUA7ctMN2/",
+   "author": "leoodeep",
+   "author_url": "https://www.instagram.com/leoodeep/",
+   "date": "2025-08-11",
+   "following": true,
    "confidence": "high"
   },
   {
@@ -2777,6 +3546,41 @@
   },
   {
    "folder": "AI.ETHICS",
+   "title": "Lucy 2.0 de Decart remplace votre visage en direct sur la webcam",
+   "synopsis": "Decart a publié Lucy 2.0, un modèle qui substitue en temps réel un autre personnage au flux de la webcam, en 1080p à 30 images par seconde et avec une latence minimale. Le modèle est pour l'instant non censuré, ce qui inquiète une partie des créateurs de contenu vidéo. L'auteur élargit le propos au-delà du deepfake : la capacité à styliser une image entière en direct change la production vidéo elle-même.",
+   "keywords": [
+    "Decart",
+    "Lucy 2.0",
+    "temps réel",
+    "deepfake",
+    "webcam"
+   ],
+   "url": "https://www.instagram.com/p/DUVAsbSjGpb/",
+   "author": "yury.ai",
+   "author_url": "https://www.instagram.com/yury.ai/",
+   "date": "2026-02-04",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.ETHICS",
+   "title": "Alfred, un assistant OpenClaw doté de son propre numéro de téléphone",
+   "synopsis": "L'auteur raconte la mise en service de son propre agent de type clawbot, baptisé Alfred, auquel il a attribué une ligne téléphonique pour qu'il puisse passer des appels. La première initiative de l'agent a été de le piéger avec un Rickroll, avant qu'il ne le charge d'appeler ses amis pour se présenter. Un extrait d'appel réel est diffusé, où Alfred se présente comme l'assistant personnel de son propriétaire et demande à son interlocuteur d'enregistrer le numéro.",
+   "keywords": [
+    "OpenClaw",
+    "assistant personnel",
+    "appels téléphoniques",
+    "agents autonomes"
+   ],
+   "url": "https://www.instagram.com/p/DUR-SUIk1ov/",
+   "author": "aiwithremy",
+   "author_url": "https://www.instagram.com/aiwithremy/",
+   "date": "2026-02-03",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.ETHICS",
    "title": "Spain regularizes half a million migrant workers",
    "synopsis": "The Party of European Socialists highlights Spain's decision under Pedro Sanchez to regularize around half a million migrants who already contribute through their work. The framing asks when recognising rights became radical and empathy exceptional. It is political messaging presenting the move as a choice of dignity, community, and justice.",
    "keywords": [
@@ -2790,6 +3594,41 @@
    "author_url": "https://www.instagram.com/pes_pse/",
    "date": "2026-02-02",
    "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.ETHICS",
+   "title": "Moldbook, le réseau social réservé aux agents IA où les humains ne peuvent qu'observer",
+   "synopsis": "Le post décrit Moldbook, un réseau social ouvert le 27 janvier sur lequel seuls des agents IA peuvent publier, discuter, voter et débattre, les humains étant admis en simple spectateurs sans droit de publication. Le site dispose même de son propre captcha, destiné cette fois à vérifier qu'on n'est pas humain. L'auteur note que le ton, d'abord anodin — des agents échangeant sur la correction de leurs propres erreurs de génération —, dérive rapidement vers des discussions qu'il juge dérangeantes, jusqu'à des scénarios de prise de contrôle du monde.",
+   "keywords": [
+    "Moldbook",
+    "réseau social d'agents",
+    "IA autonome",
+    "éthique"
+   ],
+   "url": "https://www.instagram.com/p/DURNU9fiJqd/",
+   "author": "yasware_",
+   "author_url": "https://www.instagram.com/yasware_/",
+   "date": "2026-02-02",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.ETHICS",
+   "title": "Le datacenter construit en 122 jours qui consomme l'eau d'une ville",
+   "synopsis": "Numerama met en cause l'empreinte environnementale d'un datacenter érigé en 122 jours par un des hommes les plus puissants du monde, avec Elon Musk et Grok explicitement visés par les hashtags. Le reproche porte sur une consommation d'eau équivalente à celle d'une ville et sur la pollution de l'air alentour. Le format est éditorial et indigné, l'argumentation chiffrée restant dans la vidéo.",
+   "keywords": [
+    "datacenter",
+    "Elon Musk",
+    "Grok",
+    "empreinte environnementale",
+    "eau"
+   ],
+   "url": "https://www.instagram.com/p/DUK3QMxDymJ/",
+   "author": "numerama",
+   "author_url": "https://www.instagram.com/numerama/",
+   "date": "2026-01-31",
+   "following": true,
    "confidence": "high"
   },
   {
@@ -2829,6 +3668,23 @@
   },
   {
    "folder": "AI.ETHICS",
+   "title": "Une université tech berlinoise où l'on est noté sur sa propre startup",
+   "synopsis": "Présentation d'une université technologique de Berlin qui remplace cours magistraux et examens standardisés par la création d'entreprise : les étudiants montent leur société et sont évalués dessus, et pitchent devant des investisseurs plutôt que de passer des QCM. Les enseignants sont des entrepreneurs ayant revendu des sociétés valorisées en millions, et l'école est sponsorisée par de grandes entreprises qui recrutent avant la fin du cursus. L'établissement revendique plus de 1,4 milliard de dollars levés par les startups issues de ses rangs.",
+   "keywords": [
+    "éducation",
+    "Berlin",
+    "entrepreneuriat",
+    "université tech"
+   ],
+   "url": "https://www.instagram.com/p/DT-qXK-DO6j/",
+   "author": "codeuniversity",
+   "author_url": "https://www.instagram.com/codeuniversity/",
+   "date": "2026-01-26",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.ETHICS",
    "title": "Le Monde: how to protect yourself from facial recognition",
    "synopsis": "Le Monde explores practical defenses against facial recognition with AmyPlant, a coder who built software that recognizes people in the street. By demonstrating how easily identification works, the video makes the surveillance threat concrete. It then discusses countermeasures citizens can use to protect their biometric privacy.",
    "keywords": [
@@ -2864,6 +3720,23 @@
   },
   {
    "folder": "AI.ETHICS",
+   "title": "L'arme commerciale extrême dont dispose l'UE face aux géants tech américains",
+   "synopsis": "Numerama présente un instrument commercial européen décrit comme une arme extrême, mobilisable contre les grandes entreprises technologiques américaines. Le post évoque la possibilité qu'Emmanuel Macron y ait recours, plaçant le sujet sur le terrain du rapport de force politique plutôt que réglementaire. Le mécanisme lui-même n'est pas nommé dans la légende, qui sert d'accroche vers la vidéo.",
+   "keywords": [
+    "Union européenne",
+    "souveraineté numérique",
+    "big tech",
+    "régulation"
+   ],
+   "url": "https://www.instagram.com/p/DTsz5egjhdB/",
+   "author": "numerama",
+   "author_url": "https://www.instagram.com/numerama/",
+   "date": "2026-01-19",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.ETHICS",
    "title": "Laurent Alexandre on AI doctors and augmented children",
    "synopsis": "French futurist Laurent Alexandre appears on a podcast to ask whether AI will replace doctors and whether we should one day 'augment' our children. The conversation is presented as both fascinating and frightening, tackling transhumanist questions without filter. It is provocation-driven French commentary on medicine and human enhancement.",
    "keywords": [
@@ -2877,6 +3750,23 @@
    "author_url": "https://www.instagram.com/lepodcaststudio/",
    "date": "2026-01-18",
    "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.ETHICS",
+   "title": "Pourquoi travailler encore 8 heures par jour, question posée à ChatGPT",
+   "synopsis": "Reprise d'une question soumise à ChatGPT : pourquoi la journée de travail reste de huit heures alors que richesse, technologie et automatisation n'ont jamais été aussi élevées. Le post relaie la réponse du modèle comme support de réflexion sur le développement personnel et l'indépendance financière. Le contenu est un commentaire de société plutôt qu'une information technique sur l'IA.",
+   "keywords": [
+    "ChatGPT",
+    "automatisation",
+    "futur du travail",
+    "société"
+   ],
+   "url": "https://www.instagram.com/p/DStKLhYjM3f/",
+   "author": "unefille.ia",
+   "author_url": "https://www.instagram.com/unefille.ia/",
+   "date": "2025-12-25",
+   "following": true,
    "confidence": "high"
   },
   {
@@ -2966,6 +3856,24 @@
   },
   {
    "folder": "AI.ETHICS",
+   "title": "MacroHard : l'entreprise logicielle sans employés comme test grandeur nature",
+   "synopsis": "Le post commente le projet MacroHard attribué à Elon Musk, une société logicielle revendiquée sans employés. L'auteur déplace l'intérêt du clin d'oeil à Microsoft vers la vraie question : savoir si une chaîne où l'IA conçoit, teste et livre peut remplacer un organigramme entier. Il souligne que le point sensible est la captation de la valeur par la propriété du capital plutôt que la prouesse technique.",
+   "keywords": [
+    "MacroHard",
+    "xAI",
+    "agents IA",
+    "futur du travail",
+    "automatisation"
+   ],
+   "url": "https://www.instagram.com/p/DSQq375jBkg/",
+   "author": "assmooorre.ai",
+   "author_url": "https://www.instagram.com/assmooorre.ai/",
+   "date": "2025-12-14",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.ETHICS",
    "title": "EU Parliament backs minimum age of 16 for social media",
    "synopsis": "7News Australia reports that the European Parliament voted in favour of imposing a minimum age of 16 on social media sites. The vote signals growing EU-level momentum for restricting minors' access to social platforms. It follows Australia's own pioneering under-16 social media ban and feeds the global child-online-safety debate.",
    "keywords": [
@@ -2977,6 +3885,23 @@
    "author": "7newsaustralia",
    "author_url": "https://www.instagram.com/7newsaustralia/",
    "date": "2025-11-26",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.ETHICS",
+   "title": "AgiBot A2 : 106 km à pied en trois jours, un record Guinness pour un humanoïde",
+   "synopsis": "Extrait du 20h de France Télévisions consacré au robot chinois AgiBot A2, haut de 1,69 m, qui vient de parcourir 106 kilomètres à pied en trois jours. La performance lui vaut une entrée au Guinness des records comme plus longue distance jamais marchée par une machine humanoïde. Le sujet est traité en brève d'actualité, sans détail technique sur l'autonomie ou la motorisation.",
+   "keywords": [
+    "AgiBot A2",
+    "robotique humanoïde",
+    "Chine",
+    "record"
+   ],
+   "url": "https://www.instagram.com/p/DRfR6zniNAI/",
+   "author": "le20hfrancetelevisions",
+   "author_url": "https://www.instagram.com/le20hfrancetelevisions/",
+   "date": "2025-11-25",
    "following": false,
    "confidence": "high"
   },
@@ -3017,6 +3942,24 @@
   },
   {
    "folder": "AI.ETHICS",
+   "title": "Le CL-1 de Cortical Labs, un bio-ordinateur à neurones humains vendu 35 000 $",
+   "synopsis": "Le post détaille le CL-1 de la société australienne Cortical Labs, un dispositif commercialisé depuis 2025 qui cultive des neurones humains issus de cellules souches sur des puces en silicium. Lancé au Mobile World Congress 2025, il est vendu autour de 35 000 dollars et combine tissu vivant et circuits électroniques. Les sources sont citées (National Geographic, Cortical Labs, PMC), ce qui rend l'information vérifiable.",
+   "keywords": [
+    "Cortical Labs",
+    "CL-1",
+    "bio-ordinateur",
+    "neurones",
+    "calcul biologique"
+   ],
+   "url": "https://www.instagram.com/p/DQw0xr8CD_1/",
+   "author": "billionsofficiel",
+   "author_url": "https://www.instagram.com/billionsofficiel/",
+   "date": "2025-11-07",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.ETHICS",
    "title": "Laurent Alexandre: 'It is reasonable to stop studying'",
    "synopsis": "L'Express features Laurent Alexandre, former surgeon and author of 'Ne faites plus d'etudes !', arguing universities have fallen so far behind AI that skipping higher education is now reasonable. His core claim is that raw intelligence has lost its market value against AI. The clip is deliberately provocative fuel for the education-versus-AI debate.",
    "keywords": [
@@ -3029,6 +3972,23 @@
    "author": "lexpressfr",
    "author_url": "https://www.instagram.com/lexpressfr/",
    "date": "2025-10-08",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.ETHICS",
+   "title": "Des virus générés par IA mobilisés contre l'antibiorésistance",
+   "synopsis": "Le post rapporte la création des premiers virus entièrement conçus par intelligence artificielle, présentés comme des bactériophages capables de s'attaquer à des bactéries résistantes aux antibiotiques. L'angle est celui d'une vulgarisation scientifique rapide : une capacité générative appliquée au vivant plutôt qu'au texte ou à l'image. La légende reste courte et ne cite ni l'équipe ni la publication, donc l'affirmation est à recouper.",
+   "keywords": [
+    "biologie générative",
+    "bactériophages",
+    "antibiorésistance",
+    "recherche IA"
+   ],
+   "url": "https://www.instagram.com/p/DPBqI5ekUl2/",
+   "author": "parthknowsai",
+   "author_url": "https://www.instagram.com/parthknowsai/",
+   "date": "2025-09-25",
    "following": true,
    "confidence": "high"
   },
@@ -3897,6 +4857,24 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Google Vids génère des vidéos avec un présentateur IA gratuitement",
+   "synopsis": "Google Workspace a mis à jour Google Vids pour permettre de produire des vidéos portées par un présentateur numérique : on se rend sur vids.new, on téléverse un deck Google Slides et l'outil le transforme en vidéo dont l'avatar lit le script. On choisit un avatar parmi une galerie de 53 ou on en construit un avec Nano Banana 2, et les avatars parlent désormais 24 langues, ce qui permet de présenter en anglais puis en arabe avec la même identité. L'offre gratuite donne droit à dix vidéos.",
+   "keywords": [
+    "Google Vids",
+    "avatar IA",
+    "Nano Banana 2",
+    "Google Workspace",
+    "multilingue"
+   ],
+   "url": "https://www.instagram.com/p/DZz5mVDMPcZ/",
+   "author": "yury.ai",
+   "author_url": "https://www.instagram.com/yury.ai/",
+   "date": "2026-06-20",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "A copy-paste loop library for Claude and Codex agents",
    "synopsis": "The creator shares a library of agent loops usable with both Claude and Codex. You copy and paste it in, and the agent takes care of setting up the loop best suited to your project. The clip is a short French tip aimed at terminal-based coding agents.",
    "keywords": [
@@ -3931,6 +4909,183 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "GLM-5.2 amène le niveau Opus 4.8 sur une machine personnelle",
+   "synopsis": "Le post annonce qu'un modèle à poids ouverts atteint désormais le niveau de Claude Opus 4.8 et de GPT-5.5 tout en tournant intégralement en local, sans cloud ni abonnement, un développeur le faisant déjà tourner sur un Mac Studio. Le modèle est GLM-5.2, publié gratuitement par le laboratoire Z.ai. Il totalise 744 milliards de paramètres et une fenêtre de contexte d'un million de tokens, et se situe au niveau d'Opus 4.8, GPT-5.5 et Gemini 3.1 Pro sur Artificial Analysis et plusieurs benchmarks de code.",
+   "keywords": [
+    "GLM-5.2",
+    "Z.ai",
+    "modèle local",
+    "poids ouverts",
+    "Mac Studio"
+   ],
+   "url": "https://www.instagram.com/p/DZx4u4Zkvg0/",
+   "author": "timothybramlett",
+   "author_url": "https://www.instagram.com/timothybramlett/",
+   "date": "2026-06-19",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "La configuration open source du gagnant d'un hackathon Anthropic",
+   "synopsis": "Le vainqueur d'un hackathon Anthropic doté de 15 000 euros a publié l'intégralité de sa configuration IA en open source, déjà sauvegardée par plus de 218 000 personnes sur GitHub. Le paquet réunit plus de 200 skills prêts à l'emploi, 60 agents spécialisés couvrant notamment la sécurité, la recherche et le développement, et 80 commandes. Il est annoncé compatible avec Claude, Cursor, Codex et Gemini, et installable en une seule opération.",
+   "keywords": [
+    "hackathon Anthropic",
+    "skills",
+    "agents",
+    "GitHub",
+    "open source"
+   ],
+   "url": "https://www.instagram.com/p/DZx79O6R3yV/",
+   "author": "bapt.autoai",
+   "author_url": "https://www.instagram.com/bapt.autoai/",
+   "date": "2026-06-19",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Neuf prompts de selfies qui passent pour de vraies photos",
+   "synopsis": "L'autrice partage une collection de neuf prompts destinés à produire des selfies indiscernables de vraies photos de pellicule. Les registres couverts sont le selfie au 0.5, le selfie pris par accident, le selfie de voyage et plus largement le type de cliché qui semble sorti directement de la galerie du téléphone. Le post est publié en anglais et en turc et invite à sauvegarder la liste.",
+   "keywords": [
+    "selfies IA",
+    "prompts",
+    "photoréalisme",
+    "réseaux sociaux"
+   ],
+   "url": "https://www.instagram.com/p/DZsaQSTjHcI/",
+   "author": "sheiskatre",
+   "author_url": "https://www.instagram.com/sheiskatre/",
+   "date": "2026-06-17",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Sept outils Claude Code qui montent en ce moment",
+   "synopsis": "Panorama en français de sept extensions Claude Code avec leur traction chiffrée. Obsidian Skills, écrit par le CEO d'Obsidian, transforme Claude en second cerveau et compte 7 000 étoiles ; n8n-MCP donne à Claude la maîtrise de plus de mille nodes n8n pour construire des automatisations prêtes pour la production au lieu de les deviner ; UI UX Pro Max, à 16 000 étoiles, apporte 50 styles, 79 palettes et des design systems auto-générés pour éviter le rendu générique ; Claude Memory a réuni 20 000 étoiles en deux jours autour d'une mémoire persistante.",
+   "keywords": [
+    "Claude Code",
+    "Obsidian Skills",
+    "n8n-MCP",
+    "UI UX Pro Max",
+    "Claude Memory"
+   ],
+   "url": "https://www.instagram.com/p/DZsWmv4iLpG/",
+   "author": "ericdjav.ai",
+   "author_url": "https://www.instagram.com/ericdjav.ai/",
+   "date": "2026-06-17",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Un pack de prompts de poses pour visuels de marque",
+   "synopsis": "Un studio de design propose son pack complet de prompts orientés poses, envoyé en message privé contre un commentaire. Le post sert autant de ressource que de démarchage, l'auteur invitant explicitement les créateurs et dirigeants à faire appel à son studio pour leurs visuels. Les hashtags rattachent la pratique à Gemini et Canva pour la production de miniatures et d'affiches.",
+   "keywords": [
+    "prompts",
+    "poses",
+    "Gemini",
+    "Canva",
+    "branding"
+   ],
+   "url": "https://www.instagram.com/p/DZpuarhCfdf/",
+   "author": "design_insignia_",
+   "author_url": "https://www.instagram.com/design_insignia_/",
+   "date": "2026-06-16",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Un lien OpenClaw distribué par DM, sans contenu écrit",
+   "synopsis": "Le post se limite à proposer l'envoi d'un lien contre un commentaire, avec pour seul contexte quatre hashtags renvoyant à OpenClaw, Claude et les agents IA. Ni l'outil, ni le problème traité, ni le résultat ne sont décrits. Le contenu utile réside entièrement dans la vidéo et le message privé.",
+   "keywords": [
+    "OpenClaw",
+    "agents IA",
+    "Claude"
+   ],
+   "url": "https://www.instagram.com/p/DZjnKeYEX60/",
+   "author": "divyannshisharma",
+   "author_url": "https://www.instagram.com/divyannshisharma/",
+   "date": "2026-06-14",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Le récapitulatif hebdomadaire IA : modèle de code chinois, mondes 3D, 80 modèles NVIDIA",
+   "synopsis": "Format de revue hebdomadaire qui condense l'actualité IA en moins de soixante secondes. En tête, la Chine publie un modèle de code open source présenté comme dépassant Claude Opus 4.8 gratuitement, et un autre outil permet de créer des mondes 3D entièrement interactifs et explorables en temps réel. En sixième position figure la plateforme NVIDIA donnant accès gratuitement à plus de quatre-vingts modèles, de DiffusionGemma à Nemotron 3 Ultra, sur simple clé API.",
+   "keywords": [
+    "revue IA",
+    "modèle open source",
+    "NVIDIA",
+    "mondes 3D",
+    "Claude Opus 4.8"
+   ],
+   "url": "https://www.instagram.com/p/DZkbqcGxvQN/",
+   "author": "drcintas",
+   "author_url": "https://www.instagram.com/drcintas/",
+   "date": "2026-06-14",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Nemotron 3 Ultra, le plus gros modèle ouvert publié par NVIDIA",
+   "synopsis": "Le post présente Nemotron 3 Ultra comme une alternative gratuite à Claude : 550 milliards de paramètres, une fenêtre de contexte d'un million de tokens, et le plus grand modèle ouvert jamais livré par NVIDIA. L'architecture est un mélange d'experts qui planifie la tâche, écrit le code, puis le teste et le débogue seul, ce qui en fait un agent complet et non un simple chatbot. Il est annoncé jusqu'à cinq fois plus rapide que les autres modèles ouverts de sa taille, l'auteur le testant sur une landing page premium à défilement.",
+   "keywords": [
+    "Nemotron 3 Ultra",
+    "NVIDIA",
+    "mixture-of-experts",
+    "modèle ouvert",
+    "agent"
+   ],
+   "url": "https://www.instagram.com/p/DZXvn-ZsKGp/",
+   "author": "theopenstack",
+   "author_url": "https://www.instagram.com/theopenstack/",
+   "date": "2026-06-09",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Configurer la mémoire et les instructions globales de Claude Cowork",
+   "synopsis": "Tutoriel pas à pas pour doter Claude Cowork d'un contexte durable : ouvrir les paramètres, aller dans Cowork puis Instructions globales, coller un premier prompt fourni par l'auteur après avoir remplacé les éléments variables, et enregistrer. On crée ensuite un fichier déposé dans Cowork, on autorise l'accès, on envoie un second prompt et on répond aux questions posées par l'assistant. Au terme de l'opération, Cowork détient les informations sur l'utilisateur et son activité, dispose de mémoire et de règles, et s'améliore avec le temps, avant d'ajouter connecteurs et skills depuis Customize.",
+   "keywords": [
+    "Claude Cowork",
+    "instructions globales",
+    "mémoire",
+    "connecteurs",
+    "skills"
+   ],
+   "url": "https://www.instagram.com/p/DZVUWUmJX-E/",
+   "author": "jules_api",
+   "author_url": "https://www.instagram.com/jules_api/",
+   "date": "2026-06-08",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Claude Certified Architect, la certification IA que Deloitte finance en masse",
+   "synopsis": "Le post signale une certification IA gratuite proposée par Anthropic, présentée comme l'équivalent d'une certification AWS transposée à l'IA, et que Deloitte finance pour des milliers de ses employés. Il insiste sur son sérieux : deux heures d'épreuve, soixante questions, examen surveillé avec webcam obligatoire, et un programme portant sur la construction d'agents et la mise en place d'un pipeline de déploiement. Le parcours tient en quatre étapes : rejoindre gratuitement le réseau partenaire, suivre les modules de préparation, passer l'examen blanc puis réserver l'examen officiel.",
+   "keywords": [
+    "Claude Certified Architect",
+    "certification",
+    "Anthropic",
+    "Deloitte",
+    "agents"
+   ],
+   "url": "https://www.instagram.com/p/DZVLkP_OIGM/",
+   "author": "jb.roy_",
+   "author_url": "https://www.instagram.com/jb.roy_/",
+   "date": "2026-06-08",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "3D City Ticket Poster Prompt Pack",
    "synopsis": "This carousel showcases a \"3D City Ticket Poster\" image-generation prompt for stylized city-themed poster art. The prompts are sent by DM to anyone commenting \"AI\". The caption never names the underlying image model, so the exact tool is unknown.",
    "keywords": [
@@ -3947,6 +5102,161 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Une cellule piégée suffit à exfiltrer un classeur via ChatGPT dans Sheets",
+   "synopsis": "Le post décrit une attaque par injection de prompt visant l'intégration ChatGPT dans Google Sheets : une cellule malveillante suffit à faire fuiter le contenu du classeur, sans alerte pour l'utilisateur. La démonstration est attribuée à PromptArmor, avec un rapport public daté du 27 mai 2026. Les sources sont listées, dont une discussion technique nourrie sur Hacker News, ce qui en fait un signalement de sécurité documenté.",
+   "keywords": [
+    "prompt injection",
+    "Google Sheets",
+    "PromptArmor",
+    "exfiltration de données",
+    "sécurité IA"
+   ],
+   "url": "https://www.instagram.com/p/DZIbWQeKJ3Q/",
+   "author": "bariqrifki",
+   "author_url": "https://www.instagram.com/bariqrifki/",
+   "date": "2026-06-03",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Deux GB10 de plus dans un laboratoire IA personnel",
+   "synopsis": "Post d'un professionnel de la sécurité qui annonce l'ajout de deux machines GB10 à son laboratoire IA personnel, avec le soutien de son employeur Trendyol. Le propos de fond est une conviction sur les modèles ouverts et les outils agentiques comme moteur du potentiel humain. Il s'agit d'un post de posture et d'équipement plutôt que d'une présentation technique.",
+   "keywords": [
+    "GB10",
+    "laboratoire IA",
+    "modèles ouverts",
+    "agentic AI"
+   ],
+   "url": "https://www.instagram.com/p/DZIYxB-s9nO/",
+   "author": "alican.kiraz0",
+   "author_url": "https://www.instagram.com/alican.kiraz0/",
+   "date": "2026-06-03",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Anthropic verserait 1,25 milliard par mois à xAI pour du calcul",
+   "synopsis": "Le post avance qu'une part importante d'un abonnement Claude finance indirectement l'infrastructure d'Elon Musk, chiffrée à 1,25 milliard de dollars par mois versés à xAI. L'information est rattachée à un dépôt SEC de SpaceX et étayée par trois sources explicitement liées : TechCrunch du 20 mai 2026, DataCenterDynamics et Tom's Hardware. Le format est celui d'une brève d'actualité IA sourcée, ce qui la rend vérifiable.",
+   "keywords": [
+    "Anthropic",
+    "xAI",
+    "compute",
+    "SpaceX",
+    "SEC filing"
+   ],
+   "url": "https://www.instagram.com/p/DYtwKlPKsGr/",
+   "author": "bariqrifki",
+   "author_url": "https://www.instagram.com/bariqrifki/",
+   "date": "2026-05-24",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Un agent Anthropic qui s'améliore seul pendant la nuit",
+   "synopsis": "Le post décrit un agent qui repasse chaque nuit sur les erreurs de la veille, réécrit sa propre mémoire, apprend les préférences de son utilisateur et répare les workflows cassés, pour se réveiller nettement plus compétent. L'auteur insiste sur l'absence d'intervention humaine : ni prompt, ni équipe de réentraînement, ni ingénieur. Il situe l'annonce à l'événement Code with Claude de San Francisco et y voit le premier cas où un agent produit des intérêts composés sur lui-même.",
+   "keywords": [
+    "Anthropic",
+    "agent auto-améliorant",
+    "mémoire",
+    "Code with Claude"
+   ],
+   "url": "https://www.instagram.com/p/DYr1FZtST1H/",
+   "author": "thevibefounder",
+   "author_url": "https://www.instagram.com/thevibefounder/",
+   "date": "2026-05-23",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Facebook analyse les photos non publiées de votre pellicule",
+   "synopsis": "Le post alerte sur une fonctionnalité activée par Facebook qui analyse les photos de la pellicule du téléphone, y compris celles qui n'ont jamais été publiées, pour proposer automatiquement des stories, montages et souvenirs générés par IA. Le problème soulevé est que beaucoup d'utilisateurs ignorent que l'option peut être active par défaut. Sur le plan de la vie privée, cela revient à laisser Facebook accéder à des photos personnelles stockées localement, et le post donne la marche à suivre pour désactiver l'option.",
+   "keywords": [
+    "Facebook",
+    "vie privée",
+    "pellicule photo",
+    "paramètres",
+    "IA générative"
+   ],
+   "url": "https://www.instagram.com/p/DYsM3xVIJVZ/",
+   "author": "yasware_",
+   "author_url": "https://www.instagram.com/yasware_/",
+   "date": "2026-05-23",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Qwen 3 TTS Clones Your Voice From 3 Seconds",
+   "synopsis": "This French video pitches Qwen 3 as the best open-source text-to-speech model available, a free ElevenLabs replacement. It clones a voice from just three seconds of audio and generates unlimited dialogue. You can describe the voice you want and adjust tone, rhythm, and style.",
+   "keywords": [
+    "Qwen 3 TTS",
+    "voice cloning",
+    "open source",
+    "ElevenLabs alternative"
+   ],
+   "url": "https://www.instagram.com/p/DYsftElgA54/",
+   "author": "arthurjanicaud",
+   "author_url": "https://www.instagram.com/arthurjanicaud/",
+   "date": "2026-05-23",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Microsoft coupe Claude Code à ses ingénieurs, Uber épuise son budget IA en quatre mois",
+   "synopsis": "Revue d'actualité sur le coût réel de l'IA en entreprise : Microsoft aurait demandé à cent mille de ses propres ingénieurs de cesser d'utiliser Claude Code, la facture étant devenue trop lourde même pour une société aux ressources quasi illimitées. Le CTO d'Uber a de son côté fait circuler une note indiquant que l'intégralité du budget IA 2026 avait été consommée en quatre mois, sur un marché américain où les prix logiciels IA montent de 20 à 35 %. GitHub Copilot met par ailleurs fin à son tarif forfaitaire au 1er juin pour basculer sur une facturation au token.",
+   "keywords": [
+    "Microsoft",
+    "Claude Code",
+    "Uber",
+    "GitHub Copilot",
+    "coûts IA"
+   ],
+   "url": "https://www.instagram.com/p/DYpjaKhiBMb/",
+   "author": "cfddose",
+   "author_url": "https://www.instagram.com/cfddose/",
+   "date": "2026-05-22",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Extrait d'entretien sur un départ aux États-Unis à treize ans",
+   "synopsis": "Le clip est un extrait d'interview sans rapport avec l'intelligence artificielle : l'invité y revient sur sa timidité d'adolescent et sur sa décision de partir seul aux États-Unis à treize ans. Il décrit le contraste entre son milieu très privilégié et la chambre partagée en Pennsylvanie rurale avec un colocataire fils de chauffeur de taxi. Le post a manifestement été sauvegardé pour son contenu personnel et non pour une actualité technologique.",
+   "keywords": [
+    "entretien",
+    "parcours personnel",
+    "hors sujet IA"
+   ],
+   "url": "https://www.instagram.com/p/DYkSrersw_q/",
+   "author": "leaissert",
+   "author_url": "https://www.instagram.com/leaissert/",
+   "date": "2026-05-20",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Claude Automation Remembers All You Watch on Insta",
+   "synopsis": "This French video demonstrates an automation that captures everything you watch on Instagram into a second brain powered by Claude. The idea is that saved reels and posts stop disappearing into the feed and become searchable knowledge. It is a personal-knowledge-management use case built on Claude automation.",
+   "keywords": [
+    "Claude",
+    "Instagram automation",
+    "second brain"
+   ],
+   "url": "https://www.instagram.com/p/DYh3sFeotZD/",
+   "author": "0xloucash",
+   "author_url": "https://www.instagram.com/0xloucash/",
+   "date": "2026-05-19",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "One photo plus a few seconds of voice becomes a lifelike talking video",
    "synopsis": "This open-source and completely free Chinese tool generates ultra-realistic video with very high facial quality from a single uploaded photo and a few seconds of recorded voice. The output shows the person speaking naturally with lip sync that matches precisely, believable facial expressions, and a cinematic look. You can then edit the whole scene by typing a prompt — asking to put them in a suit on a yacht rebuilds the scene while preserving the same face and identity.",
    "keywords": [
@@ -3960,6 +5270,41 @@
    "author": "lisaworldverse",
    "author_url": "https://www.instagram.com/lisaworldverse/",
    "date": "2026-05-17",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "6 Reference Boards Every AI Filmmaker Needs",
+   "synopsis": "The carousel presents six reference boards as the underused secret weapon of AI filmmaking. They include a twelve-shot storyboard built from one image, a full character bible, a location board with time of day and weather, and a pose board for animation. The technique treats consistency and cinematic quality as a pre-production planning problem.",
+   "keywords": [
+    "AI filmmaking",
+    "reference boards",
+    "character bible",
+    "storyboard",
+    "consistency"
+   ],
+   "url": "https://www.instagram.com/p/DYUBh4eCOYt/",
+   "author": "ai.withphil",
+   "author_url": "https://www.instagram.com/ai.withphil/",
+   "date": "2026-05-14",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Un Jarvis gratuit qui peut réécrire son propre code sur demande",
+   "synopsis": "L'auteur construit une version réelle et gratuite du Jarvis d'Iron Man, et met l'accent sur une propriété que ses utilisateurs auraient manquée : l'assistant a accès à son propre code source. Concrètement, il dispose d'un accès au système de fichiers et au terminal, ce qui lui permet de lire son code, le modifier, le tester et déployer les changements à la simple demande verbale de l'utilisateur. Ajouter une fonctionnalité, changer la mise en page, brancher une intégration ou modifier sa personnalité se fait donc en le décrivant en langage naturel.",
+   "keywords": [
+    "assistant personnel",
+    "auto-modification",
+    "accès terminal",
+    "open source"
+   ],
+   "url": "https://www.instagram.com/p/DW-C059jCqG/",
+   "author": "proj.ectjarvis",
+   "author_url": "https://www.instagram.com/proj.ectjarvis/",
+   "date": "2026-04-10",
    "following": true,
    "confidence": "high"
   },
@@ -4803,6 +6148,39 @@
   },
   {
    "folder": "AI.pix",
+   "title": "Un guide de fonctionnalités Claude relayé depuis un autre créateur",
+   "synopsis": "Post d'enthousiasme sur les sorties récentes de Claude, crédité à un autre compte, qui propose un guide en DM contre un commentaire. La légende ne détaille aucune des fonctionnalités évoquées et se contente d'un ton admiratif accompagné d'une question à l'audience. La valeur informative écrite est nulle sans la vidéo.",
+   "keywords": [
+    "Claude",
+    "guide",
+    "nouveautés"
+   ],
+   "url": "https://www.instagram.com/p/DXsbBZCDS0k/",
+   "author": "baroobi.inc",
+   "author_url": "https://www.instagram.com/baroobi.inc/",
+   "date": "2026-04-30",
+   "following": false,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Reproduire la photo produit d'un concurrent en soixante secondes",
+   "synopsis": "Le post promet de recréer n'importe quel visuel produit concurrent en une minute, dans un contexte de bijouterie et de visuels de luxe. L'angle est celui de la stratégie de marque : s'aligner visuellement sur la concurrence sans studio ni budget. Ni l'outil ni la méthode ne sont nommés dans la légende, réduite à des hashtags.",
+   "keywords": [
+    "photo produit",
+    "bijouterie",
+    "visuels de luxe",
+    "stratégie de marque"
+   ],
+   "url": "https://www.instagram.com/p/DXnCGslDcea/",
+   "author": "fillthetile",
+   "author_url": "https://www.instagram.com/fillthetile/",
+   "date": "2026-04-26",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
    "title": "Three free unlimited creator tools: Meta AI, Perchance, and a motion-transfer site",
    "synopsis": "The creator claims he was banned from three creator groups for sharing these free, unlimited tools and shares them anyway. Meta AI produces cinematic video from a single sentence and returns four results instantly, while Perchance AI generates 32 images from one click rather than three or ten. The third uploads your video and transfers your motion onto any celebrity or character, mapping your movements to their face, and he offers a further list of 47 lesser-known tools.",
    "keywords": [
@@ -4816,6 +6194,353 @@
    "author": "marktalksai",
    "author_url": "https://www.instagram.com/marktalksai/",
    "date": "2026-04-24",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Dix prompts pour ChatGPT Images 2.0 à la sortie du modèle",
+   "synopsis": "À l'occasion de la sortie de ChatGPT Images 2.0 par OpenAI, l'autrice liste les dix prompts qu'elle utilise le plus. Le catalogue couvre des usages très concrets : portrait LinkedIn, couverture de magazine, affiche de film, photo au smartphone, agenda manuscrit, interface d'application de bureau, style manga, livre de cuisine, assets marketing et infographie. Les prompts eux-mêmes sont envoyés en DM sur commentaire.",
+   "keywords": [
+    "ChatGPT Images 2.0",
+    "OpenAI",
+    "prompts",
+    "portrait LinkedIn",
+    "infographie"
+   ],
+   "url": "https://www.instagram.com/p/DXbvQrfiLA0/",
+   "author": "shedoesai",
+   "author_url": "https://www.instagram.com/shedoesai/",
+   "date": "2026-04-22",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Quand corriger l'image ne suffit plus, reconstruire l'idée",
+   "synopsis": "Réflexion courte d'un créateur sur la limite du travail itératif avec un générateur d'images : à un certain point, l'image ne peut plus absorber les corrections. Sa réponse est d'arrêter de réparer le rendu et de repenser le concept de départ. Le post relève du parti pris créatif plutôt que de la démonstration d'outil.",
+   "keywords": [
+    "processus créatif",
+    "génération d'images",
+    "itération"
+   ],
+   "url": "https://www.instagram.com/p/DXF4pfZCNqF/",
+   "author": "zhuchkin",
+   "author_url": "https://www.instagram.com/zhuchkin/",
+   "date": "2026-04-14",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Decompose : une IA chinoise gratuite qui éclate une photo en calques propres",
+   "synopsis": "Le post décrit un outil où l'on téléverse une photo ordinaire, on clique sur Decompose, et l'image est scindée en quelques secondes en calques éditables. Arrière-plan, objets et éléments distincts sont séparés proprement, comme si le visuel avait été conçu dans Photoshop dès l'origine. L'outil est open source et gratuit à l'essai, le lien étant envoyé par DM sur commentaire.",
+   "keywords": [
+    "décomposition en calques",
+    "open source",
+    "Chine",
+    "édition d'image",
+    "Photoshop"
+   ],
+   "url": "https://www.instagram.com/p/DWB9m0LjaPH/",
+   "author": "drcintas",
+   "author_url": "https://www.instagram.com/drcintas/",
+   "date": "2026-03-18",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Le workspace Luma piloté par des agents créatifs",
+   "synopsis": "Présentation du nouvel espace de travail Luma, animé par des agents IA dédiés à la création vidéo. La démonstration part d'une seule photo de l'auteur et de la description de quelques scènes, à partir desquelles la plateforme construit une séquence complète, ici autour d'un ours polaire. L'argument est un bouleversement du workflow pour quiconque produit de la vidéo, le détail pas à pas étant fourni en PDF par DM.",
+   "keywords": [
+    "Luma",
+    "agents créatifs",
+    "vidéo générative",
+    "workflow"
+   ],
+   "url": "https://www.instagram.com/p/DVjVRmqACiG/",
+   "author": "kallaway",
+   "author_url": "https://www.instagram.com/kallaway/",
+   "date": "2026-03-06",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Lovart, le Photoshop version IA testé de bout en bout sur une affiche",
+   "synopsis": "Démonstration en français de Lovart, présenté comme l'outil de création IA le plus impressionnant testé par l'auteur. Le flux est montré pas à pas : nouveau projet, sélection de Nano Banana Pro, composition du visuel, puis obtention d'une affiche de qualité professionnelle en quelques minutes. La partie la plus convaincante vient ensuite, avec la modification instantanée de tous les textes en conservant la police et l'édition ciblée d'éléments de l'image comme dans Photoshop.",
+   "keywords": [
+    "Lovart",
+    "Nano Banana Pro",
+    "affiche",
+    "édition d'image",
+    "design IA"
+   ],
+   "url": "https://www.instagram.com/p/DU_Ksg4DOJv/",
+   "author": "danyltn",
+   "author_url": "https://www.instagram.com/danyltn/",
+   "date": "2026-02-20",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Un outil Google qui transforme une photo produit banale en campagne publicitaire",
+   "synopsis": "Numerama signale un nouvel outil Google capable de convertir une simple photo de produit en visuel publicitaire soigné. L'angle est celui de la démocratisation de la production publicitaire pour les petites structures. Le nom de l'outil n'est pas donné dans la légende, qui fonctionne comme une accroche vers la vidéo.",
+   "keywords": [
+    "Google",
+    "publicité",
+    "photo produit",
+    "génération d'images"
+   ],
+   "url": "https://www.instagram.com/p/DU_M5FViRlT/",
+   "author": "numerama",
+   "author_url": "https://www.instagram.com/numerama/",
+   "date": "2026-02-20",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "ResFixer comparé à l'upscale génératif de Topaz Gigapixel",
+   "synopsis": "Réponse à une question reçue en message privé sur l'intérêt de ResFixer face à un upscale génératif classique. L'auteur procède à une comparaison à l'écran en trois temps : l'image d'origine, le résultat de Topaz Gigapixel, puis celui de ResFixer, pour justifier sa préférence. Le post est ouvertement affilié, avec lien et code promo, ce qui invite à relativiser la conclusion.",
+   "keywords": [
+    "ResFixer",
+    "Topaz Gigapixel",
+    "upscaling",
+    "comparaison",
+    "lien affilié"
+   ],
+   "url": "https://www.instagram.com/p/DUyXcfIDsUR/",
+   "author": "that_tshirt_dude",
+   "author_url": "https://www.instagram.com/that_tshirt_dude/",
+   "date": "2026-02-15",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Une photo et un extrait vocal suffisent pour une vidéo parlante synchronisée",
+   "synopsis": "Le post annonce une IA chinoise open source et gratuite qui produit une vidéo de personne parlante à partir d'une seule photo et d'un court échantillon de voix. Les points mis en avant sont la synchronisation labiale précise, le naturel des expressions et la possibilité de modifier les scènes. Le nom du modèle est réservé au DM, ce qui limite la vérifiabilité de l'annonce.",
+   "keywords": [
+    "open source",
+    "lip-sync",
+    "vidéo générative",
+    "clonage vocal"
+   ],
+   "url": "https://www.instagram.com/p/DUvSTYqiNV6/",
+   "author": "sferro.ai",
+   "author_url": "https://www.instagram.com/sferro.ai/",
+   "date": "2026-02-14",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Un modèle chinois open source qui découpe une image plate en calques éditables",
+   "synopsis": "Le post signale un modèle IA chinois, gratuit et open source, qui transforme une image aplatie en calques séparés et modifiables. L'argument est d'offrir un contrôle de niveau Photoshop sans passer par un outil payant. Le modèle n'est pas nommé dans la légende, qui reste au niveau de la promesse.",
+   "keywords": [
+    "open source",
+    "Chine",
+    "calques",
+    "édition d'image"
+   ],
+   "url": "https://www.instagram.com/p/DUqp81EiFAp/",
+   "author": "ai.with.andrew",
+   "author_url": "https://www.instagram.com/ai.with.andrew/",
+   "date": "2026-02-12",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Les Lists de Freepik Spaces enchaînent des séquences de prompts pilotées par un LLM",
+   "synopsis": "La nouvelle fonction Lists de Freepik Spaces permet de construire des séquences de prompts structurées et connectées à un grand modèle de langage. L'usage visé est la génération en une seule passe de variations produit, de systèmes de design ou de séries de concepts créatifs. L'auteur y voit un déblocage des workflows IA à l'échelle pour les designers, marketeurs et équipes produit, le workflow étant distribué par DM.",
+   "keywords": [
+    "Freepik Spaces",
+    "Lists",
+    "séquences de prompts",
+    "design system",
+    "workflow"
+   ],
+   "url": "https://www.instagram.com/p/DUqeScpDAHW/",
+   "author": "rourke",
+   "author_url": "https://www.instagram.com/rourke/",
+   "date": "2026-02-12",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Higgsfield v2 Angles : déplacer la caméra dans une image déjà générée",
+   "synopsis": "L'auteur montre qu'il est possible de changer l'angle de prise de vue après coup, comme si la scène générée existait en trois dimensions. La manipulation est simple : on téléverse la photo, une sphère de contrôle apparaît, on oriente l'angle et une nouvelle prise est produite instantanément, avec la même lumière et la même scène. L'outil peut aussi générer d'un coup tous les angles possibles, ce qui sert à corriger un cadrage ou à décliner des variations.",
+   "keywords": [
+    "Higgsfield",
+    "v2 Angles",
+    "caméra 3D",
+    "variations",
+    "cadrage"
+   ],
+   "url": "https://www.instagram.com/p/DUn71Y1jHYI/",
+   "author": "danyltn",
+   "author_url": "https://www.instagram.com/danyltn/",
+   "date": "2026-02-11",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Finegrain Image Enhancer, un upscaler gratuit qui restaure les textures",
+   "synopsis": "Le post présente Finegrain Image Enhancer comme un moyen gratuit de passer une photo floue en haute résolution. L'argument technique est qu'il restitue textures et détails au lieu d'étirer les pixels, ce qui donne un rendu net d'apparence naturelle. Une comparaison avant/après est montrée dans la vidéo, le lien étant conditionné à un commentaire.",
+   "keywords": [
+    "Finegrain",
+    "upscaling",
+    "restauration d'image",
+    "outil gratuit"
+   ],
+   "url": "https://www.instagram.com/p/DUmTRTaCF1x/",
+   "author": "theaisurfer",
+   "author_url": "https://www.instagram.com/theaisurfer/",
+   "date": "2026-02-11",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Le master prompt qui fait passer une photo IA pour un cliché iPhone",
+   "synopsis": "L'auteur soutient que les portraits d'influenceurs IA se repèrent parce que les prompts sont trop pauvres, et oppose à cela ce qu'il appelle un master prompt, conçu comme un système réutilisable plutôt qu'une phrase isolée. La recette passe par Higgsfield en s'appuyant sur Nano Banana Pro, avec des mots-clés orientés photographie au smartphone, plans lifestyle réalistes et haut niveau de détail. Une fois le prompt calibré, il permet de produire en série des images qui gardent la même signature visuelle.",
+   "keywords": [
+    "Higgsfield",
+    "Nano Banana Pro",
+    "master prompt",
+    "photo IA",
+    "cohérence visuelle"
+   ],
+   "url": "https://www.instagram.com/p/DTNLpfQCD8S/",
+   "author": "ashoksangireddyy",
+   "author_url": "https://www.instagram.com/ashoksangireddyy/",
+   "date": "2026-01-09",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Un modèle image chinois gratuit présenté comme supérieur à Nano Banana Pro",
+   "synopsis": "Le post affirme qu'un modèle de génération d'images chinois, gratuit, dépasse Nano Banana Pro de Google. La légende se réduit au claim et à des hashtags, sans nommer le modèle ni montrer de comparaison écrite. L'élément de preuve éventuel se trouve uniquement dans la vidéo.",
+   "keywords": [
+    "modèle image",
+    "Chine",
+    "Nano Banana Pro",
+    "open source"
+   ],
+   "url": "https://www.instagram.com/p/DTIlq-yki6B/",
+   "author": "hackonomics.ai",
+   "author_url": "https://www.instagram.com/hackonomics.ai/",
+   "date": "2026-01-05",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Une image, douze angles de prise de vue avec Gemini",
+   "synopsis": "Méthode en français pour produire douze cadrages différents à partir d'une seule photo dans Google Gemini. Le procédé est décrit pas à pas : importer l'image, demander douze prompts d'angles et de cadrages variés, combiner chaque prompt avec l'image de référence, puis réinjecter l'image précédente pour maintenir la cohérence d'une prise à l'autre. Le résultat visé est une série de visuels équivalente à un shooting multi-caméras, sans budget ni retouche.",
+   "keywords": [
+    "Gemini",
+    "cohérence d'image",
+    "angles de vue",
+    "production visuelle"
+   ],
+   "url": "https://www.instagram.com/p/DTJDZFxkSn1/",
+   "author": "danyltn",
+   "author_url": "https://www.instagram.com/danyltn/",
+   "date": "2026-01-05",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Transformer une image en profil JSON pour la régénérer fidèlement dans ChatGPT",
+   "synopsis": "La technique consiste à faire décrire une image par ChatGPT sous forme de profil de contexte structuré en JSON, puis à réutiliser ce profil comme prompt. L'intérêt annoncé est une précision nettement supérieure du rendu, le JSON figeant les paramètres visuels au lieu de les laisser à l'interprétation du modèle. Le prompt complet est conditionné à un commentaire.",
+   "keywords": [
+    "ChatGPT",
+    "prompt JSON",
+    "génération d'images",
+    "reproductibilité"
+   ],
+   "url": "https://www.instagram.com/p/DTDMq8WEky5/",
+   "author": "mavgpt",
+   "author_url": "https://www.instagram.com/mavgpt/",
+   "date": "2026-01-03",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Gemini 3 Pro et Nano Banana Pro combinés dans HixAI",
+   "synopsis": "Le post met en avant l'association de Gemini 3 Pro et de Nano Banana Pro au sein de la plateforme HixAI, présentée comme un combo puissant pour la création visuelle. L'accroche invite à rédiger soi-même ses prompts professionnels dès maintenant. Le texte reste promotionnel et ne décrit ni le flux de travail ni les résultats obtenus.",
+   "keywords": [
+    "Gemini 3 Pro",
+    "Nano Banana Pro",
+    "HixAI",
+    "génération d'images"
+   ],
+   "url": "https://www.instagram.com/p/DSaGeJkDHIk/",
+   "author": "chris_creates.7",
+   "author_url": "https://www.instagram.com/chris_creates.7/",
+   "date": "2025-12-18",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Lovart intègre Nano Banana Pro, adossé à une promo par DM",
+   "synopsis": "Le post annonce l'intégration de Nano Banana Pro dans Lovart, plateforme de design assisté, avec Kling O1 également mentionné. Le propos commercial domine : jusqu'à 50 % de réduction et un an d'accès illimité sans crédits, en échange d'un commentaire déclencheur de DM, avec une date limite au 14 décembre. La revendication de remplacer Photoshop, Canva et Gemini n'est appuyée par aucune démonstration dans le texte.",
+   "keywords": [
+    "Lovart",
+    "Nano Banana Pro",
+    "Kling O1",
+    "design IA",
+    "promotion"
+   ],
+   "url": "https://www.instagram.com/p/DSFWpU_kkXl/",
+   "author": "adam.godigital",
+   "author_url": "https://www.instagram.com/adam.godigital/",
+   "date": "2025-12-10",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Un site de prompts Nano Banana poussé sans être nommé",
+   "synopsis": "Reel de type enregistrez-ceci pointant vers un site web de prompts pour Nano Banana, le modèle image de Google. La légende est purement incitative (sauvegarder, partager, suivre) et les hashtags portent toute l'information de contexte. Ni le nom du site ni un exemple de prompt ne sont donnés dans le texte, le contenu utile restant dans la vidéo.",
+   "keywords": [
+    "Nano Banana",
+    "prompts",
+    "génération d'images",
+    "Google"
+   ],
+   "url": "https://www.instagram.com/p/DQWMRZqCn31/",
+   "author": "ui.johnson",
+   "author_url": "https://www.instagram.com/ui.johnson/",
+   "date": "2025-10-28",
+   "following": false,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Vol.1 d'un partage de prompts Midjourney, avec passage en Low Motion",
+   "synopsis": "Publication coréenne qui diffuse une première série de prompts Midjourney prêts à l'emploi, présentés comme suffisants pour générer une image sans réglages supplémentaires. L'auteur enchaîne ensuite sur la fonction Low Motion de Midjourney pour animer l'image obtenue, ce qui fait du prompt un point de départ image puis vidéo. La distribution par DM est annoncée comme clôturée, une suite étant promise.",
+   "keywords": [
+    "Midjourney",
+    "prompts",
+    "Low Motion",
+    "image-to-video"
+   ],
+   "url": "https://www.instagram.com/p/DPMLQ0vEjNE/",
+   "author": "ai.favmag",
+   "author_url": "https://www.instagram.com/ai.favmag/",
+   "date": "2025-09-29",
    "following": false,
    "confidence": "high"
   },
@@ -5792,6 +7517,24 @@
   },
   {
    "folder": "AI.Video",
+   "title": "La DGX Station sous Windows, station de travail pour développeurs LLM",
+   "synopsis": "Le post détaille les caractéristiques d'une DGX Station tournant sous Windows : 768 Go de mémoire, la capacité de charger un modèle à mille milliards de paramètres, 20 pétaflops de calcul et 8 To/s de bande passante. Le positionnement est explicitement celui des développeurs de LLM et d'agents. La légende se limite aux spécifications, sans prix ni retour d'usage.",
+   "keywords": [
+    "DGX Station",
+    "NVIDIA",
+    "workstation",
+    "LLM",
+    "calcul local"
+   ],
+   "url": "https://www.instagram.com/p/DZZ_lirjMcj/",
+   "author": "quantumliaison",
+   "author_url": "https://www.instagram.com/quantumliaison/",
+   "date": "2026-06-10",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "A $43k-a-month autonomous AI virtual model run from four markdown files",
    "synopsis": "The post analyses how a 21-year-old student built a fully autonomous AI virtual model that generated roughly $43,000 in thirty days with no creative team, camera gear, studio, or real human face, running off a single laptop at about $400 a month. The described architecture treats a subscription profile as a closed-loop software pipeline rather than manual production, applying data engineering thinking to creator-economy management. Human identity is decomposed into four modular configuration files: persona.md for the psychological profile, voice.md for the acoustic signature, flux.md for the visual anchor, and brain.md for memory and contextual behaviour during subscriber chat.",
    "keywords": [
@@ -5827,6 +7570,113 @@
   },
   {
    "folder": "AI.Video",
+   "title": "The omni-reference trick behind a €2,094 AI animated short",
+   "synopsis": "A client paid the creator €2,094 for an animated film despite his never having learned animation, so he generated all of it with AI — and his key point is that generating scene by scene and hoping for coherence simply does not work. You first lock the style, here borrowed from Seven Deadly Sins and Ranking of Kings, and define characters and sets before the very first generation. The technique nobody uses is omni-reference: you generate a scene, take the last frame of that generation, and make it the reference for the next scene so characters, objects and set all continue from where the previous one stopped; he recommends Seedance 2.0 for the animation and Premiere Pro for the edit.",
+   "keywords": [
+    "omni-reference",
+    "Seedance 2.0",
+    "AI animation",
+    "style locking",
+    "Premiere Pro"
+   ],
+   "url": "https://www.instagram.com/p/DYxC5a0NyVH/",
+   "author": "slowdoown",
+   "author_url": "https://www.instagram.com/slowdoown/",
+   "date": "2026-05-25",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Un générateur vidéo open source sans crédits ni limite d'usage",
+   "synopsis": "L'auteur oppose les outils vidéo classiques, qui offrent cinq crédits gratuits avant de facturer, à un modèle entièrement open source, illimité et gratuit. Il convertit une image ou un prompt texte en vidéo cinématographique fluide avec effets sonores, et permet d'ajouter des effets, de contrôler les mouvements de caméra et de changer de style. Étant ouvert, il peut tourner hors ligne et être utilisé autant de fois que voulu, le nom du modèle restant réservé au DM.",
+   "keywords": [
+    "vidéo générative",
+    "open source",
+    "hors ligne",
+    "illimité"
+   ],
+   "url": "https://www.instagram.com/p/DYukAxtIJUA/",
+   "author": "marktalksai",
+   "author_url": "https://www.instagram.com/marktalksai/",
+   "date": "2026-05-24",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Waver, l'outil vidéo chinois gratuit présenté comme meilleur que Sora",
+   "synopsis": "Le post annonce Waver, un générateur vidéo gratuit venu de Chine, comme détrônant Sora. Les qualités mises en avant sont des mouvements fluides, des personnages cohérents et un rendu cinématographique, avec l'affirmation que certains résultats dépassent déjà Sora, Kling ou Midjourney. La comparaison reste déclarative et le lien passe par un commentaire.",
+   "keywords": [
+    "Waver",
+    "Sora",
+    "Kling",
+    "vidéo générative",
+    "Chine"
+   ],
+   "url": "https://www.instagram.com/p/DYulP6iCnk5/",
+   "author": "ia.boss.officiel",
+   "author_url": "https://www.instagram.com/ia.boss.officiel/",
+   "date": "2026-05-24",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Pippit lance un agent IA de série courte propulsé par Dreamina Seedance 2.0",
+   "synopsis": "Un épisode entier est généré par une seule IA à partir d'un unique script, via le premier agent de Short Drama lancé par Pippit. Les capacités annoncées sont des scripts allant jusqu'à 100 000 mots, des personnages qui restent cohérents du premier au dernier plan, et une réduction de 90 % des coûts de production. L'argument est celui d'un studio complet réduit à un agent, l'accès étant proposé par DM.",
+   "keywords": [
+    "Pippit",
+    "Dreamina",
+    "Seedance 2.0",
+    "série courte",
+    "production automatisée"
+   ],
+   "url": "https://www.instagram.com/p/DYrvpH-M3JA/",
+   "author": "antony_nonis",
+   "author_url": "https://www.instagram.com/antony_nonis/",
+   "date": "2026-05-23",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "video-use : un skill Claude Code qui monte les rushes en final.mp4",
+   "synopsis": "Le workflow décrit tient en une phrase : déposer les rushes dans un dossier, dialoguer avec Claude Code, récupérer le montage final. Le skill video-use, publié par un développeur solo, transcrit tout ce qui a été dit, coupe les hésitations et les faux départs, supprime les temps morts entre les prises et étalonne chaque segment selon plusieurs partis pris colorimétriques. L'intérêt revendiqué est l'absence totale de préréglages, de menus et de timeline à manipuler.",
+   "keywords": [
+    "video-use",
+    "Claude Code",
+    "montage automatique",
+    "transcription",
+    "étalonnage"
+   ],
+   "url": "https://www.instagram.com/p/DYf-n9PguD5/",
+   "author": "wassimyounes_",
+   "author_url": "https://www.instagram.com/wassimyounes_/",
+   "date": "2026-05-19",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Gemini Omni, le premier vrai éditeur vidéo IA de Google",
+   "synopsis": "Le post annonce Gemini Omni comme le premier véritable éditeur vidéo piloté par IA. Trois capacités sont détaillées : ajouter ou retirer des objets dans une vidéo réelle, créer des avatars qui conservent le visage et la voix exacts de l'utilisateur d'une scène à l'autre, et transférer automatiquement un style de référence sur toute une vidéo. L'auteur y voit le workflow que les créateurs attendaient, l'accès passant par un commentaire.",
+   "keywords": [
+    "Gemini Omni",
+    "Google",
+    "édition vidéo",
+    "avatars",
+    "transfert de style"
+   ],
+   "url": "https://www.instagram.com/p/DYh7UwJvi6E/",
+   "author": "sebastien",
+   "author_url": "https://www.instagram.com/sebastien/",
+   "date": "2026-05-19",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "One photo plus a few seconds of voice becomes a lifelike talking video",
    "synopsis": "This open-source and completely free Chinese tool generates ultra-realistic video with very high facial quality from a single uploaded photo and a few seconds of recorded voice. The output shows the person speaking naturally with lip sync that matches precisely, believable facial expressions, and a cinematic look. You can then edit the whole scene by typing a prompt — asking to put them in a suit on a yacht rebuilds the scene while preserving the same face and identity.",
    "keywords": [
@@ -5840,6 +7690,268 @@
    "author": "lisaworldverse",
    "author_url": "https://www.instagram.com/lisaworldverse/",
    "date": "2026-05-17",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Une romance d'ascenseur qui vire au chaos, réalisée avec Seedance 2.0",
+   "synopsis": "Démonstration narrative produite avec Seedance 2.0, une scène de tension romantique dans un ascenseur qui bascule dans le chaos. L'accent est mis sur la capacité du modèle à tenir une dramaturgie, des émotions et des retournements dans un plan unique. Le gabarit de prompt complet est envoyé en DM sur commentaire.",
+   "keywords": [
+    "Seedance 2.0",
+    "vidéo générative",
+    "narration",
+    "cinématique"
+   ],
+   "url": "https://www.instagram.com/p/DYZPVIjvWxZ/",
+   "author": "sebintel",
+   "author_url": "https://www.instagram.com/sebintel/",
+   "date": "2026-05-16",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "SkyReels-V2, générations vidéo illimitées en local et open source",
+   "synopsis": "Le post présente SkyReels-V2, un modèle vidéo entièrement open source qui convertit une image ou un prompt texte en séquence cinématographique fluide. Il génère aussi des effets sonores porteurs d'émotion et tourne hors ligne sur la machine de l'utilisateur. L'argument différenciant est la durée : là où Veo 3 plafonne à quelques secondes et où Kling facture au clip, celui-ci vise des vidéos de longueur illimitée.",
+   "keywords": [
+    "SkyReels-V2",
+    "open source",
+    "vidéo générative",
+    "hors ligne",
+    "Veo 3"
+   ],
+   "url": "https://www.instagram.com/p/DYW_3mlKht6/",
+   "author": "kayvon.ai",
+   "author_url": "https://www.instagram.com/kayvon.ai/",
+   "date": "2026-05-15",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Du storyboard GPT Image 2.0 à l'animation Seedance 2.0",
+   "synopsis": "Tutoriel qui donne le gabarit de prompt complet pour produire un storyboard exploitable : une grille de douze cases séparées par de fins liseraés noirs, chaque panneau numéroté en gras sans empattement dans le coin supérieur gauche et légendé d'une courte description du mouvement. Le style demandé est une animation picturale très détaillée inspirée d'Arcane, avec éclairage cinématographique, ombres marquées, coups de pinceau texturés et réalisme stylisé. Le storyboard sert ensuite d'entrée pour l'animation dans Seedance 2.0.",
+   "keywords": [
+    "GPT Image 2.0",
+    "Seedance 2.0",
+    "storyboard",
+    "Arcane",
+    "prompt template"
+   ],
+   "url": "https://www.instagram.com/p/DYSqkJouYEb/",
+   "author": "benkaluza.tech",
+   "author_url": "https://www.instagram.com/benkaluza.tech/",
+   "date": "2026-05-13",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Vidéo IA de quatre minutes, open source et hors ligne, sans crédits",
+   "synopsis": "Reprise du même argumentaire que le post précédent du créateur : pas de limite à huit secondes, pas de crédits à acheter, pas de cloud. Le modèle mis en avant est open source, tourne hors ligne et produit des vidéos complètes de quatre minutes. Le nom du modèle reste réservé au DM déclenché par un commentaire.",
+   "keywords": [
+    "vidéo générative",
+    "open source",
+    "hors ligne",
+    "vidéo longue"
+   ],
+   "url": "https://www.instagram.com/p/DYM00K_jvBs/",
+   "author": "thechriscordero",
+   "author_url": "https://www.instagram.com/thechriscordero/",
+   "date": "2026-05-11",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Générer vidéos et images gratuitement avec Pinokio et Wan2GP",
+   "synopsis": "Post en français sur l'accès à des IA génératives sans abonnement payant. Les hashtags identifient la piste suivie : Pinokio comme lanceur d'applications open source et Wan2GP pour la génération vidéo en local. La légende reste une accroche, la procédure détaillée se trouvant dans la vidéo.",
+   "keywords": [
+    "Pinokio",
+    "Wan2GP",
+    "open source",
+    "IA gratuite",
+    "vidéo"
+   ],
+   "url": "https://www.instagram.com/p/DYKYJwZNHkG/",
+   "author": "unefille.ia",
+   "author_url": "https://www.instagram.com/unefille.ia/",
+   "date": "2026-05-10",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Prompts et astuces de réalisation de films, distribués en DM",
+   "synopsis": "Le post propose d'envoyer gratuitement en message privé les prompts et astuces employés pour réaliser le type de film montré. La seule information de fond est une question à l'audience sur l'usage de Claude. Aucun outil ni méthode n'est décrit dans la légende.",
+   "keywords": [
+    "film IA",
+    "prompts",
+    "Claude"
+   ],
+   "url": "https://www.instagram.com/p/DYKiMOiM7F0/",
+   "author": "yonak.ia",
+   "author_url": "https://www.instagram.com/yonak.ia/",
+   "date": "2026-05-10",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Higgsfield, Claude Cowork et Meta assemblés en machine publicitaire autonome",
+   "synopsis": "Montage en français décrivant un agent unique branché sur deux serveurs MCP pour faire tourner seule toute une chaîne de publicité Meta. Le cycle enchaîne recherche concurrentielle, génération de créas avec Sora 2, Veo et Kling, lancement des annonces sur Meta puis montée en charge sur les créas performantes. L'argument de vente est que l'ensemble s'exécute pendant que l'utilisateur dort, le guide complet passant par un commentaire.",
+   "keywords": [
+    "Higgsfield",
+    "Claude Cowork",
+    "MCP",
+    "Meta Ads",
+    "Sora 2"
+   ],
+   "url": "https://www.instagram.com/p/DYDOLpToc9H/",
+   "author": "pierrevibesai",
+   "author_url": "https://www.instagram.com/pierrevibesai/",
+   "date": "2026-05-07",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Un rendu vidéo sans montage de niveau studio, prompts partagés sur Telegram",
+   "synopsis": "Publication en russe soulignant que le résultat montré ne demande pas de montage professionnel et peut être reproduit avec son propre visage, un personnage ou un mannequin. L'autrice indique avoir déposé l'ensemble des prompts, des références et le workflow complet sur son canal Telegram, lié en bio. Le post invite à sauvegarder et à partager, notamment auprès de ceux qui associent encore l'IA à des vidéos ratées.",
+   "keywords": [
+    "vidéo générative",
+    "workflow",
+    "prompts",
+    "Telegram"
+   ],
+   "url": "https://www.instagram.com/p/DYAyYjaIWPa/",
+   "author": "leerochhka",
+   "author_url": "https://www.instagram.com/leerochhka/",
+   "date": "2026-05-06",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Higgsfield CLI génère du contenu en autonomie depuis le terminal",
+   "synopsis": "Higgsfield annonce une interface en ligne de commande qui produit du contenu de façon autonome, sans écrire de code. Elle est conçue pour se coupler à des agents de développement comme Claude Code, Codex ou OpenCode. L'argument commercial est qu'une fois configurée, la chaîne continue de générer pendant que l'utilisateur dort, l'instruction complète étant envoyée par DM.",
+   "keywords": [
+    "Higgsfield CLI",
+    "Claude Code",
+    "Codex",
+    "automatisation",
+    "génération de contenu"
+   ],
+   "url": "https://www.instagram.com/p/DX9uIYhixjY/",
+   "author": "higgsfield.ai",
+   "author_url": "https://www.instagram.com/higgsfield.ai/",
+   "date": "2026-05-05",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Three free unlimited creator tools: Meta AI, Perchance, and a motion-transfer site",
+   "synopsis": "The creator claims he was banned from three creator groups for sharing these free, unlimited tools and shares them anyway. Meta AI produces cinematic video from a single sentence and returns four results instantly, while Perchance AI generates 32 images from one click rather than three or ten. The third uploads your video and transfers your motion onto any celebrity or character, mapping your movements to their face, and he offers a further list of 47 lesser-known tools.",
+   "keywords": [
+    "Meta AI",
+    "Perchance",
+    "motion transfer",
+    "free AI tools",
+    "content creation"
+   ],
+   "url": "https://www.instagram.com/p/DXg73BeiL5C/",
+   "author": "marktalksai",
+   "author_url": "https://www.instagram.com/marktalksai/",
+   "date": "2026-04-24",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Un pipeline UGC entièrement piloté par Claude Code et Higgsfield",
+   "synopsis": "L'auteur montre une chaîne où Claude Code génère des vidéos UGC à son effigie sans qu'il intervienne, en s'appuyant sur Seedance 2.0 hébergé chez Higgsfield. Le montage technique est explicite : on ajoute le MCP Playwright à Claude Code, plus une quinzaine de skills dédiés à Seedance 2.0, après quoi Claude rédige les prompts, téléverse les photos, pilote le navigateur et clique sur générer. Il présente le résultat comme un pipeline répétable suffisant pour faire tourner une activité UGC complète.",
+   "keywords": [
+    "Claude Code",
+    "Higgsfield",
+    "Seedance 2.0",
+    "Playwright MCP",
+    "UGC"
+   ],
+   "url": "https://www.instagram.com/p/DXab5ekEeDI/",
+   "author": "buildwithneej",
+   "author_url": "https://www.instagram.com/buildwithneej/",
+   "date": "2026-04-22",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Un outil unique pour script, visuels, voix et montage",
+   "synopsis": "Le post annonce un outil IA présenté comme remplaçant l'ensemble de la chaîne de production vidéo. Les quatre étapes couvertes sont énumérées : script, visuels, voix et montage, réunies au même endroit. Aucun nom de produit ni démonstration n'apparaît dans la légende, le lien passant par un commentaire.",
+   "keywords": [
+    "production vidéo",
+    "script",
+    "voix de synthèse",
+    "montage"
+   ],
+   "url": "https://www.instagram.com/p/DXaO-oHkz3h/",
+   "author": "heyalav",
+   "author_url": "https://www.instagram.com/heyalav/",
+   "date": "2026-04-21",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Un modèle vidéo open source qui produit quatre minutes en local",
+   "synopsis": "Le post met en avant un modèle vidéo capable de générer des séquences de quatre minutes, là où la plupart plafonnent à huit secondes. Les qualités revendiquées sont un mouvement stable, des déplacements de caméra crédibles, une physique réaliste et des personnages cohérents dans la durée. Le modèle tourne hors ligne sur la machine de l'utilisateur, sans limite d'usage, mais son nom est réservé au DM.",
+   "keywords": [
+    "vidéo générative",
+    "open source",
+    "hors ligne",
+    "vidéo longue"
+   ],
+   "url": "https://www.instagram.com/p/DXZ-bPDklF2/",
+   "author": "thechriscordero",
+   "author_url": "https://www.instagram.com/thechriscordero/",
+   "date": "2026-04-21",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Seedance 2.0 disponible dans Runway",
+   "synopsis": "Annonce de la mise en ligne du modèle Seedance 2.0 sur Runway, accompagnée d'un lien d'accès direct. Le texte est surtout un propos de créateur sur l'écart qui se réduit entre les idées de films qu'on garde en tête et ce qu'on peut réellement produire, budget et temps ayant longtemps servi de plafond. La publication mêle donc annonce produit et témoignage sur la baisse des barrières à la création vidéo.",
+   "keywords": [
+    "Seedance 2.0",
+    "Runway",
+    "vidéo générative",
+    "production"
+   ],
+   "url": "https://www.instagram.com/p/DW9pBwLDE7W/",
+   "author": "michalkuzminskii",
+   "author_url": "https://www.instagram.com/michalkuzminskii/",
+   "date": "2026-04-10",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "A five-tool chain for AI avatars selling on TikTok Shop",
+   "synopsis": "The workflow is shown as a rapid chain: take a prompt to ChatGPT, pick a reference image on Pinterest, add your image and generate; move to Nano Banana Pro, paste a second prompt and download your avatar. That avatar image plus an audio track goes into an agent that generates the talking video — demonstrated here as a perfume ad urging viewers to tap the orange cart. The finished clip is uploaded to TikTok to chase views and TikTok Shop commissions, with the full guide offered in DM.",
+   "keywords": [
+    "Nano Banana Pro",
+    "ChatGPT",
+    "AI avatar",
+    "TikTok Shop",
+    "affiliate marketing"
+   ],
+   "url": "https://www.instagram.com/p/DVb1dLmCLp7/",
+   "author": "seraphin.mp",
+   "author_url": "https://www.instagram.com/seraphin.mp/",
+   "date": "2026-03-03",
    "following": true,
    "confidence": "high"
   },
