@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T03:50:19+00:00",
+ "generated_at": "2026-09-07T12:01:46+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -842,20 +842,21 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "Claude Code aurait fait sauter la limite des agents IA",
-   "synopsis": "Post en français annonçant que Claude Code supprime la limite qui bridait jusqu'ici les agents. Le message s'inscrit dans une série documentant un objectif de 100 000 euros par mois grâce à l'IA sans écrire de code, ici au vingtième jour. Rien n'est expliqué sur la nature de cette limite, le guide complet étant conditionné à un commentaire.",
+   "title": "Printing Press : connecter les agents Claude Code à des sites sans API",
+   "synopsis": "La skill GitHub CLI Printing Press s'installe en collant son URL directement dans le terminal Claude Code, et ouvre l'accès à des sites jusque-là fermés aux agents. On peut soit puiser dans la bibliothèque de printingpress.dev, qui couvre notamment Amazon, eBay, Shopify et TikTok, soit faire générer une CLI sur mesure pour un site précis : l'auteur l'a fait pour son application comptable dont il n'avait pas la clé API. Une fois la CLI en place il interroge ses vingt-cinq dernières factures depuis Claude Code, en consommant nettement moins de tokens qu'une connexion API ou qu'un serveur MCP.",
    "keywords": [
+    "Printing Press",
     "Claude Code",
-    "agents",
-    "limite",
-    "monétisation"
+    "CLI",
+    "économie de tokens",
+    "MCP"
    ],
    "url": "https://www.instagram.com/p/DYSlDU9MD92/",
    "author": "bryanrichmaker",
    "author_url": "https://www.instagram.com/bryanrichmaker/",
    "date": "2026-05-13",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
@@ -913,19 +914,21 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "TARS, le nouvel outil ByteDance",
-   "synopsis": "Le post annonce un nouvel outil de ByteDance désigné par le mot-clé TARS, présenté comme un changement de règles du jeu. La légende se limite à cette affirmation et à trois hashtags, le lien étant conditionné à un commentaire. Ni la fonction ni la catégorie de l'outil ne sont précisées par écrit.",
+   "title": "UI-TARS de ByteDance, alternative locale et gratuite à Manus",
+   "synopsis": "UI-TARS est un outil de ByteDance positionné comme équivalent gratuit de Manus, facturé deux cents dollars par mois. On lui décrit une tâche et l'agent voit réellement l'écran, déplace la souris, clique et remplit les formulaires comme le ferait une personne assise devant l'ordinateur. Il fonctionne sans API ni code, s'exécute entièrement en local et reste donc privé, ce qui permet d'automatiser aussi bien la réservation d'un vol qu'un changement de réglages.",
    "keywords": [
+    "UI-TARS",
     "ByteDance",
-    "TARS",
-    "outil IA"
+    "Manus",
+    "agent computer-use",
+    "exécution locale"
    ],
    "url": "https://www.instagram.com/p/DYKnp8uSKK7/",
    "author": "daniel.prompta",
    "author_url": "https://www.instagram.com/daniel.prompta/",
    "date": "2026-05-10",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
@@ -1159,19 +1162,21 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "Un dépôt GitHub pour donner de la mémoire à Claude Code",
-   "synopsis": "Le post promet un lien GitHub et des instructions pas à pas autour de la mémoire dans Claude Code. La légende ne décrit ni le mécanisme ni le dépôt, tout le contenu utile passant par un commentaire déclencheur de DM. Seuls les hashtags rattachent le sujet à Claude Code.",
+   "title": "Une mémoire permanente pour Claude Code, en tête des tendances GitHub",
+   "synopsis": "Le projet donne à Claude Code une mémoire permanente et a atteint la première place sur GitHub. L'argument central est la réduction de la consommation de tokens de 95%, ce qui repousse nettement le moment où l'on heurte les limites de débit. Le paquet inclut une recherche fondée sur les skills, une interface web de consultation et une skill supplémentaire pour utiliser Claude en desktop, le tout gratuit et installable en une seule commande, le lien partant en DM à qui commente Memory.",
    "keywords": [
     "Claude Code",
-    "mémoire",
-    "GitHub"
+    "mémoire persistante",
+    "économie de tokens",
+    "GitHub",
+    "skills"
    ],
    "url": "https://www.instagram.com/p/DXSaEhIEteE/",
    "author": "advicewithjean",
    "author_url": "https://www.instagram.com/advicewithjean/",
    "date": "2026-04-19",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
@@ -1211,12 +1216,13 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "Une astuce pour économiser les tokens Claude, baptisée CAVEMAN",
-   "synopsis": "Le post promet une configuration permettant de réduire la consommation de tokens sur Claude et donc de repousser les limites d'usage. Tout le contenu utile est renvoyé en DM derrière le mot-clé CAVEMAN, la légende se limitant à une liste de hashtags. Ni la technique ni le dépôt GitHub sous-jacent ne sont décrits par écrit.",
+   "title": "Le mode CAVEMAN, une skill Claude qui coupe 75% des tokens",
+   "synopsis": "Le constat de départ est que Claude dépense des tokens en introductions et explications superflues qui font atteindre les limites plus vite. Un utilisateur Reddit a répondu par un mode caveman : aucune introduction, aucune explication, uniquement la sortie demandée, pour une économie annoncée de 75% des tokens. La mise en place consiste à télécharger le zip depuis le dépôt GitHub, à l'importer dans Claude via Customize puis Skills, et à taper caveman pour l'activer, le lien étant envoyé en DM à qui commente CAVEMAN.",
    "keywords": [
     "Claude",
-    "consommation de tokens",
-    "limites d'usage",
+    "économie de tokens",
+    "skills Claude",
+    "mode caveman",
     "GitHub"
    ],
    "url": "https://www.instagram.com/p/DW-l9lQSFI0/",
@@ -1224,7 +1230,7 @@
    "author_url": "https://www.instagram.com/trakin.ai/",
    "date": "2026-04-11",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
@@ -2660,20 +2666,21 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "Une extension Chrome qui réécrit automatiquement les prompts ChatGPT et Claude",
-   "synopsis": "Présentation d'une extension navigateur qui optimise un prompt en un clic directement dans l'interface de ChatGPT et de Claude. La promesse est d'obtenir des réponses plus claires et plus exploitables sans avoir à formuler soi-même un prompt élaboré. L'extension n'est pas nommée dans la légende et aucune comparaison avant/après n'est fournie par écrit.",
+   "title": "Une extension Chrome qui réécrit les prompts ChatGPT et Claude en un clic",
+   "synopsis": "L'extension s'installe depuis le Chrome Web Store et n'agit que sur ChatGPT et Claude, où elle ajoute un bouton Optimize Prompt dans l'interface. Un seul clic transforme une saisie brouillonne en prompt structuré, en appliquant des techniques de prompt engineering établies comme l'attribution d'un rôle, l'ajout de contexte et la pose de conditions. Le prompt optimisé reste modifiable avant envoi, et l'auteur réserve le lien de téléchargement à ceux qui commentent extension.",
    "keywords": [
-    "prompt engineering",
     "extension Chrome",
+    "prompt engineering",
     "ChatGPT",
-    "Claude"
+    "Claude",
+    "optimisation de prompt"
    ],
    "url": "https://www.instagram.com/p/DS-Xh-kgoi8/",
    "author": "ia.boss.officiel",
    "author_url": "https://www.instagram.com/ia.boss.officiel/",
    "date": "2026-01-01",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
@@ -2712,19 +2719,20 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "Trois sites gratuits pour améliorer ses prompts, liens en DM",
-   "synopsis": "Le post annonce trois ressources gratuites classées par usage : des prompts prêts à l'emploi, des générateurs de prompts sur mesure et des prompts longs destinés à obtenir des réponses plus profondes. Aucun des trois sites n'est nommé dans la légende, les liens étant conditionnés à un commentaire. La valeur annoncée tient donc entièrement dans le contenu de la vidéo et le DM.",
+   "title": "Trois sites gratuits de prompts : Prompt Hackers, Originality AI et Fido",
+   "synopsis": "Le premier site, Prompt Hackers, propose des centaines de prompts prêts à l'emploi couvrant presque tous les domaines, à copier-coller tels quels. Le deuxième, Originality AI, fonctionne en générateur : on saisit un sujet et il produit des prompts sur mesure. Le troisième, Fido.com, renvoie des prompts détaillés conçus pour pousser ChatGPT plus loin, l'auteur envoyant les liens à qui commente Prompt.",
    "keywords": [
-    "prompts",
-    "ressources gratuites",
-    "prompt engineering"
+    "Prompt Hackers",
+    "Originality AI",
+    "Fido",
+    "prompts gratuits"
    ],
    "url": "https://www.instagram.com/p/DSwq7M9lAex/",
    "author": "sebintel",
    "author_url": "https://www.instagram.com/sebintel/",
    "date": "2025-12-27",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
@@ -2746,20 +2754,21 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "L'IA de création de sites la mieux classée du moment, selon l'auteur",
-   "synopsis": "Reel en français vantant un générateur de sites web qui produit des pages premium et animées depuis un simple prompt, sans code ni configuration. L'argument est le passage direct du prompt au site prêt à déployer. Le nom de l'outil n'apparaît pas dans la légende, qui reste au niveau du claim de classement.",
+   "title": "Flame.blue, générateur de sites présenté comme numéro un devant Lovable et Replit",
+   "synopsis": "L'outil mis en avant s'appelle Flame.blue et se revendique premier pour la création de sites web, devant Lovable, Replit et les autres concurrents établis. Là où la plupart des générateurs sortent des modèles basiques, celui-ci produit des sites premium à la mise en page soignée, avec interface fluide et animations professionnelles, testés par l'auteur sur une landing page SaaS. Aucun code ni configuration n'est requis : on saisit un prompt, on clique sur générer et le site est déployable en quelques secondes, l'essai étant gratuit.",
    "keywords": [
-    "génération de sites",
+    "Flame.blue",
+    "Lovable",
+    "Replit",
     "no-code",
-    "webdesign",
-    "prompt-to-site"
+    "génération de sites"
    ],
    "url": "https://www.instagram.com/p/DRhtsDiAvPD/",
    "author": "ia.boss.officiel",
    "author_url": "https://www.instagram.com/ia.boss.officiel/",
    "date": "2025-11-26",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.CODE",
@@ -2774,23 +2783,6 @@
    "url": "https://www.instagram.com/p/DRFOqJADUtV/",
    "author": "drcintas",
    "author_url": "https://www.instagram.com/drcintas/",
-   "date": "2025-11-15",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.CODE",
-   "title": "Ultimate Web Scraper, une extension Chrome d'extraction de données",
-   "synopsis": "Le post nomme une extension Chrome appelée Ultimate Web Scraper, positionnée pour extraire des données de pages web sans écrire de code. La légende se limite au nom de l'outil et à des hashtags orientés e-commerce et productivité. Le fonctionnement réel, les limites et le modèle tarifaire ne sont pas abordés dans le texte.",
-   "keywords": [
-    "web scraping",
-    "extension Chrome",
-    "extraction de données",
-    "e-commerce"
-   ],
-   "url": "https://www.instagram.com/p/DRFf8-JDxhS/",
-   "author": "arthur.webscraping",
-   "author_url": "https://www.instagram.com/arthur.webscraping/",
    "date": "2025-11-15",
    "following": true,
    "confidence": "high"
@@ -2845,6 +2837,25 @@
    "author": "greymatter_ai",
    "author_url": "https://www.instagram.com/greymatter_ai/",
    "date": "2025-10-19",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Trois annonces IA du jour : commerce dans ChatGPT, Claude Sonnet 4.5, backend Lovable",
+   "synopsis": "Un bulletin quotidien qui enchaîne trois annonces : OpenAI lance Buy It in ChatGPT, propulsé par Stripe et l'Agentic Commerce Protocol, ouvrant l'achat direct chez les vendeurs Etsy puis chez plus d'un million de marchands Shopify. Anthropic publie Claude Sonnet 4.5, présenté comme le meilleur modèle de code du monde avec 82% sur la correction de bugs réels en open source contre 74,5% pour GPT-5 Codex et 67% pour Gemini, accompagné de l'extension Claude for Chrome qui navigue et remplit des tableurs. Lovable ajoute Lovable Cloud & AI, qui génère depuis un simple prompt un backend Supabase complet avec authentification, base de données et stockage.",
+   "keywords": [
+    "ChatGPT",
+    "Agentic Commerce Protocol",
+    "Claude Sonnet 4.5",
+    "Lovable",
+    "Supabase",
+    "Stripe"
+   ],
+   "url": "https://www.instagram.com/p/DPPP6Xrjqty/",
+   "author": "tenex_labs",
+   "author_url": "https://www.instagram.com/tenex_labs/",
+   "date": "2025-09-30",
    "following": true,
    "confidence": "high"
   },
@@ -5310,6 +5321,23 @@
   },
   {
    "folder": "AI.pix",
+   "title": "Le réalisme 8K ne s'obtient pas en écrivant 8K dans le prompt",
+   "synopsis": "L'auteur explique que le vrai détail 8K ne vient jamais du mot 8K placé dans le prompt, mais d'une reconstruction spécifiée à chaque niveau de zoom. Il énumère les marqueurs à décrire explicitement : profondeur des fibres de l'iris et anneau limbique de l'œil, brillance de sébum sur le nez, bordure vermillon de la lèvre, duvet se détachant de la joue et lumière courant le long de chaque cheveu. Le principe est que chaque niveau de recadrage réclame sa propre instruction, les cinq prompts complets restant réservés à ceux qui commentent 8K.",
+   "keywords": [
+    "Nano Banana Pro",
+    "prompts 8K",
+    "réalisme du portrait",
+    "prompt engineering"
+   ],
+   "url": "https://www.instagram.com/p/DcvyWwGs_Gy/",
+   "author": "its.mrpickard",
+   "author_url": "https://www.instagram.com/its.mrpickard/",
+   "date": "2026-09-01",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
    "title": "Hyper-realistic photo prompts offered on comment",
    "synopsis": "A carousel teasing prompts for hyper-realistic photo generation, with the single-line caption asking viewers to comment CAMERA to receive them. No model, platform or prompt structure is named anywhere in the post. There is no audio track to recover further detail from.",
    "keywords": [
@@ -5410,6 +5438,23 @@
    "author_url": "https://www.instagram.com/prompty.ai/",
    "date": "2026-08-26",
    "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Un pack de prompts de réalisme 8K promis en commentaire",
+   "synopsis": "Un carrousel d'images de portraits hyperréalistes présenté uniquement comme vitrine d'un pack de prompts. La légende se limite à demander de commenter 8K pour recevoir gratuitement les prompts et un hack, sans nommer le modèle utilisé ni décrire la moindre technique. Le post est un aimant à commentaires : aucune information exploitable n'est publiée, et le format carrousel ne comporte pas de piste audio permettant d'en récupérer davantage.",
+   "keywords": [
+    "prompts 8K",
+    "réalisme IA",
+    "lead magnet",
+    "carrousel"
+   ],
+   "url": "https://www.instagram.com/p/Dcd1j6niF1K/",
+   "author": "aicreatorleague",
+   "author_url": "https://www.instagram.com/aicreatorleague/",
+   "date": "2026-08-25",
+   "following": false,
    "confidence": "low"
   },
   {
@@ -6148,36 +6193,40 @@
   },
   {
    "folder": "AI.pix",
-   "title": "Un guide de fonctionnalités Claude relayé depuis un autre créateur",
-   "synopsis": "Post d'enthousiasme sur les sorties récentes de Claude, crédité à un autre compte, qui propose un guide en DM contre un commentaire. La légende ne détaille aucune des fonctionnalités évoquées et se contente d'un ton admiratif accompagné d'une question à l'audience. La valeur informative écrite est nulle sans la vidéo.",
+   "title": "Claude s'intègre à Blender, à la suite Adobe et à Autodesk Fusion",
+   "synopsis": "Trois intégrations sont annoncées le même matin. Avec Blender, Claude peut déboguer la scène à l'écran, appliquer des modifications par lots sur tous les objets et écrire des outils sur mesure depuis un prompt. Avec Adobe, il se branche sur plus de cinquante outils répartis entre Photoshop, Premiere et Express pour passer d'un prompt à un brouillon éditable, tandis qu'Autodesk Fusion permet de créer et modifier des modèles 3D en dialoguant simplement avec Claude.",
    "keywords": [
     "Claude",
-    "guide",
-    "nouveautés"
+    "Blender",
+    "Adobe Photoshop",
+    "Premiere",
+    "Autodesk Fusion",
+    "intégrations"
    ],
    "url": "https://www.instagram.com/p/DXsbBZCDS0k/",
    "author": "baroobi.inc",
    "author_url": "https://www.instagram.com/baroobi.inc/",
    "date": "2026-04-30",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.pix",
-   "title": "Reproduire la photo produit d'un concurrent en soixante secondes",
-   "synopsis": "Le post promet de recréer n'importe quel visuel produit concurrent en une minute, dans un contexte de bijouterie et de visuels de luxe. L'angle est celui de la stratégie de marque : s'aligner visuellement sur la concurrence sans studio ni budget. Ni l'outil ni la méthode ne sont nommés dans la légende, réduite à des hashtags.",
+   "title": "Rétro-ingénierie d'une photo produit concurrente avec fillthetile et ChatGPT",
+   "synopsis": "La méthode consiste à repérer sur Instagram, dans sa propre catégorie, la photo produit d'un concurrent dont on aime le rendu, et à en faire une capture d'écran. Cette capture est déposée sur fillthetile, où la fonction extract prompt analyse l'image et restitue des détails techniques qu'on n'aurait jamais pensé à écrire : objectif portrait 85 mm, pores de la peau, taches de rousseur, position exacte du pendentif porté aux lèvres. Le prompt obtenu est copié tel quel dans ChatGPT, qui recrée le visuel avec son propre produit en moins d'une minute.",
    "keywords": [
+    "fillthetile",
+    "ChatGPT",
     "photo produit",
-    "bijouterie",
-    "visuels de luxe",
-    "stratégie de marque"
+    "extraction de prompt",
+    "e-commerce"
    ],
    "url": "https://www.instagram.com/p/DXnCGslDcea/",
    "author": "fillthetile",
    "author_url": "https://www.instagram.com/fillthetile/",
    "date": "2026-04-26",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.pix",
@@ -6426,20 +6475,20 @@
   },
   {
    "folder": "AI.pix",
-   "title": "Un modèle image chinois gratuit présenté comme supérieur à Nano Banana Pro",
-   "synopsis": "Le post affirme qu'un modèle de génération d'images chinois, gratuit, dépasse Nano Banana Pro de Google. La légende se réduit au claim et à des hashtags, sans nommer le modèle ni montrer de comparaison écrite. L'élément de preuve éventuel se trouve uniquement dans la vidéo.",
+   "title": "Z-Image Turbo, modèle image chinois gratuit et sans restriction",
+   "synopsis": "Le modèle s'appelle Z-Image Turbo et est présenté comme la réponse chinoise gratuite à Nano Banana Pro, avec des rendus jugés plus réalistes. L'auteur souligne qu'il est totalement non censuré, ce qui permet de générer n'importe quoi et soulève selon lui de vraies questions éthiques. L'accès se fait gratuitement via les Spaces de Hugging Face en cherchant le modèle, en saisissant son prompt et en ajustant les réglages, Nano Banana Pro restant supérieur sur le rendu de texte en attendant la version pro annoncée.",
    "keywords": [
-    "modèle image",
-    "Chine",
+    "Z-Image Turbo",
     "Nano Banana Pro",
-    "open source"
+    "Hugging Face Spaces",
+    "modèle non censuré"
    ],
    "url": "https://www.instagram.com/p/DTIlq-yki6B/",
    "author": "hackonomics.ai",
    "author_url": "https://www.instagram.com/hackonomics.ai/",
    "date": "2026-01-05",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.pix",
@@ -6455,23 +6504,6 @@
    "author": "danyltn",
    "author_url": "https://www.instagram.com/danyltn/",
    "date": "2026-01-05",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Transformer une image en profil JSON pour la régénérer fidèlement dans ChatGPT",
-   "synopsis": "La technique consiste à faire décrire une image par ChatGPT sous forme de profil de contexte structuré en JSON, puis à réutiliser ce profil comme prompt. L'intérêt annoncé est une précision nettement supérieure du rendu, le JSON figeant les paramètres visuels au lieu de les laisser à l'interprétation du modèle. Le prompt complet est conditionné à un commentaire.",
-   "keywords": [
-    "ChatGPT",
-    "prompt JSON",
-    "génération d'images",
-    "reproductibilité"
-   ],
-   "url": "https://www.instagram.com/p/DTDMq8WEky5/",
-   "author": "mavgpt",
-   "author_url": "https://www.instagram.com/mavgpt/",
-   "date": "2026-01-03",
    "following": true,
    "confidence": "high"
   },
@@ -6526,23 +6558,6 @@
    "date": "2025-10-28",
    "following": false,
    "confidence": "low"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Vol.1 d'un partage de prompts Midjourney, avec passage en Low Motion",
-   "synopsis": "Publication coréenne qui diffuse une première série de prompts Midjourney prêts à l'emploi, présentés comme suffisants pour générer une image sans réglages supplémentaires. L'auteur enchaîne ensuite sur la fonction Low Motion de Midjourney pour animer l'image obtenue, ce qui fait du prompt un point de départ image puis vidéo. La distribution par DM est annoncée comme clôturée, une suite étant promise.",
-   "keywords": [
-    "Midjourney",
-    "prompts",
-    "Low Motion",
-    "image-to-video"
-   ],
-   "url": "https://www.instagram.com/p/DPMLQ0vEjNE/",
-   "author": "ai.favmag",
-   "author_url": "https://www.instagram.com/ai.favmag/",
-   "date": "2025-09-29",
-   "following": false,
-   "confidence": "high"
   },
   {
    "folder": "ai.skin",
@@ -6683,6 +6698,23 @@
    "author": "timkoda_",
    "author_url": "https://www.instagram.com/timkoda_/",
    "date": "2025-12-17",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Deux commandes Google Flow pour décliner une photo produit en publicités",
+   "synopsis": "La démonstration part d'une seule image produit chargée dans Google Flow, puis utilise des commandes slash pour en tirer plusieurs formats publicitaires. La commande /UGC ad transforme l'image en publicité de style créateur et ajoute même un personnage cohérent avec le produit, tandis que /luxury ad produit une publicité cinématographique haut de gamme. L'auteur annonce plus de cinquante autres commandes produit du même type, envoyées en message privé à qui commente PRODUCT.",
+   "keywords": [
+    "Google Flow",
+    "publicité UGC",
+    "photo produit",
+    "commandes slash"
+   ],
+   "url": "https://www.instagram.com/p/Dc26Zd_DRaM/",
+   "author": "sferro.ai",
+   "author_url": "https://www.instagram.com/sferro.ai/",
+   "date": "2026-09-04",
    "following": true,
    "confidence": "high"
   },
@@ -7783,19 +7815,20 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Prompts et astuces de réalisation de films, distribués en DM",
-   "synopsis": "Le post propose d'envoyer gratuitement en message privé les prompts et astuces employés pour réaliser le type de film montré. La seule information de fond est une question à l'audience sur l'usage de Claude. Aucun outil ni méthode n'est décrit dans la légende.",
+   "title": "Claude en équipe d'animation : direction artistique, illustration puis prompts vidéo",
+   "synopsis": "La méthode se déroule en trois étapes, Claude remplaçant successivement chaque poste d'une équipe de production animée. On lui donne d'abord toutes ses références pour qu'il sorte la palette, les textures et l'ambiance, un travail de direction artistique livré en quelques secondes. Il devient ensuite illustrateur en générant, à partir de la description d'une scène, les prompts exacts qui donnent le style animé visé, puis produit à l'étape trois des prompts de scène assez denses et précis pour n'avoir plus qu'à lancer la génération vidéo.",
    "keywords": [
-    "film IA",
-    "prompts",
-    "Claude"
+    "Claude",
+    "film d'animation",
+    "direction artistique",
+    "prompts vidéo"
    ],
    "url": "https://www.instagram.com/p/DYKiMOiM7F0/",
    "author": "yonak.ia",
    "author_url": "https://www.instagram.com/yonak.ia/",
    "date": "2026-05-10",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Video",
@@ -7830,24 +7863,6 @@
    "author_url": "https://www.instagram.com/leerochhka/",
    "date": "2026-05-06",
    "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Higgsfield CLI génère du contenu en autonomie depuis le terminal",
-   "synopsis": "Higgsfield annonce une interface en ligne de commande qui produit du contenu de façon autonome, sans écrire de code. Elle est conçue pour se coupler à des agents de développement comme Claude Code, Codex ou OpenCode. L'argument commercial est qu'une fois configurée, la chaîne continue de générer pendant que l'utilisateur dort, l'instruction complète étant envoyée par DM.",
-   "keywords": [
-    "Higgsfield CLI",
-    "Claude Code",
-    "Codex",
-    "automatisation",
-    "génération de contenu"
-   ],
-   "url": "https://www.instagram.com/p/DX9uIYhixjY/",
-   "author": "higgsfield.ai",
-   "author_url": "https://www.instagram.com/higgsfield.ai/",
-   "date": "2026-05-05",
-   "following": true,
    "confidence": "high"
   },
   {
@@ -7888,20 +7903,20 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Un outil unique pour script, visuels, voix et montage",
-   "synopsis": "Le post annonce un outil IA présenté comme remplaçant l'ensemble de la chaîne de production vidéo. Les quatre étapes couvertes sont énumérées : script, visuels, voix et montage, réunies au même endroit. Aucun nom de produit ni démonstration n'apparaît dans la légende, le lien passant par un commentaire.",
+   "title": "Open Montage, chaîne de production vidéo complète bâtie avec Claude Code",
+   "synopsis": "Open Montage est un outil gratuit construit avec Claude Code qui prend en charge toute la chaîne vidéo à partir d'une simple description. Il gère le script, les visuels, la voix et le montage, et va chercher de vraies informations sur le web avant de générer, de sorte que le résultat est documenté plutôt que purement inventé. Il tourne en local, demande peu de configuration et sert aussi bien pour des explicatifs que pour des publicités ou des bandes-annonces, le lien étant envoyé à qui commente STUDIO.",
    "keywords": [
+    "Open Montage",
+    "Claude Code",
     "production vidéo",
-    "script",
-    "voix de synthèse",
-    "montage"
+    "exécution locale"
    ],
    "url": "https://www.instagram.com/p/DXaO-oHkz3h/",
    "author": "heyalav",
    "author_url": "https://www.instagram.com/heyalav/",
    "date": "2026-04-21",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Video",
