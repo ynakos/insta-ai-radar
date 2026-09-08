@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T12:01:46+00:00",
+ "generated_at": "2026-09-08T09:33:46+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -5236,19 +5236,21 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Extrait d'entretien sur un départ aux États-Unis à treize ans",
-   "synopsis": "Le clip est un extrait d'interview sans rapport avec l'intelligence artificielle : l'invité y revient sur sa timidité d'adolescent et sur sa décision de partir seul aux États-Unis à treize ans. Il décrit le contraste entre son milieu très privilégié et la chambre partagée en Pennsylvanie rurale avec un colocataire fils de chauffeur de taxi. Le post a manifestement été sauvegardé pour son contenu personnel et non pour une actualité technologique.",
+   "title": "« Un miracle » : partir seul aux États-Unis à 13 ans",
+   "synopsis": "Extrait d'entretien audio dans lequel l'invite revient sur sa timidite d'enfance et sur la decision, prise a 13 ans, de partir seul aux Etats-Unis - un choix qu'il qualifie lui-meme de miracle de courage. Il decrit le contraste brutal entre un milieu tres privilegie, evoque par les references au palais de l'Elysee et aux maitres d'hotel, et une chambre modeste de Pennsylvanie rurale partagee avec un camarade fils de chauffeur de taxi et de coiffeuse. Il raconte s'etre effondre, avoir voulu rentrer immediatement en France, et conclut que cette experience lui a fait le plus grand bien.",
    "keywords": [
     "entretien",
+    "temoignage",
     "parcours personnel",
-    "hors sujet IA"
+    "expatriation",
+    "podcast"
    ],
    "url": "https://www.instagram.com/p/DYkSrersw_q/",
    "author": "leaissert",
    "author_url": "https://www.instagram.com/leaissert/",
    "date": "2026-05-20",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Models and apps",
@@ -5316,6 +5318,42 @@
    "author": "proj.ectjarvis",
    "author_url": "https://www.instagram.com/proj.ectjarvis/",
    "date": "2026-04-10",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Portrait transforme en couverture de comic vintage",
+   "synopsis": "@steal.prompts montre la conversion d'un portrait photo en couverture de bande dessinee americaine des annees 1960, dans l'esthetique Silver Age facon Archie Comics. Le post est une vitrine de resultat : trames, aplats et typographie retro sont obtenus sans illustrateur ni encrage, uniquement via un prompt d'image. Le prompt exact n'est pas publie et reste conditionne a un commentaire, ce qui limite la valeur technique reutilisable de la publication.",
+   "keywords": [
+    "AI comic art",
+    "prompt engineering",
+    "portrait to comic",
+    "vintage illustration",
+    "image generation"
+   ],
+   "url": "https://www.instagram.com/p/Dc9BbUMkjvp/",
+   "author": "steal.prompts",
+   "author_url": "https://www.instagram.com/steal.prompts/",
+   "date": "2026-09-06",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "UPSCALE : un seul prompt pour nettoyer et rehausser une photo",
+   "synopsis": "@prompts.soul presente un prompt unique baptise UPSCALE qui prend en charge tout le post-traitement d'une photo existante plutot que d'en generer une nouvelle. Le prompt vise une montee en resolution accompagnee d'un etalonnage precis : verts profonds, hautes lumieres d'heure doree, ciel bleu propre, carnations naturelles et blancs neutres. L'auteur insiste sur ce qu'il refuse - pas de lissage plastique de la peau, pas de halos de faux piquer - en preservant grain, texture de peau et details capillaires ; le prompt lui-meme reste accessible en commentaire.",
+   "keywords": [
+    "upscaling",
+    "prompt engineering",
+    "color grading",
+    "photo restoration",
+    "AI image editing"
+   ],
+   "url": "https://www.instagram.com/p/Dc29uEuH3Av/",
+   "author": "prompts.soul",
+   "author_url": "https://www.instagram.com/prompts.soul/",
+   "date": "2026-09-04",
    "following": true,
    "confidence": "high"
   },
@@ -6492,23 +6530,6 @@
   },
   {
    "folder": "AI.pix",
-   "title": "Une image, douze angles de prise de vue avec Gemini",
-   "synopsis": "Méthode en français pour produire douze cadrages différents à partir d'une seule photo dans Google Gemini. Le procédé est décrit pas à pas : importer l'image, demander douze prompts d'angles et de cadrages variés, combiner chaque prompt avec l'image de référence, puis réinjecter l'image précédente pour maintenir la cohérence d'une prise à l'autre. Le résultat visé est une série de visuels équivalente à un shooting multi-caméras, sans budget ni retouche.",
-   "keywords": [
-    "Gemini",
-    "cohérence d'image",
-    "angles de vue",
-    "production visuelle"
-   ],
-   "url": "https://www.instagram.com/p/DTJDZFxkSn1/",
-   "author": "danyltn",
-   "author_url": "https://www.instagram.com/danyltn/",
-   "date": "2026-01-05",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
    "title": "Gemini 3 Pro et Nano Banana Pro combinés dans HixAI",
    "synopsis": "Le post met en avant l'association de Gemini 3 Pro et de Nano Banana Pro au sein de la plateforme HixAI, présentée comme un combo puissant pour la création visuelle. L'accroche invite à rédiger soi-même ses prompts professionnels dès maintenant. Le texte reste promotionnel et ne décrit ni le flux de travail ni les résultats obtenus.",
    "keywords": [
@@ -6521,24 +6542,6 @@
    "author": "chris_creates.7",
    "author_url": "https://www.instagram.com/chris_creates.7/",
    "date": "2025-12-18",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Lovart intègre Nano Banana Pro, adossé à une promo par DM",
-   "synopsis": "Le post annonce l'intégration de Nano Banana Pro dans Lovart, plateforme de design assisté, avec Kling O1 également mentionné. Le propos commercial domine : jusqu'à 50 % de réduction et un an d'accès illimité sans crédits, en échange d'un commentaire déclencheur de DM, avec une date limite au 14 décembre. La revendication de remplacer Photoshop, Canva et Gemini n'est appuyée par aucune démonstration dans le texte.",
-   "keywords": [
-    "Lovart",
-    "Nano Banana Pro",
-    "Kling O1",
-    "design IA",
-    "promotion"
-   ],
-   "url": "https://www.instagram.com/p/DSFWpU_kkXl/",
-   "author": "adam.godigital",
-   "author_url": "https://www.instagram.com/adam.godigital/",
-   "date": "2025-12-10",
    "following": false,
    "confidence": "high"
   },
