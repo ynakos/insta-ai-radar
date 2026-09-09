@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T09:33:46+00:00",
+ "generated_at": "2026-09-09T12:28:50+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -1857,24 +1857,6 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "Four free plugins that stretch Claude Code usage limits",
-   "synopsis": "This clip lists four free plugins aimed at Claude Code usage limits: Headroom, with nearly 30,000 GitHub stars and reversible compression, and Graphify, which turns your codebase into a knowledge graph and is claimed to cut token costs by up to 70x. CodeBurn adds detailed token-usage insight, running fully locally, while Ponytail trims usage without sacrificing accuracy. All four are presented as free and installable on your own machine.",
-   "keywords": [
-    "Claude Code",
-    "Headroom",
-    "Graphify",
-    "CodeBurn",
-    "token optimization"
-   ],
-   "url": "https://www.instagram.com/p/DbTMVshNbk6/",
-   "author": "moshbariofficial",
-   "author_url": "https://www.instagram.com/moshbariofficial/",
-   "date": "2026-07-27",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.CODE",
    "title": "RTK proxy compresses terminal LLM requests by 60-90%",
    "synopsis": "RTK is a proxy that compresses the requests your terminal sends to LLMs, cutting token use by 60 to 90 percent and roughly doubling session length. It installs with a single curl or brew command, you export the path in your .bashrc or .zshrc, and rtk init -g enables it permanently for Claude Code, Codex, or any terminal AI agent. The creator's claim is that this makes the €20 plan comfortably sufficient.",
    "keywords": [
@@ -2783,6 +2765,25 @@
    "url": "https://www.instagram.com/p/DRFOqJADUtV/",
    "author": "drcintas",
    "author_url": "https://www.instagram.com/drcintas/",
+   "date": "2025-11-15",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Ultimate Web Scraper: a Chrome extension that exports search results to a file",
+   "synopsis": "The reel demonstrates Ultimate Web Scraper, a Chrome extension the creator stumbled on while trying to scrape Google search results by hand. Once installed it scans every result on the page and collects the extracted fields into a structured table inside the browser. The captured data can then be exported to a file, turning an ad-hoc scraping job into a two-click operation with no code.",
+   "keywords": [
+    "Ultimate Web Scraper",
+    "Chrome extension",
+    "web scraping",
+    "Google search results",
+    "data export",
+    "no-code automation"
+   ],
+   "url": "https://www.instagram.com/p/DRFf8-JDxhS/",
+   "author": "arthur.webscraping",
+   "author_url": "https://www.instagram.com/arthur.webscraping/",
    "date": "2025-11-15",
    "following": true,
    "confidence": "high"
@@ -4715,24 +4716,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Four free plugins that stretch Claude Code usage limits",
-   "synopsis": "This clip lists four free plugins aimed at Claude Code usage limits: Headroom, with nearly 30,000 GitHub stars and reversible compression, and Graphify, which turns your codebase into a knowledge graph and is claimed to cut token costs by up to 70x. CodeBurn adds detailed token-usage insight, running fully locally, while Ponytail trims usage without sacrificing accuracy. All four are presented as free and installable on your own machine.",
-   "keywords": [
-    "Claude Code",
-    "Headroom",
-    "Graphify",
-    "CodeBurn",
-    "token optimization"
-   ],
-   "url": "https://www.instagram.com/p/DbTMVshNbk6/",
-   "author": "moshbariofficial",
-   "author_url": "https://www.instagram.com/moshbariofficial/",
-   "date": "2026-07-27",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "Overgrown, Blender's new open movie made with and about Blender",
    "synopsis": "The creator introduces Overgrown, a new Blender feature film made in Blender, about Blender, and by the Blender community. Beyond the film itself, the project is set to share techniques for people who want to do animation without spending a fortune. The video encourages supporting the project and cites Blender Studio, Digital Production, BlenderNation, and Reddit as sources.",
    "keywords": [
@@ -5270,6 +5253,24 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Unnamed site pitched as a free, unlimited alternative to Higgsfield AI",
+   "synopsis": "The reel pitches a website that allegedly offers unlimited AI image and video generation for free, positioned explicitly against paying for Higgsfield AI. The claimed features are watermark-free downloads, model switching, detail-level tweaking and access to several premium models from a single dashboard. The product itself is never named on-platform: both the caption and the voice-over end on 'comment AI and I'll DM you the tool', so the actual identity of the service is unverifiable from the post.",
+   "keywords": [
+    "Higgsfield AI",
+    "AI image generation",
+    "AI video generation",
+    "watermark-free",
+    "DM-gated tool"
+   ],
+   "url": "https://www.instagram.com/p/DYhPllEhYP4/",
+   "author": "livdawnson",
+   "author_url": "https://www.instagram.com/livdawnson/",
+   "date": "2026-05-19",
+   "following": false,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "One photo plus a few seconds of voice becomes a lifelike talking video",
    "synopsis": "This open-source and completely free Chinese tool generates ultra-realistic video with very high facial quality from a single uploaded photo and a few seconds of recorded voice. The output shows the person speaking naturally with lip sync that matches precisely, believable facial expressions, and a cinematic look. You can then edit the whole scene by typing a prompt — asking to put them in a suit on a yacht rebuilds the scene while preserving the same face and identity.",
    "keywords": [
@@ -5323,6 +5324,40 @@
   },
   {
    "folder": "AI.pix",
+   "title": "Le réalisme 8K ne s'obtient pas en écrivant 8K dans le prompt",
+   "synopsis": "L'auteur explique que le vrai détail 8K ne vient jamais du mot 8K placé dans le prompt, mais d'une reconstruction spécifiée à chaque niveau de zoom. Il énumère les marqueurs à décrire explicitement : profondeur des fibres de l'iris et anneau limbique de l'œil, brillance de sébum sur le nez, bordure vermillon de la lèvre, duvet se détachant de la joue et lumière courant le long de chaque cheveu. Le principe est que chaque niveau de recadrage réclame sa propre instruction, les cinq prompts complets restant réservés à ceux qui commentent 8K.",
+   "keywords": [
+    "Nano Banana Pro",
+    "prompts 8K",
+    "réalisme du portrait",
+    "prompt engineering"
+   ],
+   "url": "https://www.instagram.com/p/DcvyWwGs_Gy/",
+   "author": "its.mrpickard",
+   "author_url": "https://www.instagram.com/its.mrpickard/",
+   "date": "2026-09-08",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Comment-gated teaser for an AI image prompt collection",
+   "synopsis": "An image post showing one AI-generated result with no explanation of how it was made. The entire caption is a call to action: comment '101' to be shown how to get this prompt plus a hundred more from the creator's collection. Nothing about the model, prompt or workflow is disclosed on-platform, so the post carries no extractable technique.",
+   "keywords": [
+    "AI image prompt",
+    "prompt pack",
+    "comment-gated",
+    "lead magnet"
+   ],
+   "url": "https://www.instagram.com/p/Dc7gNAijbsx/",
+   "author": "hey.katie.b",
+   "author_url": "https://www.instagram.com/hey.katie.b/",
+   "date": "2026-09-06",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
    "title": "Portrait transforme en couverture de comic vintage",
    "synopsis": "@steal.prompts montre la conversion d'un portrait photo en couverture de bande dessinee americaine des annees 1960, dans l'esthetique Silver Age facon Archie Comics. Le post est une vitrine de resultat : trames, aplats et typographie retro sont obtenus sans illustrateur ni encrage, uniquement via un prompt d'image. Le prompt exact n'est pas publie et reste conditionne a un commentaire, ce qui limite la valeur technique reutilisable de la publication.",
    "keywords": [
@@ -5355,23 +5390,6 @@
    "author_url": "https://www.instagram.com/prompts.soul/",
    "date": "2026-09-04",
    "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Le réalisme 8K ne s'obtient pas en écrivant 8K dans le prompt",
-   "synopsis": "L'auteur explique que le vrai détail 8K ne vient jamais du mot 8K placé dans le prompt, mais d'une reconstruction spécifiée à chaque niveau de zoom. Il énumère les marqueurs à décrire explicitement : profondeur des fibres de l'iris et anneau limbique de l'œil, brillance de sébum sur le nez, bordure vermillon de la lèvre, duvet se détachant de la joue et lumière courant le long de chaque cheveu. Le principe est que chaque niveau de recadrage réclame sa propre instruction, les cinq prompts complets restant réservés à ceux qui commentent 8K.",
-   "keywords": [
-    "Nano Banana Pro",
-    "prompts 8K",
-    "réalisme du portrait",
-    "prompt engineering"
-   ],
-   "url": "https://www.instagram.com/p/DcvyWwGs_Gy/",
-   "author": "its.mrpickard",
-   "author_url": "https://www.instagram.com/its.mrpickard/",
-   "date": "2026-09-01",
-   "following": false,
    "confidence": "high"
   },
   {
@@ -5441,6 +5459,25 @@
    "author_url": "https://www.instagram.com/paintmotionpictures/",
    "date": "2026-08-28",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Nine ChatGPT prompts that restyle a phone photo as a professional shoot",
+   "synopsis": "The carousel argues that ChatGPT's image editing is now good enough to make an ordinary phone photo read as a professional studio or location shoot, with no camera or editing skill involved. It enumerates nine prompt recipes: DSLR photographer mode, cinematic photoshoot, luxury Instagram look, travel influencer shots, magazine cover style, old photo restoration, location swaps, professional headshots and golden hour glow. The stated use cases are LinkedIn headshots, travel-style content without travelling, and a more premium-looking feed; the prompt text itself is delivered by DM.",
+   "keywords": [
+    "ChatGPT",
+    "AI photo editing",
+    "prompt pack",
+    "professional headshots",
+    "photo restoration",
+    "cinematic style"
+   ],
+   "url": "https://www.instagram.com/p/DcgHqgtjScC/",
+   "author": "techskills",
+   "author_url": "https://www.instagram.com/techskills/",
+   "date": "2026-08-26",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -5583,6 +5620,24 @@
    "date": "2026-08-18",
    "following": true,
    "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "AI art style comparison with the prompts parked on YouTube Shorts",
+   "synopsis": "A single-image post showing several AI art styles side by side and asking followers which one they prefer. The prompts behind the styles are not in the caption; they are pushed to an external YouTube Shorts link. The hashtags point at Midjourney and ChatGPT as the generators, but the post carries no technique, parameter or workflow detail of its own.",
+   "keywords": [
+    "Midjourney",
+    "ChatGPT",
+    "AI art styles",
+    "prompt pack",
+    "off-platform link"
+   ],
+   "url": "https://www.instagram.com/p/DcJLN15DF8D/",
+   "author": "graphic_mixx",
+   "author_url": "https://www.instagram.com/graphic_mixx/",
+   "date": "2026-08-17",
+   "following": false,
+   "confidence": "low"
   },
   {
    "folder": "AI.pix",
@@ -6512,57 +6567,6 @@
    "confidence": "high"
   },
   {
-   "folder": "AI.pix",
-   "title": "Z-Image Turbo, modèle image chinois gratuit et sans restriction",
-   "synopsis": "Le modèle s'appelle Z-Image Turbo et est présenté comme la réponse chinoise gratuite à Nano Banana Pro, avec des rendus jugés plus réalistes. L'auteur souligne qu'il est totalement non censuré, ce qui permet de générer n'importe quoi et soulève selon lui de vraies questions éthiques. L'accès se fait gratuitement via les Spaces de Hugging Face en cherchant le modèle, en saisissant son prompt et en ajustant les réglages, Nano Banana Pro restant supérieur sur le rendu de texte en attendant la version pro annoncée.",
-   "keywords": [
-    "Z-Image Turbo",
-    "Nano Banana Pro",
-    "Hugging Face Spaces",
-    "modèle non censuré"
-   ],
-   "url": "https://www.instagram.com/p/DTIlq-yki6B/",
-   "author": "hackonomics.ai",
-   "author_url": "https://www.instagram.com/hackonomics.ai/",
-   "date": "2026-01-05",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Gemini 3 Pro et Nano Banana Pro combinés dans HixAI",
-   "synopsis": "Le post met en avant l'association de Gemini 3 Pro et de Nano Banana Pro au sein de la plateforme HixAI, présentée comme un combo puissant pour la création visuelle. L'accroche invite à rédiger soi-même ses prompts professionnels dès maintenant. Le texte reste promotionnel et ne décrit ni le flux de travail ni les résultats obtenus.",
-   "keywords": [
-    "Gemini 3 Pro",
-    "Nano Banana Pro",
-    "HixAI",
-    "génération d'images"
-   ],
-   "url": "https://www.instagram.com/p/DSaGeJkDHIk/",
-   "author": "chris_creates.7",
-   "author_url": "https://www.instagram.com/chris_creates.7/",
-   "date": "2025-12-18",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Un site de prompts Nano Banana poussé sans être nommé",
-   "synopsis": "Reel de type enregistrez-ceci pointant vers un site web de prompts pour Nano Banana, le modèle image de Google. La légende est purement incitative (sauvegarder, partager, suivre) et les hashtags portent toute l'information de contexte. Ni le nom du site ni un exemple de prompt ne sont donnés dans le texte, le contenu utile restant dans la vidéo.",
-   "keywords": [
-    "Nano Banana",
-    "prompts",
-    "génération d'images",
-    "Google"
-   ],
-   "url": "https://www.instagram.com/p/DQWMRZqCn31/",
-   "author": "ui.johnson",
-   "author_url": "https://www.instagram.com/ui.johnson/",
-   "date": "2025-10-28",
-   "following": false,
-   "confidence": "low"
-  },
-  {
    "folder": "ai.skin",
    "title": "Five small details that make an AI avatar read as real",
    "synopsis": "The creator's recurring finding is that avatar realism is never one big thing but an accumulation of tiny details. The five she watches most are skin, eyes, lighting and the small imperfections a real photograph would contain. An example prompt accompanies the breakdown so the difference is visible rather than described.",
@@ -6703,6 +6707,23 @@
    "date": "2025-12-17",
    "following": true,
    "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Italian comment-gated giveaway of an AI prompt pack",
+   "synopsis": "A carousel post in Italian whose caption is purely a lead magnet: comment 'PROMPT' and the creator sends the complete pack for free. The visuals show AI-generated output but neither the model nor the prompts are named. The hashtags place it in the generic AI-creator trend space rather than describing any specific tool.",
+   "keywords": [
+    "AI prompt pack",
+    "comment-gated",
+    "AI creator",
+    "lead magnet"
+   ],
+   "url": "https://www.instagram.com/p/DdBboa2jU3p/",
+   "author": "akapepinho",
+   "author_url": "https://www.instagram.com/akapepinho/",
+   "date": "2026-09-08",
+   "following": true,
+   "confidence": "low"
   },
   {
    "folder": "AI.Video",
@@ -7849,23 +7870,6 @@
    "author_url": "https://www.instagram.com/pierrevibesai/",
    "date": "2026-05-07",
    "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Un rendu vidéo sans montage de niveau studio, prompts partagés sur Telegram",
-   "synopsis": "Publication en russe soulignant que le résultat montré ne demande pas de montage professionnel et peut être reproduit avec son propre visage, un personnage ou un mannequin. L'autrice indique avoir déposé l'ensemble des prompts, des références et le workflow complet sur son canal Telegram, lié en bio. Le post invite à sauvegarder et à partager, notamment auprès de ceux qui associent encore l'IA à des vidéos ratées.",
-   "keywords": [
-    "vidéo générative",
-    "workflow",
-    "prompts",
-    "Telegram"
-   ],
-   "url": "https://www.instagram.com/p/DYAyYjaIWPa/",
-   "author": "leerochhka",
-   "author_url": "https://www.instagram.com/leerochhka/",
-   "date": "2026-05-06",
-   "following": false,
    "confidence": "high"
   },
   {
