@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T07:51:50+00:00",
+ "generated_at": "2026-09-11T09:21:06+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -1857,6 +1857,24 @@
   },
   {
    "folder": "AI.CODE",
+   "title": "Four free plugins for stretching Claude Code usage limits",
+   "synopsis": "A reel pitching four free, open-source plugins aimed at users who keep hitting Claude Code usage ceilings. It names Headroom (around 30,000 GitHub stars, offering reversible context compression), Graphify (turns a codebase into a knowledge graph, claimed to cut token cost by up to 70x), CodeBurn (local, private token-usage analytics) and Ponytail (trims consumption while preserving accuracy). The specific tool names make it actionable, though the 70x figure is the creator's claim and the full detail is gated behind a comment-for-more hook.",
+   "keywords": [
+    "Claude Code",
+    "Headroom",
+    "Graphify",
+    "CodeBurn",
+    "token optimization"
+   ],
+   "url": "https://www.instagram.com/p/DbTMVshNbk6/",
+   "author": "moshbariofficial",
+   "author_url": "https://www.instagram.com/moshbariofficial/",
+   "date": "2026-07-27",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
    "title": "RTK proxy compresses terminal LLM requests by 60-90%",
    "synopsis": "RTK is a proxy that compresses the requests your terminal sends to LLMs, cutting token use by 60 to 90 percent and roughly doubling session length. It installs with a single curl or brew command, you export the path in your .bashrc or .zshrc, and rtk init -g enables it permanently for Claude Code, Codex, or any terminal AI agent. The creator's claim is that this makes the €20 plan comfortably sufficient.",
    "keywords": [
@@ -2765,25 +2783,6 @@
    "url": "https://www.instagram.com/p/DRFOqJADUtV/",
    "author": "drcintas",
    "author_url": "https://www.instagram.com/drcintas/",
-   "date": "2025-11-15",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.CODE",
-   "title": "Ultimate Web Scraper: a Chrome extension that exports search results to a file",
-   "synopsis": "The reel demonstrates Ultimate Web Scraper, a Chrome extension the creator stumbled on while trying to scrape Google search results by hand. Once installed it scans every result on the page and collects the extracted fields into a structured table inside the browser. The captured data can then be exported to a file, turning an ad-hoc scraping job into a two-click operation with no code.",
-   "keywords": [
-    "Ultimate Web Scraper",
-    "Chrome extension",
-    "web scraping",
-    "Google search results",
-    "data export",
-    "no-code automation"
-   ],
-   "url": "https://www.instagram.com/p/DRFf8-JDxhS/",
-   "author": "arthur.webscraping",
-   "author_url": "https://www.instagram.com/arthur.webscraping/",
    "date": "2025-11-15",
    "following": true,
    "confidence": "high"
@@ -4716,6 +4715,24 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Four free plugins for stretching Claude Code usage limits",
+   "synopsis": "A reel pitching four free, open-source plugins aimed at users who keep hitting Claude Code usage ceilings. It names Headroom (around 30,000 GitHub stars, offering reversible context compression), Graphify (turns a codebase into a knowledge graph, claimed to cut token cost by up to 70x), CodeBurn (local, private token-usage analytics) and Ponytail (trims consumption while preserving accuracy). The specific tool names make it actionable, though the 70x figure is the creator's claim and the full detail is gated behind a comment-for-more hook.",
+   "keywords": [
+    "Claude Code",
+    "Headroom",
+    "Graphify",
+    "CodeBurn",
+    "token optimization"
+   ],
+   "url": "https://www.instagram.com/p/DbTMVshNbk6/",
+   "author": "moshbariofficial",
+   "author_url": "https://www.instagram.com/moshbariofficial/",
+   "date": "2026-07-27",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "Overgrown, Blender's new open movie made with and about Blender",
    "synopsis": "The creator introduces Overgrown, a new Blender feature film made in Blender, about Blender, and by the Blender community. Beyond the film itself, the project is set to share techniques for people who want to do animation without spending a fortune. The video encourages supporting the project and cites Blender Studio, Digital Production, BlenderNation, and Reddit as sources.",
    "keywords": [
@@ -5253,24 +5270,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Unnamed site pitched as a free, unlimited alternative to Higgsfield AI",
-   "synopsis": "The reel pitches a website that allegedly offers unlimited AI image and video generation for free, positioned explicitly against paying for Higgsfield AI. The claimed features are watermark-free downloads, model switching, detail-level tweaking and access to several premium models from a single dashboard. The product itself is never named on-platform: both the caption and the voice-over end on 'comment AI and I'll DM you the tool', so the actual identity of the service is unverifiable from the post.",
-   "keywords": [
-    "Higgsfield AI",
-    "AI image generation",
-    "AI video generation",
-    "watermark-free",
-    "DM-gated tool"
-   ],
-   "url": "https://www.instagram.com/p/DYhPllEhYP4/",
-   "author": "livdawnson",
-   "author_url": "https://www.instagram.com/livdawnson/",
-   "date": "2026-05-19",
-   "following": false,
-   "confidence": "low"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "One photo plus a few seconds of voice becomes a lifelike talking video",
    "synopsis": "This open-source and completely free Chinese tool generates ultra-realistic video with very high facial quality from a single uploaded photo and a few seconds of recorded voice. The output shows the person speaking naturally with lip sync that matches precisely, believable facial expressions, and a cinematic look. You can then edit the whole scene by typing a prompt — asking to put them in a suit on a yacht rebuilds the scene while preserving the same face and identity.",
    "keywords": [
@@ -5324,6 +5323,23 @@
   },
   {
    "folder": "AI.pix",
+   "title": "Prompt-library teaser for an AI content workflow (caption-gated)",
+   "synopsis": "A Portuguese-language carousel promoting a prompt library and platform access, credited to @fishcreative.hq, under the slogan that an intelligent workflow plus powerful AI produces outsized content. The caption asks viewers to comment BIBLIOTECA to receive the prompts and access by DM, and names no model, tool or technique. As an image carousel with no audio track there is nothing further to extract, so the substance stays behind the gate.",
+   "keywords": [
+    "prompt library",
+    "AI workflow",
+    "lead magnet",
+    "carousel"
+   ],
+   "url": "https://www.instagram.com/p/DdEJUDTEbUZ/",
+   "author": "uendelmiranda.ia",
+   "author_url": "https://www.instagram.com/uendelmiranda.ia/",
+   "date": "2026-09-09",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
    "title": "Le réalisme 8K ne s'obtient pas en écrivant 8K dans le prompt",
    "synopsis": "L'auteur explique que le vrai détail 8K ne vient jamais du mot 8K placé dans le prompt, mais d'une reconstruction spécifiée à chaque niveau de zoom. Il énumère les marqueurs à décrire explicitement : profondeur des fibres de l'iris et anneau limbique de l'œil, brillance de sébum sur le nez, bordure vermillon de la lèvre, duvet se détachant de la joue et lumière courant le long de chaque cheveu. Le principe est que chaque niveau de recadrage réclame sa propre instruction, les cinq prompts complets restant réservés à ceux qui commentent 8K.",
    "keywords": [
@@ -5338,6 +5354,23 @@
    "date": "2026-09-08",
    "following": false,
    "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Street-art style AI portrait (prompt gated)",
+   "synopsis": "A carousel presenting an AI-generated portrait in a street-art/graffiti treatment. As with the rest of this creator's series, the caption states the style and routes the actual prompt to DM on comment, without naming a generator or settings. No audio track accompanies the carousel, so the rendered look is the sole takeaway.",
+   "keywords": [
+    "AI portrait",
+    "street art",
+    "graffiti style",
+    "prompt pack"
+   ],
+   "url": "https://www.instagram.com/p/Dc8t5xejUXP/",
+   "author": "paige.prompts",
+   "author_url": "https://www.instagram.com/paige.prompts/",
+   "date": "2026-09-06",
+   "following": true,
+   "confidence": "low"
   },
   {
    "folder": "AI.pix",
@@ -5376,6 +5409,23 @@
   },
   {
    "folder": "AI.pix",
+   "title": "Pop-art illustration portrait (prompt gated)",
+   "synopsis": "A carousel showing an AI-generated portrait styled as a pop-art illustration with bold flat colour and heavy outlines. The caption names the style and asks for a comment to receive the prompt by DM, disclosing no model or technique. Being an image carousel there is no audio to transcribe, leaving the visual reference as the only usable signal.",
+   "keywords": [
+    "AI portrait",
+    "pop art",
+    "illustration style",
+    "prompt pack"
+   ],
+   "url": "https://www.instagram.com/p/Dc6Ly5YjXjf/",
+   "author": "paige.prompts",
+   "author_url": "https://www.instagram.com/paige.prompts/",
+   "date": "2026-09-05",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
    "title": "UPSCALE : un seul prompt pour nettoyer et rehausser une photo",
    "synopsis": "@prompts.soul presente un prompt unique baptise UPSCALE qui prend en charge tout le post-traitement d'une photo existante plutot que d'en generer une nouvelle. Le prompt vise une montee en resolution accompagnee d'un etalonnage precis : verts profonds, hautes lumieres d'heure doree, ciel bleu propre, carnations naturelles et blancs neutres. L'auteur insiste sur ce qu'il refuse - pas de lissage plastique de la peau, pas de halos de faux piquer - en preservant grain, texture de peau et details capillaires ; le prompt lui-meme reste accessible en commentaire.",
    "keywords": [
@@ -5391,6 +5441,23 @@
    "date": "2026-09-04",
    "following": true,
    "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Fortnite-style 3D character portrait (prompt gated)",
+   "synopsis": "A carousel showing an AI-generated portrait rendered as a Fortnite-style stylised 3D game character. The caption identifies only the target look and asks viewers to comment AI to receive the prompt by DM, naming neither the image model nor any parameter. With no audio track on the carousel, the visual result is the only information the post actually delivers.",
+   "keywords": [
+    "AI portrait",
+    "3D character",
+    "Fortnite style",
+    "prompt pack"
+   ],
+   "url": "https://www.instagram.com/p/Dcvm2zrDQ0e/",
+   "author": "paige.prompts",
+   "author_url": "https://www.instagram.com/paige.prompts/",
+   "date": "2026-09-01",
+   "following": true,
+   "confidence": "low"
   },
   {
    "folder": "AI.pix",
@@ -6496,77 +6563,6 @@
    "confidence": "high"
   },
   {
-   "folder": "AI.pix",
-   "title": "Les Lists de Freepik Spaces enchaînent des séquences de prompts pilotées par un LLM",
-   "synopsis": "La nouvelle fonction Lists de Freepik Spaces permet de construire des séquences de prompts structurées et connectées à un grand modèle de langage. L'usage visé est la génération en une seule passe de variations produit, de systèmes de design ou de séries de concepts créatifs. L'auteur y voit un déblocage des workflows IA à l'échelle pour les designers, marketeurs et équipes produit, le workflow étant distribué par DM.",
-   "keywords": [
-    "Freepik Spaces",
-    "Lists",
-    "séquences de prompts",
-    "design system",
-    "workflow"
-   ],
-   "url": "https://www.instagram.com/p/DUqeScpDAHW/",
-   "author": "rourke",
-   "author_url": "https://www.instagram.com/rourke/",
-   "date": "2026-02-12",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Higgsfield v2 Angles : déplacer la caméra dans une image déjà générée",
-   "synopsis": "L'auteur montre qu'il est possible de changer l'angle de prise de vue après coup, comme si la scène générée existait en trois dimensions. La manipulation est simple : on téléverse la photo, une sphère de contrôle apparaît, on oriente l'angle et une nouvelle prise est produite instantanément, avec la même lumière et la même scène. L'outil peut aussi générer d'un coup tous les angles possibles, ce qui sert à corriger un cadrage ou à décliner des variations.",
-   "keywords": [
-    "Higgsfield",
-    "v2 Angles",
-    "caméra 3D",
-    "variations",
-    "cadrage"
-   ],
-   "url": "https://www.instagram.com/p/DUn71Y1jHYI/",
-   "author": "danyltn",
-   "author_url": "https://www.instagram.com/danyltn/",
-   "date": "2026-02-11",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Finegrain Image Enhancer, un upscaler gratuit qui restaure les textures",
-   "synopsis": "Le post présente Finegrain Image Enhancer comme un moyen gratuit de passer une photo floue en haute résolution. L'argument technique est qu'il restitue textures et détails au lieu d'étirer les pixels, ce qui donne un rendu net d'apparence naturelle. Une comparaison avant/après est montrée dans la vidéo, le lien étant conditionné à un commentaire.",
-   "keywords": [
-    "Finegrain",
-    "upscaling",
-    "restauration d'image",
-    "outil gratuit"
-   ],
-   "url": "https://www.instagram.com/p/DUmTRTaCF1x/",
-   "author": "theaisurfer",
-   "author_url": "https://www.instagram.com/theaisurfer/",
-   "date": "2026-02-11",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Le master prompt qui fait passer une photo IA pour un cliché iPhone",
-   "synopsis": "L'auteur soutient que les portraits d'influenceurs IA se repèrent parce que les prompts sont trop pauvres, et oppose à cela ce qu'il appelle un master prompt, conçu comme un système réutilisable plutôt qu'une phrase isolée. La recette passe par Higgsfield en s'appuyant sur Nano Banana Pro, avec des mots-clés orientés photographie au smartphone, plans lifestyle réalistes et haut niveau de détail. Une fois le prompt calibré, il permet de produire en série des images qui gardent la même signature visuelle.",
-   "keywords": [
-    "Higgsfield",
-    "Nano Banana Pro",
-    "master prompt",
-    "photo IA",
-    "cohérence visuelle"
-   ],
-   "url": "https://www.instagram.com/p/DTNLpfQCD8S/",
-   "author": "ashoksangireddyy",
-   "author_url": "https://www.instagram.com/ashoksangireddyy/",
-   "date": "2026-01-09",
-   "following": true,
-   "confidence": "high"
-  },
-  {
    "folder": "ai.skin",
    "title": "Five small details that make an AI avatar read as real",
    "synopsis": "The creator's recurring finding is that avatar realism is never one big thing but an accumulation of tiny details. The five she watches most are skin, eyes, lighting and the small imperfections a real photograph would contain. An example prompt accompanies the breakdown so the difference is visible rather than described.",
@@ -6705,6 +6701,24 @@
    "author": "timkoda_",
    "author_url": "https://www.instagram.com/timkoda_/",
    "date": "2025-12-17",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Five camera-move commands for Google Flow image-to-video",
+   "synopsis": "A Spanish-language reel demonstrating five camera-motion keywords to type alongside an uploaded still in Google Flow: Dolly In for a smooth push toward the subject, Arc Left for a lateral orbit keeping the character centred, Overhead for a cinematic top-down angle, Crash Zoom for an aggressive snap-in, and a crane-up command for a rising shot. Each is shown applied to the same source image so the motion difference is visible. The post is a teaser for a PDF of 50+ such commands delivered by DM on comment, but the five demonstrated here are usable as-is.",
+   "keywords": [
+    "Google Flow",
+    "image-to-video",
+    "camera movement",
+    "Dolly In",
+    "Crash Zoom"
+   ],
+   "url": "https://www.instagram.com/p/DdFQNe1ymkM/",
+   "author": "luigivera.y",
+   "author_url": "https://www.instagram.com/luigivera.y/",
+   "date": "2026-09-09",
    "following": true,
    "confidence": "high"
   },
@@ -7851,24 +7865,6 @@
    "author": "yonak.ia",
    "author_url": "https://www.instagram.com/yonak.ia/",
    "date": "2026-05-10",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Higgsfield, Claude Cowork et Meta assemblés en machine publicitaire autonome",
-   "synopsis": "Montage en français décrivant un agent unique branché sur deux serveurs MCP pour faire tourner seule toute une chaîne de publicité Meta. Le cycle enchaîne recherche concurrentielle, génération de créas avec Sora 2, Veo et Kling, lancement des annonces sur Meta puis montée en charge sur les créas performantes. L'argument de vente est que l'ensemble s'exécute pendant que l'utilisateur dort, le guide complet passant par un commentaire.",
-   "keywords": [
-    "Higgsfield",
-    "Claude Cowork",
-    "MCP",
-    "Meta Ads",
-    "Sora 2"
-   ],
-   "url": "https://www.instagram.com/p/DYDOLpToc9H/",
-   "author": "pierrevibesai",
-   "author_url": "https://www.instagram.com/pierrevibesai/",
-   "date": "2026-05-07",
    "following": true,
    "confidence": "high"
   },
