@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T09:21:06+00:00",
+ "generated_at": "2026-09-15T13:02:05+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -18,6 +18,24 @@
    "author": "cryptoedgeofficiel",
    "author_url": "https://www.instagram.com/cryptoedgeofficiel/",
    "date": "2026-05-19",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Claude plus a trending GitHub scraper, tested on real French lead generation",
+   "synopsis": "The tool — the week's number one trending GitHub project — lets Claude search the web or walk through business directories, collect publicly listed contact details and return them as a clean table. The creator tests it properly rather than just demoing it, asking for transport companies in the Oise département to pitch a fleet-management app; after roughly half an hour Claude returns company name, city, director's name, website, email and phone, which he spot-checks and finds accurate. His verdict is that it is not bullshit, though the caption adds a pointed GDPR warning about what you then do with the list.",
+   "keywords": [
+    "Claude",
+    "lead scraping",
+    "GitHub",
+    "GDPR",
+    "sales prospecting"
+   ],
+   "url": "https://www.instagram.com/p/DdJruPjO3LU/",
+   "author": "justezaki_",
+   "author_url": "https://www.instagram.com/justezaki_/",
+   "date": "2026-09-11",
    "following": true,
    "confidence": "high"
   },
@@ -162,6 +180,23 @@
    "author_url": "https://www.instagram.com/techskills/",
    "date": "2026-08-22",
    "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Anthropic's free pack of 11 role-based plugins for Claude",
+   "synopsis": "Anthropic released eleven first-party plugins that preload Claude with a working setup for a specific business function — sales, marketing, finance, support and so on down the line. Each plugin arrives already knowing how that role operates and wired into the tools that role uses day to day, so you install once instead of re-explaining what a good marketing brief or clean financial summary looks like every session. The demonstrated payoff: drop in the sales plugin and Claude can research a prospect and draft the outreach; use the finance one to pull numbers into a report.",
+   "keywords": [
+    "Anthropic",
+    "Claude plugins",
+    "business automation",
+    "role presets"
+   ],
+   "url": "https://www.instagram.com/p/DcTQsXDlbY8/",
+   "author": "aifornontechies",
+   "author_url": "https://www.instagram.com/aifornontechies/",
+   "date": "2026-08-21",
+   "following": true,
    "confidence": "high"
   },
   {
@@ -1012,8 +1047,8 @@
     "skill"
    ],
    "url": "https://www.instagram.com/p/DYDUNwvIjSF/",
-   "author": "bapt.autoai",
-   "author_url": "https://www.instagram.com/bapt.autoai/",
+   "author": "baptsimard.ia",
+   "author_url": "https://www.instagram.com/baptsimard.ia/",
    "date": "2026-05-07",
    "following": true,
    "confidence": "high"
@@ -1144,24 +1179,6 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "Claude Council fait débattre cinq conseillers pour trancher au lieu de flatter",
-   "synopsis": "Le post part d'un défaut réel : demandez à Claude si une idée est bonne, il argumentera brillamment qu'elle l'est, et si vous lui demandez pourquoi elle est mauvaise, il argumentera l'inverse tout aussi bien — excellent en explication, faible en décision. Claude Council répond à ce biais de complaisance : sur la commande Ask the Council, cinq conseillers IA attaquent la question sous des angles distincts. Leurs réponses sont ensuite brassées puis soumises à cinq agents relecteurs, de façon à produire un avis contradictoire plutôt qu'un écho des attentes de l'utilisateur.",
-   "keywords": [
-    "Claude Council",
-    "skill",
-    "biais de complaisance",
-    "multi-agents",
-    "aide à la décision"
-   ],
-   "url": "https://www.instagram.com/p/DXWjaZiiDw9/",
-   "author": "caesar.ia_",
-   "author_url": "https://www.instagram.com/caesar.ia_/",
-   "date": "2026-04-20",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Agents",
    "title": "Une mémoire permanente pour Claude Code, en tête des tendances GitHub",
    "synopsis": "Le projet donne à Claude Code une mémoire permanente et a atteint la première place sur GitHub. L'argument central est la réduction de la consommation de tokens de 95%, ce qui repousse nettement le moment où l'on heurte les limites de débit. Le paquet inclut une recherche fondée sur les skills, une interface web de consultation et une skill supplémentaire pour utiliser Claude en desktop, le tout gratuit et installable en une seule commande, le lien partant en DM à qui commente Memory.",
    "keywords": [
@@ -1212,24 +1229,6 @@
    "author_url": "https://www.instagram.com/sebastianhardy_/",
    "date": "2026-04-12",
    "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Agents",
-   "title": "Le mode CAVEMAN, une skill Claude qui coupe 75% des tokens",
-   "synopsis": "Le constat de départ est que Claude dépense des tokens en introductions et explications superflues qui font atteindre les limites plus vite. Un utilisateur Reddit a répondu par un mode caveman : aucune introduction, aucune explication, uniquement la sortie demandée, pour une économie annoncée de 75% des tokens. La mise en place consiste à télécharger le zip depuis le dépôt GitHub, à l'importer dans Claude via Customize puis Skills, et à taper caveman pour l'activer, le lien étant envoyé en DM à qui commente CAVEMAN.",
-   "keywords": [
-    "Claude",
-    "économie de tokens",
-    "skills Claude",
-    "mode caveman",
-    "GitHub"
-   ],
-   "url": "https://www.instagram.com/p/DW-l9lQSFI0/",
-   "author": "trakin.ai",
-   "author_url": "https://www.instagram.com/trakin.ai/",
-   "date": "2026-04-11",
-   "following": false,
    "confidence": "high"
   },
   {
@@ -1440,8 +1439,8 @@
     "voice lip sync"
    ],
    "url": "https://www.instagram.com/p/DSfG61Xk1Q3/",
-   "author": "ashoksangireddyy",
-   "author_url": "https://www.instagram.com/ashoksangireddyy/",
+   "author": "ashokreddyai",
+   "author_url": "https://www.instagram.com/ashokreddyai/",
    "date": "2025-12-20",
    "following": true,
    "confidence": "high"
@@ -1821,6 +1820,24 @@
   },
   {
    "folder": "AI.CODE",
+   "title": "GPT-5.6 vs Fable 5 building the same Tinder frontend in React Native Expo",
+   "synopsis": "A head-to-head test: both models are given the same brief — build a Tinder frontend in React Native Expo from attached screenshots. GPT-5.6 finished in about two minutes but dumped everything into a single file, while Fable 5 took thirteen minutes, cost roughly six times more, and split the work into proper components using Expo's tabs feature. Both results were visually near pixel-perfect and both carried the same small UI flashing bug, but the creator concludes he prefers Fable 5's code despite the cost, because the structure is the part he would have to live with.",
+   "keywords": [
+    "Fable 5",
+    "GPT-5.6",
+    "React Native Expo",
+    "code quality",
+    "model comparison"
+   ],
+   "url": "https://www.instagram.com/p/Dbda3QpCbPk/",
+   "author": "itstundeanthony",
+   "author_url": "https://www.instagram.com/itstundeanthony/",
+   "date": "2026-07-31",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
    "title": "How easily a vibe-coded app can be broken into",
    "synopsis": "The creator demonstrates how simple it can be to compromise an application built purely by vibe coding. His point is that the worrying part is not that it is possible, but that it sometimes takes no effort at all. The problem, he argues, is not vibe coding itself but shipping an app publicly without understanding what happens behind it — AI accelerates development, it does not replace good practice.",
    "keywords": [
@@ -1875,6 +1892,24 @@
   },
   {
    "folder": "AI.CODE",
+   "title": "Rebuilding MyFitnessPal from scratch to kill a $300/year subscription",
+   "synopsis": "Episode 2 of a series in which the creator cancels every paid app subscription and rebuilds each one himself. Cloning MyFitnessPal's interface turned out to be the trivial part; the real moat was the food database behind the barcode scanner, which he solved by finding a large free calorie database covering almost any food item and wiring it into his own backend. The rebuild worked on the food he actually eats day to day, retiring a $300/year subscription, and the source code is offered via a comment gate.",
+   "keywords": [
+    "MyFitnessPal",
+    "app rebuild",
+    "open data",
+    "subscription replacement",
+    "AI coding"
+   ],
+   "url": "https://www.instagram.com/p/DbJFBKzC48X/",
+   "author": "itstundeanthony",
+   "author_url": "https://www.instagram.com/itstundeanthony/",
+   "date": "2026-07-23",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
    "title": "RTK proxy compresses terminal LLM requests by 60-90%",
    "synopsis": "RTK is a proxy that compresses the requests your terminal sends to LLMs, cutting token use by 60 to 90 percent and roughly doubling session length. It installs with a single curl or brew command, you export the path in your .bashrc or .zshrc, and rtk init -g enables it permanently for Claude Code, Codex, or any terminal AI agent. The creator's claim is that this makes the €20 plan comfortably sufficient.",
    "keywords": [
@@ -1910,24 +1945,6 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "North Mini Code, l'alternative locale et Apache 2.0 de Cohere à Claude Code",
-   "synopsis": "Cohere publie North Mini Code, un modèle de code en mélange d'experts de 30 milliards de paramètres dont seulement 3 milliards sont actifs, ce qui donne la profondeur d'un grand modèle à la vitesse d'un petit. Il est sous licence Apache 2.0, à poids ouverts, et conçu pour le codage agentique : il planifie d'abord la tâche, écrit le code, puis le teste et le débogue seul. Sur l'index Coding d'Artificial Analysis il obtient 33,4, devançant des modèles ouverts quatre fois plus gros.",
-   "keywords": [
-    "North Mini Code",
-    "Cohere",
-    "Apache 2.0",
-    "mixture-of-experts",
-    "codage agentique"
-   ],
-   "url": "https://www.instagram.com/p/DZc2rBFMcs2/",
-   "author": "theopenstack",
-   "author_url": "https://www.instagram.com/theopenstack/",
-   "date": "2026-06-12",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.CODE",
    "title": "840+ ChatGPT prompts pack for business roles",
    "synopsis": "The post promotes a free library of more than 840 ready-made ChatGPT prompts organized into 24 categories. The pitch is that these prompts turn ChatGPT into a combined marketing team, sales rep, copywriter, analyst, and developer. Every prompt is copy-paste ready and the pack is distributed as a lead magnet claimed to be used by 500,000+ professionals.",
    "keywords": [
@@ -1954,8 +1971,8 @@
     "token costs"
    ],
    "url": "https://www.instagram.com/p/DYactaoo-Gv/",
-   "author": "bapt.autoai",
-   "author_url": "https://www.instagram.com/bapt.autoai/",
+   "author": "baptsimard.ia",
+   "author_url": "https://www.instagram.com/baptsimard.ia/",
    "date": "2026-05-16",
    "following": true,
    "confidence": "high"
@@ -2448,7 +2465,7 @@
    "author": "soojintech",
    "author_url": "https://www.instagram.com/soojintech/",
    "date": "2026-02-27",
-   "following": false,
+   "following": true,
    "confidence": "high"
   },
   {
@@ -2767,23 +2784,6 @@
    "author": "ia.boss.officiel",
    "author_url": "https://www.instagram.com/ia.boss.officiel/",
    "date": "2025-11-26",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.CODE",
-   "title": "Un dépôt GitHub qui recense des centaines d'API gratuites par catégorie",
-   "synopsis": "Le post présente un répertoire GitHub regroupant des centaines d'API publiques et gratuites, classées par domaine : programmation, finance, actualité, divertissement. L'auteur explique la notion d'API par l'exemple d'un tracker crypto branché sur une API financière pour récupérer des prix en temps réel. La ressource est positionnée pour qui construit des applications, des outils IA ou des automatisations, mais le lien est réservé aux commentaires.",
-   "keywords": [
-    "GitHub",
-    "API publiques",
-    "développement",
-    "ressources gratuites"
-   ],
-   "url": "https://www.instagram.com/p/DRFOqJADUtV/",
-   "author": "drcintas",
-   "author_url": "https://www.instagram.com/drcintas/",
-   "date": "2025-11-15",
    "following": true,
    "confidence": "high"
   },
@@ -4055,6 +4055,167 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Recreating any film's look from one phone take, via a Claude skill and Seedance 2.5",
+   "synopsis": "The claim is that a single phone take can be restyled into the look of any named film, series or director — not as a colour filter, but by rebuilding the lighting, camera work and scene. The workflow runs a Claude skill over the footage, which transcribes the take with precise timestamps and writes the full prompt automatically, encoding the film's lighting and the director's camera moves with cuts landing word by word against the speech. That prompt and the original video then go into Seedance 2.5, replacing what the creator says previously required a colourist, a DP and a set.",
+   "keywords": [
+    "Seedance 2.5",
+    "Claude skills",
+    "film look",
+    "colour grading",
+    "AI video"
+   ],
+   "url": "https://www.instagram.com/p/DdPXsY-PbAy/",
+   "author": "pauloshimas",
+   "author_url": "https://www.instagram.com/pauloshimas/",
+   "date": "2026-09-13",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Running a 744B-parameter model on a laptop with no GPU, via the Calibri project",
+   "synopsis": "An Italian developer ran GLM 5.2 — a 744-billion-parameter open model — on a laptop with no graphics card, using a project called Calibri. It works because only around 10 GB of the model is active at any moment, so Calibri holds that slice in RAM and streams the rest off disk on demand, the way a video service streams rather than downloading. Setup is cloning the repo and running one script; the heavy part is the 370 GB model download, after which it runs fully offline, and a serve mode exposes it as an OpenAI-compatible endpoint so a one-line code change drops your token bill to zero.",
+   "keywords": [
+    "GLM 5.2",
+    "Calibri",
+    "local inference",
+    "offline AI",
+    "OpenAI-compatible endpoint"
+   ],
+   "url": "https://www.instagram.com/p/DdKwlcgoX8O/",
+   "author": "ai_vanta_ai",
+   "author_url": "https://www.instagram.com/ai_vanta_ai/",
+   "date": "2026-09-12",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Token Hacking ep. 4: Grok Ultra's usage allowance versus Claude Max",
+   "synopsis": "Episode four of a workflow series comparing what the major coding plans actually give you in API-equivalent terms: a $200 Claude Max plan works out to over $7,000 of monthly API usage, while the $300 Grok Ultra plan is put at over $12,000. The creator has been running Claude 5.1 as the reasoning layer with Codex as the executor, but the Grok allowance is enough to make him reconsider the split. The proposed next experiment is Fable as the brains and GrokBot as the hands, with results promised in a follow-up.",
+   "keywords": [
+    "Grok Ultra",
+    "Claude Max",
+    "token economics",
+    "Codex",
+    "AI coding workflow"
+   ],
+   "url": "https://www.instagram.com/p/DdMoE8qhnKE/",
+   "author": "duck.tate",
+   "author_url": "https://www.instagram.com/duck.tate/",
+   "date": "2026-09-12",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Tencent DB Agent Memory: four-tier local recall for AI agents",
+   "synopsis": "Tencent open-sourced a fully local memory system addressing the fact that every agent session starts from zero, with no recollection of who you are, what you prefer, or what you worked on last week. The design mirrors human memory in four tiers — short-term handling the current exchange, long-term accumulating habits, preferences and personality — with the system watching conversations and extracting durable facts like a preference for Python or for concise answers. The reported effect is a 61% cut in token cost and over 50% improvement in task success, largely because the agent stops re-reading the same background into its context window every session.",
+   "keywords": [
+    "Tencent DB Agent Memory",
+    "agent memory",
+    "open source",
+    "token costs",
+    "local-first"
+   ],
+   "url": "https://www.instagram.com/p/DdKExW5t68N/",
+   "author": "felixblockchain",
+   "author_url": "https://www.instagram.com/felixblockchain/",
+   "date": "2026-09-11",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Claude plus a trending GitHub scraper, tested on real French lead generation",
+   "synopsis": "The tool — the week's number one trending GitHub project — lets Claude search the web or walk through business directories, collect publicly listed contact details and return them as a clean table. The creator tests it properly rather than just demoing it, asking for transport companies in the Oise département to pitch a fleet-management app; after roughly half an hour Claude returns company name, city, director's name, website, email and phone, which he spot-checks and finds accurate. His verdict is that it is not bullshit, though the caption adds a pointed GDPR warning about what you then do with the list.",
+   "keywords": [
+    "Claude",
+    "lead scraping",
+    "GitHub",
+    "GDPR",
+    "sales prospecting"
+   ],
+   "url": "https://www.instagram.com/p/DdJruPjO3LU/",
+   "author": "justezaki_",
+   "author_url": "https://www.instagram.com/justezaki_/",
+   "date": "2026-09-11",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Free Token: a Berkeley/MIT project running frontier-scale models on local hardware",
+   "synopsis": "Free Token is an Apache 2.0 open-source release from Berkeley and MIT researchers aimed at removing the API bill from local AI work. Three claims anchor the pitch: you can point Claude Code at your own machine with no API key (the researchers tested this themselves), you can run a 753-billion-parameter model on a single graphics card where that previously required rented datacenter infrastructure, and the permissive licence lets you build and sell products on top without paying anyone. The framing is a broader shift from rented cloud inference toward local compute.",
+   "keywords": [
+    "Free Token",
+    "Apache 2.0",
+    "local inference",
+    "Claude Code",
+    "open-source AI"
+   ],
+   "url": "https://www.instagram.com/p/Dc_SUtmtUdn/",
+   "author": "thevibefounder",
+   "author_url": "https://www.instagram.com/thevibefounder/",
+   "date": "2026-09-07",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Stacking prompt fragments instead of firing single AI “codes”",
+   "synopsis": "A carousel arguing that one-shot prompt snippets underperform because they give a generative model only a single axis of direction. The proposed fix is a six-slot stack — niche, goal, style, details, platform, output — assembled into one composite instruction so the model receives the full brief at once. The post shows the slot structure itself but keeps the worked examples behind a follow-and-save call to action.",
+   "keywords": [
+    "prompt stacking",
+    "prompt engineering",
+    "ChatGPT",
+    "content templates"
+   ],
+   "url": "https://www.instagram.com/p/Dc7iK7QEx51/",
+   "author": "richmeetings.ai",
+   "author_url": "https://www.instagram.com/richmeetings.ai/",
+   "date": "2026-09-06",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Prompt Master, a free Claude skill that rewrites your prompt before Claude answers",
+   "synopsis": "Prompt Master — 11,000 GitHub stars, free — targets the loop where you type a rough prompt, Claude does literally what you asked, and you burn several follow-up messages explaining what you actually meant. It takes one messy sentence and returns a finished prompt specifying what to output, which files to touch, and when to stop, having run the input through 35 known credit-wasting patterns. Setup is a one-minute upload via Claude's Customize → Skills panel, it retains decisions already made so they don't get lost mid-chat, and it works on ChatGPT and Cursor too.",
+   "keywords": [
+    "Prompt Master",
+    "Claude skills",
+    "prompt engineering",
+    "token savings",
+    "open source"
+   ],
+   "url": "https://www.instagram.com/p/Dc6dINIT27E/",
+   "author": "tessa.fairbrook",
+   "author_url": "https://www.instagram.com/tessa.fairbrook/",
+   "date": "2026-09-05",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Five ChatGPT slash-commands that turn a product photo into ad creative",
+   "synopsis": "A Brazilian-Portuguese reel walking through five shorthand commands and what each produces: /busstopad renders your product as a realistic bus-shelter poster, /metaad builds a professional Instagram and Facebook ad, /darkpremium restyles it as a dark, luxury-brand campaign, /splashhero generates the impact hero image used on big-brand sites, and /scrollstopper makes a visual designed to arrest a scrolling feed. Unusually for the genre, the five codes are actually demonstrated rather than merely teased. A further hundred codes and a paid 30-day AI course sit behind the comment gate.",
+   "keywords": [
+    "ChatGPT",
+    "slash commands",
+    "ad creative",
+    "product photography",
+    "prompt pack"
+   ],
+   "url": "https://www.instagram.com/p/DcuUyhyBs45/",
+   "author": "thaysfreire.ia",
+   "author_url": "https://www.instagram.com/thaysfreire.ia/",
+   "date": "2026-09-01",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "The 10 Claude Code skills that change the most, plus how to write your own",
    "synopsis": "Ben argues Claude Code gets far more useful once you stop re-explaining your method every session, and that a skill is nothing more than a folder holding one text file describing that method. The carousel ranks the ten skills he considers highest-impact, from searching a large codebase to a meta-skill that writes new skills for you. The linked 11-page guide adds what the carousel cannot hold: the exact trigger phrase for each skill, the two real install commands, a complete SKILL.md to copy, and the three usual reasons a skill fails to fire.",
    "keywords": [
@@ -4109,6 +4270,24 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Open Art turns one sentence into a directed explainer video",
+   "synopsis": "The whole demo video began from the single prompt “explain gravity”, with every subsequent refinement handled through conversation rather than a timeline. Testing it live on “explain recursion in a 30-second video”, the creator finds the tool generates a storyboard with GPT Image 2 and the audio track with Lyria, behind a paywall he ends up subscribing to. A second run explaining inflation in an anime style — which it chose to render in Spanish — also lands, and he rates it a “fact”.",
+   "keywords": [
+    "Open Art",
+    "GPT Image 2",
+    "Lyria",
+    "explainer video",
+    "text-to-video"
+   ],
+   "url": "https://www.instagram.com/p/DcjExUUKCFW/",
+   "author": "itstundeanthony",
+   "author_url": "https://www.instagram.com/itstundeanthony/",
+   "date": "2026-08-27",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "Ten open-source repos worth 500,000 GitHub stars for Claude Code users",
    "synopsis": "Neej rounds up ten repositories that collectively hold over half a million GitHub stars, framed around what each adds to a Claude Code session. The coding-focused entries include GSD, which runs a build as a spec-driven loop that survives long sessions, graphify, which turns a codebase into a knowledge graph so the model stops re-reading files, and an official OpenAI plugin putting Codex inside Claude Code for second opinions on diffs. The rest span design and media tooling: diagram-design and impeccable against AI design slop, scroll-world for 3D landing pages, cap as an open-source Loom, MoneyPrinterTurbo for vertical video, the xAI For You ranking code, and Block's buzz for agents in team chat.",
    "keywords": [
@@ -4123,6 +4302,24 @@
    "author_url": "https://www.instagram.com/buildwithneej/",
    "date": "2026-08-26",
    "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "screenshot-to-code: the GitHub repo that clones a website from an image properly",
+   "synopsis": "The creator tests a repo called screenshot to code against the usual failure mode, where handing Claude a reference link produces something that barely resembles the original. After cloning the repo and adding environment variables, he runs a Crunchyroll clone through it and races the same task against Claude Code for comparison. The repo's output is clearly better — it correctly grabbed the logo and used the actual cover art — earning a “fact” verdict.",
+   "keywords": [
+    "screenshot-to-code",
+    "GitHub",
+    "UI cloning",
+    "Claude Code",
+    "front-end generation"
+   ],
+   "url": "https://www.instagram.com/p/Dcd3eY1iOMA/",
+   "author": "itstundeanthony",
+   "author_url": "https://www.instagram.com/itstundeanthony/",
+   "date": "2026-08-25",
+   "following": true,
    "confidence": "high"
   },
   {
@@ -4948,8 +5145,8 @@
     "open source"
    ],
    "url": "https://www.instagram.com/p/DZx79O6R3yV/",
-   "author": "bapt.autoai",
-   "author_url": "https://www.instagram.com/bapt.autoai/",
+   "author": "baptsimard.ia",
+   "author_url": "https://www.instagram.com/baptsimard.ia/",
    "date": "2026-06-19",
    "following": true,
    "confidence": "high"
@@ -4973,42 +5170,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Sept outils Claude Code qui montent en ce moment",
-   "synopsis": "Panorama en français de sept extensions Claude Code avec leur traction chiffrée. Obsidian Skills, écrit par le CEO d'Obsidian, transforme Claude en second cerveau et compte 7 000 étoiles ; n8n-MCP donne à Claude la maîtrise de plus de mille nodes n8n pour construire des automatisations prêtes pour la production au lieu de les deviner ; UI UX Pro Max, à 16 000 étoiles, apporte 50 styles, 79 palettes et des design systems auto-générés pour éviter le rendu générique ; Claude Memory a réuni 20 000 étoiles en deux jours autour d'une mémoire persistante.",
-   "keywords": [
-    "Claude Code",
-    "Obsidian Skills",
-    "n8n-MCP",
-    "UI UX Pro Max",
-    "Claude Memory"
-   ],
-   "url": "https://www.instagram.com/p/DZsWmv4iLpG/",
-   "author": "ericdjav.ai",
-   "author_url": "https://www.instagram.com/ericdjav.ai/",
-   "date": "2026-06-17",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Un pack de prompts de poses pour visuels de marque",
-   "synopsis": "Un studio de design propose son pack complet de prompts orientés poses, envoyé en message privé contre un commentaire. Le post sert autant de ressource que de démarchage, l'auteur invitant explicitement les créateurs et dirigeants à faire appel à son studio pour leurs visuels. Les hashtags rattachent la pratique à Gemini et Canva pour la production de miniatures et d'affiches.",
-   "keywords": [
-    "prompts",
-    "poses",
-    "Gemini",
-    "Canva",
-    "branding"
-   ],
-   "url": "https://www.instagram.com/p/DZpuarhCfdf/",
-   "author": "design_insignia_",
-   "author_url": "https://www.instagram.com/design_insignia_/",
-   "date": "2026-06-16",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "Un lien OpenClaw distribué par DM, sans contenu écrit",
    "synopsis": "Le post se limite à proposer l'envoi d'un lien contre un commentaire, avec pour seul contexte quatre hashtags renvoyant à OpenClaw, Claude et les agents IA. Ni l'outil, ni le problème traité, ni le résultat ne sont décrits. Le contenu utile réside entièrement dans la vidéo et le message privé.",
    "keywords": [
@@ -5022,42 +5183,6 @@
    "date": "2026-06-14",
    "following": true,
    "confidence": "low"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Le récapitulatif hebdomadaire IA : modèle de code chinois, mondes 3D, 80 modèles NVIDIA",
-   "synopsis": "Format de revue hebdomadaire qui condense l'actualité IA en moins de soixante secondes. En tête, la Chine publie un modèle de code open source présenté comme dépassant Claude Opus 4.8 gratuitement, et un autre outil permet de créer des mondes 3D entièrement interactifs et explorables en temps réel. En sixième position figure la plateforme NVIDIA donnant accès gratuitement à plus de quatre-vingts modèles, de DiffusionGemma à Nemotron 3 Ultra, sur simple clé API.",
-   "keywords": [
-    "revue IA",
-    "modèle open source",
-    "NVIDIA",
-    "mondes 3D",
-    "Claude Opus 4.8"
-   ],
-   "url": "https://www.instagram.com/p/DZkbqcGxvQN/",
-   "author": "drcintas",
-   "author_url": "https://www.instagram.com/drcintas/",
-   "date": "2026-06-14",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Nemotron 3 Ultra, le plus gros modèle ouvert publié par NVIDIA",
-   "synopsis": "Le post présente Nemotron 3 Ultra comme une alternative gratuite à Claude : 550 milliards de paramètres, une fenêtre de contexte d'un million de tokens, et le plus grand modèle ouvert jamais livré par NVIDIA. L'architecture est un mélange d'experts qui planifie la tâche, écrit le code, puis le teste et le débogue seul, ce qui en fait un agent complet et non un simple chatbot. Il est annoncé jusqu'à cinq fois plus rapide que les autres modèles ouverts de sa taille, l'auteur le testant sur une landing page premium à défilement.",
-   "keywords": [
-    "Nemotron 3 Ultra",
-    "NVIDIA",
-    "mixture-of-experts",
-    "modèle ouvert",
-    "agent"
-   ],
-   "url": "https://www.instagram.com/p/DZXvn-ZsKGp/",
-   "author": "theopenstack",
-   "author_url": "https://www.instagram.com/theopenstack/",
-   "date": "2026-06-09",
-   "following": true,
-   "confidence": "high"
   },
   {
    "folder": "AI.Models and apps",
@@ -5131,41 +5256,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Deux GB10 de plus dans un laboratoire IA personnel",
-   "synopsis": "Post d'un professionnel de la sécurité qui annonce l'ajout de deux machines GB10 à son laboratoire IA personnel, avec le soutien de son employeur Trendyol. Le propos de fond est une conviction sur les modèles ouverts et les outils agentiques comme moteur du potentiel humain. Il s'agit d'un post de posture et d'équipement plutôt que d'une présentation technique.",
-   "keywords": [
-    "GB10",
-    "laboratoire IA",
-    "modèles ouverts",
-    "agentic AI"
-   ],
-   "url": "https://www.instagram.com/p/DZIYxB-s9nO/",
-   "author": "alican.kiraz0",
-   "author_url": "https://www.instagram.com/alican.kiraz0/",
-   "date": "2026-06-03",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Anthropic verserait 1,25 milliard par mois à xAI pour du calcul",
-   "synopsis": "Le post avance qu'une part importante d'un abonnement Claude finance indirectement l'infrastructure d'Elon Musk, chiffrée à 1,25 milliard de dollars par mois versés à xAI. L'information est rattachée à un dépôt SEC de SpaceX et étayée par trois sources explicitement liées : TechCrunch du 20 mai 2026, DataCenterDynamics et Tom's Hardware. Le format est celui d'une brève d'actualité IA sourcée, ce qui la rend vérifiable.",
-   "keywords": [
-    "Anthropic",
-    "xAI",
-    "compute",
-    "SpaceX",
-    "SEC filing"
-   ],
-   "url": "https://www.instagram.com/p/DYtwKlPKsGr/",
-   "author": "bariqrifki",
-   "author_url": "https://www.instagram.com/bariqrifki/",
-   "date": "2026-05-24",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "Un agent Anthropic qui s'améliore seul pendant la nuit",
    "synopsis": "Le post décrit un agent qui repasse chaque nuit sur les erreurs de la veille, réécrit sa propre mémoire, apprend les préférences de son utilisateur et répare les workflows cassés, pour se réveiller nettement plus compétent. L'auteur insiste sur l'absence d'intervention humaine : ni prompt, ni équipe de réentraînement, ni ingénieur. Il situe l'annonce à l'événement Code with Claude de San Francisco et y voit le premier cas où un agent produit des intérêts composés sur lui-même.",
    "keywords": [
@@ -5183,59 +5273,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Facebook analyse les photos non publiées de votre pellicule",
-   "synopsis": "Le post alerte sur une fonctionnalité activée par Facebook qui analyse les photos de la pellicule du téléphone, y compris celles qui n'ont jamais été publiées, pour proposer automatiquement des stories, montages et souvenirs générés par IA. Le problème soulevé est que beaucoup d'utilisateurs ignorent que l'option peut être active par défaut. Sur le plan de la vie privée, cela revient à laisser Facebook accéder à des photos personnelles stockées localement, et le post donne la marche à suivre pour désactiver l'option.",
-   "keywords": [
-    "Facebook",
-    "vie privée",
-    "pellicule photo",
-    "paramètres",
-    "IA générative"
-   ],
-   "url": "https://www.instagram.com/p/DYsM3xVIJVZ/",
-   "author": "yasware_",
-   "author_url": "https://www.instagram.com/yasware_/",
-   "date": "2026-05-23",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Qwen 3 TTS Clones Your Voice From 3 Seconds",
-   "synopsis": "This French video pitches Qwen 3 as the best open-source text-to-speech model available, a free ElevenLabs replacement. It clones a voice from just three seconds of audio and generates unlimited dialogue. You can describe the voice you want and adjust tone, rhythm, and style.",
-   "keywords": [
-    "Qwen 3 TTS",
-    "voice cloning",
-    "open source",
-    "ElevenLabs alternative"
-   ],
-   "url": "https://www.instagram.com/p/DYsftElgA54/",
-   "author": "arthurjanicaud",
-   "author_url": "https://www.instagram.com/arthurjanicaud/",
-   "date": "2026-05-23",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Microsoft coupe Claude Code à ses ingénieurs, Uber épuise son budget IA en quatre mois",
-   "synopsis": "Revue d'actualité sur le coût réel de l'IA en entreprise : Microsoft aurait demandé à cent mille de ses propres ingénieurs de cesser d'utiliser Claude Code, la facture étant devenue trop lourde même pour une société aux ressources quasi illimitées. Le CTO d'Uber a de son côté fait circuler une note indiquant que l'intégralité du budget IA 2026 avait été consommée en quatre mois, sur un marché américain où les prix logiciels IA montent de 20 à 35 %. GitHub Copilot met par ailleurs fin à son tarif forfaitaire au 1er juin pour basculer sur une facturation au token.",
-   "keywords": [
-    "Microsoft",
-    "Claude Code",
-    "Uber",
-    "GitHub Copilot",
-    "coûts IA"
-   ],
-   "url": "https://www.instagram.com/p/DYpjaKhiBMb/",
-   "author": "cfddose",
-   "author_url": "https://www.instagram.com/cfddose/",
-   "date": "2026-05-22",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "« Un miracle » : partir seul aux États-Unis à 13 ans",
    "synopsis": "Extrait d'entretien audio dans lequel l'invite revient sur sa timidite d'enfance et sur la decision, prise a 13 ans, de partir seul aux Etats-Unis - un choix qu'il qualifie lui-meme de miracle de courage. Il decrit le contraste brutal entre un milieu tres privilegie, evoque par les references au palais de l'Elysee et aux maitres d'hotel, et une chambre modeste de Pennsylvanie rurale partagee avec un camarade fils de chauffeur de taxi et de coiffeuse. Il raconte s'etre effondre, avoir voulu rentrer immediatement en France, et conclut que cette experience lui a fait le plus grand bien.",
    "keywords": [
@@ -5249,22 +5286,6 @@
    "author": "leaissert",
    "author_url": "https://www.instagram.com/leaissert/",
    "date": "2026-05-20",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Claude Automation Remembers All You Watch on Insta",
-   "synopsis": "This French video demonstrates an automation that captures everything you watch on Instagram into a second brain powered by Claude. The idea is that saved reels and posts stop disappearing into the feed and become searchable knowledge. It is a personal-knowledge-management use case built on Claude automation.",
-   "keywords": [
-    "Claude",
-    "Instagram automation",
-    "second brain"
-   ],
-   "url": "https://www.instagram.com/p/DYh3sFeotZD/",
-   "author": "0xloucash",
-   "author_url": "https://www.instagram.com/0xloucash/",
-   "date": "2026-05-19",
    "following": true,
    "confidence": "high"
   },
@@ -5288,24 +5309,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "6 Reference Boards Every AI Filmmaker Needs",
-   "synopsis": "The carousel presents six reference boards as the underused secret weapon of AI filmmaking. They include a twelve-shot storyboard built from one image, a full character bible, a location board with time of day and weather, and a pose board for animation. The technique treats consistency and cinematic quality as a pre-production planning problem.",
-   "keywords": [
-    "AI filmmaking",
-    "reference boards",
-    "character bible",
-    "storyboard",
-    "consistency"
-   ],
-   "url": "https://www.instagram.com/p/DYUBh4eCOYt/",
-   "author": "ai.withphil",
-   "author_url": "https://www.instagram.com/ai.withphil/",
-   "date": "2026-05-14",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "Un Jarvis gratuit qui peut réécrire son propre code sur demande",
    "synopsis": "L'auteur construit une version réelle et gratuite du Jarvis d'Iron Man, et met l'accent sur une propriété que ses utilisateurs auraient manquée : l'assistant a accès à son propre code source. Concrètement, il dispose d'un accès au système de fichiers et au terminal, ce qui lui permet de lire son code, le modifier, le tester et déployer les changements à la simple demande verbale de l'utilisateur. Ajouter une fonctionnalité, changer la mise en page, brancher une intégration ou modifier sa personnalité se fait donc en le décrivant en langage naturel.",
    "keywords": [
@@ -5319,6 +5322,74 @@
    "author_url": "https://www.instagram.com/proj.ectjarvis/",
    "date": "2026-04-10",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Godfather-style AI portrait, prompt gated behind a comment",
+   "synopsis": "A single stylised portrait in the visual language of The Godfather — warm low-key lighting, rose, formal tailoring — presented as an AI generation. The caption is purely a lead magnet: comment “AI” to receive the prompt by DM. No model, setting or technique is named anywhere in the post, so the method cannot be reconstructed from what is public.",
+   "keywords": [
+    "AI portrait",
+    "cinematic portrait",
+    "prompt giveaway",
+    "lead magnet"
+   ],
+   "url": "https://www.instagram.com/p/DdRNLuoDaYq/",
+   "author": "paige.prompts",
+   "author_url": "https://www.instagram.com/paige.prompts/",
+   "date": "2026-09-14",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "AI character sheets as a replacement for casting and studio time",
+   "synopsis": "A carousel positioning prompt-generated character reference sheets as a substitute for a casting director and a studio booking. The hashtag block points at Higgsfield and character-consistency workflows as the underlying tooling, and name-checks well-known actors as style references. The actual prompt is withheld pending a comment, so only the claim and the output are visible.",
+   "keywords": [
+    "Higgsfield",
+    "character sheet",
+    "character consistency",
+    "AI casting"
+   ],
+   "url": "https://www.instagram.com/p/DdLWRA6Gus8/",
+   "author": "steal.prompts",
+   "author_url": "https://www.instagram.com/steal.prompts/",
+   "date": "2026-09-12",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Consistent-character facial expression set, prompts by DM",
+   "synopsis": "A carousel demonstrating a single AI character rendered across a range of facial micro-expressions while keeping identity consistent, shot in a warm living-room setting. The hashtag block identifies Higgsfield and Higgsfield Soul as the tooling and frames the use case as AI influencers and digital humans. The prompts themselves are withheld behind a comment gate, so only the output and the tool name are public.",
+   "keywords": [
+    "Higgsfield Soul",
+    "character consistency",
+    "facial expressions",
+    "AI influencer"
+   ],
+   "url": "https://www.instagram.com/p/DdHYIQ2GP9a/",
+   "author": "luxry.ai",
+   "author_url": "https://www.instagram.com/luxry.ai/",
+   "date": "2026-09-10",
+   "following": false,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Motion-as-language image prompts: blur, ghosting, refraction, chromatic drag",
+   "synopsis": "A Portuguese-language carousel of prompts built deliberately around motion artefacts — motion blur, ghosting, refraction, smear, chromatic distortion and panning — treating movement as part of the image visual grammar rather than a defect to avoid. The creator frames it as an alternative path to the clean, static look that dominates AI imagery. Full prompt text is offered by DM, and a paid product is plugged alongside.",
+   "keywords": [
+    "motion blur",
+    "chromatic aberration",
+    "AI image prompts",
+    "experimental photography"
+   ],
+   "url": "https://www.instagram.com/p/DdEt_HaFHFA/",
+   "author": "thiagor.designer",
+   "author_url": "https://www.instagram.com/thiagor.designer/",
+   "date": "2026-09-09",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -5340,6 +5411,23 @@
   },
   {
    "folder": "AI.pix",
+   "title": "Four prompts for the 1980s fashion portrait trend, usable with your own photo",
+   "synopsis": "A carousel responding to the wave of 1980s-styled AI portraits circulating on Instagram, offering four distinct prompts that each produce a different variation of the look. The creator specifies that the prompts are designed to be combined with a user-supplied reference photo rather than generating a stranger. The prompt text itself is delivered by DM on comment.",
+   "keywords": [
+    "80s aesthetic",
+    "AI portrait",
+    "reference photo",
+    "prompt pack"
+   ],
+   "url": "https://www.instagram.com/p/DdBvtRfiElU/",
+   "author": "ertanlabs",
+   "author_url": "https://www.instagram.com/ertanlabs/",
+   "date": "2026-09-08",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
    "title": "Le réalisme 8K ne s'obtient pas en écrivant 8K dans le prompt",
    "synopsis": "L'auteur explique que le vrai détail 8K ne vient jamais du mot 8K placé dans le prompt, mais d'une reconstruction spécifiée à chaque niveau de zoom. Il énumère les marqueurs à décrire explicitement : profondeur des fibres de l'iris et anneau limbique de l'œil, brillance de sébum sur le nez, bordure vermillon de la lèvre, duvet se détachant de la joue et lumière courant le long de chaque cheveu. Le principe est que chaque niveau de recadrage réclame sa propre instruction, les cinq prompts complets restant réservés à ceux qui commentent 8K.",
    "keywords": [
@@ -5353,6 +5441,39 @@
    "author_url": "https://www.instagram.com/its.mrpickard/",
    "date": "2026-09-08",
    "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Avatar prompt set offered by DM, no method shown",
+   "synopsis": "A carousel of AI avatar images whose caption consists solely of a request to comment AVATAR in exchange for the prompts. No generator, workflow or prompt structure appears anywhere in the post. The images are the only substantive content, making this a pure distribution mechanic.",
+   "keywords": [
+    "AI avatar",
+    "prompt giveaway",
+    "lead magnet"
+   ],
+   "url": "https://www.instagram.com/p/Dc-iavtjz8d/",
+   "author": "raktimcreates",
+   "author_url": "https://www.instagram.com/raktimcreates/",
+   "date": "2026-09-07",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Stacking prompt fragments instead of firing single AI “codes”",
+   "synopsis": "A carousel arguing that one-shot prompt snippets underperform because they give a generative model only a single axis of direction. The proposed fix is a six-slot stack — niche, goal, style, details, platform, output — assembled into one composite instruction so the model receives the full brief at once. The post shows the slot structure itself but keeps the worked examples behind a follow-and-save call to action.",
+   "keywords": [
+    "prompt stacking",
+    "prompt engineering",
+    "ChatGPT",
+    "content templates"
+   ],
+   "url": "https://www.instagram.com/p/Dc7iK7QEx51/",
+   "author": "richmeetings.ai",
+   "author_url": "https://www.instagram.com/richmeetings.ai/",
+   "date": "2026-09-06",
+   "following": true,
    "confidence": "high"
   },
   {
@@ -5409,6 +5530,23 @@
   },
   {
    "folder": "AI.pix",
+   "title": "Same AI model, different camera angles as a controllable variable",
+   "synopsis": "A carousel showing one consistent AI-generated model photographed from a series of different camera positions, making the case that camera specification alone substantially changes the output. The practical point is that angle is a prompt-level control worth isolating rather than leaving to the generator. The accompanying prompts and guide are offered by DM on comment.",
+   "keywords": [
+    "camera angles",
+    "AI photography",
+    "character consistency",
+    "prompt engineering"
+   ],
+   "url": "https://www.instagram.com/p/Dc6B33ciVwv/",
+   "author": "ankitgraphic",
+   "author_url": "https://www.instagram.com/ankitgraphic/",
+   "date": "2026-09-05",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
    "title": "Pop-art illustration portrait (prompt gated)",
    "synopsis": "A carousel showing an AI-generated portrait styled as a pop-art illustration with bold flat colour and heavy outlines. The caption names the style and asks for a comment to receive the prompt by DM, disclosing no model or technique. Being an image carousel there is no audio to transcribe, leaving the visual reference as the only usable signal.",
    "keywords": [
@@ -5441,6 +5579,40 @@
    "date": "2026-09-04",
    "following": true,
    "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Eight cinematic lighting prompts as a saveable reference",
+   "synopsis": "A carousel presenting eight lighting setups framed as the lever that makes AI visuals read as cinematic rather than flat. The post is structured as a save-for-later reference tied to lighting vocabulary specifically, isolating it from composition and subject. The eight full prompts are sent by DM in exchange for a comment.",
+   "keywords": [
+    "cinematic lighting",
+    "AI art",
+    "prompt pack",
+    "lighting design"
+   ],
+   "url": "https://www.instagram.com/p/Dc0wUsTCHRu/",
+   "author": "akashgraphxic",
+   "author_url": "https://www.instagram.com/akashgraphxic/",
+   "date": "2026-09-03",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Caricature-style AI character portraits, prompt by numbered comment",
+   "synopsis": "A Persian-language carousel showing stylised caricature character portraits generated from personal photos, pitched at profile-picture use. The creator gates the prompt behind commenting the number 909 and promotes an associated AI academy. The caricature style is visible in the slides but no generator or prompt structure is named.",
+   "keywords": [
+    "caricature",
+    "AI portrait",
+    "profile picture",
+    "prompt giveaway"
+   ],
+   "url": "https://www.instagram.com/p/DcynCytG5oo/",
+   "author": "salchain",
+   "author_url": "https://www.instagram.com/salchain/",
+   "date": "2026-09-02",
+   "following": false,
+   "confidence": "low"
   },
   {
    "folder": "AI.pix",
@@ -5477,6 +5649,40 @@
   },
   {
    "folder": "AI.pix",
+   "title": "Ultra-realistic profile-photo prompt pitched against bad selfies",
+   "synopsis": "A Brazilian-Portuguese carousel contrasting poorly lit phone selfies with AI-generated portrait alternatives, promising results that avoid the tell-tale AI look. The creator offers an ultrarealistic portrait prompt by DM to anyone commenting RETRATO. The visual comparison is the whole argument; no model, lighting setup or prompt wording is disclosed.",
+   "keywords": [
+    "AI portrait",
+    "profile photo",
+    "prompt giveaway",
+    "ChatGPT"
+   ],
+   "url": "https://www.instagram.com/p/DcuRL9KDUTg/",
+   "author": "michella.ia",
+   "author_url": "https://www.instagram.com/michella.ia/",
+   "date": "2026-08-31",
+   "following": false,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Vintage editorial photography style, prompts by comment",
+   "synopsis": "A Spanish-language carousel showcasing a vintage editorial photography aesthetic applied to AI-generated portraits. The caption offers both the style description and the prompts by DM to anyone commenting PROMPTS. Beyond the style label, nothing about the generator or prompt construction is disclosed.",
+   "keywords": [
+    "vintage editorial",
+    "AI photography",
+    "prompt giveaway",
+    "fashion imagery"
+   ],
+   "url": "https://www.instagram.com/p/DctIRgjkfXu/",
+   "author": "vertix.ia",
+   "author_url": "https://www.instagram.com/vertix.ia/",
+   "date": "2026-08-31",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
    "title": "One photo into twelve ages: an age-progression sheet from 5 to 80",
    "synopsis": "Phil shares a prompt pair that takes a single uploaded photo and returns one sheet showing the same person at twelve ages, running 5, 8, 12, 16, 20, 25 then 30, 40, 50, 60, 70 and 80. He explains the trick is instructing the model to lock the subject's bone structure and age only skin, fat and hair, which keeps it recognisably one person across the sheet rather than twelve unrelated faces. He provides separate men's and women's variants, the men's version also ageing the stubble, and runs the whole thing in Picsart Flow on GPT Image 2.",
    "keywords": [
@@ -5491,6 +5697,57 @@
    "author_url": "https://www.instagram.com/ai.withphil/",
    "date": "2026-08-31",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "“Old money” cinematic portrait prompt, gated behind a comment",
+   "synopsis": "A carousel of portraits in the old-money aesthetic — muted palette, heritage tailoring, soft cinematic grade. The caption is a one-line lead magnet offering the prompts by DM on comment. No generator, reference-image workflow or prompt structure is disclosed in the post itself.",
+   "keywords": [
+    "AI portrait",
+    "old money aesthetic",
+    "prompt giveaway",
+    "cinematic grade"
+   ],
+   "url": "https://www.instagram.com/p/DcrOYHMEmqA/",
+   "author": "prompty.ai",
+   "author_url": "https://www.instagram.com/prompty.ai/",
+   "date": "2026-08-30",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "20 prompt recipes turning clothing photos into fashion campaign shots",
+   "synopsis": "A carousel of twenty prompt recipes aimed at apparel sellers, converting flat product photography into model shoots, lookbooks, seasonal collections, bridal campaigns and in-store displays. The pitch is that a brand can generate campaign-grade imagery from garment photos it already owns rather than commissioning a shoot. The carousel frames each use case but routes the detailed prompt text to the creator channel.",
+   "keywords": [
+    "fashion AI",
+    "product photography",
+    "prompt pack",
+    "e-commerce imagery"
+   ],
+   "url": "https://www.instagram.com/p/Dcm_smRkwCI/",
+   "author": "richmeetings.ai",
+   "author_url": "https://www.instagram.com/richmeetings.ai/",
+   "date": "2026-08-29",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "99 viral image prompts for ChatGPT, presented as a save-and-try list",
+   "synopsis": "A high-engagement carousel compiling ninety-nine short image prompts for ChatGPT, organised loosely by style, effect, lighting and photography genre. Unusually for the format the post is a save-this rather than a DM-gate, so the prompt list is intended to be read straight from the slides. The prompts are keyword-style rather than structured, aimed at breadth over control.",
+   "keywords": [
+    "ChatGPT",
+    "image prompts",
+    "prompt library",
+    "AI art"
+   ],
+   "url": "https://www.instagram.com/p/DcnE2FYkZ1u/",
+   "author": "ele_obo",
+   "author_url": "https://www.instagram.com/ele_obo/",
+   "date": "2026-08-29",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -5601,6 +5858,23 @@
   },
   {
    "folder": "AI.pix",
+   "title": "20 prompt recipes for restaurant and food content",
+   "synopsis": "A carousel of twenty prompts covering food photography, menu creatives, restaurant advertising, Reel covers, sizzle shots and surreal food visuals. The stated use case is turning an operator own plain food photos into scroll-stopping campaign material without a photographer. Detailed prompt text sits off-platform behind a link in bio, so the carousel communicates the categories rather than the recipes.",
+   "keywords": [
+    "food photography",
+    "restaurant marketing",
+    "prompt pack",
+    "AI imagery"
+   ],
+   "url": "https://www.instagram.com/p/DcX4NaSkwCW/",
+   "author": "richmeetings.ai",
+   "author_url": "https://www.instagram.com/richmeetings.ai/",
+   "date": "2026-08-23",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
    "title": "DISSOLVED: eight warm-light editorial AI frames",
    "synopsis": "An eight-frame AI editorial set staged in a hotel suite being vacated, built around warm bulbs, wet hair, pearls on marble and light on its way out. The whole technique reduces to one warm source plus heavy falloff. The creator advises swapping garment, surface and colour temperature between shots while keeping the film grain locked.",
    "keywords": [
@@ -5667,6 +5941,23 @@
    "author": "uendelmiranda.ia",
    "author_url": "https://www.instagram.com/uendelmiranda.ia/",
    "date": "2026-08-21",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Undisclosed “intelligent workflow” image platform, access by DM",
+   "synopsis": "A Portuguese-language carousel showing polished AI imagery credited to a combination of an intelligent workflow and an unnamed platform. The caption promises both the prompts and platform access by DM in exchange for a comment, and tags a partner studio account. Nothing identifies the platform, model or workflow steps, leaving the post as a pure distribution hook.",
+   "keywords": [
+    "AI imagery",
+    "prompt giveaway",
+    "workflow",
+    "lead magnet"
+   ],
+   "url": "https://www.instagram.com/p/DcLrhFXEUIc/",
+   "author": "uendelmiranda.ia",
+   "author_url": "https://www.instagram.com/uendelmiranda.ia/",
+   "date": "2026-08-18",
    "following": true,
    "confidence": "low"
   },
@@ -5838,7 +6129,7 @@
    "author": "akashgraphxic",
    "author_url": "https://www.instagram.com/akashgraphxic/",
    "date": "2026-08-03",
-   "following": false,
+   "following": true,
    "confidence": "high"
   },
   {
@@ -6266,303 +6557,6 @@
    "confidence": "high"
   },
   {
-   "folder": "AI.pix",
-   "title": "Higgsfield + Nano Banana Pro Realistic Skin Recipe",
-   "synopsis": "The post argues that fake-looking AI influencer photos are caused by weak prompts rather than weak models. Pairing Higgsfield with Nano Banana Pro yields images that pass as real iPhone photos with natural lighting and lifestyle framing. Realism is layered in with explicit prompt terms for skin texture, visible pores, and small imperfections.",
-   "keywords": [
-    "Higgsfield",
-    "Nano Banana Pro",
-    "skin texture",
-    "AI influencer",
-    "photorealism"
-   ],
-   "url": "https://www.instagram.com/p/DYZu4Iks4hs/",
-   "author": "ai.akshu",
-   "author_url": "https://www.instagram.com/ai.akshu/",
-   "date": "2026-05-16",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "GitHub Repo Turns Any Photo into Explorable 3D World",
-   "synopsis": "The reel covers a newly posted GitHub repository that converts a single photo into an explorable 3D world in about five minutes. The output includes physics-enabled meshes, background splats, and ambient audio, which the creator frames as disruptive to traditional 3D pipelines. The repo itself is unnamed in the caption and shared only via the BLAST comment funnel.",
-   "keywords": [
-    "image-to-3D",
-    "Gaussian splatting",
-    "3D world generation",
-    "open-source GitHub repo"
-   ],
-   "url": "https://www.instagram.com/p/DYZN5nHS7PN/",
-   "author": "nicnonac",
-   "author_url": "https://www.instagram.com/nicnonac/",
-   "date": "2026-05-16",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Selfie to Cinematic Movie Still: Apex Scene Prompt",
-   "synopsis": "The creator recreates a viral scene from the Apex movie by transforming an uploaded selfie into a cinematic jungle-thriller film frame. The full prompt is shared in the caption and stresses preserving exact facial identity while restyling everything else. It is a strong example of identity-preserving cinematic restyling prompts.",
-   "keywords": [
-    "cinematic AI portrait",
-    "identity preservation",
-    "movie still prompt",
-    "selfie transformation"
-   ],
-   "url": "https://www.instagram.com/p/DYT__Rjt3Mk/",
-   "author": "photo_tvoritel",
-   "author_url": "https://www.instagram.com/photo_tvoritel/",
-   "date": "2026-05-14",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "ChatGPT Turns Selfies into Pro Photos in 3 Clicks",
-   "synopsis": "This French-language reel asks why anyone would pay two hundred euros for professional photos when ChatGPT can produce them in three clicks. The workflow is simply taking a selfie and pasting the creator's prompt into ChatGPT. The prompt is distributed by commenting selfie, positioning ChatGPT image generation as a studio-photography replacement.",
-   "keywords": [
-    "ChatGPT",
-    "AI headshot",
-    "selfie prompt",
-    "professional photos"
-   ],
-   "url": "https://www.instagram.com/p/DYRvriCDktF/",
-   "author": "jeremy_ia",
-   "author_url": "https://www.instagram.com/jeremy_ia/",
-   "date": "2026-05-13",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "4 Prompts for GPT Image 2.0 and Nano Banana Pro",
-   "synopsis": "This French-language reel offers four image-generation prompts usable with any model. The creator states that the current best models for these prompts are ChatGPT Images 2.0 and Nano Banana Pro. The prompts are delivered after liking and commenting Prompt, following the usual engagement-gate pattern.",
-   "keywords": [
-    "GPT Image 2.0",
-    "Nano Banana Pro",
-    "prompt pack",
-    "Flux"
-   ],
-   "url": "https://www.instagram.com/p/DYDaKyWN-D6/",
-   "author": "unefille.ia",
-   "author_url": "https://www.instagram.com/unefille.ia/",
-   "date": "2026-05-07",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Claude s'intègre à Blender, à la suite Adobe et à Autodesk Fusion",
-   "synopsis": "Trois intégrations sont annoncées le même matin. Avec Blender, Claude peut déboguer la scène à l'écran, appliquer des modifications par lots sur tous les objets et écrire des outils sur mesure depuis un prompt. Avec Adobe, il se branche sur plus de cinquante outils répartis entre Photoshop, Premiere et Express pour passer d'un prompt à un brouillon éditable, tandis qu'Autodesk Fusion permet de créer et modifier des modèles 3D en dialoguant simplement avec Claude.",
-   "keywords": [
-    "Claude",
-    "Blender",
-    "Adobe Photoshop",
-    "Premiere",
-    "Autodesk Fusion",
-    "intégrations"
-   ],
-   "url": "https://www.instagram.com/p/DXsbBZCDS0k/",
-   "author": "baroobi.inc",
-   "author_url": "https://www.instagram.com/baroobi.inc/",
-   "date": "2026-04-30",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Rétro-ingénierie d'une photo produit concurrente avec fillthetile et ChatGPT",
-   "synopsis": "La méthode consiste à repérer sur Instagram, dans sa propre catégorie, la photo produit d'un concurrent dont on aime le rendu, et à en faire une capture d'écran. Cette capture est déposée sur fillthetile, où la fonction extract prompt analyse l'image et restitue des détails techniques qu'on n'aurait jamais pensé à écrire : objectif portrait 85 mm, pores de la peau, taches de rousseur, position exacte du pendentif porté aux lèvres. Le prompt obtenu est copié tel quel dans ChatGPT, qui recrée le visuel avec son propre produit en moins d'une minute.",
-   "keywords": [
-    "fillthetile",
-    "ChatGPT",
-    "photo produit",
-    "extraction de prompt",
-    "e-commerce"
-   ],
-   "url": "https://www.instagram.com/p/DXnCGslDcea/",
-   "author": "fillthetile",
-   "author_url": "https://www.instagram.com/fillthetile/",
-   "date": "2026-04-26",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Three free unlimited creator tools: Meta AI, Perchance, and a motion-transfer site",
-   "synopsis": "The creator claims he was banned from three creator groups for sharing these free, unlimited tools and shares them anyway. Meta AI produces cinematic video from a single sentence and returns four results instantly, while Perchance AI generates 32 images from one click rather than three or ten. The third uploads your video and transfers your motion onto any celebrity or character, mapping your movements to their face, and he offers a further list of 47 lesser-known tools.",
-   "keywords": [
-    "Meta AI",
-    "Perchance",
-    "motion transfer",
-    "free AI tools",
-    "content creation"
-   ],
-   "url": "https://www.instagram.com/p/DXg73BeiL5C/",
-   "author": "marktalksai",
-   "author_url": "https://www.instagram.com/marktalksai/",
-   "date": "2026-04-24",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Dix prompts pour ChatGPT Images 2.0 à la sortie du modèle",
-   "synopsis": "À l'occasion de la sortie de ChatGPT Images 2.0 par OpenAI, l'autrice liste les dix prompts qu'elle utilise le plus. Le catalogue couvre des usages très concrets : portrait LinkedIn, couverture de magazine, affiche de film, photo au smartphone, agenda manuscrit, interface d'application de bureau, style manga, livre de cuisine, assets marketing et infographie. Les prompts eux-mêmes sont envoyés en DM sur commentaire.",
-   "keywords": [
-    "ChatGPT Images 2.0",
-    "OpenAI",
-    "prompts",
-    "portrait LinkedIn",
-    "infographie"
-   ],
-   "url": "https://www.instagram.com/p/DXbvQrfiLA0/",
-   "author": "shedoesai",
-   "author_url": "https://www.instagram.com/shedoesai/",
-   "date": "2026-04-22",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Quand corriger l'image ne suffit plus, reconstruire l'idée",
-   "synopsis": "Réflexion courte d'un créateur sur la limite du travail itératif avec un générateur d'images : à un certain point, l'image ne peut plus absorber les corrections. Sa réponse est d'arrêter de réparer le rendu et de repenser le concept de départ. Le post relève du parti pris créatif plutôt que de la démonstration d'outil.",
-   "keywords": [
-    "processus créatif",
-    "génération d'images",
-    "itération"
-   ],
-   "url": "https://www.instagram.com/p/DXF4pfZCNqF/",
-   "author": "zhuchkin",
-   "author_url": "https://www.instagram.com/zhuchkin/",
-   "date": "2026-04-14",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Decompose : une IA chinoise gratuite qui éclate une photo en calques propres",
-   "synopsis": "Le post décrit un outil où l'on téléverse une photo ordinaire, on clique sur Decompose, et l'image est scindée en quelques secondes en calques éditables. Arrière-plan, objets et éléments distincts sont séparés proprement, comme si le visuel avait été conçu dans Photoshop dès l'origine. L'outil est open source et gratuit à l'essai, le lien étant envoyé par DM sur commentaire.",
-   "keywords": [
-    "décomposition en calques",
-    "open source",
-    "Chine",
-    "édition d'image",
-    "Photoshop"
-   ],
-   "url": "https://www.instagram.com/p/DWB9m0LjaPH/",
-   "author": "drcintas",
-   "author_url": "https://www.instagram.com/drcintas/",
-   "date": "2026-03-18",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Le workspace Luma piloté par des agents créatifs",
-   "synopsis": "Présentation du nouvel espace de travail Luma, animé par des agents IA dédiés à la création vidéo. La démonstration part d'une seule photo de l'auteur et de la description de quelques scènes, à partir desquelles la plateforme construit une séquence complète, ici autour d'un ours polaire. L'argument est un bouleversement du workflow pour quiconque produit de la vidéo, le détail pas à pas étant fourni en PDF par DM.",
-   "keywords": [
-    "Luma",
-    "agents créatifs",
-    "vidéo générative",
-    "workflow"
-   ],
-   "url": "https://www.instagram.com/p/DVjVRmqACiG/",
-   "author": "kallaway",
-   "author_url": "https://www.instagram.com/kallaway/",
-   "date": "2026-03-06",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Lovart, le Photoshop version IA testé de bout en bout sur une affiche",
-   "synopsis": "Démonstration en français de Lovart, présenté comme l'outil de création IA le plus impressionnant testé par l'auteur. Le flux est montré pas à pas : nouveau projet, sélection de Nano Banana Pro, composition du visuel, puis obtention d'une affiche de qualité professionnelle en quelques minutes. La partie la plus convaincante vient ensuite, avec la modification instantanée de tous les textes en conservant la police et l'édition ciblée d'éléments de l'image comme dans Photoshop.",
-   "keywords": [
-    "Lovart",
-    "Nano Banana Pro",
-    "affiche",
-    "édition d'image",
-    "design IA"
-   ],
-   "url": "https://www.instagram.com/p/DU_Ksg4DOJv/",
-   "author": "danyltn",
-   "author_url": "https://www.instagram.com/danyltn/",
-   "date": "2026-02-20",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Un outil Google qui transforme une photo produit banale en campagne publicitaire",
-   "synopsis": "Numerama signale un nouvel outil Google capable de convertir une simple photo de produit en visuel publicitaire soigné. L'angle est celui de la démocratisation de la production publicitaire pour les petites structures. Le nom de l'outil n'est pas donné dans la légende, qui fonctionne comme une accroche vers la vidéo.",
-   "keywords": [
-    "Google",
-    "publicité",
-    "photo produit",
-    "génération d'images"
-   ],
-   "url": "https://www.instagram.com/p/DU_M5FViRlT/",
-   "author": "numerama",
-   "author_url": "https://www.instagram.com/numerama/",
-   "date": "2026-02-20",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "ResFixer comparé à l'upscale génératif de Topaz Gigapixel",
-   "synopsis": "Réponse à une question reçue en message privé sur l'intérêt de ResFixer face à un upscale génératif classique. L'auteur procède à une comparaison à l'écran en trois temps : l'image d'origine, le résultat de Topaz Gigapixel, puis celui de ResFixer, pour justifier sa préférence. Le post est ouvertement affilié, avec lien et code promo, ce qui invite à relativiser la conclusion.",
-   "keywords": [
-    "ResFixer",
-    "Topaz Gigapixel",
-    "upscaling",
-    "comparaison",
-    "lien affilié"
-   ],
-   "url": "https://www.instagram.com/p/DUyXcfIDsUR/",
-   "author": "that_tshirt_dude",
-   "author_url": "https://www.instagram.com/that_tshirt_dude/",
-   "date": "2026-02-15",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Une photo et un extrait vocal suffisent pour une vidéo parlante synchronisée",
-   "synopsis": "Le post annonce une IA chinoise open source et gratuite qui produit une vidéo de personne parlante à partir d'une seule photo et d'un court échantillon de voix. Les points mis en avant sont la synchronisation labiale précise, le naturel des expressions et la possibilité de modifier les scènes. Le nom du modèle est réservé au DM, ce qui limite la vérifiabilité de l'annonce.",
-   "keywords": [
-    "open source",
-    "lip-sync",
-    "vidéo générative",
-    "clonage vocal"
-   ],
-   "url": "https://www.instagram.com/p/DUvSTYqiNV6/",
-   "author": "sferro.ai",
-   "author_url": "https://www.instagram.com/sferro.ai/",
-   "date": "2026-02-14",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Un modèle chinois open source qui découpe une image plate en calques éditables",
-   "synopsis": "Le post signale un modèle IA chinois, gratuit et open source, qui transforme une image aplatie en calques séparés et modifiables. L'argument est d'offrir un contrôle de niveau Photoshop sans passer par un outil payant. Le modèle n'est pas nommé dans la légende, qui reste au niveau de la promesse.",
-   "keywords": [
-    "open source",
-    "Chine",
-    "calques",
-    "édition d'image"
-   ],
-   "url": "https://www.instagram.com/p/DUqp81EiFAp/",
-   "author": "ai.with.andrew",
-   "author_url": "https://www.instagram.com/ai.with.andrew/",
-   "date": "2026-02-12",
-   "following": true,
-   "confidence": "high"
-  },
-  {
    "folder": "ai.skin",
    "title": "Five small details that make an AI avatar read as real",
    "synopsis": "The creator's recurring finding is that avatar realism is never one big thing but an accumulation of tiny details. The five she watches most are skin, eyes, lighting and the small imperfections a real photograph would contain. An example prompt accompanies the breakdown so the difference is visible rather than described.",
@@ -6579,6 +6573,23 @@
    "date": "2026-08-18",
    "following": false,
    "confidence": "high"
+  },
+  {
+   "folder": "ai.skin",
+   "title": "“Realism Collection” prompt set gated behind a numbered comment",
+   "synopsis": "A carousel of photorealistic AI-generated model imagery presented as a Realism Collection. The caption is a bare lead magnet asking viewers to comment 17 to receive the prompts by DM. No model, sampler or realism technique is named, so the post conveys only the output quality.",
+   "keywords": [
+    "photorealism",
+    "AI model imagery",
+    "prompt giveaway",
+    "generative AI"
+   ],
+   "url": "https://www.instagram.com/p/DcDy6VVjsO7/",
+   "author": "aivideobootcamp",
+   "author_url": "https://www.instagram.com/aivideobootcamp/",
+   "date": "2026-08-15",
+   "following": false,
+   "confidence": "low"
   },
   {
    "folder": "ai.skin",
@@ -6706,6 +6717,42 @@
   },
   {
    "folder": "AI.Video",
+   "title": "A 15-second cinematic latte ad built from eight GPT Image keyframes and Seedance 2.5",
+   "synopsis": "The creator documents an end-to-end AI product commercial: eight cinematic keyframes generated with GPT Image around a deliberate sequence of drop, wave, milk collision, marble, swirl, pour, cream crown and hero shot. Product consistency — same cup, branding, ice and strawberry pieces — was held across every frame, then Seedance 2.5 animated the eight stills into one continuous take joined by liquid-motion transitions. The stated lesson is that the visual progression has to be planned up front, because good individual frames alone will not cut together.",
+   "keywords": [
+    "Seedance 2.5",
+    "GPT Image",
+    "product commercial",
+    "keyframe animation",
+    "AI advertising"
+   ],
+   "url": "https://www.instagram.com/p/DdQ4KrPlcuq/",
+   "author": "sferro.ai",
+   "author_url": "https://www.instagram.com/sferro.ai/",
+   "date": "2026-09-14",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Recreating any film's look from one phone take, via a Claude skill and Seedance 2.5",
+   "synopsis": "The claim is that a single phone take can be restyled into the look of any named film, series or director — not as a colour filter, but by rebuilding the lighting, camera work and scene. The workflow runs a Claude skill over the footage, which transcribes the take with precise timestamps and writes the full prompt automatically, encoding the film's lighting and the director's camera moves with cuts landing word by word against the speech. That prompt and the original video then go into Seedance 2.5, replacing what the creator says previously required a colourist, a DP and a set.",
+   "keywords": [
+    "Seedance 2.5",
+    "Claude skills",
+    "film look",
+    "colour grading",
+    "AI video"
+   ],
+   "url": "https://www.instagram.com/p/DdPXsY-PbAy/",
+   "author": "pauloshimas",
+   "author_url": "https://www.instagram.com/pauloshimas/",
+   "date": "2026-09-13",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "Five camera-move commands for Google Flow image-to-video",
    "synopsis": "A Spanish-language reel demonstrating five camera-motion keywords to type alongside an uploaded still in Google Flow: Dolly In for a smooth push toward the subject, Arc Left for a lateral orbit keeping the character centred, Overhead for a cinematic top-down angle, Crash Zoom for an aggressive snap-in, and a crane-up command for a rising shot. Each is shown applied to the same source image so the motion difference is visible. The post is a teaser for a PDF of 50+ such commands delivered by DM on comment, but the five demonstrated here are usable as-is.",
    "keywords": [
@@ -6724,6 +6771,23 @@
   },
   {
    "folder": "AI.Video",
+   "title": "A fully automated French short: Claude Code writes it, HyperFrames renders it",
+   "synopsis": "In a “pro ou mytho” verdict format, the creator reveals the short being shown features neither his face, his voice, his script, his edit nor his design work. The pipeline runs Claude Code from a terminal to write the video as code, HyperFrames to build it shot by shot, and a scheduler to publish weeks ahead — he notes he substituted HyperFrames for the more expensive tool in the technique he was copying. His verdict is that the workflow genuinely works.",
+   "keywords": [
+    "Claude Code",
+    "HyperFrames",
+    "automated video",
+    "content scheduling"
+   ],
+   "url": "https://www.instagram.com/p/DdBSYdyR2-X/",
+   "author": "jarod.le.cameleon",
+   "author_url": "https://www.instagram.com/jarod.le.cameleon/",
+   "date": "2026-09-08",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "Italian comment-gated giveaway of an AI prompt pack",
    "synopsis": "A carousel post in Italian whose caption is purely a lead magnet: comment 'PROMPT' and the creator sends the complete pack for free. The visuals show AI-generated output but neither the model nor the prompts are named. The hashtags place it in the generic AI-creator trend space rather than describing any specific tool.",
    "keywords": [
@@ -6738,6 +6802,60 @@
    "date": "2026-09-08",
    "following": true,
    "confidence": "low"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "GPT-6 Astra plus free HyperFrames as a CapCut replacement for Reels",
+   "synopsis": "The creator claims the reel itself was edited end to end by GPT-6 Astra — cuts, subtitles, motion design and sound effects — with no manual editing. The stack is two pieces: a paid ChatGPT plan (the €20 tier suffices) for Astra, which writes the animation as code, and the free HyperFrames tool, which renders that code into actual video. The caption adds the quota economics: Astra burns through a Plus quota fast in Codex, so the advice is to have Astra plan the edit and hand execution to the cheaper GPT-5.6 Sol.",
+   "keywords": [
+    "GPT-6 Astra",
+    "HyperFrames",
+    "GPT-5.6 Sol",
+    "video editing",
+    "CapCut alternative"
+   ],
+   "url": "https://www.instagram.com/p/Dc-1G2joLL5/",
+   "author": "lemondedumarketing",
+   "author_url": "https://www.instagram.com/lemondedumarketing/",
+   "date": "2026-09-07",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "New camera angles from footage you already shot, using Krea and Seedance 2.5",
+   "synopsis": "The workflow starts by deciding which parts of an existing video must stay fixed and which shots or camera moves you want to add. The source video is then uploaded to Krea as a reference with Seedance 2.5 selected, and the prompt explicitly pins the constants — characters, actions, overall scene — while describing the new angles and movements. A few minutes later the same scene returns with different camera work, without regenerating the shot from scratch.",
+   "keywords": [
+    "Krea",
+    "Seedance 2.5",
+    "camera movement",
+    "video reference",
+    "shot extension"
+   ],
+   "url": "https://www.instagram.com/p/Dc5orU4hkgZ/",
+   "author": "sferro.ai",
+   "author_url": "https://www.instagram.com/sferro.ai/",
+   "date": "2026-09-05",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Higgsfield Genjutsu: motion transfer and selective object swap in video",
+   "synopsis": "Genjutsu is presented as a control-first alternative to blanket AI video swap tools, offering two distinct modes. Motion transfer preserves the original movement, camera path and timing while replacing everything else; object swap changes only the element you select and leaves the rest of the frame untouched. The demonstrated workflow is deliberately short — open Genjutsu, pick a mode, upload your video plus references, hit generate — with the link gated behind a comment.",
+   "keywords": [
+    "Higgsfield Genjutsu",
+    "motion transfer",
+    "object swap",
+    "AI video",
+    "motion control"
+   ],
+   "url": "https://www.instagram.com/p/Dc3dlp5CRls/",
+   "author": "higgsfield.ai",
+   "author_url": "https://www.instagram.com/higgsfield.ai/",
+   "date": "2026-09-04",
+   "following": true,
+   "confidence": "high"
   },
   {
    "folder": "AI.Video",
@@ -6807,6 +6925,24 @@
    "author": "sferro.ai",
    "author_url": "https://www.instagram.com/sferro.ai/",
    "date": "2026-08-28",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Open Art turns one sentence into a directed explainer video",
+   "synopsis": "The whole demo video began from the single prompt “explain gravity”, with every subsequent refinement handled through conversation rather than a timeline. Testing it live on “explain recursion in a 30-second video”, the creator finds the tool generates a storyboard with GPT Image 2 and the audio track with Lyria, behind a paywall he ends up subscribing to. A second run explaining inflation in an anime style — which it chose to render in Spanish — also lands, and he rates it a “fact”.",
+   "keywords": [
+    "Open Art",
+    "GPT Image 2",
+    "Lyria",
+    "explainer video",
+    "text-to-video"
+   ],
+   "url": "https://www.instagram.com/p/DcjExUUKCFW/",
+   "author": "itstundeanthony",
+   "author_url": "https://www.instagram.com/itstundeanthony/",
+   "date": "2026-08-27",
    "following": true,
    "confidence": "high"
   },
@@ -6884,6 +7020,24 @@
   },
   {
    "folder": "AI.Video",
+   "title": "Drawing a drone path on a still image in Google Flow — rated hype",
+   "synopsis": "The premise is appealing: open Google Flow, select the OmniFlash model, upload a photo, draw red lines tracing the path you want a drone to fly, then paste a set of instructions. The creator tries it on a hiking photo of himself and the output is poor, including the model altering his skin tone for no apparent reason. Three further attempts do not improve it, and he rates the feature hype.",
+   "keywords": [
+    "Google Flow",
+    "OmniFlash",
+    "drone shot",
+    "image-to-video",
+    "negative review"
+   ],
+   "url": "https://www.instagram.com/p/DcRI4ZhqeON/",
+   "author": "itstundeanthony",
+   "author_url": "https://www.instagram.com/itstundeanthony/",
+   "date": "2026-08-20",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "Claude Code edits raw footage into DaVinci Resolve",
    "synopsis": "The creator hands raw video to Claude Code and gets a finished edit back in one click. The result lands directly in DaVinci Resolve ready to review. The pitch is removing both the editing subscription and the hired editor from the loop.",
    "keywords": [
@@ -6915,6 +7069,24 @@
    "author": "badxstudio",
    "author_url": "https://www.instagram.com/badxstudio/",
    "date": "2026-08-19",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "A paid Claude skill for cartoon commercials that failed six times — rated all hype",
+   "synopsis": "The promised workflow was simple: find the repo on GitHub, ask Claude to install the skill, then point the R-CAD skill at your website to generate a cartoon-style commercial with research and planning handled for you. In practice the skill is paywalled, and after paying, the creator's generations failed roughly six times before producing one broken output with a laptop screen rendered on the wrong side. He puts the cost at $35 wasted and rates the tool all hype — a useful negative data point on paid Claude skills.",
+   "keywords": [
+    "R-CAD skill",
+    "Claude skills",
+    "paid skills",
+    "AI commercial",
+    "negative review"
+   ],
+   "url": "https://www.instagram.com/p/DcL8CNmCBKW/",
+   "author": "itstundeanthony",
+   "author_url": "https://www.instagram.com/itstundeanthony/",
+   "date": "2026-08-18",
    "following": true,
    "confidence": "high"
   },
@@ -7041,6 +7213,23 @@
    "author": "alassafi.ai",
    "author_url": "https://www.instagram.com/alassafi.ai/",
    "date": "2026-08-07",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Multi-angle edit from a single-camera take, via a Claude skill plus Google Omni",
+   "synopsis": "The workflow chains two tools: a Claude skill transcribes the source video with precise timestamps and writes the entire downstream prompt automatically, then that prompt is pasted into Google Omni along with the original single-angle footage. Omni synthesises additional camera angles that were never filmed — the creator notes with some disbelief that it infers what the side of his head looks like. He flags one practical blocker, needing a VPN to Japan for access, and rates the tool a genuine “fact” rather than hype.",
+   "keywords": [
+    "Google Omni",
+    "Claude skills",
+    "multi-angle edit",
+    "video generation"
+   ],
+   "url": "https://www.instagram.com/p/DbtEt6ZC1GJ/",
+   "author": "itstundeanthony",
+   "author_url": "https://www.instagram.com/itstundeanthony/",
+   "date": "2026-08-06",
    "following": true,
    "confidence": "high"
   },
@@ -7389,7 +7578,7 @@
    "author": "pauloshimas",
    "author_url": "https://www.instagram.com/pauloshimas/",
    "date": "2026-07-18",
-   "following": false,
+   "following": true,
    "confidence": "high"
   },
   {
@@ -7658,23 +7847,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Un générateur vidéo open source sans crédits ni limite d'usage",
-   "synopsis": "L'auteur oppose les outils vidéo classiques, qui offrent cinq crédits gratuits avant de facturer, à un modèle entièrement open source, illimité et gratuit. Il convertit une image ou un prompt texte en vidéo cinématographique fluide avec effets sonores, et permet d'ajouter des effets, de contrôler les mouvements de caméra et de changer de style. Étant ouvert, il peut tourner hors ligne et être utilisé autant de fois que voulu, le nom du modèle restant réservé au DM.",
-   "keywords": [
-    "vidéo générative",
-    "open source",
-    "hors ligne",
-    "illimité"
-   ],
-   "url": "https://www.instagram.com/p/DYukAxtIJUA/",
-   "author": "marktalksai",
-   "author_url": "https://www.instagram.com/marktalksai/",
-   "date": "2026-05-24",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "Waver, l'outil vidéo chinois gratuit présenté comme meilleur que Sora",
    "synopsis": "Le post annonce Waver, un générateur vidéo gratuit venu de Chine, comme détrônant Sora. Les qualités mises en avant sont des mouvements fluides, des personnages cohérents et un rendu cinématographique, avec l'affirmation que certains résultats dépassent déjà Sora, Kling ou Midjourney. La comparaison reste déclarative et le lien passe par un commentaire.",
    "keywords": [
@@ -7711,42 +7883,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "video-use : un skill Claude Code qui monte les rushes en final.mp4",
-   "synopsis": "Le workflow décrit tient en une phrase : déposer les rushes dans un dossier, dialoguer avec Claude Code, récupérer le montage final. Le skill video-use, publié par un développeur solo, transcrit tout ce qui a été dit, coupe les hésitations et les faux départs, supprime les temps morts entre les prises et étalonne chaque segment selon plusieurs partis pris colorimétriques. L'intérêt revendiqué est l'absence totale de préréglages, de menus et de timeline à manipuler.",
-   "keywords": [
-    "video-use",
-    "Claude Code",
-    "montage automatique",
-    "transcription",
-    "étalonnage"
-   ],
-   "url": "https://www.instagram.com/p/DYf-n9PguD5/",
-   "author": "wassimyounes_",
-   "author_url": "https://www.instagram.com/wassimyounes_/",
-   "date": "2026-05-19",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Gemini Omni, le premier vrai éditeur vidéo IA de Google",
-   "synopsis": "Le post annonce Gemini Omni comme le premier véritable éditeur vidéo piloté par IA. Trois capacités sont détaillées : ajouter ou retirer des objets dans une vidéo réelle, créer des avatars qui conservent le visage et la voix exacts de l'utilisateur d'une scène à l'autre, et transférer automatiquement un style de référence sur toute une vidéo. L'auteur y voit le workflow que les créateurs attendaient, l'accès passant par un commentaire.",
-   "keywords": [
-    "Gemini Omni",
-    "Google",
-    "édition vidéo",
-    "avatars",
-    "transfert de style"
-   ],
-   "url": "https://www.instagram.com/p/DYh7UwJvi6E/",
-   "author": "sebastien",
-   "author_url": "https://www.instagram.com/sebastien/",
-   "date": "2026-05-19",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "One photo plus a few seconds of voice becomes a lifelike talking video",
    "synopsis": "This open-source and completely free Chinese tool generates ultra-realistic video with very high facial quality from a single uploaded photo and a few seconds of recorded voice. The output shows the person speaking naturally with lip sync that matches precisely, believable facial expressions, and a cinematic look. You can then edit the whole scene by typing a prompt — asking to put them in a suit on a yacht rebuilds the scene while preserving the same face and identity.",
    "keywords": [
@@ -7760,59 +7896,6 @@
    "author": "lisaworldverse",
    "author_url": "https://www.instagram.com/lisaworldverse/",
    "date": "2026-05-17",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Une romance d'ascenseur qui vire au chaos, réalisée avec Seedance 2.0",
-   "synopsis": "Démonstration narrative produite avec Seedance 2.0, une scène de tension romantique dans un ascenseur qui bascule dans le chaos. L'accent est mis sur la capacité du modèle à tenir une dramaturgie, des émotions et des retournements dans un plan unique. Le gabarit de prompt complet est envoyé en DM sur commentaire.",
-   "keywords": [
-    "Seedance 2.0",
-    "vidéo générative",
-    "narration",
-    "cinématique"
-   ],
-   "url": "https://www.instagram.com/p/DYZPVIjvWxZ/",
-   "author": "sebintel",
-   "author_url": "https://www.instagram.com/sebintel/",
-   "date": "2026-05-16",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "SkyReels-V2, générations vidéo illimitées en local et open source",
-   "synopsis": "Le post présente SkyReels-V2, un modèle vidéo entièrement open source qui convertit une image ou un prompt texte en séquence cinématographique fluide. Il génère aussi des effets sonores porteurs d'émotion et tourne hors ligne sur la machine de l'utilisateur. L'argument différenciant est la durée : là où Veo 3 plafonne à quelques secondes et où Kling facture au clip, celui-ci vise des vidéos de longueur illimitée.",
-   "keywords": [
-    "SkyReels-V2",
-    "open source",
-    "vidéo générative",
-    "hors ligne",
-    "Veo 3"
-   ],
-   "url": "https://www.instagram.com/p/DYW_3mlKht6/",
-   "author": "kayvon.ai",
-   "author_url": "https://www.instagram.com/kayvon.ai/",
-   "date": "2026-05-15",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Du storyboard GPT Image 2.0 à l'animation Seedance 2.0",
-   "synopsis": "Tutoriel qui donne le gabarit de prompt complet pour produire un storyboard exploitable : une grille de douze cases séparées par de fins liseraés noirs, chaque panneau numéroté en gras sans empattement dans le coin supérieur gauche et légendé d'une courte description du mouvement. Le style demandé est une animation picturale très détaillée inspirée d'Arcane, avec éclairage cinématographique, ombres marquées, coups de pinceau texturés et réalisme stylisé. Le storyboard sert ensuite d'entrée pour l'animation dans Seedance 2.0.",
-   "keywords": [
-    "GPT Image 2.0",
-    "Seedance 2.0",
-    "storyboard",
-    "Arcane",
-    "prompt template"
-   ],
-   "url": "https://www.instagram.com/p/DYSqkJouYEb/",
-   "author": "benkaluza.tech",
-   "author_url": "https://www.instagram.com/benkaluza.tech/",
-   "date": "2026-05-13",
    "following": true,
    "confidence": "high"
   },
@@ -7853,59 +7936,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Claude en équipe d'animation : direction artistique, illustration puis prompts vidéo",
-   "synopsis": "La méthode se déroule en trois étapes, Claude remplaçant successivement chaque poste d'une équipe de production animée. On lui donne d'abord toutes ses références pour qu'il sorte la palette, les textures et l'ambiance, un travail de direction artistique livré en quelques secondes. Il devient ensuite illustrateur en générant, à partir de la description d'une scène, les prompts exacts qui donnent le style animé visé, puis produit à l'étape trois des prompts de scène assez denses et précis pour n'avoir plus qu'à lancer la génération vidéo.",
-   "keywords": [
-    "Claude",
-    "film d'animation",
-    "direction artistique",
-    "prompts vidéo"
-   ],
-   "url": "https://www.instagram.com/p/DYKiMOiM7F0/",
-   "author": "yonak.ia",
-   "author_url": "https://www.instagram.com/yonak.ia/",
-   "date": "2026-05-10",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Three free unlimited creator tools: Meta AI, Perchance, and a motion-transfer site",
-   "synopsis": "The creator claims he was banned from three creator groups for sharing these free, unlimited tools and shares them anyway. Meta AI produces cinematic video from a single sentence and returns four results instantly, while Perchance AI generates 32 images from one click rather than three or ten. The third uploads your video and transfers your motion onto any celebrity or character, mapping your movements to their face, and he offers a further list of 47 lesser-known tools.",
-   "keywords": [
-    "Meta AI",
-    "Perchance",
-    "motion transfer",
-    "free AI tools",
-    "content creation"
-   ],
-   "url": "https://www.instagram.com/p/DXg73BeiL5C/",
-   "author": "marktalksai",
-   "author_url": "https://www.instagram.com/marktalksai/",
-   "date": "2026-04-24",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Un pipeline UGC entièrement piloté par Claude Code et Higgsfield",
-   "synopsis": "L'auteur montre une chaîne où Claude Code génère des vidéos UGC à son effigie sans qu'il intervienne, en s'appuyant sur Seedance 2.0 hébergé chez Higgsfield. Le montage technique est explicite : on ajoute le MCP Playwright à Claude Code, plus une quinzaine de skills dédiés à Seedance 2.0, après quoi Claude rédige les prompts, téléverse les photos, pilote le navigateur et clique sur générer. Il présente le résultat comme un pipeline répétable suffisant pour faire tourner une activité UGC complète.",
-   "keywords": [
-    "Claude Code",
-    "Higgsfield",
-    "Seedance 2.0",
-    "Playwright MCP",
-    "UGC"
-   ],
-   "url": "https://www.instagram.com/p/DXab5ekEeDI/",
-   "author": "buildwithneej",
-   "author_url": "https://www.instagram.com/buildwithneej/",
-   "date": "2026-04-22",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "Open Montage, chaîne de production vidéo complète bâtie avec Claude Code",
    "synopsis": "Open Montage est un outil gratuit construit avec Claude Code qui prend en charge toute la chaîne vidéo à partir d'une simple description. Il gère le script, les visuels, la voix et le montage, et va chercher de vraies informations sur le web avant de générer, de sorte que le résultat est documenté plutôt que purement inventé. Il tourne en local, demande peu de configuration et sert aussi bien pour des explicatifs que pour des publicités ou des bandes-annonces, le lien étant envoyé à qui commente STUDIO.",
    "keywords": [
@@ -7917,23 +7947,6 @@
    "url": "https://www.instagram.com/p/DXaO-oHkz3h/",
    "author": "heyalav",
    "author_url": "https://www.instagram.com/heyalav/",
-   "date": "2026-04-21",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Un modèle vidéo open source qui produit quatre minutes en local",
-   "synopsis": "Le post met en avant un modèle vidéo capable de générer des séquences de quatre minutes, là où la plupart plafonnent à huit secondes. Les qualités revendiquées sont un mouvement stable, des déplacements de caméra crédibles, une physique réaliste et des personnages cohérents dans la durée. Le modèle tourne hors ligne sur la machine de l'utilisateur, sans limite d'usage, mais son nom est réservé au DM.",
-   "keywords": [
-    "vidéo générative",
-    "open source",
-    "hors ligne",
-    "vidéo longue"
-   ],
-   "url": "https://www.instagram.com/p/DXZ-bPDklF2/",
-   "author": "thechriscordero",
-   "author_url": "https://www.instagram.com/thechriscordero/",
    "date": "2026-04-21",
    "following": true,
    "confidence": "high"
@@ -8115,6 +8128,42 @@
   },
   {
    "folder": "IA. LEGAL",
+   "title": "Switzerland moves 3,000 federal workstations off Microsoft to open source",
+   "synopsis": "Switzerland has begun migrating 3,000 federal government workstations to open-source office, email and desktop software, with roughly $9 million budgeted and completion targeted for the end of next year; the Swiss military cyber unit is moving faster still, aiming to replace Microsoft entirely within a month. The driver named as decisive is not licence cost but sovereignty — under US cloud law, American authorities can potentially reach data held by American companies, and Switzerland declined to run its whole government on that basis. The reel acknowledges Munich's failed 2000s Linux migration as precedent, but argues the difference now is scale: half of Europe is quietly funding open alternatives, and the software has matured.",
+   "keywords": [
+    "digital sovereignty",
+    "Switzerland",
+    "open source migration",
+    "Microsoft",
+    "public sector IT"
+   ],
+   "url": "https://www.instagram.com/p/DdIQm5nhKMc/",
+   "author": "zackshutt",
+   "author_url": "https://www.instagram.com/zackshutt/",
+   "date": "2026-09-11",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "IA. LEGAL",
+   "title": "Anthropic sued for fraud over Claude Max usage multipliers",
+   "synopsis": "A news reel on a fraud suit alleging Anthropic overcharged Claude subscribers by misrepresenting how much usage the Max tiers actually deliver. According to the filing, Anthropic's own weekly estimates show the $100 Max 5× plan delivering roughly 3.5× the Pro allowance, and the $200 20× plan delivering only about six to eight times — not twenty. The suit seeks refunds for affected subscribers on the basis that a plan sold as a specific usage multiple should deliver that multiple.",
+   "keywords": [
+    "Anthropic",
+    "Claude Max",
+    "class action",
+    "usage limits",
+    "consumer protection"
+   ],
+   "url": "https://www.instagram.com/p/Dc2rjChK82-/",
+   "author": "lenny_builds",
+   "author_url": "https://www.instagram.com/lenny_builds/",
+   "date": "2026-09-04",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "IA. LEGAL",
    "title": "EIC Pathfinder: up to 4M euros of EU money, zero equity",
    "synopsis": "The video spotlights the EU's EIC Pathfinder programme, which grants founders up to 4 million euros that never has to be repaid and takes 0% equity. Eligible themes include AI, longevity, and clean energy. This year's round is still open with a deadline of 28 October, and the creator offers the official page to commenters.",
    "keywords": [
@@ -8165,6 +8214,42 @@
    "author_url": "https://www.instagram.com/iam_romeobach/",
    "date": "2026-05-25",
    "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "IA.Avatar",
+   "title": "An open-source Chinese talking-avatar generator, with a visible skin-tone failure",
+   "synopsis": "The reel presents a free, open-sourced alternative to HeyGen: upload a photo, drop in an audio clip, hit generate, and get a talking avatar with lip sync and facial expression. The creator's own results were poor across four attempts — distorted teeth and a generally off appearance — and noticeably better when he switched to a lighter-skinned test subject's photo, which he calls out directly with the verdict “a fact if you're white”. That makes the post as much a documented demographic-bias observation as a tool review.",
+   "keywords": [
+    "AI avatar",
+    "HeyGen alternative",
+    "open source",
+    "lip sync",
+    "model bias"
+   ],
+   "url": "https://www.instagram.com/p/DcycoQZC_dG/",
+   "author": "itstundeanthony",
+   "author_url": "https://www.instagram.com/itstundeanthony/",
+   "date": "2026-09-02",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "IA.Avatar",
+   "title": "Open Art turns one sentence into a directed explainer video",
+   "synopsis": "The whole demo video began from the single prompt “explain gravity”, with every subsequent refinement handled through conversation rather than a timeline. Testing it live on “explain recursion in a 30-second video”, the creator finds the tool generates a storyboard with GPT Image 2 and the audio track with Lyria, behind a paywall he ends up subscribing to. A second run explaining inflation in an anime style — which it chose to render in Spanish — also lands, and he rates it a “fact”.",
+   "keywords": [
+    "Open Art",
+    "GPT Image 2",
+    "Lyria",
+    "explainer video",
+    "text-to-video"
+   ],
+   "url": "https://www.instagram.com/p/DcjExUUKCFW/",
+   "author": "itstundeanthony",
+   "author_url": "https://www.instagram.com/itstundeanthony/",
+   "date": "2026-08-27",
+   "following": true,
    "confidence": "high"
   },
   {
@@ -8600,8 +8685,8 @@
     "web scraping"
    ],
    "url": "https://www.instagram.com/p/DYiApIFIbNd/",
-   "author": "bapt.autoai",
-   "author_url": "https://www.instagram.com/bapt.autoai/",
+   "author": "baptsimard.ia",
+   "author_url": "https://www.instagram.com/baptsimard.ia/",
    "date": "2026-05-19",
    "following": true,
    "confidence": "high"
