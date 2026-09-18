@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T01:04:25+00:00",
+ "generated_at": "2026-09-18T03:19:05+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -1579,7 +1579,7 @@
    "author": "jaschasuess",
    "author_url": "https://www.instagram.com/jaschasuess/",
    "date": "2024-11-15",
-   "following": false,
+   "following": true,
    "confidence": "high"
   },
   {
@@ -5326,6 +5326,24 @@
   },
   {
    "folder": "AI.pix",
+   "title": "Comment-to-unlock prompt pack for an AI image platform",
+   "synopsis": "A carousel of AI-generated images whose caption withholds every technical detail, asking viewers to comment \"REPLICAR\" to receive the prompts and access to the unnamed platform behind the creations. The only concrete lead is the credited partner account @fishcreative.hq; neither the generator, the model, nor the prompt structure is disclosed in the post itself. With 909 comments against 321 likes, the engagement profile confirms the comment-gate is working as a growth mechanic rather than as a tutorial.",
+   "keywords": [
+    "AI image generation",
+    "prompt pack",
+    "comment-gated giveaway",
+    "fishcreative.hq",
+    "engagement tactic"
+   ],
+   "url": "https://www.instagram.com/p/DdY7xhPkZkR/",
+   "author": "uendelmiranda.ia",
+   "author_url": "https://www.instagram.com/uendelmiranda.ia/",
+   "date": "2026-09-17",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.pix",
    "title": "Godfather-style AI portrait, prompt gated behind a comment",
    "synopsis": "A single stylised portrait in the visual language of The Godfather — warm low-key lighting, rose, formal tailoring — presented as an AI generation. The caption is purely a lead magnet: comment “AI” to receive the prompt by DM. No model, setting or technique is named anywhere in the post, so the method cannot be reconstructed from what is public.",
    "keywords": [
@@ -6538,23 +6556,6 @@
    "date": "2026-05-25",
    "following": true,
    "confidence": "low"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "The Only 4 AI Upscalers You Need in 2026",
-   "synopsis": "This reel curates the four AI upscalers the creator considers essential in 2026, claiming most creators have never heard of two of them. Magnific AI is explicitly named as the gold standard for AI art upscaling. The full list is delivered by DM after commenting UPSCALE.",
-   "keywords": [
-    "Magnific",
-    "AI upscaling",
-    "image enhancement",
-    "tool roundup"
-   ],
-   "url": "https://www.instagram.com/p/DYipYfmkwxB/",
-   "author": "theaisurfer",
-   "author_url": "https://www.instagram.com/theaisurfer/",
-   "date": "2026-05-20",
-   "following": true,
-   "confidence": "high"
   },
   {
    "folder": "ai.skin",
@@ -8215,6 +8216,24 @@
    "date": "2026-05-25",
    "following": false,
    "confidence": "high"
+  },
+  {
+   "folder": "IA.Avatar",
+   "title": "Comment-to-unlock prompt pack for an AI image platform",
+   "synopsis": "A carousel of AI-generated images whose caption withholds every technical detail, asking viewers to comment \"REPLICAR\" to receive the prompts and access to the unnamed platform behind the creations. The only concrete lead is the credited partner account @fishcreative.hq; neither the generator, the model, nor the prompt structure is disclosed in the post itself. With 909 comments against 321 likes, the engagement profile confirms the comment-gate is working as a growth mechanic rather than as a tutorial.",
+   "keywords": [
+    "AI image generation",
+    "prompt pack",
+    "comment-gated giveaway",
+    "fishcreative.hq",
+    "engagement tactic"
+   ],
+   "url": "https://www.instagram.com/p/DdY7xhPkZkR/",
+   "author": "uendelmiranda.ia",
+   "author_url": "https://www.instagram.com/uendelmiranda.ia/",
+   "date": "2026-09-17",
+   "following": true,
+   "confidence": "low"
   },
   {
    "folder": "IA.Avatar",
