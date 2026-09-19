@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T03:19:05+00:00",
+ "generated_at": "2026-09-19T03:17:54+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -8640,7 +8640,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "Browser-Use: free open-source rival to AI browser agents",
    "synopsis": "While attention was on ChatGPT Agent and Claude Computer Use, a developer released Browser-Use, a free open-source framework that does almost the same thing. It lives on GitHub and lets an AI drive a web browser to complete tasks autonomously. The video pitches it as a game changer for virtual assistants and automation builders.",
    "keywords": [
@@ -8658,7 +8658,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "ScrapeGraph AI does in free what Apify and Bright Data charge for",
    "synopsis": "An Italian developer released ScrapeGraph AI under an MIT licence, free forever, and it has already gathered 23,000 stars. You give it a URL and describe what you want in plain English, and the AI handles the rest — LinkedIn profiles, email addresses, Twitter accounts, Amazon, Zillow, Glassdoor — including multi-page scraping at scale. The creator's economic point is that Apify charges $49 a month and Bright Data $500, while agencies are already billing clients $5,000 per scraping project using this free tool.",
    "keywords": [
@@ -8676,7 +8676,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "Scrapling: 800x faster scraper that dodges Cloudflare",
    "synopsis": "A French video promoting Scrapling, a scraper billed as 800 times faster than existing tools, installable in 30 seconds via Claude Code. It reportedly bypasses Cloudflare without detection, enabling claims like 10,000 leads in one night with zero banned IPs. It is presented as compatible with OpenAI Codex and other agent tooling.",
    "keywords": [
@@ -8694,7 +8694,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "Install Scrapling in 30 seconds with Claude Code",
    "synopsis": "The pitch: hand Claude Code a GitHub link and 30 seconds later it has installed Scrapling, described as the most powerful scraping tool in the world. The tool claims to be 800 times faster than anything else and to get around Cloudflare protections. A free installation guide is offered to viewers who comment 'Scrap'.",
    "keywords": [
@@ -8711,7 +8711,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "ScrapeGraph-AI threatens paid scraping platforms",
    "synopsis": "A developer released ScrapeGraph-AI on GitHub, an open-source LLM-powered scraping tool that has already collected over 23,000 stars. The video claims it is replacing paid scraping platforms costing around 40,000 rupees a month. It frames the project as the moment free open-source AI killed the paid web-scraping market.",
    "keywords": [
@@ -8728,7 +8728,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "'Ultimate Web Scraper' Chrome extension demo",
    "synopsis": "A short demo naming the Chrome extension 'Ultimate Web Scraper' as the tool being showcased. The angle is no-code data extraction directly from the browser for automation, e-commerce, and productivity use cases. Details on capabilities are thin in the caption, but the tool itself is explicitly identified.",
    "keywords": [
