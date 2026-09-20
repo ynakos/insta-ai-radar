@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T03:17:54+00:00",
+ "generated_at": "2026-09-20T03:21:10+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -6718,6 +6718,24 @@
   },
   {
    "folder": "AI.Video",
+   "title": "Cinq commandes Google Flow pour transformer une photo produit en video marketing",
+   "synopsis": "Le reel enumere cinq commandes Google Flow orientees marketing produit qui evitent d'ecrire de longs prompts : smoke reveal pour un devoilement dramatique du produit, Times Square 3D reveal pour l'inserer dans une scene publicitaire 3D a Times Square, et UGC product hook pour generer une video de promotion facon createur de contenu. Les deux autres, miniature product world et POV product demo, construisent respectivement un micro-univers cinematographique autour du produit et une demonstration realiste en vue subjective. L'auteur annonce un guide de plus de 100 commandes du meme type, accessible en commentant FLOW.",
+   "keywords": [
+    "Google Flow",
+    "video produit",
+    "marketing genere par IA",
+    "UGC",
+    "prompt commands"
+   ],
+   "url": "https://www.instagram.com/p/DdWR5wKM47k/",
+   "author": "marketerhub.ai",
+   "author_url": "https://www.instagram.com/marketerhub.ai/",
+   "date": "2026-09-16",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "A 15-second cinematic latte ad built from eight GPT Image keyframes and Seedance 2.5",
    "synopsis": "The creator documents an end-to-end AI product commercial: eight cinematic keyframes generated with GPT Image around a deliberate sequence of drop, wave, milk collision, marble, swirl, pour, cream crown and hero shot. Product consistency — same cup, branding, ice and strawberry pieces — was held across every frame, then Seedance 2.5 animated the eight stills into one continuous take joined by liquid-motion transitions. The stated lesson is that the visual progression has to be planned up front, because good individual frames alone will not cut together.",
    "keywords": [
@@ -6731,6 +6749,24 @@
    "author": "sferro.ai",
    "author_url": "https://www.instagram.com/sferro.ai/",
    "date": "2026-09-14",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Cinq commandes de camera Google Flow pour animer une image fixe",
+   "synopsis": "Le reel montre comment transformer une simple image importee dans Google Flow en plan cinematographique grace a cinq commandes slash : /dolly in rapproche physiquement la camera du sujet pour une tension que le zoom ne reproduit pas, /low angle place la camera sous le sujet pour une perspective dominante, et /slide tracking fait glisser la camera le long du sujet en mouvement facon scene de poursuite hollywoodienne. Les deux dernieres, /360 reveal et /slow motion, ajoutent respectivement un mouvement circulaire complet avec reveal dramatique et un etirement temporel donnant un effet onirique. L'auteure precise qu'il s'agit de 5 commandes sur 50 et renvoie vers la liste complete par DM en commentant FLOW.",
+   "keywords": [
+    "Google Flow",
+    "image-to-video",
+    "mouvements de camera",
+    "prompt commands",
+    "video generative"
+   ],
+   "url": "https://www.instagram.com/p/DdOgxExDV0_/",
+   "author": "lisaworldverse",
+   "author_url": "https://www.instagram.com/lisaworldverse/",
+   "date": "2026-09-13",
    "following": true,
    "confidence": "high"
   },
@@ -7848,42 +7884,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Waver, l'outil vidéo chinois gratuit présenté comme meilleur que Sora",
-   "synopsis": "Le post annonce Waver, un générateur vidéo gratuit venu de Chine, comme détrônant Sora. Les qualités mises en avant sont des mouvements fluides, des personnages cohérents et un rendu cinématographique, avec l'affirmation que certains résultats dépassent déjà Sora, Kling ou Midjourney. La comparaison reste déclarative et le lien passe par un commentaire.",
-   "keywords": [
-    "Waver",
-    "Sora",
-    "Kling",
-    "vidéo générative",
-    "Chine"
-   ],
-   "url": "https://www.instagram.com/p/DYulP6iCnk5/",
-   "author": "ia.boss.officiel",
-   "author_url": "https://www.instagram.com/ia.boss.officiel/",
-   "date": "2026-05-24",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Pippit lance un agent IA de série courte propulsé par Dreamina Seedance 2.0",
-   "synopsis": "Un épisode entier est généré par une seule IA à partir d'un unique script, via le premier agent de Short Drama lancé par Pippit. Les capacités annoncées sont des scripts allant jusqu'à 100 000 mots, des personnages qui restent cohérents du premier au dernier plan, et une réduction de 90 % des coûts de production. L'argument est celui d'un studio complet réduit à un agent, l'accès étant proposé par DM.",
-   "keywords": [
-    "Pippit",
-    "Dreamina",
-    "Seedance 2.0",
-    "série courte",
-    "production automatisée"
-   ],
-   "url": "https://www.instagram.com/p/DYrvpH-M3JA/",
-   "author": "antony_nonis",
-   "author_url": "https://www.instagram.com/antony_nonis/",
-   "date": "2026-05-23",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "One photo plus a few seconds of voice becomes a lifelike talking video",
    "synopsis": "This open-source and completely free Chinese tool generates ultra-realistic video with very high facial quality from a single uploaded photo and a few seconds of recorded voice. The output shows the person speaking naturally with lip sync that matches precisely, believable facial expressions, and a cinematic look. You can then edit the whole scene by typing a prompt — asking to put them in a suit on a yacht rebuilds the scene while preserving the same face and identity.",
    "keywords": [
@@ -8520,23 +8520,6 @@
   },
   {
    "folder": "IA.Avatar",
-   "title": "An AI that builds entire YouTube channels, including hour-long documentaries",
-   "synopsis": "The creator presents what he calls the first AI able to turn written information into documentaries running over an hour. You give it a video idea and it researches the subject, writes the full script, and scans the internet for real footage matching the story, automatically generating animations to fill any gaps where suitable clips do not exist. It then layers in voiceover, sound effects, transitions and music to assemble the finished video.",
-   "keywords": [
-    "AI documentary",
-    "YouTube automation",
-    "script generation",
-    "faceless channels"
-   ],
-   "url": "https://www.instagram.com/p/DWwfucWCKK9/",
-   "author": "ugotatas.ia",
-   "author_url": "https://www.instagram.com/ugotatas.ia/",
-   "date": "2026-04-05",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "IA.Avatar",
    "title": "Imperfection Detail Makes AI Avatars Read as Real",
    "synopsis": "The creator explains that realism in current AI portraits comes from what older models smoothed out: natural skin flaws, uneven tone, tiny freckles, and peach fuzz. The brain reads these imperfections as proof the photo is genuine. Micro-detail in the eye completes the illusion, with the full prompt set gated behind an AI comment.",
    "keywords": [
@@ -8640,7 +8623,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper ",
+   "folder": "Scrapper",
    "title": "Browser-Use: free open-source rival to AI browser agents",
    "synopsis": "While attention was on ChatGPT Agent and Claude Computer Use, a developer released Browser-Use, a free open-source framework that does almost the same thing. It lives on GitHub and lets an AI drive a web browser to complete tasks autonomously. The video pitches it as a game changer for virtual assistants and automation builders.",
    "keywords": [
@@ -8658,7 +8641,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper ",
+   "folder": "Scrapper",
    "title": "ScrapeGraph AI does in free what Apify and Bright Data charge for",
    "synopsis": "An Italian developer released ScrapeGraph AI under an MIT licence, free forever, and it has already gathered 23,000 stars. You give it a URL and describe what you want in plain English, and the AI handles the rest — LinkedIn profiles, email addresses, Twitter accounts, Amazon, Zillow, Glassdoor — including multi-page scraping at scale. The creator's economic point is that Apify charges $49 a month and Bright Data $500, while agencies are already billing clients $5,000 per scraping project using this free tool.",
    "keywords": [
@@ -8676,7 +8659,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper ",
+   "folder": "Scrapper",
    "title": "Scrapling: 800x faster scraper that dodges Cloudflare",
    "synopsis": "A French video promoting Scrapling, a scraper billed as 800 times faster than existing tools, installable in 30 seconds via Claude Code. It reportedly bypasses Cloudflare without detection, enabling claims like 10,000 leads in one night with zero banned IPs. It is presented as compatible with OpenAI Codex and other agent tooling.",
    "keywords": [
@@ -8694,7 +8677,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper ",
+   "folder": "Scrapper",
    "title": "Install Scrapling in 30 seconds with Claude Code",
    "synopsis": "The pitch: hand Claude Code a GitHub link and 30 seconds later it has installed Scrapling, described as the most powerful scraping tool in the world. The tool claims to be 800 times faster than anything else and to get around Cloudflare protections. A free installation guide is offered to viewers who comment 'Scrap'.",
    "keywords": [
@@ -8711,7 +8694,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper ",
+   "folder": "Scrapper",
    "title": "ScrapeGraph-AI threatens paid scraping platforms",
    "synopsis": "A developer released ScrapeGraph-AI on GitHub, an open-source LLM-powered scraping tool that has already collected over 23,000 stars. The video claims it is replacing paid scraping platforms costing around 40,000 rupees a month. It frames the project as the moment free open-source AI killed the paid web-scraping market.",
    "keywords": [
@@ -8728,7 +8711,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper ",
+   "folder": "Scrapper",
    "title": "'Ultimate Web Scraper' Chrome extension demo",
    "synopsis": "A short demo naming the Chrome extension 'Ultimate Web Scraper' as the tool being showcased. The angle is no-code data extraction directly from the browser for automation, e-commerce, and productivity use cases. Details on capabilities are thin in the caption, but the tool itself is explicitly identified.",
    "keywords": [
