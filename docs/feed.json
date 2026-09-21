@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T03:21:10+00:00",
+ "generated_at": "2026-09-21T12:30:55+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -4055,6 +4055,25 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Six markdown context files that keep an AI coding agent on the rails",
+   "synopsis": "The post prescribes six markdown files to commit at the start of any vibe-coding project so the agent inherits durable context instead of re-guessing it every session. They are prd.md (what is being built, for whom, which features), architecture.md (file and folder layout, tech stack, how the parts connect), rules.md (a rulebook of libraries, error handling and constraints), design.md (colours, typography, components and spacing so the UI stays consistent), tasks.md (the project split into small units handed to the agent one at a time), and memory.md (running project context). The framing is tool-agnostic across Claude Code and Cursor, and the caption enumerates all six files even though a fuller step-by-step guide sits behind a comment gate.",
+   "keywords": [
+    "vibe coding",
+    "Claude Code",
+    "Cursor",
+    "agent context files",
+    "PRD",
+    "prompt engineering"
+   ],
+   "url": "https://www.instagram.com/p/DdeCyNIqBWz/",
+   "author": "avani.codes",
+   "author_url": "https://www.instagram.com/avani.codes/",
+   "date": "2026-09-19",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "Recreating any film's look from one phone take, via a Claude skill and Seedance 2.5",
    "synopsis": "The claim is that a single phone take can be restyled into the look of any named film, series or director — not as a colour filter, but by rebuilding the lighting, camera work and scene. The workflow runs a Claude skill over the footage, which transcribes the take with precise timestamps and writes the full prompt automatically, encoding the film's lighting and the director's camera moves with cuts landing word by word against the speech. That prompt and the original video then go into Seedance 2.5, replacing what the creator says previously required a colourist, a DP and a set.",
    "keywords": [
@@ -5153,23 +5172,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Neuf prompts de selfies qui passent pour de vraies photos",
-   "synopsis": "L'autrice partage une collection de neuf prompts destinés à produire des selfies indiscernables de vraies photos de pellicule. Les registres couverts sont le selfie au 0.5, le selfie pris par accident, le selfie de voyage et plus largement le type de cliché qui semble sorti directement de la galerie du téléphone. Le post est publié en anglais et en turc et invite à sauvegarder la liste.",
-   "keywords": [
-    "selfies IA",
-    "prompts",
-    "photoréalisme",
-    "réseaux sociaux"
-   ],
-   "url": "https://www.instagram.com/p/DZsaQSTjHcI/",
-   "author": "sheiskatre",
-   "author_url": "https://www.instagram.com/sheiskatre/",
-   "date": "2026-06-17",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "Un lien OpenClaw distribué par DM, sans contenu écrit",
    "synopsis": "Le post se limite à proposer l'envoi d'un lien contre un commentaire, avec pour seul contexte quatre hashtags renvoyant à OpenClaw, Claude et les agents IA. Ni l'outil, ni le problème traité, ni le résultat ne sont décrits. Le contenu utile réside entièrement dans la vidéo et le message privé.",
    "keywords": [
@@ -5323,6 +5325,23 @@
    "date": "2026-04-10",
    "following": true,
    "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Neo-noir poster portrait, prompts withheld behind a comment gate",
+   "synopsis": "A carousel showcasing a neo-noir cinematic poster-style portrait treatment, presented purely as finished output. Neither the caption nor the post names the image model, the prompt structure, or any lighting or grading parameter - the entire method is held back behind a 'comment PROMPT and I'll send you the prompts' lead-magnet gate. As a still-image carousel with no audio track, there is no voiceover from which the missing technique could be recovered.",
+   "keywords": [
+    "image prompts",
+    "neo-noir portrait",
+    "prompt pack",
+    "lead magnet"
+   ],
+   "url": "https://www.instagram.com/p/Ddb8VW1knQ3/",
+   "author": "prompty.ai",
+   "author_url": "https://www.instagram.com/prompty.ai/",
+   "date": "2026-09-18",
+   "following": true,
+   "confidence": "low"
   },
   {
    "folder": "AI.pix",
@@ -6509,23 +6528,6 @@
   },
   {
    "folder": "AI.pix",
-   "title": "A free unrestricted Chinese image generator",
-   "synopsis": "The creator presents a newly released free Chinese image tool he claims is more powerful than existing generators and ships with no content restrictions or filters. Usage is straightforward: go to the site, type your prompt, adjust a few settings and generate. He reports the output comes out sharper, more detailed and more realistic than most paid tools.",
-   "keywords": [
-    "image generation",
-    "open models",
-    "unfiltered AI",
-    "free tools"
-   ],
-   "url": "https://www.instagram.com/p/DY3PhzMjxxD/",
-   "author": "theaisurfer",
-   "author_url": "https://www.instagram.com/theaisurfer/",
-   "date": "2026-05-28",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
    "title": "6 Reference Boards for Consistent AI Image Generation",
    "synopsis": "The post presents six reference boards as the secret weapon for keeping AI images consistent across generations. They include a twelve-shot storyboard board, a character bible with outfit flat-lays, and a location board with five camera angles of the same environment. The technique treats consistency as a pre-production planning problem solved with structured reference assets.",
    "keywords": [
@@ -6714,6 +6716,43 @@
    "author_url": "https://www.instagram.com/timkoda_/",
    "date": "2025-12-17",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Drop the Higgsfield subscription: Kie.ai aggregation plus Seedance 2.5 and GPT Image 2",
+   "synopsis": "This French reel argues that a Higgsfield subscription is an unnecessary cost and proposes routing generation through Kie.ai instead, which aggregates the major image and video models on a shared credit pool. The presenter's picks are GPT Image 2 for stills and Seedance 2.5 for video, which he characterises as close to text-to-Hollywood-film quality. The final step wires the whole thing into Claude Code in the terminal via an Orca setup and a supplied master prompt, so a single agent can generate website, e-book, course and content assets on demand - though that prompt is itself comment-gated.",
+   "keywords": [
+    "Kie.ai",
+    "Seedance 2.5",
+    "GPT Image 2",
+    "Higgsfield",
+    "Claude Code",
+    "cost optimisation"
+   ],
+   "url": "https://www.instagram.com/p/Dde5R6lqV_f/",
+   "author": "bariqrifki",
+   "author_url": "https://www.instagram.com/bariqrifki/",
+   "date": "2026-09-19",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Google Flow turns a flat business poster into a 3D motion graphic",
+   "synopsis": "The reel demonstrates a one-minute workflow that animates any static promotional poster into a cinematic 3D motion graphic using Google Flow. The recipe is deliberately minimal: upload the flat poster image, paste a single supplied prompt, and generate - the model infers depth, camera movement and product-shot framing from the artwork alone. The actual prompt and a step-by-step guide are published in a linked Google Doc rather than gated behind a comment, so the technique is fully reproducible from the post itself.",
+   "keywords": [
+    "Google Flow",
+    "image-to-video",
+    "3D motion graphics",
+    "poster animation",
+    "product marketing"
+   ],
+   "url": "https://www.instagram.com/p/DdVsPvSI-eI/",
+   "author": "thefhd.ai",
+   "author_url": "https://www.instagram.com/thefhd.ai/",
+   "date": "2026-09-16",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -7949,41 +7988,6 @@
    "author": "heyalav",
    "author_url": "https://www.instagram.com/heyalav/",
    "date": "2026-04-21",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Seedance 2.0 disponible dans Runway",
-   "synopsis": "Annonce de la mise en ligne du modèle Seedance 2.0 sur Runway, accompagnée d'un lien d'accès direct. Le texte est surtout un propos de créateur sur l'écart qui se réduit entre les idées de films qu'on garde en tête et ce qu'on peut réellement produire, budget et temps ayant longtemps servi de plafond. La publication mêle donc annonce produit et témoignage sur la baisse des barrières à la création vidéo.",
-   "keywords": [
-    "Seedance 2.0",
-    "Runway",
-    "vidéo générative",
-    "production"
-   ],
-   "url": "https://www.instagram.com/p/DW9pBwLDE7W/",
-   "author": "michalkuzminskii",
-   "author_url": "https://www.instagram.com/michalkuzminskii/",
-   "date": "2026-04-10",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "A five-tool chain for AI avatars selling on TikTok Shop",
-   "synopsis": "The workflow is shown as a rapid chain: take a prompt to ChatGPT, pick a reference image on Pinterest, add your image and generate; move to Nano Banana Pro, paste a second prompt and download your avatar. That avatar image plus an audio track goes into an agent that generates the talking video — demonstrated here as a perfume ad urging viewers to tap the orange cart. The finished clip is uploaded to TikTok to chase views and TikTok Shop commissions, with the full guide offered in DM.",
-   "keywords": [
-    "Nano Banana Pro",
-    "ChatGPT",
-    "AI avatar",
-    "TikTok Shop",
-    "affiliate marketing"
-   ],
-   "url": "https://www.instagram.com/p/DVb1dLmCLp7/",
-   "author": "seraphin.mp",
-   "author_url": "https://www.instagram.com/seraphin.mp/",
-   "date": "2026-03-03",
    "following": true,
    "confidence": "high"
   },
