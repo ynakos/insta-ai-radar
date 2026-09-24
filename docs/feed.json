@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T12:30:55+00:00",
+ "generated_at": "2026-09-24T07:12:23+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -2981,7 +2981,7 @@
    "author": "technologybrief",
    "author_url": "https://www.instagram.com/technologybrief/",
    "date": "2026-06-04",
-   "following": false,
+   "following": true,
    "confidence": "high"
   },
   {
@@ -4055,6 +4055,60 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "STAIR: le RAG d'IBM qui supprime le decoupage en chunks",
+   "synopsis": "STAIR, pour Structure Aware Information Retriever, est une approche de recherche documentaire d'IBM qui se passe entierement de chunking, d'embeddings et de base vectorielle, donc de Qdrant ou Milvus. Plutot que de vectoriser des morceaux, les chercheurs fine-tunent Mistral-7B-Instruct-v0.2 a partir d'un triplet question, sommaire complet et section cible, afin que le modele reponde directement par la reference de la section pertinente, par exemple section 6.3, ce contenu etant ensuite transmis en contexte au LLM generateur. L'hypothese traitee est que les hallucinations naissent en grande partie de frontieres de decoupage arbitraires qui detruisent la structure des longs documents, l'evaluation portant sur dix-huit manuels couvrant six domaines avec une contrepartie assumee cote cout d'entrainement.",
+   "keywords": [
+    "STAIR",
+    "IBM",
+    "RAG",
+    "Mistral-7B-Instruct",
+    "hallucinations",
+    "recherche documentaire"
+   ],
+   "url": "https://www.instagram.com/p/DdoN_q8NETf/",
+   "author": "benoit.ferrere",
+   "author_url": "https://www.instagram.com/benoit.ferrere/",
+   "date": "2026-09-23",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Nano Jev, la replique open source chinoise de Jev AI",
+   "synopsis": "Le post presente Nano Jev, une replique legere et open source de Jev AI developpee en Chine et deja creditee d'environ deux mille etoiles sur GitHub. Son argument differenciant est la prise de decisions en parallele: on lui soumet plusieurs choix et il les arbitre simultanement, le tout gratuitement. L'auteur le positionne comme brique a integrer dans des workflows d'agents et d'automatisation, et renvoie le mode d'emploi complet vers le lien en bio.",
+   "keywords": [
+    "Nano Jev",
+    "Jev AI",
+    "open source",
+    "agents IA",
+    "automatisation"
+   ],
+   "url": "https://www.instagram.com/p/DdoNHwNTeMX/",
+   "author": "julian.goldie_",
+   "author_url": "https://www.instagram.com/julian.goldie_/",
+   "date": "2026-09-23",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Teaser sur une IA sans filtre, gratuite et non nommee",
+   "synopsis": "Le createur annonce l'existence d'une IA gratuite fonctionnant sans censure ni garde-fou, capable selon lui de repondre a n'importe quelle question. Le propos reste au stade de l'avertissement moral, puisqu'il souligne lui-meme le risque entre de mauvaises mains, sans jamais nommer le service, le modele sous-jacent ni en montrer une sortie concrete. Le lien est conditionne au commentaire FILTRE, ce qui rend la publication non verifiable: ni la bande-son ni la legende ne permettent d'identifier le produit presente.",
+   "keywords": [
+    "IA sans filtre",
+    "chatbot non censure",
+    "contenu verrouille",
+    "teaser"
+   ],
+   "url": "https://www.instagram.com/p/DddKEjbHXLU/",
+   "author": "jeremy_ia",
+   "author_url": "https://www.instagram.com/jeremy_ia/",
+   "date": "2026-09-19",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "Six markdown context files that keep an AI coding agent on the rails",
    "synopsis": "The post prescribes six markdown files to commit at the start of any vibe-coding project so the agent inherits durable context instead of re-guessing it every session. They are prd.md (what is being built, for whom, which features), architecture.md (file and folder layout, tech stack, how the parts connect), rules.md (a rulebook of libraries, error handling and constraints), design.md (colours, typography, components and spacing so the UI stays consistent), tasks.md (the project split into small units handed to the agent one at a time), and memory.md (running project context). The framing is tool-agnostic across Claude Code and Cursor, and the caption enumerates all six files even though a fuller step-by-step guide sits behind a comment gate.",
    "keywords": [
@@ -4212,6 +4266,24 @@
    "author": "tessa.fairbrook",
    "author_url": "https://www.instagram.com/tessa.fairbrook/",
    "date": "2026-09-05",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "7 codes slash pour piloter la generation d'images de GPT-Image-2",
+   "synopsis": "Le createur presente sept mots-cles courts, ecrits comme des commandes slash, qui orientent GPT-Image-2 vers des concepts visuels que le modele maitrise deja: vue eclatee piece par piece, coupe en deux revelant le mecanisme, rendu radiographique, plan technique facon blueprint, ingredients etiquetes, page de carnet manuscrite et miniature YouTube. L'argument de fond est que depuis GPT-Image-2 le modele raisonne avant de dessiner, donc un mot-concept produit un rendu plus net qu'un paragraphe descriptif ecrit a la main. Les codes se combinent entre eux, par exemple /xray puis /blueprint sur le resultat, mais la liste complete des cinquante reste reservee aux commentaires.",
+   "keywords": [
+    "GPT-Image-2",
+    "ChatGPT",
+    "prompt engineering",
+    "slash commands",
+    "generation d images"
+   ],
+   "url": "https://www.instagram.com/p/Dc0dzyXotI_/",
+   "author": "lemondedumarketing",
+   "author_url": "https://www.instagram.com/lemondedumarketing/",
+   "date": "2026-09-03",
    "following": true,
    "confidence": "high"
   },
@@ -5024,8 +5096,8 @@
     "sketch-to-image"
    ],
    "url": "https://www.instagram.com/p/Da7atLyufO1/",
-   "author": "samirahmadie",
-   "author_url": "https://www.instagram.com/samirahmadie/",
+   "author": "ahmadiesamir",
+   "author_url": "https://www.instagram.com/ahmadiesamir/",
    "date": "2026-07-18",
    "following": false,
    "confidence": "high"
@@ -5079,24 +5151,6 @@
    "author": "gigaqian",
    "author_url": "https://www.instagram.com/gigaqian/",
    "date": "2026-06-27",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Google Vids génère des vidéos avec un présentateur IA gratuitement",
-   "synopsis": "Google Workspace a mis à jour Google Vids pour permettre de produire des vidéos portées par un présentateur numérique : on se rend sur vids.new, on téléverse un deck Google Slides et l'outil le transforme en vidéo dont l'avatar lit le script. On choisit un avatar parmi une galerie de 53 ou on en construit un avec Nano Banana 2, et les avatars parlent désormais 24 langues, ce qui permet de présenter en anglais puis en arabe avec la même identité. L'offre gratuite donne droit à dix vidéos.",
-   "keywords": [
-    "Google Vids",
-    "avatar IA",
-    "Nano Banana 2",
-    "Google Workspace",
-    "multilingue"
-   ],
-   "url": "https://www.instagram.com/p/DZz5mVDMPcZ/",
-   "author": "yury.ai",
-   "author_url": "https://www.instagram.com/yury.ai/",
-   "date": "2026-06-20",
    "following": true,
    "confidence": "high"
   },
@@ -5172,22 +5226,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Un lien OpenClaw distribué par DM, sans contenu écrit",
-   "synopsis": "Le post se limite à proposer l'envoi d'un lien contre un commentaire, avec pour seul contexte quatre hashtags renvoyant à OpenClaw, Claude et les agents IA. Ni l'outil, ni le problème traité, ni le résultat ne sont décrits. Le contenu utile réside entièrement dans la vidéo et le message privé.",
-   "keywords": [
-    "OpenClaw",
-    "agents IA",
-    "Claude"
-   ],
-   "url": "https://www.instagram.com/p/DZjnKeYEX60/",
-   "author": "divyannshisharma",
-   "author_url": "https://www.instagram.com/divyannshisharma/",
-   "date": "2026-06-14",
-   "following": true,
-   "confidence": "low"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "Configurer la mémoire et les instructions globales de Claude Cowork",
    "synopsis": "Tutoriel pas à pas pour doter Claude Cowork d'un contexte durable : ouvrir les paramètres, aller dans Cowork puis Instructions globales, coller un premier prompt fourni par l'auteur après avoir remplacé les éléments variables, et enregistrer. On crée ensuite un fichier déposé dans Cowork, on autorise l'accès, on envoie un second prompt et on répond aux questions posées par l'assistant. Au terme de l'opération, Cowork détient les informations sur l'utilisateur et son activité, dispose de mémoire et de règles, et s'améliore avec le temps, avant d'ajouter connecteurs et skills depuis Customize.",
    "keywords": [
@@ -5200,24 +5238,6 @@
    "url": "https://www.instagram.com/p/DZVUWUmJX-E/",
    "author": "jules_api",
    "author_url": "https://www.instagram.com/jules_api/",
-   "date": "2026-06-08",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Claude Certified Architect, la certification IA que Deloitte finance en masse",
-   "synopsis": "Le post signale une certification IA gratuite proposée par Anthropic, présentée comme l'équivalent d'une certification AWS transposée à l'IA, et que Deloitte finance pour des milliers de ses employés. Il insiste sur son sérieux : deux heures d'épreuve, soixante questions, examen surveillé avec webcam obligatoire, et un programme portant sur la construction d'agents et la mise en place d'un pipeline de déploiement. Le parcours tient en quatre étapes : rejoindre gratuitement le réseau partenaire, suivre les modules de préparation, passer l'examen blanc puis réserver l'examen officiel.",
-   "keywords": [
-    "Claude Certified Architect",
-    "certification",
-    "Anthropic",
-    "Deloitte",
-    "agents"
-   ],
-   "url": "https://www.instagram.com/p/DZVLkP_OIGM/",
-   "author": "jb.roy_",
-   "author_url": "https://www.instagram.com/jb.roy_/",
    "date": "2026-06-08",
    "following": true,
    "confidence": "high"
@@ -5310,21 +5330,21 @@
    "confidence": "high"
   },
   {
-   "folder": "AI.Models and apps",
-   "title": "Un Jarvis gratuit qui peut réécrire son propre code sur demande",
-   "synopsis": "L'auteur construit une version réelle et gratuite du Jarvis d'Iron Man, et met l'accent sur une propriété que ses utilisateurs auraient manquée : l'assistant a accès à son propre code source. Concrètement, il dispose d'un accès au système de fichiers et au terminal, ce qui lui permet de lire son code, le modifier, le tester et déployer les changements à la simple demande verbale de l'utilisateur. Ajouter une fonctionnalité, changer la mise en page, brancher une intégration ou modifier sa personnalité se fait donc en le décrivant en langage naturel.",
+   "folder": "AI.pix",
+   "title": "Prompt de caricature numerique joyeuse pour Gemini",
+   "synopsis": "Carrousel presentant un prompt d'edition photo destine a Gemini, qui transforme un portrait en caricature numerique d'allure joyeuse et cartoon. La legende se limite a une ligne de description et a une poignee de hashtags, sans exposer le texte du prompt ni les reglages employes. Le post ne comporte pas de piste audio, donc aucune transcription ne peut en completer le contenu.",
    "keywords": [
-    "assistant personnel",
-    "auto-modification",
-    "accès terminal",
-    "open source"
+    "Gemini",
+    "caricature",
+    "edition photo IA",
+    "prompt"
    ],
-   "url": "https://www.instagram.com/p/DW-C059jCqG/",
-   "author": "proj.ectjarvis",
-   "author_url": "https://www.instagram.com/proj.ectjarvis/",
-   "date": "2026-04-10",
+   "url": "https://www.instagram.com/p/DdoMHMwk-o0/",
+   "author": "promptplum",
+   "author_url": "https://www.instagram.com/promptplum/",
+   "date": "2026-09-23",
    "following": true,
-   "confidence": "high"
+   "confidence": "low"
   },
   {
    "folder": "AI.pix",
@@ -6460,24 +6480,6 @@
   },
   {
    "folder": "AI.pix",
-   "title": "Enhancer: an open-source four-stage portrait upscaler that reaches native 8K",
-   "synopsis": "The creator presents Enhancer, an open-source image enhancer producing up to 8K where you can zoom indefinitely and still see pores, individual strands of hair and real skin imperfections. It works in four stages: the portrait is loaded without altering gamma, colour space or typology; the image is analysed by a Qwen-VL model that reads lighting, microtexture and natural skin behaviour; a component trained on millions of skin samples restores the image's texture frequencies; and finally the image is regenerated natively in 8K with a genuinely photographic finish. He notes it works equally well on wide shots and doubles as a creative upscaler for illustrations and drawings.",
-   "keywords": [
-    "Enhancer",
-    "Qwen-VL",
-    "8K upscaling",
-    "skin texture",
-    "open source"
-   ],
-   "url": "https://www.instagram.com/p/DZePVFoDT4Q/",
-   "author": "jeremy_ia",
-   "author_url": "https://www.instagram.com/jeremy_ia/",
-   "date": "2026-06-12",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
    "title": "World Cup Sketch Prompt for Collectible Posters",
    "synopsis": "This Turkish-language carousel presents a WC Sketch Prompt that turns ordinary football imagery into collectible-style World Cup posters. The style combines brush strokes, energy bursts, and tournament atmosphere across national teams from Brazil to Argentina. It is a reusable prompt style template rather than a tool announcement.",
    "keywords": [
@@ -6720,6 +6722,59 @@
   },
   {
    "folder": "AI.Video",
+   "title": "Cinq mouvements de camera cinematographiques en commandes slash dans Google Flow",
+   "synopsis": "La video montre cinq commandes slash a taper dans Google Flow apres avoir televerse une image, chacune produisant un mouvement de camera identifiable: orbite a 360 degres autour du sujet, travelling au ras du sol poussant vers le personnage, plongee de drone partant du ciel, orbite bullet time en tres haut ralenti, et tres gros plan sur un detail suivi d'un recul revelant tout le decor. L'interet de la methode est qu'un vocabulaire de realisateur remplace une description technique longue, et que les videos de demonstration sont generees gratuitement sur Google Flow. Les cinquante autres mouvements du set sont reserves au commentaire Camera.",
+   "keywords": [
+    "Google Flow",
+    "mouvements de camera",
+    "prompt engineering",
+    "generation video",
+    "slash commands"
+   ],
+   "url": "https://www.instagram.com/p/DdpviG_o2Pr/",
+   "author": "techincome_",
+   "author_url": "https://www.instagram.com/techincome_/",
+   "date": "2026-09-24",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Un site permettrait de tester Seedance 2.5 gratuitement sans carte bancaire",
+   "synopsis": "Le createur affirme avoir trouve un site donnant acces a Seedance 2.5 sans inscription payante ni carte bancaire, et filme son test de bout en bout. Le parcours montre est simple: ouvrir le site, televerser une image de reference, coller le prompt, selectionner le modele Seedance 2.5, puis lancer la generation qui demarre effectivement sans paiement. Le nom du site n'est jamais prononce ni affiche, puisqu'il est reserve au commentaire SECRET, de sorte que la promesse reste invalidable en l'etat.",
+   "keywords": [
+    "Seedance 2.5",
+    "generation video",
+    "acces gratuit",
+    "contenu verrouille"
+   ],
+   "url": "https://www.instagram.com/p/Ddn9iCAvbuR/",
+   "author": "sebintel",
+   "author_url": "https://www.instagram.com/sebintel/",
+   "date": "2026-09-23",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Repeter une scene dans Blender avant de la generer avec Seedance 2.5",
+   "synopsis": "La methode consiste a batir une repetition 3D sommaire dans Blender, avec positions des personnages, dialogues et trajectoire de camera, avant de lancer la generation video payante. Aucune competence 3D n'est requise: l'autrice fait construire la scene en langage naturel via Claude ou via ChatGPT dans Codex, avec Blender connecte comme outil. Le plan de sol et les references de personnages sont ensuite injectes dans Seedance 2.5, ce qui donne davantage de controle en amont, reduit les reprises couteuses en credits, et permet de reutiliser la meme repetition 3D pour une histoire completement differente.",
+   "keywords": [
+    "Seedance 2.5",
+    "Blender",
+    "Claude",
+    "Codex",
+    "previsualisation 3D"
+   ],
+   "url": "https://www.instagram.com/p/DdmmeUoS7A-/",
+   "author": "miameowai",
+   "author_url": "https://www.instagram.com/miameowai/",
+   "date": "2026-09-22",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "Drop the Higgsfield subscription: Kie.ai aggregation plus Seedance 2.5 and GPT Image 2",
    "synopsis": "This French reel argues that a Higgsfield subscription is an unnecessary cost and proposes routing generation through Kie.ai instead, which aggregates the major image and video models on a shared credit pool. The presenter's picks are GPT Image 2 for stills and Seedance 2.5 for video, which he characterises as close to text-to-Hollywood-film quality. The final step wires the whole thing into Claude Code in the terminal via an Orca setup and a supplied master prompt, so a single agent can generate website, e-book, course and content assets on demand - though that prompt is itself comment-gated.",
    "keywords": [
@@ -6825,6 +6880,24 @@
    "author_url": "https://www.instagram.com/pauloshimas/",
    "date": "2026-09-13",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "GPT 6 Astra contre Fable 5.1: un montage video complet en un seul prompt",
+   "synopsis": "L'auteur soumet un meme rush brut et un meme prompt a deux modeles, GPT 6 Astra et Fable 5.1, en one-shot et sans aucune retouche humaine, puis compare les deux montages generes. Il detaille les epreuves qui discriminent vraiment: gestion de la mise en page, ou Astra construit un overlay et repousse le sujet a droite quand Fable conserve le cadrage, sous-titres synchronises mot a mot, citation a illustrer, avant-apres en split screen, classement anime et zoom ancre sur un mot precis. Le test le plus revelateur est negatif: savoir ne rien afficher quand une phrase n'a pas besoin de graphique, et rappeler en fin de video un chiffre annonce au debut, ce qui prouve que le modele a suivi tout le rush et pas une seule ligne.",
+   "keywords": [
+    "GPT 6 Astra",
+    "Fable 5.1",
+    "montage video IA",
+    "one-shot prompt",
+    "sous-titres automatiques"
+   ],
+   "url": "https://www.instagram.com/p/DdHvZXXCqQZ/",
+   "author": "withpt.ai",
+   "author_url": "https://www.instagram.com/withpt.ai/",
+   "date": "2026-09-10",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -7905,24 +7978,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "The omni-reference trick behind a €2,094 AI animated short",
-   "synopsis": "A client paid the creator €2,094 for an animated film despite his never having learned animation, so he generated all of it with AI — and his key point is that generating scene by scene and hoping for coherence simply does not work. You first lock the style, here borrowed from Seven Deadly Sins and Ranking of Kings, and define characters and sets before the very first generation. The technique nobody uses is omni-reference: you generate a scene, take the last frame of that generation, and make it the reference for the next scene so characters, objects and set all continue from where the previous one stopped; he recommends Seedance 2.0 for the animation and Premiere Pro for the edit.",
-   "keywords": [
-    "omni-reference",
-    "Seedance 2.0",
-    "AI animation",
-    "style locking",
-    "Premiere Pro"
-   ],
-   "url": "https://www.instagram.com/p/DYxC5a0NyVH/",
-   "author": "slowdoown",
-   "author_url": "https://www.instagram.com/slowdoown/",
-   "date": "2026-05-25",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "One photo plus a few seconds of voice becomes a lifelike talking video",
    "synopsis": "This open-source and completely free Chinese tool generates ultra-realistic video with very high facial quality from a single uploaded photo and a few seconds of recorded voice. The output shows the person speaking naturally with lip sync that matches precisely, believable facial expressions, and a cinematic look. You can then edit the whole scene by typing a prompt — asking to put them in a suit on a yacht rebuilds the scene while preserving the same face and identity.",
    "keywords": [
@@ -7936,58 +7991,6 @@
    "author": "lisaworldverse",
    "author_url": "https://www.instagram.com/lisaworldverse/",
    "date": "2026-05-17",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Vidéo IA de quatre minutes, open source et hors ligne, sans crédits",
-   "synopsis": "Reprise du même argumentaire que le post précédent du créateur : pas de limite à huit secondes, pas de crédits à acheter, pas de cloud. Le modèle mis en avant est open source, tourne hors ligne et produit des vidéos complètes de quatre minutes. Le nom du modèle reste réservé au DM déclenché par un commentaire.",
-   "keywords": [
-    "vidéo générative",
-    "open source",
-    "hors ligne",
-    "vidéo longue"
-   ],
-   "url": "https://www.instagram.com/p/DYM00K_jvBs/",
-   "author": "thechriscordero",
-   "author_url": "https://www.instagram.com/thechriscordero/",
-   "date": "2026-05-11",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Générer vidéos et images gratuitement avec Pinokio et Wan2GP",
-   "synopsis": "Post en français sur l'accès à des IA génératives sans abonnement payant. Les hashtags identifient la piste suivie : Pinokio comme lanceur d'applications open source et Wan2GP pour la génération vidéo en local. La légende reste une accroche, la procédure détaillée se trouvant dans la vidéo.",
-   "keywords": [
-    "Pinokio",
-    "Wan2GP",
-    "open source",
-    "IA gratuite",
-    "vidéo"
-   ],
-   "url": "https://www.instagram.com/p/DYKYJwZNHkG/",
-   "author": "unefille.ia",
-   "author_url": "https://www.instagram.com/unefille.ia/",
-   "date": "2026-05-10",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Open Montage, chaîne de production vidéo complète bâtie avec Claude Code",
-   "synopsis": "Open Montage est un outil gratuit construit avec Claude Code qui prend en charge toute la chaîne vidéo à partir d'une simple description. Il gère le script, les visuels, la voix et le montage, et va chercher de vraies informations sur le web avant de générer, de sorte que le résultat est documenté plutôt que purement inventé. Il tourne en local, demande peu de configuration et sert aussi bien pour des explicatifs que pour des publicités ou des bandes-annonces, le lien étant envoyé à qui commente STUDIO.",
-   "keywords": [
-    "Open Montage",
-    "Claude Code",
-    "production vidéo",
-    "exécution locale"
-   ],
-   "url": "https://www.instagram.com/p/DXaO-oHkz3h/",
-   "author": "heyalav",
-   "author_url": "https://www.instagram.com/heyalav/",
-   "date": "2026-04-21",
    "following": true,
    "confidence": "high"
   },
@@ -8223,6 +8226,24 @@
   },
   {
    "folder": "IA.Avatar",
+   "title": "Checklist des micro-details qui rendent un portrait IA credible",
+   "synopsis": "Le carrousel enumere les marqueurs concrets du realisme photographique a demander dans un prompt: pores visibles, texture naturelle de la peau, ridules, cheveux brin par brin, yeux et levres textures, asymetrie subtile et imperfections non retouchees. L'angle assume est de produire des portraits moins plastiques et plus photographiques, pour du visuel mode ou des influenceurs IA. Comme le post precedent du meme registre, il s'agit d'un pack de prompts rattache a Higgsfield Soul et delivre en DM contre le commentaire REAL, sans audio ni prompt reellement publie.",
+   "keywords": [
+    "Higgsfield Soul",
+    "portrait IA",
+    "texture de peau",
+    "prompt pack",
+    "contenu verrouille"
+   ],
+   "url": "https://www.instagram.com/p/Ddi0dDHkYdk/",
+   "author": "smrt.ai",
+   "author_url": "https://www.instagram.com/smrt.ai/",
+   "date": "2026-09-21",
+   "following": false,
+   "confidence": "low"
+  },
+  {
+   "folder": "IA.Avatar",
    "title": "Comment-to-unlock prompt pack for an AI image platform",
    "synopsis": "A carousel of AI-generated images whose caption withholds every technical detail, asking viewers to comment \"REPLICAR\" to receive the prompts and access to the unnamed platform behind the creations. The only concrete lead is the credited partner account @fishcreative.hq; neither the generator, the model, nor the prompt structure is disclosed in the post itself. With 909 comments against 321 likes, the engagement profile confirms the comment-gate is working as a growth mechanic rather than as a tutorial.",
    "keywords": [
@@ -8237,6 +8258,24 @@
    "author_url": "https://www.instagram.com/uendelmiranda.ia/",
    "date": "2026-09-17",
    "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "IA.Avatar",
+   "title": "8K AI Realism Prompt Pack: carrousel promotionnel verrouille par commentaire",
+   "synopsis": "Carrousel promouvant un pack de prompts oriente photorealisme 8K pour portraits generes, explicitement rattache a Higgsfield Soul dans la liste de mots-cles. La legende est presque entierement constituee d'une chaine de hashtags SEO (texture de peau, pores, headshot, influenceur IA, media synthetique) plutot que d'un contenu exploitable. Le deck de prompts lui-meme n'est delivre qu'en message prive apres avoir commente PROMPT, et le post ne comporte aucune piste audio permettant d'en extraire la substance.",
+   "keywords": [
+    "Higgsfield Soul",
+    "prompt pack",
+    "portrait IA",
+    "photorealisme",
+    "contenu verrouille"
+   ],
+   "url": "https://www.instagram.com/p/DdWJA2WGDno/",
+   "author": "luxry.ai",
+   "author_url": "https://www.instagram.com/luxry.ai/",
+   "date": "2026-09-16",
+   "following": false,
    "confidence": "low"
   },
   {
