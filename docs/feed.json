@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T03:13:36+00:00",
+ "generated_at": "2026-09-30T08:12:36+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -859,24 +859,6 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "Claude Taskmaster transforme un PRD en backlog de quatre-vingts tickets",
-   "synopsis": "Le post présente Claude Taskmaster, un MCP crédité de 27 000 étoiles sur GitHub, qui prend en entrée un document de spécification, un PRD ou un brief client et en dérive tout le cadrage projet. Il génère le backlog complet, découpe en tickets, crée les sous-tâches, établit les dépendances entre elles et applique une priorisation automatique. L'auteur chiffre le gain sur son propre cas : trois jours de réunions de cadrage avec son équipe remplacés par quatre-vingts tickets prêts en quatre minutes.",
-   "keywords": [
-    "Claude Taskmaster",
-    "MCP",
-    "PRD",
-    "backlog",
-    "gestion de projet"
-   ],
-   "url": "https://www.instagram.com/p/DYSSvSkq3tT/",
-   "author": "ugoia2025",
-   "author_url": "https://www.instagram.com/ugoia2025/",
-   "date": "2026-05-13",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Agents",
    "title": "Printing Press : connecter les agents Claude Code à des sites sans API",
    "synopsis": "La skill GitHub CLI Printing Press s'installe en collant son URL directement dans le terminal Claude Code, et ouvre l'accès à des sites jusque-là fermés aux agents. On peut soit puiser dans la bibliothèque de printingpress.dev, qui couvre notamment Amazon, eBay, Shopify et TikTok, soit faire générer une CLI sur mesure pour un site précis : l'auteur l'a fait pour son application comptable dont il n'avait pas la clé API. Une fois la CLI en place il interroge ses vingt-cinq dernières factures depuis Claude Code, en consommant nettement moins de tokens qu'une connexion API ou qu'un serveur MCP.",
    "keywords": [
@@ -1175,6 +1157,24 @@
    "author_url": "https://www.instagram.com/nomadatoast/",
    "date": "2026-04-24",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Claude Council: a 5-advisor skill that replaces agreeable answers with a verdict",
+   "synopsis": "This French creator argues Claude is the worst possible advisor because it will build a flawless case for whatever you propose, then an equally flawless case against the very same idea, making it strong at explanation but weak at decisions. Claude Council turns the phrase \"Ask the Council\" into a panel: five AI advisors attack the question from different angles, their answers are shuffled into five reviewer agents, and a chairman synthesises everything into a clear verdict plus one concrete action. He now runs it continuously on live projects to test whether he is on the right track or should add a given feature.",
+   "keywords": [
+    "Claude Council",
+    "Claude Code",
+    "multi-agent review",
+    "decision-making",
+    "AI skills"
+   ],
+   "url": "https://www.instagram.com/p/DXWjaZiiDw9/",
+   "author": "edouardseed",
+   "author_url": "https://www.instagram.com/edouardseed/",
+   "date": "2026-04-20",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -4055,6 +4055,25 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "A GitHub list of 130+ AI models usable for free across 40 providers",
+   "synopsis": "A little-known GitHub repository aggregates more than 130 AI models that can be used at zero cost, pulled from 40 different companies including Gemini, Grok and NVIDIA. The creator stresses these are standing free tiers rather than trials that expire the following week, so they remain usable indefinitely. The list plugs into Cursor, Claude Code or Codex in a single click, letting existing tooling fall back onto free models whenever a paid plan cuts off.",
+   "keywords": [
+    "free AI APIs",
+    "GitHub repo",
+    "Cursor",
+    "Claude Code",
+    "Gemini",
+    "Grok"
+   ],
+   "url": "https://www.instagram.com/p/Dd2YMjHR6ee/",
+   "author": "sebastianhardy_",
+   "author_url": "https://www.instagram.com/sebastianhardy_/",
+   "date": "2026-09-28",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "A ten-skill Claude content studio, one skill per stage of production",
    "synopsis": "The creator runs through ten Claude Skills he uses for content, each owning a distinct stage of the creative process: paper-cut animation, product advertisements, realistic brand content, Vox-style explainer animation, realistic AI characters, full brand commercials, high-converting ads, clean product shots, cinematic product visuals and other creative ad formats. The framing is that together they cover the arc from a first product shot to a finished commercial. His claim is that this is what a creative studio looks like once it fits inside a single window, with the skill files released to commenters.",
    "keywords": [
@@ -5268,22 +5287,6 @@
    "date": "2026-08-03",
    "following": false,
    "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Prompt Engineering Course Opens August 22",
-   "synopsis": "A Portuguese-language carousel promotes a prompt-writing training that starts on August 22, aimed at complete beginners. Followers are asked to comment \"prompt\" to join the waiting-list group. No specific model or tool is named, so this is a course promo rather than a product announcement.",
-   "keywords": [
-    "prompt engineering",
-    "AI prompts",
-    "course promo"
-   ],
-   "url": "https://www.instagram.com/p/DbYP0S4FgtE/",
-   "author": "ricardoalmeida.ia",
-   "author_url": "https://www.instagram.com/ricardoalmeida.ia/",
-   "date": "2026-07-29",
-   "following": true,
-   "confidence": "low"
   },
   {
    "folder": "AI.Models and apps",
@@ -6751,6 +6754,23 @@
   },
   {
    "folder": "AI.Video",
+   "title": "GPT-6 Astra versus Opus 5.5 on identical prompts (workflow caption-gated)",
+   "synopsis": "The reel sets up a head-to-head comparison of how GPT-6 Astra and Opus 5.5 handle the exact same prompts. The substance - the full workflow and any verdict - sits behind a \"comment AI\" call to action, and the video carries no narration, transcribing to silence over music. Which concrete model differences are actually demonstrated cannot be established from the post as saved.",
+   "keywords": [
+    "GPT-6 Astra",
+    "Opus 5.5",
+    "model comparison",
+    "prompt testing"
+   ],
+   "url": "https://www.instagram.com/p/DdvxW3EPeuZ/",
+   "author": "sferro.ai",
+   "author_url": "https://www.instagram.com/sferro.ai/",
+   "date": "2026-09-26",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.Video",
    "title": "Cloning a viral creator with Codex character sheets and Higgsfield Genjutsu",
    "synopsis": "Opening on the claim that most people can no longer tell AI-generated video from real footage, the creator demonstrates the full pipeline on a character who gained 240,000 followers in about a week. He pastes the video link into Codex and asks for a photorealistic character sheet, then brings that sheet into Higgsfield's newly released Genjutsu model. To test virality he compounds recognisable elements - generating a Cybertruck character sheet and mapping it onto an already-viral clip of an old man telling someone to stop fishing his spot.",
    "keywords": [
@@ -7399,6 +7419,24 @@
   },
   {
    "folder": "AI.Video",
+   "title": "Okay, the AI filmmaking suite, renders a Forrest Gump script page straight to screen",
+   "synopsis": "The creator dropped a single unedited page of the Forrest Gump screenplay into Okay - the AI filmmaking suite now hosted at okaywannabe.com - selected Seedance 2.5 as the renderer and hit action with no further input. The output reproduced the scene's dialogue, character blocking and the stuck leg-brace beat directly from the script text alone. He notes the suite also exposes control over characters, cast and locations, covering writing, directing, casting, editing and composing in a single AI pipeline.",
+   "keywords": [
+    "Okay (okaywannabe.com)",
+    "Seedance 2.5",
+    "AI filmmaking",
+    "script-to-video",
+    "screenwriting"
+   ],
+   "url": "https://www.instagram.com/p/DcKmbmbKSOG/",
+   "author": "jmtasu",
+   "author_url": "https://www.instagram.com/jmtasu/",
+   "date": "2026-08-18",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "A paid Claude skill for cartoon commercials that failed six times — rated all hype",
    "synopsis": "The promised workflow was simple: find the repo on GitHub, ask Claude to install the skill, then point the R-CAD skill at your website to generate a cartoon-style commercial with research and planning handled for you. In practice the skill is paywalled, and after paying, the creator's generations failed roughly six times before producing one broken output with a laptop screen rendered on the wrong side. He puts the cost at $35 wasted and rates the tool all hype — a useful negative data point on paid Claude skills.",
    "keywords": [
@@ -7978,41 +8016,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Weekly list of 12 Claude Code GitHub repos",
-   "synopsis": "This French creator curates 12 GitHub repositories he analyzes every week, with hashtags pointing to Claude, Claude Code, and AI skills. The complete list is free and delivered via DM after commenting REPO, which also enrolls viewers in his newsletter. The video itself is a teaser for this recurring repo watch.",
-   "keywords": [
-    "Claude Code",
-    "GitHub",
-    "AI skills",
-    "developer newsletter"
-   ],
-   "url": "https://www.instagram.com/p/DamlJYsOcpI/",
-   "author": "sebastien_heilig",
-   "author_url": "https://www.instagram.com/sebastien_heilig/",
-   "date": "2026-07-10",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "An open-source agent that mass-creates Google accounts, and the grey market for them",
-   "synopsis": "The creator acknowledges up front that what he is describing looks — and may partly be — illegal: a free open-source GitHub repo that deploys, in a single command, a system where a dedicated AI agent creates Google accounts en masse. The agent is built to pass as human with small delays and, he claims, bypasses all verification including phone checks, while a control dashboard stores and records every account and a retry process handles failures. He frames it as a business in itself given that people already pay for such accounts, and gates the link behind his paid community.",
-   "keywords": [
-    "account creation abuse",
-    "automation",
-    "Google accounts",
-    "grey market",
-    "AI agents"
-   ],
-   "url": "https://www.instagram.com/p/DaDizS8NA0E/",
-   "author": "axel.devlopia",
-   "author_url": "https://www.instagram.com/axel.devlopia/",
-   "date": "2026-06-26",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "A $43k-a-month autonomous AI virtual model run from four markdown files",
    "synopsis": "The post analyses how a 21-year-old student built a fully autonomous AI virtual model that generated roughly $43,000 in thirty days with no creative team, camera gear, studio, or real human face, running off a single laptop at about $400 a month. The described architecture treats a subscription profile as a closed-loop software pipeline rather than manual production, applying data engineering thinking to creator-economy management. Human identity is decomposed into four modular configuration files: persona.md for the psychological profile, voice.md for the acoustic signature, flux.md for the visual anchor, and brain.md for memory and contextual behaviour during subscriber chat.",
    "keywords": [
@@ -8256,6 +8259,24 @@
    "author": "iam_romeobach",
    "author_url": "https://www.instagram.com/iam_romeobach/",
    "date": "2026-05-25",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "IA.Avatar",
+   "title": "A 12-prompt pack for photoreal AI skin on a 62-year-old face",
+   "synopsis": "The carousel presents an AI-generated portrait of a 62-year-old woman - freckles, crow's feet, crepey skin, veins on the hands - assembled from twelve deliberately sequenced prompts. Its thesis is that most AI portraits read as fake for one reason, uniformly perfect skin, whereas real skin varies by region: pores coarsen beside the nose and refine on the cheekbone, wrinkles follow the muscles, and nothing is ever entirely in focus at once. The pack ships one identity master portrait, six macro detail studies, five hand and hair shots, fix prompts for waxy skin and wig-looking hair, and the ten realism rules underpinning them.",
+   "keywords": [
+    "AI portrait realism",
+    "skin texture",
+    "prompt engineering",
+    "generative portraits",
+    "macro detail studies"
+   ],
+   "url": "https://www.instagram.com/p/Dd3LxoqiovC/",
+   "author": "dezinbydeepak",
+   "author_url": "https://www.instagram.com/dezinbydeepak/",
+   "date": "2026-09-29",
    "following": false,
    "confidence": "high"
   },
