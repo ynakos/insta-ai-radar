@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T08:12:36+00:00",
+ "generated_at": "2026-10-08T11:33:16+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -859,6 +859,25 @@
   },
   {
    "folder": "AI.Agents",
+   "title": "Claude Taskmaster: turning a PRD into a full prioritised backlog in minutes",
+   "synopsis": "Ugoia2025 presents Claude Taskmaster, an MCP server sitting around 27,000 GitHub stars, as the thing that quietly automated the project-scoping job. You hand Claude any document that describes a project — a spec, a PRD, a client brief — and the MCP generates the complete backlog from it: tickets, sub-tasks, inter-task dependencies and an automatic priority order. His own before-and-after is the pitch: three days of scoping meetings with his team replaced by roughly 80 ready tickets in four minutes.",
+   "keywords": [
+    "Claude Taskmaster",
+    "MCP",
+    "PRD",
+    "backlog automation",
+    "project management",
+    "Claude"
+   ],
+   "url": "https://www.instagram.com/p/DYSSvSkq3tT/",
+   "author": "ugoia2025",
+   "author_url": "https://www.instagram.com/ugoia2025/",
+   "date": "2026-05-13",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
    "title": "Printing Press : connecter les agents Claude Code à des sites sans API",
    "synopsis": "La skill GitHub CLI Printing Press s'installe en collant son URL directement dans le terminal Claude Code, et ouvre l'accès à des sites jusque-là fermés aux agents. On peut soit puiser dans la bibliothèque de printingpress.dev, qui couvre notamment Amazon, eBay, Shopify et TikTok, soit faire générer une CLI sur mesure pour un site précis : l'auteur l'a fait pour son application comptable dont il n'avait pas la clé API. Une fois la CLI en place il interroge ses vingt-cinq dernières factures depuis Claude Code, en consommant nettement moins de tokens qu'une connexion API ou qu'un serveur MCP.",
    "keywords": [
@@ -1157,24 +1176,6 @@
    "author_url": "https://www.instagram.com/nomadatoast/",
    "date": "2026-04-24",
    "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Agents",
-   "title": "Claude Council: a 5-advisor skill that replaces agreeable answers with a verdict",
-   "synopsis": "This French creator argues Claude is the worst possible advisor because it will build a flawless case for whatever you propose, then an equally flawless case against the very same idea, making it strong at explanation but weak at decisions. Claude Council turns the phrase \"Ask the Council\" into a panel: five AI advisors attack the question from different angles, their answers are shuffled into five reviewer agents, and a chairman synthesises everything into a clear verdict plus one concrete action. He now runs it continuously on live projects to test whether he is on the right track or should add a given feature.",
-   "keywords": [
-    "Claude Council",
-    "Claude Code",
-    "multi-agent review",
-    "decision-making",
-    "AI skills"
-   ],
-   "url": "https://www.instagram.com/p/DXWjaZiiDw9/",
-   "author": "edouardseed",
-   "author_url": "https://www.instagram.com/edouardseed/",
-   "date": "2026-04-20",
-   "following": false,
    "confidence": "high"
   },
   {
@@ -1869,24 +1870,6 @@
    "author": "dryxio.us",
    "author_url": "https://www.instagram.com/dryxio.us/",
    "date": "2026-07-29",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.CODE",
-   "title": "Four free plugins for stretching Claude Code usage limits",
-   "synopsis": "A reel pitching four free, open-source plugins aimed at users who keep hitting Claude Code usage ceilings. It names Headroom (around 30,000 GitHub stars, offering reversible context compression), Graphify (turns a codebase into a knowledge graph, claimed to cut token cost by up to 70x), CodeBurn (local, private token-usage analytics) and Ponytail (trims consumption while preserving accuracy). The specific tool names make it actionable, though the 70x figure is the creator's claim and the full detail is gated behind a comment-for-more hook.",
-   "keywords": [
-    "Claude Code",
-    "Headroom",
-    "Graphify",
-    "CodeBurn",
-    "token optimization"
-   ],
-   "url": "https://www.instagram.com/p/DbTMVshNbk6/",
-   "author": "moshbariofficial",
-   "author_url": "https://www.instagram.com/moshbariofficial/",
-   "date": "2026-07-27",
    "following": true,
    "confidence": "high"
   },
@@ -2784,6 +2767,24 @@
    "author": "ia.boss.officiel",
    "author_url": "https://www.instagram.com/ia.boss.officiel/",
    "date": "2025-11-26",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "A GitHub directory of hundreds of free public APIs, sorted by category",
+   "synopsis": "Drcintas points to the public-apis GitHub repository, a curated index of several hundred free APIs grouped by domain — programming, finance, news, entertainment and more. The reel frames an API as the plumbing that lets one app pull data from another, using a crypto tracker wired to a finance endpoint for live prices as the worked example. It is pitched at people assembling apps, AI tools or automations who want working data sources without a procurement step.",
+   "keywords": [
+    "public-apis",
+    "GitHub",
+    "REST API",
+    "developer tools",
+    "free APIs"
+   ],
+   "url": "https://www.instagram.com/p/DRFOqJADUtV/",
+   "author": "drcintas",
+   "author_url": "https://www.instagram.com/drcintas/",
+   "date": "2025-11-15",
    "following": true,
    "confidence": "high"
   },
@@ -4055,6 +4056,214 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "EmbeddingGemma 2: Google's on-device multimodal embedding model for searching your own files",
+   "synopsis": "Singularity.feed starts from the everyday failure of having 10,000 photos on a phone and no way to find the right one, then introduces Google's free EmbeddingGemma 2 as the model built for exactly that. The explanation avoids jargon: it does not chat, it converts any file into a list of numbers — a pin on a map of meaning — so the word dog, a photo of a dog and the sound of a bark all land in nearly the same place. It spans text, images, audio, video and code, so typing kids laughing jumps straight to that moment in a video with no captions needed, and the full model fits in roughly 567 MB and runs offline.",
+   "keywords": [
+    "EmbeddingGemma 2",
+    "Google",
+    "embeddings",
+    "semantic search",
+    "on-device AI",
+    "multimodal"
+   ],
+   "url": "https://www.instagram.com/p/DeLEkEgpe04/",
+   "author": "singularity.feed",
+   "author_url": "https://www.instagram.com/singularity.feed/",
+   "date": "2026-10-07",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Testing Ajax, the abliterated Qwen-based model PewDiePie fine-tuned himself",
+   "synopsis": "Codrkai puts Ajax through its paces — an abliterated model built on Qwen 3.5 9B as its base, trained by the streamer PewDiePie. The backstory matters as much as the model: earlier in the year he built his own agent harness, Odysseus, to run LLMs locally, and it climbed to become one of GitHub's most-downloaded repositories. The reel notes he was subsequently banned from OpenAI over training his own model.",
+   "keywords": [
+    "Ajax",
+    "Qwen 3.5",
+    "abliterated model",
+    "Odysseus",
+    "local LLM",
+    "PewDiePie"
+   ],
+   "url": "https://www.instagram.com/p/DeIrl8UJZ0V/",
+   "author": "codrkai",
+   "author_url": "https://www.instagram.com/codrkai/",
+   "date": "2026-10-06",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "HyperFrames, an open-source video editor that runs on your own Claude or ChatGPT account",
+   "synopsis": "Lemondedumarketing covers HyperFrames, an open-source editing app sitting above 57,000 GitHub stars, available on Mac and Linux with a Windows build announced. There is no extra subscription — the AI runs against your existing Claude or ChatGPT account — and exports come out at 4K up to 60fps. The caveat he stresses is that the tool supplies no method: editing rules, personal style and what actually holds attention are what his companion guide covers, alongside the limits he hit in testing, and he edited this reel itself with Claude from hook to subtitles.",
+   "keywords": [
+    "HyperFrames",
+    "open source",
+    "video editing",
+    "Claude",
+    "4K export",
+    "AI video"
+   ],
+   "url": "https://www.instagram.com/p/DeKCABLP3lV/",
+   "author": "lemondedumarketing",
+   "author_url": "https://www.instagram.com/lemondedumarketing/",
+   "date": "2026-10-06",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Three files that turn Claude into a co-founder with memory and a voice",
+   "synopsis": "Alassafi.ai describes a three-file setup: a markdown playbook encoding how he runs the company, a memory file holding every deal that persists across sessions, and a voice layer. The voice is an original built in Fish Audio's Voice Design and wired into Claude Code through their MCP with a single command, with emotion tags stacked directly into the generation input — which is why it sounds patient when the schedule holds and annoyed when it slips. He gives a concrete payoff: that morning it told him two developers were blocked and a client had not been updated.",
+   "keywords": [
+    "Claude Code",
+    "Fish Audio",
+    "MCP",
+    "persistent memory",
+    "voice synthesis",
+    "agent playbook"
+   ],
+   "url": "https://www.instagram.com/p/DeKS-EEz5nS/",
+   "author": "alassafi.ai",
+   "author_url": "https://www.instagram.com/alassafi.ai/",
+   "date": "2026-10-06",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Impeccable, an open-source design skill that strips the AI tells out of generated sites",
+   "synopsis": "Singularity.feed opens on the recognisable signature of an AI-built website — cream background, fancy serif headline, one photo on the right — and notes the same prompt on the same model produces that same page five runs in a row. The fix offered is Impeccable, a free open-source design skill for Claude Code, Codex, Cursor and other agents, installed with npx impeccable install then /impeccable init. For sites that already exist, /polish removes the tells and /distill strips a page back to the single number that matters; running its own detector over the gallery flagged 30 of 35 unpolished Claude pages.",
+   "keywords": [
+    "Impeccable",
+    "Claude Code",
+    "design skill",
+    "AI slop",
+    "open source",
+    "web design"
+   ],
+   "url": "https://www.instagram.com/p/DeH1OcyJPgl/",
+   "author": "singularity.feed",
+   "author_url": "https://www.instagram.com/singularity.feed/",
+   "date": "2026-10-05",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "How open source reproduced JEV, a closed decision model, in fourteen days",
+   "synopsis": "Singularity.feed reconstructs the timeline after JEV launched on 15 September as an API-only, closed-weight model that does one narrow thing extremely cheaply: given a question and a short list of answers, it returns one pick plus a calibrated confidence in a single pass, for a fraction of a cent in under half a second — the shape of most real in-app AI work (spam checks, ticket routing, next-action selection). Reproducing it needed no reverse engineering, because the recipe was already public: a researcher had published the idea a year earlier and released an open model three days after JEV, and a Nokia/Tencent team had shown any open model can do it untrained by restricting its next-token scores to the answer letters. The resulting economics explain the flood — one builder trained a copy on a laptop in under two hours, another lab spent about $100 in GPU time — and by day 14 more than 20 open models existed, with OpenAI previewing a Decisions API and Cloudflare and Amazon shipping their own.",
+   "keywords": [
+    "JEV",
+    "open source",
+    "classification models",
+    "Decisions API",
+    "Qwen",
+    "inference cost"
+   ],
+   "url": "https://www.instagram.com/p/DeF_wfWpAk9/",
+   "author": "singularity.feed",
+   "author_url": "https://www.instagram.com/singularity.feed/",
+   "date": "2026-10-05",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Weekly AI roundup: a phone-sized open-source model that runs any task from one prompt",
+   "synopsis": "Leo.synthes leads on a Chinese open-source release billed as the fastest of its kind, able to execute arbitrary tasks on a phone from a single prompt. The rest of the week's digest covers unified memory for agents, Google's Artemis for phone automation, Prism ML's compact Ternary Bonsai 2, AWS's inbox for AI agents, CAI's GLM 5.3 Flash X, and Unsloth Studio's no-code fine-tuning across 500-plus models. The through-line is on-device and open-weight capability closing the gap with hosted frontier models.",
+   "keywords": [
+    "open source AI",
+    "GLM 5.3 Flash X",
+    "Bonsai 2",
+    "Google Artemis",
+    "Unsloth Studio",
+    "on-device AI"
+   ],
+   "url": "https://www.instagram.com/p/DeHSLOEtWQ2/",
+   "author": "leo.synthes",
+   "author_url": "https://www.instagram.com/leo.synthes/",
+   "date": "2026-10-05",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Meta's Muse agent can read your Instagram saves — including what is inside the videos",
+   "synopsis": "Itstundeanthony tests Muse, Meta's first personal agent, whose differentiator is simply access: no other assistant is wired into your Instagram account. On camera he connects his account and asks whether it can see his saved posts; it confirms, correctly reports 442 saves, and pulls recent ones. The part that convinces him is topical retrieval across the collection — asking for five saved posts about AI, then five saved fashion videos, and verifying against his own account that the returned posts really were ones he had saved.",
+   "keywords": [
+    "Meta Muse",
+    "personal agent",
+    "Instagram",
+    "saved posts",
+    "semantic retrieval"
+   ],
+   "url": "https://www.instagram.com/p/Dd_4ACbivLK/",
+   "author": "itstundeanthony",
+   "author_url": "https://www.instagram.com/itstundeanthony/",
+   "date": "2026-10-02",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Bonsai 2 squeezes a 27B-parameter model from 55 GB down to 6 GB",
+   "synopsis": "Eliott Meunier covers Bonsai 2 from Prism ML — a company he notes is in acquisition talks with Apple — which compresses Qwen 3.8 27B from a 55 GB file to roughly 6 GB. The method is ternary quantisation, explained from first principles: a model is a mass of stored numbers (weights) carrying several decimal places each, and Bonsai 2 collapses every one of them to just -1, 0 or 1. The surprise is the cost of that brutality — under 2% quality loss on their selected benchmarks — which he reads as evidence that usable local hardware is becoming an optimisation problem rather than a budget one.",
+   "keywords": [
+    "Bonsai 2",
+    "Prism ML",
+    "Qwen 3.8",
+    "ternary quantisation",
+    "model compression",
+    "local AI"
+   ],
+   "url": "https://www.instagram.com/p/Dd5rU1hhoRS/",
+   "author": "eliott.meunier",
+   "author_url": "https://www.instagram.com/eliott.meunier/",
+   "date": "2026-09-30",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "The Generate skill turns Claude into its own Higgsfield-style media stack",
+   "synopsis": "Sebastian Hardy demos a Claude skill called Generate that wires a whole catalogue of third-party image and video models in behind a single conversational interface. The headline behaviour is budget-aware orchestration: ask for ten ads across three image models under three dollars and Claude selects the models, writes each prompt, and price-shops per generation. Every output file is saved alongside the prompt that produced it, so the run stays auditable and reproducible.",
+   "keywords": [
+    "Claude skills",
+    "Generate skill",
+    "Higgsfield",
+    "AI image generation",
+    "AI video",
+    "model routing"
+   ],
+   "url": "https://www.instagram.com/p/Dd4TNUUR0A5/",
+   "author": "sebastianhardy_",
+   "author_url": "https://www.instagram.com/sebastianhardy_/",
+   "date": "2026-09-29",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Google's TimesFM-3 forecasting model, paired with an ontology for business use",
+   "synopsis": "Benoit Ferrere presents TimesFM-3, Google's time-series foundation model, and argues its value inside a company comes from pairing it with a semantic ontology rather than running it bare. He builds the vocabulary up first: a time series is any measure tracked over time (daily sales, stock levels, electricity draw), and forecasting projects that history forward. The pitch rests on two properties — the model is zero-shot, so you hand it your history and it predicts without retraining, and it is multivariate, so it can read several correlated series together.",
+   "keywords": [
+    "TimesFM-3",
+    "Google",
+    "time-series forecasting",
+    "zero-shot",
+    "ontology",
+    "multivariate"
+   ],
+   "url": "https://www.instagram.com/p/Dd35cYrt-Fb/",
+   "author": "benoit.ferrere",
+   "author_url": "https://www.instagram.com/benoit.ferrere/",
+   "date": "2026-09-29",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "A GitHub list of 130+ AI models usable for free across 40 providers",
    "synopsis": "A little-known GitHub repository aggregates more than 130 AI models that can be used at zero cost, pulled from 40 different companies including Gemini, Grok and NVIDIA. The creator stresses these are standing free tiers rather than trials that expire the following week, so they remain usable indefinitely. The list plugs into Cursor, Claude Code or Codex in a single click, letting existing tooling fall back onto free models whenever a paid plan cuts off.",
    "keywords": [
@@ -4070,6 +4279,25 @@
    "author_url": "https://www.instagram.com/sebastianhardy_/",
    "date": "2026-09-28",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Valohai on paying frontier-model prices for jobs a small specialist model does better",
+   "synopsis": "Valohai takes aim at reflexively routing every task to the largest available model, pointing out that the bill arrives fastest on the easy work. The reel lists four such jobs — filling web forms, classifying rows in a table, multivariate forecasting, and picking objects out of an image — and notes a purpose-built specialist model exists for each. The argument is an LLMOps cost one: model choice is an engineering decision, and three of those four specialists can be named in under a minute.",
+   "keywords": [
+    "Valohai",
+    "small models",
+    "LLMOps",
+    "model selection",
+    "AI cost",
+    "specialist models"
+   ],
+   "url": "https://www.instagram.com/p/Ddve8GUDoll/",
+   "author": "valohai",
+   "author_url": "https://www.instagram.com/valohai/",
+   "date": "2026-09-26",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -4543,8 +4771,8 @@
     "local-first"
    ],
    "url": "https://www.instagram.com/p/DdKExW5t68N/",
-   "author": "felixcallahan_",
-   "author_url": "https://www.instagram.com/felixcallahan_/",
+   "author": "felixcallahan.ai",
+   "author_url": "https://www.instagram.com/felixcallahan.ai/",
    "date": "2026-09-11",
    "following": false,
    "confidence": "high"
@@ -5073,97 +5301,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "An entire AI agency open-sourced: 147 agents across 12 departments",
-   "synopsis": "Someone has published a complete AI agency on GitHub, comprising 147 agents organized into twelve departments. The departments cover engineering, marketing, sales, support, product, and more, all structured to operate like a real company team. The post frames it as a ready-made multi-agent organizational template.",
-   "keywords": [
-    "multi-agent systems",
-    "AI agency",
-    "GitHub",
-    "open source",
-    "agent orchestration"
-   ],
-   "url": "https://www.instagram.com/p/Db4_oJtsYQP/",
-   "author": "sferro.ai",
-   "author_url": "https://www.instagram.com/sferro.ai/",
-   "date": "2026-08-11",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "AI week in 60 seconds (Portuguese): Kimi K3 in C, Pocket TTS, Hermes Skills Hub, Grok Imagine 2.0, Muse Code, Qwen3.8-Max",
-   "synopsis": "The hook is that China has released the world's most advanced open-source model and that a tool now runs a 2.78-trillion-parameter model on a laptop with 8 GB of RAM and no graphics card. The countdown covers Kyutai's Pocket TTS (a 100M-parameter voice model cloning your voice locally at 6x realtime from one command), Nous Research's Hermes Skills Hub (90,000+ free community skills across 199 categories from OpenAI, Anthropic and NVIDIA), xAI's Grok Imagine Image 2.0 with regional editing, background removal and five references at once, and Meta's first coding agent Muse Code, which keeps background agents alive all session and works repos in parallel worktrees. It closes with Alibaba's Qwen3.8-Max — 2.4 trillion parameters, 95 billion active, a 1M-token context window and native video and image understanding — and kimi-k3-in-c, a 176 KB pure C99 engine.",
-   "keywords": [
-    "Kimi K3",
-    "Pocket TTS",
-    "Hermes Skills Hub",
-    "Grok Imagine 2.0",
-    "Muse Code",
-    "Qwen3.8-Max"
-   ],
-   "url": "https://www.instagram.com/p/Db5zs4EhwXQ/",
-   "author": "felipetambara.ia",
-   "author_url": "https://www.instagram.com/felipetambara.ia/",
-   "date": "2026-08-11",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Claude Code can now drive your iPhone through Apple's iPhone Mirroring",
-   "synopsis": "Combining Claude Code with Apple's iPhone Mirroring turns the Mac into the brain and the iPhone into the hands, letting Claude see the mirrored screen and act on it. It can open apps, tap buttons, type text, scroll, and read what is displayed. Because it interacts at the screen level like a user, it works across apps without needing a separate API integration for each one.",
-   "keywords": [
-    "Claude Code",
-    "iPhone Mirroring",
-    "Apple",
-    "device automation",
-    "computer use"
-   ],
-   "url": "https://www.instagram.com/p/Db3GmXQyDYW/",
-   "author": "thevibefounder",
-   "author_url": "https://www.instagram.com/thevibefounder/",
-   "date": "2026-08-10",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Turn any YouTube tutorial into a working Claude Code agent",
-   "synopsis": "The workflow installs bradautomates/claude-video so Claude can see both the video frames and the transcript, then sends the same link to Gemini, which watches it natively. The two readings are reconciled into a single spec that labels every line as confirmed, single-source, or conflicting, so the human only reviews the conflicts. That spec is then handed to skill-creator, which writes the agent.",
-   "keywords": [
-    "claude-video",
-    "Gemini",
-    "skill-creator",
-    "Claude Code",
-    "YouTube"
-   ],
-   "url": "https://www.instagram.com/p/Db1USzsMNnZ/",
-   "author": "jens.heitmann",
-   "author_url": "https://www.instagram.com/jens.heitmann/",
-   "date": "2026-08-09",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Prime Agent lifts Claude Opus 5 from 30% to 95.5% on a reasoning benchmark",
-   "synopsis": "The creator argues that using AI means using two things — the model as the brain, and the scaffolding around it that governs memory and organisation — and that everyone fixates on the brain. Prime Agent is a free open-source harness pluggable onto any model, and on a well-known logic benchmark human experts score 95% and Claude Opus 5 alone scores 30%, while Claude Opus 5 running on Prime Agent reaches 95.5%. Its key behaviour is refusing to swallow an entire project the way a coding agent does before losing the thread, instead putting the file down and pulling only what is relevant at that moment.",
-   "keywords": [
-    "Prime Agent",
-    "Claude Opus 5",
-    "agent scaffolding",
-    "reasoning benchmark",
-    "open source"
-   ],
-   "url": "https://www.instagram.com/p/Dbyb04LMp8G/",
-   "author": "simon_de_lima",
-   "author_url": "https://www.instagram.com/simon_de_lima/",
-   "date": "2026-08-08",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "Ten open-source projects replacing costly software",
    "synopsis": "A carousel of ten GitHub projects that stand in for commercial software worth thousands per year. The list spans AI assistants, workflow automation, design tools, password managers, analytics and video downloaders. All are self-hostable and community-backed, framed as a way to keep control of your data while dropping subscriptions.",
    "keywords": [
@@ -5178,60 +5315,6 @@
    "author_url": "https://www.instagram.com/techs/",
    "date": "2026-08-07",
    "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "A homemade Jarvis voice assistant with a public repo and tutorial",
-   "synopsis": "The creator presents a self-built 'Jarvis' voice assistant along with a short tutorial. The full project is published on GitHub at sosoj92/jarvis-assistant-vocal. It is a French-language DIY build for a locally controlled voice assistant.",
-   "keywords": [
-    "Jarvis",
-    "voice assistant",
-    "GitHub",
-    "DIY",
-    "open source"
-   ],
-   "url": "https://www.instagram.com/p/Dbv_Ju-twsP/",
-   "author": "madamet3ch",
-   "author_url": "https://www.instagram.com/madamet3ch/",
-   "date": "2026-08-07",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Four ChatGPT commands that turn any topic into a study system",
-   "synopsis": "The creator shows four simple ChatGPT commands that convert any subject into cheat sheets, learning blueprints, flashcards, and mind maps within seconds. The framing is ChatGPT as a personal AI study system rather than a chat tool. It is aimed at students and self-learners.",
-   "keywords": [
-    "ChatGPT",
-    "prompts",
-    "study system",
-    "flashcards",
-    "mind maps"
-   ],
-   "url": "https://www.instagram.com/p/DbvB10cj1Ob/",
-   "author": "sebintel",
-   "author_url": "https://www.instagram.com/sebintel/",
-   "date": "2026-08-07",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Claude Design's Animation feature outputs editable code, not just a video",
-   "synopsis": "This French clip presents Animation inside Claude Design as the tool's most underrated feature: free, driven by a single prompt, and producing in minutes the kind of professional video that normally costs thousands or hours of editing. It changes three things — one prompt yields a complete animated video with text, transitions and motion; what you receive is code rather than a flat video, so any detail can be retouched by circling an element and writing 'erase this'; and feeding it a brand chart turns it into a design system so every video stays on-brand automatically. The creator positions it for social differentiation, product presentations, and update announcements in the style OpenAI uses on Twitter.",
-   "keywords": [
-    "Claude Design",
-    "Animation",
-    "design system",
-    "video generation",
-    "Anthropic"
-   ],
-   "url": "https://www.instagram.com/p/DbtETO3MttB/",
-   "author": "simon_de_lima",
-   "author_url": "https://www.instagram.com/simon_de_lima/",
-   "date": "2026-08-06",
-   "following": true,
    "confidence": "high"
   },
   {
@@ -5255,23 +5338,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "A free add-on makes Claude answer from the last 30 days of content",
-   "synopsis": "The creator warns that AI answers on fast-moving topics often rest on data that is already months old, yet are phrased with complete confidence. He presents a free solution that changes how research works in Claude by constraining it to content published within the previous thirty days. The video demonstrates exactly how the mechanism behaves on current-affairs questions.",
-   "keywords": [
-    "Claude",
-    "web search",
-    "recency",
-    "research workflow"
-   ],
-   "url": "https://www.instagram.com/p/DbmtdY1lV-9/",
-   "author": "jeremy_ia",
-   "author_url": "https://www.instagram.com/jeremy_ia/",
-   "date": "2026-08-04",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "Wan2GP runs open-source AI video on a 6GB GPU",
    "synopsis": "Wan2GP is an open-source AI video generator built for people without cloud subscriptions or high-end hardware. It targets consumer GPUs, needing only about 6GB of VRAM to run. That puts it in reach of most mid-range NVIDIA cards from the past eight years.",
    "keywords": [
@@ -5286,59 +5352,6 @@
    "author_url": "https://www.instagram.com/karthikramaniai/",
    "date": "2026-08-03",
    "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Four free plugins for stretching Claude Code usage limits",
-   "synopsis": "A reel pitching four free, open-source plugins aimed at users who keep hitting Claude Code usage ceilings. It names Headroom (around 30,000 GitHub stars, offering reversible context compression), Graphify (turns a codebase into a knowledge graph, claimed to cut token cost by up to 70x), CodeBurn (local, private token-usage analytics) and Ponytail (trims consumption while preserving accuracy). The specific tool names make it actionable, though the 70x figure is the creator's claim and the full detail is gated behind a comment-for-more hook.",
-   "keywords": [
-    "Claude Code",
-    "Headroom",
-    "Graphify",
-    "CodeBurn",
-    "token optimization"
-   ],
-   "url": "https://www.instagram.com/p/DbTMVshNbk6/",
-   "author": "moshbariofficial",
-   "author_url": "https://www.instagram.com/moshbariofficial/",
-   "date": "2026-07-27",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Overgrown, Blender's new open movie made with and about Blender",
-   "synopsis": "The creator introduces Overgrown, a new Blender feature film made in Blender, about Blender, and by the Blender community. Beyond the film itself, the project is set to share techniques for people who want to do animation without spending a fortune. The video encourages supporting the project and cites Blender Studio, Digital Production, BlenderNation, and Reddit as sources.",
-   "keywords": [
-    "Blender",
-    "Overgrown",
-    "open movie",
-    "3D animation",
-    "open source"
-   ],
-   "url": "https://www.instagram.com/p/DbLk9Nmhtl7/",
-   "author": "keyyzako",
-   "author_url": "https://www.instagram.com/keyyzako/",
-   "date": "2026-07-24",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "A copy-paste loop library for Claude and Codex agents",
-   "synopsis": "The creator shares a library of agent loops usable with both Claude and Codex. You copy and paste it in, and the agent takes care of setting up the loop best suited to your project. The clip is a short French tip aimed at terminal-based coding agents.",
-   "keywords": [
-    "Claude Code",
-    "Codex",
-    "agent loops",
-    "prompt library"
-   ],
-   "url": "https://www.instagram.com/p/DZw6RbIomyM/",
-   "author": "0xloucash",
-   "author_url": "https://www.instagram.com/0xloucash/",
-   "date": "2026-06-19",
-   "following": true,
    "confidence": "high"
   },
   {
@@ -6754,6 +6767,81 @@
   },
   {
    "folder": "AI.Video",
+   "title": "Claude Opus 5.5 writing motion graphics as code, rendered frame by frame",
+   "synopsis": "Jeremy_ia claims video editors are finished and offers the reel itself as evidence, generated in about a minute with Claude Opus 5.5. The mechanism is the interesting part: rather than generating pixels directly, Claude writes the animation in code and then renders it frame by frame, which is why typography, charts, 3D and particle work all hold up. He sketches the wider stack around it — ElevenLabs for voiceover and sound effects, Remotion and Hyperframe for motion design — and notes the prompt behind this one was deliberately basic.",
+   "keywords": [
+    "Claude Opus 5.5",
+    "Remotion",
+    "Hyperframe",
+    "ElevenLabs",
+    "motion design",
+    "code-rendered video"
+   ],
+   "url": "https://www.instagram.com/p/DeLgZ3bCXXO/",
+   "author": "jeremy_ia",
+   "author_url": "https://www.instagram.com/jeremy_ia/",
+   "date": "2026-10-07",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "HyperFrames, an open-source video editor that runs on your own Claude or ChatGPT account",
+   "synopsis": "Lemondedumarketing covers HyperFrames, an open-source editing app sitting above 57,000 GitHub stars, available on Mac and Linux with a Windows build announced. There is no extra subscription — the AI runs against your existing Claude or ChatGPT account — and exports come out at 4K up to 60fps. The caveat he stresses is that the tool supplies no method: editing rules, personal style and what actually holds attention are what his companion guide covers, alongside the limits he hit in testing, and he edited this reel itself with Claude from hook to subtitles.",
+   "keywords": [
+    "HyperFrames",
+    "open source",
+    "video editing",
+    "Claude",
+    "4K export",
+    "AI video"
+   ],
+   "url": "https://www.instagram.com/p/DeKCABLP3lV/",
+   "author": "lemondedumarketing",
+   "author_url": "https://www.instagram.com/lemondedumarketing/",
+   "date": "2026-10-06",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Higgsfield plugged into GPT Sol 6.1 to run ad campaigns from inside ChatGPT",
+   "synopsis": "Higgsfield.ai shows its integration with GPT Sol 6.1, which moves the whole paid-ads loop into a ChatGPT conversation. The agent sets up and launches campaigns directly in the connected ad account, researches competitors to surface ad angles that already work, and expands a single product photo into a batch of ad variations. It then iterates on results and scales the variants that perform, so strategy through to finished creative sits behind one prompt.",
+   "keywords": [
+    "Higgsfield",
+    "GPT Sol 6.1",
+    "ChatGPT",
+    "ad automation",
+    "creative generation",
+    "campaign management"
+   ],
+   "url": "https://www.instagram.com/p/Dd9puYnCJzQ/",
+   "author": "higgsfield.ai",
+   "author_url": "https://www.instagram.com/higgsfield.ai/",
+   "date": "2026-10-01",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Freeze Motion prompting: stop the action while the camera keeps orbiting",
+   "synopsis": "Sferro.ai walks through a prompt workflow that converts a single action photograph into a cinematic freeze-motion sequence, where time halts for the subject while the virtual camera continues to move around it. The carousel covers the whole chain: structuring the source image, writing the animation prompt, controlling the camera orbit, and suppressing the residual movement that normally breaks the illusion. It targets the extreme moments where the effect reads strongest — flying water, explosions, jumps and racing scenes — with 3D depth preserved across the orbit.",
+   "keywords": [
+    "freeze motion",
+    "AI video",
+    "prompt engineering",
+    "camera orbit",
+    "image-to-video"
+   ],
+   "url": "https://www.instagram.com/p/Dd8mwG-jNtD/",
+   "author": "sferro.ai",
+   "author_url": "https://www.instagram.com/sferro.ai/",
+   "date": "2026-10-01",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "GPT-6 Astra versus Opus 5.5 on identical prompts (workflow caption-gated)",
    "synopsis": "The reel sets up a head-to-head comparison of how GPT-6 Astra and Opus 5.5 handle the exact same prompts. The substance - the full workflow and any verdict - sits behind a \"comment AI\" call to action, and the video carries no narration, transcribing to silence over music. Which concrete model differences are actually demonstrated cannot be established from the post as saved.",
    "keywords": [
@@ -7929,57 +8017,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Free Claude skill replaces the multi-cam editing setup",
-   "synopsis": "The creator claims AI has killed the multi-cam setup and has packaged the entire workflow into a free Claude skill. The skill transcribes your video, detects speech beats, and writes the full editing prompt automatically. The template and complete workflow are sent via DM to anyone commenting EDIT.",
-   "keywords": [
-    "Claude skill",
-    "multi-cam editing",
-    "video transcription",
-    "auto-editing"
-   ],
-   "url": "https://www.instagram.com/p/Da8tPRxv8Yo/",
-   "author": "pauloshimas",
-   "author_url": "https://www.instagram.com/pauloshimas/",
-   "date": "2026-07-18",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Claude can finally see your videos, says Dev Watch host",
-   "synopsis": "This French dev-content creator announces that Anthropic's Claude can now watch and understand videos, calling it a game changer. The clip is part of his Dev Watch podcast series built on GitHub repos he scans weekly. Commenting REPO gets viewers the full list of repositories he reviewed that week.",
-   "keywords": [
-    "Claude",
-    "Anthropic",
-    "video understanding",
-    "GitHub repos"
-   ],
-   "url": "https://www.instagram.com/p/Da5Rxfou0th/",
-   "author": "sebastien_heilig",
-   "author_url": "https://www.instagram.com/sebastien_heilig/",
-   "date": "2026-07-17",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "AI lip sync onto any video using Seedance",
-   "synopsis": "The post teaches how to lip sync onto any existing video with AI, with the Seedance hashtag identifying the underlying model. It targets creators wanting to retrofit dialogue or voiceover onto arbitrary footage. The tool link is delivered via DM after commenting AI.",
-   "keywords": [
-    "Seedance",
-    "lip sync",
-    "generative video",
-    "creative AI"
-   ],
-   "url": "https://www.instagram.com/p/Da00Ou9Kr1F/",
-   "author": "rourke",
-   "author_url": "https://www.instagram.com/rourke/",
-   "date": "2026-07-15",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "Apple-style scroll-linked product animations in four no-code steps",
    "synopsis": "The creator reproduces the scroll-driven animations agencies charge thousands for — where a product spins or assembles itself as you scroll — in four steps with zero code. You generate a start frame and an end frame in Google Flow, use its frames-to-video mode to animate everything in between, then run that clip through EasyGIF's video-to-image-sequence tool at 30 frames per second and download the frames as a zip. Finally you drop the whole folder into your AI coding tool and ask it to build a scroll-linked image sequence on a canvas, which she notes is exactly the trick Apple uses on its product pages.",
    "keywords": [
@@ -7995,23 +8032,6 @@
    "author_url": "https://www.instagram.com/cindiezhu/",
    "date": "2026-07-12",
    "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Making an animated film with Claude",
-   "synopsis": "This French creator showcases an animated film made with Claude and offers the full prompt and guide free via DM. The comment trigger is the word ANIME and he asks his audience what they think of Claude. The post positions Claude as a viable engine for end-to-end animated filmmaking.",
-   "keywords": [
-    "Claude",
-    "AI animation",
-    "prompt guide",
-    "AI filmmaking"
-   ],
-   "url": "https://www.instagram.com/p/DanARqbsVqs/",
-   "author": "yonak.ia",
-   "author_url": "https://www.instagram.com/yonak.ia/",
-   "date": "2026-07-10",
-   "following": true,
    "confidence": "high"
   },
   {
@@ -8264,6 +8284,25 @@
   },
   {
    "folder": "IA.Avatar",
+   "title": "Three files that turn Claude into a co-founder with memory and a voice",
+   "synopsis": "Alassafi.ai describes a three-file setup: a markdown playbook encoding how he runs the company, a memory file holding every deal that persists across sessions, and a voice layer. The voice is an original built in Fish Audio's Voice Design and wired into Claude Code through their MCP with a single command, with emotion tags stacked directly into the generation input — which is why it sounds patient when the schedule holds and annoyed when it slips. He gives a concrete payoff: that morning it told him two developers were blocked and a client had not been updated.",
+   "keywords": [
+    "Claude Code",
+    "Fish Audio",
+    "MCP",
+    "persistent memory",
+    "voice synthesis",
+    "agent playbook"
+   ],
+   "url": "https://www.instagram.com/p/DeKS-EEz5nS/",
+   "author": "alassafi.ai",
+   "author_url": "https://www.instagram.com/alassafi.ai/",
+   "date": "2026-10-06",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "IA.Avatar",
    "title": "A 12-prompt pack for photoreal AI skin on a 62-year-old face",
    "synopsis": "The carousel presents an AI-generated portrait of a 62-year-old woman - freckles, crow's feet, crepey skin, veins on the hands - assembled from twelve deliberately sequenced prompts. Its thesis is that most AI portraits read as fake for one reason, uniformly perfect skin, whereas real skin varies by region: pores coarsen beside the nose and refine on the cheekbone, wrinkles follow the muscles, and nothing is ever entirely in focus at once. The pack ships one identity master portrait, six macro detail studies, five hand and hair shots, fix prompts for waxy skin and wig-looking hair, and the ten realism rules underpinning them.",
    "keywords": [
@@ -8334,6 +8373,24 @@
    "date": "2026-09-21",
    "following": false,
    "confidence": "low"
+  },
+  {
+   "folder": "IA.Avatar",
+   "title": "Why a minimal character sheet holds an AI actor more consistently than a detailed one",
+   "synopsis": "Adamkurtz.ai reports that the intuitive approach to character consistency — packing a reference sheet with close-ups, side profiles and full-body front and back views — actively backfired. Each additional face on the sheet gives the model another sample to average, so the character drifted between wide shots and close-ups instead of locking in. His working sheet is now three images: one close-up, one full body from behind, and one full body with no head, leaving a single face to anchor on across every shot.",
+   "keywords": [
+    "character consistency",
+    "character sheet",
+    "Higgsfield",
+    "AI avatar",
+    "reference images"
+   ],
+   "url": "https://www.instagram.com/p/DdeY-Qyij7A/",
+   "author": "adamkurtz.ai",
+   "author_url": "https://www.instagram.com/adamkurtz.ai/",
+   "date": "2026-09-19",
+   "following": false,
+   "confidence": "high"
   },
   {
    "folder": "IA.Avatar",
@@ -8668,23 +8725,6 @@
    "author": "bymaximade",
    "author_url": "https://www.instagram.com/bymaximade/",
    "date": "2026-04-01",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "IA.Avatar",
-   "title": "Seedance 2.0 + Seedream 5.0 Single-Take Cinematic Scene",
-   "synopsis": "The creator declares that AI has crossed into cinematic storytelling with a fifteen-second, single-take full transformation built on Seedance 2.0 and Seedream 5.0. No VFX team or studio was involved, only prompt control and timing. The framing is that the real shift is from generating clips to directing scenes, with the full prompt and workflow gated behind a MOON comment.",
-   "keywords": [
-    "Seedance 2.0",
-    "Seedream 5.0",
-    "cinematic AI video",
-    "scene direction"
-   ],
-   "url": "https://www.instagram.com/p/DWUbS7WyI6W/",
-   "author": "aswinajiraj.ai",
-   "author_url": "https://www.instagram.com/aswinajiraj.ai/",
-   "date": "2026-03-26",
    "following": false,
    "confidence": "high"
   },
