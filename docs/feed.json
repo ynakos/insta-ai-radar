@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T11:33:16+00:00",
+ "generated_at": "2026-10-09T03:16:33+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -125,7 +125,7 @@
    "author": "buildwithneej",
    "author_url": "https://www.instagram.com/buildwithneej/",
    "date": "2026-08-26",
-   "following": false,
+   "following": true,
    "confidence": "high"
   },
   {
@@ -1875,6 +1875,25 @@
   },
   {
    "folder": "AI.CODE",
+   "title": "Four free Claude Code plugins that cut token usage, fact-checked",
+   "synopsis": "A reaction-style fact-check of the claim that four free plugins fix Claude Code usage limits, confirming all four exist while correcting the numbers. Headroom sits between you and the model and compresses context reversibly so nothing is lost (almost 30,000 GitHub stars), Graphify turns the codebase into a knowledge graph so Claude need not reread every file per message (inspired by Andrej Karpathy, cutting token cost up to 70x), and Code Burn breaks token spend down by cost, task, model and tool entirely on-device with no API keys. The creator flags the headline figure as wrong: Ponytail trims output, but independent tests show 54% less code and only 22% fewer tokens rather than the claimed 50% usage cut.",
+   "keywords": [
+    "Claude Code",
+    "Headroom",
+    "Graphify",
+    "Code Burn",
+    "Ponytail",
+    "token optimization"
+   ],
+   "url": "https://www.instagram.com/p/DbTMVshNbk6/",
+   "author": "moshbariofficial",
+   "author_url": "https://www.instagram.com/moshbariofficial/",
+   "date": "2026-07-27",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
    "title": "Rebuilding MyFitnessPal from scratch to kill a $300/year subscription",
    "synopsis": "Episode 2 of a series in which the creator cancels every paid app subscription and rebuilds each one himself. Cloning MyFitnessPal's interface turned out to be the trivial part; the real moat was the food database behind the barcode scanner, which he solved by finding a large free calorie database covering almost any food item and wiring it into his own backend. The rebuild worked on the food he actually eats day to day, retiring a $300/year subscription, and the source code is offered via a comment gate.",
    "keywords": [
@@ -2767,24 +2786,6 @@
    "author": "ia.boss.officiel",
    "author_url": "https://www.instagram.com/ia.boss.officiel/",
    "date": "2025-11-26",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.CODE",
-   "title": "A GitHub directory of hundreds of free public APIs, sorted by category",
-   "synopsis": "Drcintas points to the public-apis GitHub repository, a curated index of several hundred free APIs grouped by domain — programming, finance, news, entertainment and more. The reel frames an API as the plumbing that lets one app pull data from another, using a crypto tracker wired to a finance endpoint for live prices as the worked example. It is pitched at people assembling apps, AI tools or automations who want working data sources without a procurement step.",
-   "keywords": [
-    "public-apis",
-    "GitHub",
-    "REST API",
-    "developer tools",
-    "free APIs"
-   ],
-   "url": "https://www.instagram.com/p/DRFOqJADUtV/",
-   "author": "drcintas",
-   "author_url": "https://www.instagram.com/drcintas/",
-   "date": "2025-11-15",
    "following": true,
    "confidence": "high"
   },
@@ -4056,6 +4057,24 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Claude + Zernio: one message cross-posts a video to eight platforms",
+   "synopsis": "A no-code publishing setup pairing Claude with Zernio so that a single message pushes one video to TikTok, YouTube, Instagram, LinkedIn, Threads, Pinterest, Facebook and X. Each destination receives its own caption rather than a single shared one, and the whole setup reportedly needs just a sign-in and one Approve click with no code written. The author notes the same flow works in Codex and gates the full walkthrough behind a STACK comment.",
+   "keywords": [
+    "Claude",
+    "Zernio",
+    "Codex",
+    "social media automation",
+    "cross-posting"
+   ],
+   "url": "https://www.instagram.com/p/DeMpChXkR0G/",
+   "author": "buildwithneej",
+   "author_url": "https://www.instagram.com/buildwithneej/",
+   "date": "2026-10-07",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "EmbeddingGemma 2: Google's on-device multimodal embedding model for searching your own files",
    "synopsis": "Singularity.feed starts from the everyday failure of having 10,000 photos on a phone and no way to find the right one, then introduces Google's free EmbeddingGemma 2 as the model built for exactly that. The explanation avoids jargon: it does not chat, it converts any file into a list of numbers — a pin on a map of meaning — so the word dog, a photo of a dog and the sound of a bark all land in nearly the same place. It spans text, images, audio, video and code, so typing kids laughing jumps straight to that moment in a video with no captions needed, and the full model fits in roughly 567 MB and runs offline.",
    "keywords": [
@@ -4989,7 +5008,7 @@
    "author": "buildwithneej",
    "author_url": "https://www.instagram.com/buildwithneej/",
    "date": "2026-08-26",
-   "following": false,
+   "following": true,
    "confidence": "high"
   },
   {
@@ -5169,24 +5188,6 @@
    "url": "https://www.instagram.com/p/Db_vJnXpnHS/",
    "author": "chase.h.ai",
    "author_url": "https://www.instagram.com/chase.h.ai/",
-   "date": "2026-08-15",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Turn any brand's website into an interactive pitch deck with Claude Fable 5 and Faces",
-   "synopsis": "The workflow starts in Claude with a specific prompt, into which you paste the URL of whatever brand you want to work with — the demo uses Porsche — and then copy the output it returns. That output goes into a chosen template on the Faces app, which builds a fully interactive slide deck in roughly two minutes. The creator cold-emails or DMs that deck instead of a plain pitch email and reports her pitch response rate rising roughly tenfold.",
-   "keywords": [
-    "Claude Fable 5",
-    "Faces app",
-    "pitch deck",
-    "brand outreach",
-    "cold outreach"
-   ],
-   "url": "https://www.instagram.com/p/DcCwImSlRh4/",
-   "author": "tryfaces.app",
-   "author_url": "https://www.instagram.com/tryfaces.app/",
    "date": "2026-08-15",
    "following": true,
    "confidence": "high"
@@ -8189,6 +8190,25 @@
    "author": "madameb0nplan",
    "author_url": "https://www.instagram.com/madameb0nplan/",
    "date": "2026-07-04",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "IA. LEGAL",
+   "title": "A law firm open-sourced 12 CC0 legal templates for AI to fill in",
+   "synopsis": "General Legal, a law firm, published 12 attorney-written legal templates for free under CC0, among them a mutual NDA, an offer letter, a privacy policy and terms of use. The blanks are highlighted, so handing the markdown to Claude or Codex with your company name and the date is enough to have them filled in automatically. The CEO's launch post passed 600,000 views on X, but every template disclaims legal advice and the jurisdictions are narrow, with the NDA written under Delaware law and the offer letter California-only, so a lawyer should review anything that matters.",
+   "keywords": [
+    "General Legal",
+    "legal templates",
+    "CC0",
+    "Claude",
+    "Codex",
+    "open source"
+   ],
+   "url": "https://www.instagram.com/p/DePPoBZxSBT/",
+   "author": "buildwithneej",
+   "author_url": "https://www.instagram.com/buildwithneej/",
+   "date": "2026-10-08",
    "following": true,
    "confidence": "high"
   },
