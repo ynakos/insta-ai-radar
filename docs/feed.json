@@ -1,25 +1,26 @@
 {
- "generated_at": "2026-10-12T13:23:09+00:00",
+ "generated_at": "2026-10-12T13:30:14+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
   {
    "folder": "ai. trading",
-   "title": "Free GitHub forecasting model pitched against a $24k/year terminal",
-   "synopsis": "The reel contrasts a professional market terminal costing $24,000 a year with a free forecasting model published on GitHub. The caption gates the actual setup behind a 'comment FORECAST' call to action, so neither the model nor the data pipeline is named on-platform. The claim of parity between a free open-source forecaster and an institutional terminal is left unsupported in the post itself.",
+   "title": "Open-source candlestick forecaster replaces a $24k Bloomberg feature",
+   "synopsis": "An open-source model trained directly on candlestick movement from 45 global exchanges forecasts the estimated path of price, and it already sits on GitHub with roughly 30,000 stars. You hand it a price chart and it returns a forecast range with its uncertainty laid out, rather than a single point guess. The pitch is that forecasting which previously required a Bloomberg terminal at $24,000 a year now runs on an ordinary laptop for nothing, with the usage guide gated behind a 'comment forecast' DM.",
    "keywords": [
-    "forecasting model",
-    "GitHub",
-    "market terminal",
+    "price forecasting",
+    "candlestick model",
+    "Bloomberg terminal",
     "open source",
-    "trading"
+    "GitHub",
+    "quantitative trading"
    ],
    "url": "https://www.instagram.com/p/Ddz69QsD7nG/",
    "author": "jesserurka",
    "author_url": "https://www.instagram.com/jesserurka/",
    "date": "2026-10-03",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "ai. trading",
@@ -41,21 +42,22 @@
   },
   {
    "folder": "AI.Agents",
-   "title": "Free web-browsing tool for Claude with no API keys",
-   "synopsis": "The post announces a free tool that gives Claude the ability to read live web pages without API keys or a paid subscription. It stresses zero cost and no recurring fees, positioning itself against metered scraping and search APIs. The tool is never named in the caption, which routes viewers to a 'comment SCRAPE' DM funnel instead.",
+   "title": "Agent Reach gives Claude Code web access without any API",
+   "synopsis": "Agent Reach is a free tool at around 90,000 GitHub stars — up more than 30,000 in the past month — that lets Claude read the internet without paying for a single API, including gated platforms such as LinkedIn, YouTube, Twitter and Instagram. Installation is one line pasted into Claude Code, after which it installs itself. It pulls YouTube transcripts so Claude can scan a competitor's last ten videos in a single pass, strips the clutter from any web page into clean text, and follows feeds, Discords and open-source projects with no login required.",
    "keywords": [
-    "Claude",
+    "Agent Reach",
+    "Claude Code",
     "web scraping",
-    "free tooling",
-    "no API key",
-    "AI agents"
+    "YouTube transcripts",
+    "open source",
+    "no API key"
    ],
    "url": "https://www.instagram.com/p/DeUy09IideF/",
    "author": "seymourofdevin",
    "author_url": "https://www.instagram.com/seymourofdevin/",
    "date": "2026-10-10",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Agents",
@@ -4136,21 +4138,22 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Free web-browsing tool for Claude with no API keys",
-   "synopsis": "The post announces a free tool that gives Claude the ability to read live web pages without API keys or a paid subscription. It stresses zero cost and no recurring fees, positioning itself against metered scraping and search APIs. The tool is never named in the caption, which routes viewers to a 'comment SCRAPE' DM funnel instead.",
+   "title": "Agent Reach gives Claude Code web access without any API",
+   "synopsis": "Agent Reach is a free tool at around 90,000 GitHub stars — up more than 30,000 in the past month — that lets Claude read the internet without paying for a single API, including gated platforms such as LinkedIn, YouTube, Twitter and Instagram. Installation is one line pasted into Claude Code, after which it installs itself. It pulls YouTube transcripts so Claude can scan a competitor's last ten videos in a single pass, strips the clutter from any web page into clean text, and follows feeds, Discords and open-source projects with no login required.",
    "keywords": [
-    "Claude",
+    "Agent Reach",
+    "Claude Code",
     "web scraping",
-    "free tooling",
-    "no API key",
-    "AI agents"
+    "YouTube transcripts",
+    "open source",
+    "no API key"
    ],
    "url": "https://www.instagram.com/p/DeUy09IideF/",
    "author": "seymourofdevin",
    "author_url": "https://www.instagram.com/seymourofdevin/",
    "date": "2026-10-10",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Models and apps",
@@ -6872,20 +6875,21 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Viral business video from a single photo and a prompt set",
-   "synopsis": "The reel claims an entire viral marketing video can be produced for a small business from one photograph plus a set of prompts. No model, tool or platform is named on-platform, and the prompts themselves are gated behind a 'comment X' DM funnel. The claim of saving thousands of dollars is asserted without any workflow detail that could be checked.",
+   "title": "Google Flow prompt codes turn a shop photo into FPV video",
+   "synopsis": "A concrete recipe for small-business video: upload a photo of your shop to Google Flow, select video, then type short prompt codes to drive the shot. 'City FPV to storefront' flies through the city and reveals the shop, 'VFX architect assemble' makes it look built piece by piece, and uploading an interior photo with 'walk in push through' produces a smooth outside-to-inside walkthrough. More codes exist and stay gated behind a follow-and-comment DM.",
    "keywords": [
-    "AI video",
-    "prompt pack",
+    "Google Flow",
+    "FPV video",
+    "prompt codes",
     "small business marketing",
-    "image to video"
+    "AI video"
    ],
    "url": "https://www.instagram.com/p/DeKyLC6qK4B/",
    "author": "abhijayarora_",
    "author_url": "https://www.instagram.com/abhijayarora_/",
    "date": "2026-10-06",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Video",
