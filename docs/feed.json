@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T13:30:14+00:00",
+ "generated_at": "2026-10-14T10:13:35+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -2064,6 +2064,25 @@
   },
   {
    "folder": "AI.CODE",
+   "title": "Cohere's North Mini Code is a 30B MoE coding model pitched as a free local Claude Code",
+   "synopsis": "Cohere has released North Mini Code, a 30B mixture-of-experts coding model that activates only 3B parameters at a time, so it claims the depth of a large model at the speed of a small one while running locally under an Apache 2.0 open-weight licence. It is built for agentic coding, planning the task before writing code and then testing and debugging its own output, and the post cites a 33.4 score on Artificial Analysis' Coding Index, ahead of open models four times its size such as Nemotron 3 Super (120B) and Devstral 2 (123B). The demo asks it for a premium landing page with a 3D character walking through each section, which it architects then renders as an animated robot, with setup reduced to installing opencode and connecting a free Cohere API key.",
+   "keywords": [
+    "North Mini Code",
+    "Cohere",
+    "mixture of experts",
+    "opencode",
+    "agentic coding",
+    "open weights"
+   ],
+   "url": "https://www.instagram.com/p/DZc2rBFMcs2/",
+   "author": "theopenstack",
+   "author_url": "https://www.instagram.com/theopenstack/",
+   "date": "2026-06-12",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
    "title": "840+ ChatGPT prompts pack for business roles",
    "synopsis": "The post promotes a free library of more than 840 ready-made ChatGPT prompts organized into 24 categories. The pitch is that these prompts turn ChatGPT into a combined marketing team, sales rep, copywriter, analyst, and developer. Every prompt is copy-paste ready and the pack is distributed as a lead magnet claimed to be used by 500,000+ professionals.",
    "keywords": [
@@ -2890,24 +2909,6 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "Flame.blue, générateur de sites présenté comme numéro un devant Lovable et Replit",
-   "synopsis": "L'outil mis en avant s'appelle Flame.blue et se revendique premier pour la création de sites web, devant Lovable, Replit et les autres concurrents établis. Là où la plupart des générateurs sortent des modèles basiques, celui-ci produit des sites premium à la mise en page soignée, avec interface fluide et animations professionnelles, testés par l'auteur sur une landing page SaaS. Aucun code ni configuration n'est requis : on saisit un prompt, on clique sur générer et le site est déployable en quelques secondes, l'essai étant gratuit.",
-   "keywords": [
-    "Flame.blue",
-    "Lovable",
-    "Replit",
-    "no-code",
-    "génération de sites"
-   ],
-   "url": "https://www.instagram.com/p/DRhtsDiAvPD/",
-   "author": "ia.boss.officiel",
-   "author_url": "https://www.instagram.com/ia.boss.officiel/",
-   "date": "2025-11-26",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.CODE",
    "title": "Un détecteur d'écriture assistée qui rejoue la rédaction d'un devoir",
    "synopsis": "Présentation en français d'un outil destiné aux enseignants qui reconstitue la manière dont un texte a été écrit : durée de rédaction, rythme de frappe et passages collés depuis une autre source. L'argument est qu'il devient très difficile de faire passer un texte ChatGPT pour un devoir personnel, la détection portant sur le processus d'écriture plutôt que sur le style du résultat. Le créateur laisse ouverte la question de savoir si c'est souhaitable et sollicite l'avis en commentaires.",
    "keywords": [
@@ -3046,6 +3047,25 @@
    "author": "vaibhavsisinty",
    "author_url": "https://www.instagram.com/vaibhavsisinty/",
    "date": "2026-02-09",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.ETHICS",
+   "title": "Mock-documentary short film indicts engagement engineering and AI-assisted dependency",
+   "synopsis": "A scripted short film staged as a corporate deposition and product launch, in which an executive calmly explains how compulsive-behaviour patterns borrowed from gambling, alcohol and drug addiction were deliberately engineered into social platforms as the endless scroll, and how engagement was the metric that justified it. The second thread follows a fictional 'Life Plus Capsule' that removes effort from living entirely, intercut with young people abandoning music, graphic design and homework because generated output arrived faster than their own learning could. It lands on the loss of the willingness to struggle rather than on the technology itself, with the author funding further films through Patreon.",
+   "keywords": [
+    "engagement engineering",
+    "dark patterns",
+    "AI dependency",
+    "deskilling",
+    "short film",
+    "attention economy"
+   ],
+   "url": "https://www.instagram.com/p/DeKRhc5hhZi/",
+   "author": "carton.king",
+   "author_url": "https://www.instagram.com/carton.king/",
+   "date": "2026-10-06",
    "following": true,
    "confidence": "high"
   },
@@ -4102,6 +4122,101 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Website-cloning tool driven by twelve abliterated agents is released free",
+   "synopsis": "The author announces that a previously paid tool has been made free, giving anyone access to an abliterated, guardrail-stripped model stack described as the unrestricted equivalent of ChatGPT and Claude. You supply a URL and an array of twelve abliterated AI agents reconstructs the site or software behind it, the pitch being that you no longer settle for a generic AI-built landing page when you can rebuild one you already like. Because an exact copy is not supplied, the tool regenerates the visuals and branding to the user's own specification, which is framed as making any digital asset yours and is plainly an intellectual-property grey zone worth flagging.",
+   "keywords": [
+    "abliterated models",
+    "website cloning",
+    "AI agents",
+    "guardrail removal",
+    "IP risk",
+    "free tool"
+   ],
+   "url": "https://www.instagram.com/p/DeSf5MxNp-j/",
+   "author": "realrobertgutierrez",
+   "author_url": "https://www.instagram.com/realrobertgutierrez/",
+   "date": "2026-10-13",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Turning a creator's editing style into a Claude Code skill and 12-step SOP",
+   "synopsis": "The argument is that a short-form editor's signature look is a set of measurable rules, so instead of telling Claude Code to 'edit like Nick' you have it sample roughly 30 of that creator's videos and measure layout, pacing, captions and cuts into a specification document. A second prompt converts that document into a Claude skill encoding a twelve-step standard operating procedure, which then takes raw footage, proposes a storyboard for approval, and drafts and reviews its own edit until animation and timing match. The author's framing is that the model cannot interpret a stylistic instruction but executes rules and processes reliably, aimed at founders who avoid content because editing is too slow or too expensive.",
+   "keywords": [
+    "Claude Code",
+    "Claude Skills",
+    "video editing automation",
+    "style transfer",
+    "standard operating procedure",
+    "Opus 5.5"
+   ],
+   "url": "https://www.instagram.com/p/DeZ1JSRAAUY/",
+   "author": "ohyesinvest",
+   "author_url": "https://www.instagram.com/ohyesinvest/",
+   "date": "2026-10-13",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Free GitHub repo collects 500+ viral Claude-made videos with their exact prompts",
+   "synopsis": "A GitHub repository has gathered more than 500 viral videos produced with Claude Opus 5.5 alongside the prompts that generated each one, published free and browsable as a reference library. Rather than starting from a blank prompt, the workflow is to find a reference video whose look you want, copy its exact prompt, and adapt it to your own subject. The author presents it as one of the strongest available sources of motion-design inspiration and reusable prompts for content creators and marketers, with the repo link gated behind a comment.",
+   "keywords": [
+    "Claude Opus 5.5",
+    "prompt library",
+    "GitHub",
+    "motion design",
+    "AI video",
+    "content creation"
+   ],
+   "url": "https://www.instagram.com/p/DeYmKQwjIQ3/",
+   "author": "jordan.djebali",
+   "author_url": "https://www.instagram.com/jordan.djebali/",
+   "date": "2026-10-12",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Hugging Face measures the harness, not the model, deciding half of coding-agent performance",
+   "synopsis": "Hugging Face's guide to multi-harness reinforcement learning runs one small Liquid AI model, weights unchanged, through four coding agents people actually use including Claude Code, Codex, OpenCode and mini-SWE-agent, and the same model solves 62% of tasks in one and 33% in another. The only variable is the harness, the program wrapping the model that runs the loop, selects tools and assembles context, which explains the common experience of an AI appearing to get worse purely from switching tools. Rather than rewriting the agents, the researchers slide a recorder between harness and model to capture tokens for training inside all four at once, and found that practising in the real harness beat distilling answers from a larger model, which plateaued below both training runs.",
+   "keywords": [
+    "Hugging Face",
+    "harness engineering",
+    "reinforcement learning",
+    "Claude Code",
+    "mini-SWE-agent",
+    "Liquid AI"
+   ],
+   "url": "https://www.instagram.com/p/DeZ4sI6hZTZ/",
+   "author": "qendresahhoti",
+   "author_url": "https://www.instagram.com/qendresahhoti/",
+   "date": "2026-10-12",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Four task-specific small models for jobs where a general LLM is overpriced",
+   "synopsis": "A follow-up roundup of cheap, narrow models to use instead of a general-purpose LLM, continuing the Jev-style small-model theme. The four are Tencent's Hunyuan OCR 1.5 for parsing scanned documents, tables and formulas while preserving page structure; Microsoft's VibeVoice ASR for transcribing long recordings in one pass with speakers kept separate; a Mistral safety model, named in the reel as Shield 1.0, for moderation and policy checks before content reaches a user; and Ultralytics' YOLO26 depth variant for estimating distance from a single photograph. The framing throughout is model choice as a cost decision in an LLMOps pipeline rather than a capability one.",
+   "keywords": [
+    "small models",
+    "Hunyuan OCR 1.5",
+    "VibeVoice",
+    "YOLO26",
+    "LLMOps",
+    "model selection"
+   ],
+   "url": "https://www.instagram.com/p/DeZavC3DVD2/",
+   "author": "valohai",
+   "author_url": "https://www.instagram.com/valohai/",
+   "date": "2026-10-12",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "Claude Projects adds a coordinator, threads and shared memory",
    "synopsis": "A major Claude Projects update replaces hopping between separate chats with a per-project coordinator that dispatches work to separate agent threads, each of whose progress stays visible inside the single project. Every thread now feeds and reads a shared memory, which the host argues removes most of the need for prompt engineering. Coordinator and threads can also be given different models and thinking budgets — a lighter model to orchestrate, full power for the real work — and the host warns that configuration matters because token consumption can climb fast.",
    "keywords": [
@@ -4994,6 +5109,25 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Seedance 2.5 re-shoots one take from four camera angles without reshooting",
+   "synopsis": "A technique for generating multiple camera angles from a single existing take using Seedance 2.5, so the same footage yields different distances and scales without anything being shot twice. The workflow is to note every timecode where the camera should cut, hand those timecodes and desired angles to Claude to compose the prompt, then run it in Seedance 2.5 with the original video uploaded as reference. The step the author says people skip is explicitly instructing the model to preserve location, dialogue and action, without which it reinvents the scene entirely, and he advises generating one angle at a time rather than expecting a single pass to land.",
+   "keywords": [
+    "Seedance 2.5",
+    "camera angles",
+    "video-to-video",
+    "Claude",
+    "prompt engineering",
+    "AI video editing"
+   ],
+   "url": "https://www.instagram.com/p/DdXX4Llv8Pn/",
+   "author": "dash.werk",
+   "author_url": "https://www.instagram.com/dash.werk/",
+   "date": "2026-09-16",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "Open-source script-to-video pipeline that renders a full production (tool unnamed)",
    "synopsis": "The reel demonstrates an open-source video tool that takes a written script and returns a finished production, handling characters, episodes, scenes, storyboard, voiceover, editing and final export in one automated chain. Because it is open source it can be run locally, and the creator says short drama ads and product videos are the main uses so far. The tool is never named in either the caption or the audio - the link is released only to commenters - so the specific project cannot be identified from this post.",
    "keywords": [
@@ -5192,6 +5326,25 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Abliterated Qwen 3.8 run locally through the Hermes agent",
+   "synopsis": "A walkthrough of an abliterated, uncensored build of the open-source Qwen 3.8 model, downloaded from Hugging Face and driven locally through the Hermes Agent in LM Studio. The author tests the unrestricted variant against prompts a guardrailed model would refuse, positioning it as a fully local alternative with no API dependency. The practical catch is hardware: the post recommends substantial VRAM or a Mac Studio with 96GB and preferably 128GB of memory, noting it will run on a 32GB machine but slowly.",
+   "keywords": [
+    "Qwen 3.8",
+    "abliterated models",
+    "Hermes Agent",
+    "LM Studio",
+    "local inference",
+    "Hugging Face"
+   ],
+   "url": "https://www.instagram.com/p/Dc1-D4lvE22/",
+   "author": "codrkai",
+   "author_url": "https://www.instagram.com/codrkai/",
+   "date": "2026-09-03",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "7 codes slash pour piloter la generation d'images de GPT-Image-2",
    "synopsis": "Le createur presente sept mots-cles courts, ecrits comme des commandes slash, qui orientent GPT-Image-2 vers des concepts visuels que le modele maitrise deja: vue eclatee piece par piece, coupe en deux revelant le mecanisme, rendu radiographique, plan technique facon blueprint, ingredients etiquetes, page de carnet manuscrite et miniature YouTube. L'argument de fond est que depuis GPT-Image-2 le modele raisonne avant de dessiner, donc un mot-concept produit un rendu plus net qu'un paragraphe descriptif ecrit a la main. Les codes se combinent entre eux, par exemple /xray puis /blueprint sur le resultat, mais la liste complete des cinquante reste reservee aux commentaires.",
    "keywords": [
@@ -5228,60 +5381,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "The 10 Claude Code skills that change the most, plus how to write your own",
-   "synopsis": "Ben argues Claude Code gets far more useful once you stop re-explaining your method every session, and that a skill is nothing more than a folder holding one text file describing that method. The carousel ranks the ten skills he considers highest-impact, from searching a large codebase to a meta-skill that writes new skills for you. The linked 11-page guide adds what the carousel cannot hold: the exact trigger phrase for each skill, the two real install commands, a complete SKILL.md to copy, and the three usual reasons a skill fails to fire.",
-   "keywords": [
-    "Claude Code",
-    "Agent Skills",
-    "SKILL.md",
-    "meta-skill",
-    "developer workflow"
-   ],
-   "url": "https://www.instagram.com/p/DcoEErTlbHN/",
-   "author": "bencodezero",
-   "author_url": "https://www.instagram.com/bencodezero/",
-   "date": "2026-08-29",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "A developer open-sources a 10-month Claude Code setup: 286 skills, 68 sub-agents",
-   "synopsis": "Eric walks through a GitHub user's Claude Code configuration built over ten months of live production work and then released publicly, containing 286 skills, 68 sub-agents and a security scanner originally written at an Anthropic hackathon. Rather than one general agent, the setup routes each job to a purpose-built sub-agent: one writes the feature, another reviews it, another runs 102 security checks looking for leaks. A plain-markdown memory vault on the local machine carries context across days and across tools into Codex, and the setup watches finished sessions and converts what worked into new skills automatically.",
-   "keywords": [
-    "Claude Code",
-    "sub-agents",
-    "Agent Skills",
-    "security scanner",
-    "memory vault"
-   ],
-   "url": "https://www.instagram.com/p/DcoU-a2D1uC/",
-   "author": "erictechpro",
-   "author_url": "https://www.instagram.com/erictechpro/",
-   "date": "2026-08-29",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Free open-source cinematic video generation with sound",
-   "synopsis": "The creator dropped paid AI video subscriptions after finding a free open-source alternative. It generates cinematic video with sound effects from either text or images. Camera movement, effects, styles and scenes are controllable, and running it locally removes any cap on generations.",
-   "keywords": [
-    "open source",
-    "AI video",
-    "local inference",
-    "sound effects",
-    "text-to-video"
-   ],
-   "url": "https://www.instagram.com/p/Dckx4ClDjAb/",
-   "author": "sferro.ai",
-   "author_url": "https://www.instagram.com/sferro.ai/",
-   "date": "2026-08-28",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "Open Art turns one sentence into a directed explainer video",
    "synopsis": "The whole demo video began from the single prompt “explain gravity”, with every subsequent refinement handled through conversation rather than a timeline. Testing it live on “explain recursion in a 30-second video”, the creator finds the tool generates a storyboard with GPT Image 2 and the audio track with Lyria, behind a paywall he ends up subscribing to. A second run explaining inflation in an anime style — which it chose to render in Spanish — also lands, and he rates it a “fact”.",
    "keywords": [
@@ -5300,24 +5399,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Ten open-source repos worth 500,000 GitHub stars for Claude Code users",
-   "synopsis": "Neej rounds up ten repositories that collectively hold over half a million GitHub stars, framed around what each adds to a Claude Code session. The coding-focused entries include GSD, which runs a build as a spec-driven loop that survives long sessions, graphify, which turns a codebase into a knowledge graph so the model stops re-reading files, and an official OpenAI plugin putting Codex inside Claude Code for second opinions on diffs. The rest span design and media tooling: diagram-design and impeccable against AI design slop, scroll-world for 3D landing pages, cap as an open-source Loom, MoneyPrinterTurbo for vertical video, the xAI For You ranking code, and Block's buzz for agents in team chat.",
-   "keywords": [
-    "Claude Code",
-    "GSD",
-    "graphify",
-    "Codex plugin",
-    "open source"
-   ],
-   "url": "https://www.instagram.com/p/DcgjbHxkVFh/",
-   "author": "buildwithneej",
-   "author_url": "https://www.instagram.com/buildwithneej/",
-   "date": "2026-08-26",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "screenshot-to-code: the GitHub repo that clones a website from an image properly",
    "synopsis": "The creator tests a repo called screenshot to code against the usual failure mode, where handing Claude a reference link produces something that barely resembles the original. After cloning the repo and adding environment variables, he runs a Crunchyroll clone through it and races the same task against Claude Code for comparison. The repo's output is clearly better — it correctly grabbed the logo and used the actual cover art — earning a “fact” verdict.",
    "keywords": [
@@ -5331,60 +5412,6 @@
    "author": "itstundeanthony",
    "author_url": "https://www.instagram.com/itstundeanthony/",
    "date": "2026-08-25",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Ox Alpha: a mystery model nobody has claimed",
-   "synopsis": "An AI model called Ox Alpha appeared on 20 August with no stated maker, and over 220,000 people tested it within three days. It is free for a limited window, handles a one-million-token context, and is multimodal across text, image and video input. It is built for code and agentic tasks, and the community suspects a Chinese lab, though nothing is confirmed.",
-   "keywords": [
-    "Ox Alpha",
-    "stealth model",
-    "1M context",
-    "multimodal",
-    "agentic AI"
-   ],
-   "url": "https://www.instagram.com/p/DcZbGQZN-W4/",
-   "author": "unefille.ia",
-   "author_url": "https://www.instagram.com/unefille.ia/",
-   "date": "2026-08-23",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Five open-source repos that replace five paid platforms",
-   "synopsis": "A rundown of five free GitHub projects standing in for commercial SaaS. Twenty replaces Salesforce with contacts, companies, pipelines and automations; Voicebox by Jamie Pine replaces ElevenLabs with text-to-speech, dictation and voice cloning across 100+ voices; Crawl4AI scrapes sites including Reddit and LinkedIn that paid tools like Apify are restricted from. NocoDB replaces Airtable with grids, forms, Kanban and an API over an existing database, and OpenDesign covers design generation via Kimi K3 and OpenRouter.",
-   "keywords": [
-    "Twenty CRM",
-    "Voicebox",
-    "Crawl4AI",
-    "NocoDB",
-    "open source"
-   ],
-   "url": "https://www.instagram.com/p/DcSIIcAs8-4/",
-   "author": "ibraviz.ai",
-   "author_url": "https://www.instagram.com/ibraviz.ai/",
-   "date": "2026-08-21",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Lumen: a seven-agent crew that runs a YouTube channel",
-   "synopsis": "Lumen is a free AI agent system that takes a YouTube channel end to end, from idea to publication. Seven agents split the work: trend analysis and content strategy, scripts with hooks and calls to action, thumbnail generation and A/B testing, SEO on titles and keywords, production covering voice and visuals and editing, then scheduling and publishing. The seventh is the differentiator, analysing performance after each video and feeding the data back to the whole crew.",
-   "keywords": [
-    "Lumen",
-    "AI agents",
-    "YouTube automation",
-    "content strategy",
-    "SEO"
-   ],
-   "url": "https://www.instagram.com/p/DcRIB79MZ-n/",
-   "author": "simon_de_lima",
-   "author_url": "https://www.instagram.com/simon_de_lima/",
-   "date": "2026-08-20",
    "following": true,
    "confidence": "high"
   },
@@ -6819,6 +6846,63 @@
   },
   {
    "folder": "AI.Video",
+   "title": "Turning a creator's editing style into a Claude Code skill and 12-step SOP",
+   "synopsis": "The argument is that a short-form editor's signature look is a set of measurable rules, so instead of telling Claude Code to 'edit like Nick' you have it sample roughly 30 of that creator's videos and measure layout, pacing, captions and cuts into a specification document. A second prompt converts that document into a Claude skill encoding a twelve-step standard operating procedure, which then takes raw footage, proposes a storyboard for approval, and drafts and reviews its own edit until animation and timing match. The author's framing is that the model cannot interpret a stylistic instruction but executes rules and processes reliably, aimed at founders who avoid content because editing is too slow or too expensive.",
+   "keywords": [
+    "Claude Code",
+    "Claude Skills",
+    "video editing automation",
+    "style transfer",
+    "standard operating procedure",
+    "Opus 5.5"
+   ],
+   "url": "https://www.instagram.com/p/DeZ1JSRAAUY/",
+   "author": "ohyesinvest",
+   "author_url": "https://www.instagram.com/ohyesinvest/",
+   "date": "2026-10-13",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Free GitHub repo collects 500+ viral Claude-made videos with their exact prompts",
+   "synopsis": "A GitHub repository has gathered more than 500 viral videos produced with Claude Opus 5.5 alongside the prompts that generated each one, published free and browsable as a reference library. Rather than starting from a blank prompt, the workflow is to find a reference video whose look you want, copy its exact prompt, and adapt it to your own subject. The author presents it as one of the strongest available sources of motion-design inspiration and reusable prompts for content creators and marketers, with the repo link gated behind a comment.",
+   "keywords": [
+    "Claude Opus 5.5",
+    "prompt library",
+    "GitHub",
+    "motion design",
+    "AI video",
+    "content creation"
+   ],
+   "url": "https://www.instagram.com/p/DeYmKQwjIQ3/",
+   "author": "jordan.djebali",
+   "author_url": "https://www.instagram.com/jordan.djebali/",
+   "date": "2026-10-12",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "LTX 2.5 ships open weights with audio and video generated in one pass",
+   "synopsis": "LTX 2.5 is an open-weights video model, free to download and run locally on an ordinary Mac or Windows machine, which the post credits with 18 million downloads as evidence it works in practice. The feature it leads on is generating audio and video in a single pass, removing the usual step of stitching a voiceover onto a silent clip. It also holds multi-shot sequences, keeping character and lighting consistent across cuts where most AI video tools reset between renders and leave you matching mismatched clips by hand, and it is offered either as downloadable weights or through an API.",
+   "keywords": [
+    "LTX 2.5",
+    "open weights",
+    "audio-video generation",
+    "multi-shot consistency",
+    "local inference",
+    "Higgsfield alternative"
+   ],
+   "url": "https://www.instagram.com/p/DeXXn3Ggbpj/",
+   "author": "seymourofdevin",
+   "author_url": "https://www.instagram.com/seymourofdevin/",
+   "date": "2026-10-11",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "Every major Adobe tool rebuilt as clean-room open source",
    "synopsis": "Developer Brendan Thomas recreated all seven major Adobe tools as open-source software using a clean-room reimplementation, so none of Adobe's original code is involved and the work is not exposed to suit. The post argues this gives video, photo and motion-graphics work a free entry point without first climbing the After Effects learning curve. It also notes that cloud coding agents are already trained on these tools, so the editing can be automated rather than learned by hand.",
    "keywords": [
@@ -7163,6 +7247,25 @@
    "author_url": "https://www.instagram.com/bariqrifki/",
    "date": "2026-09-19",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Seedance 2.5 re-shoots one take from four camera angles without reshooting",
+   "synopsis": "A technique for generating multiple camera angles from a single existing take using Seedance 2.5, so the same footage yields different distances and scales without anything being shot twice. The workflow is to note every timecode where the camera should cut, hand those timecodes and desired angles to Claude to compose the prompt, then run it in Seedance 2.5 with the original video uploaded as reference. The step the author says people skip is explicitly instructing the model to preserve location, dialogue and action, without which it reinvents the scene entirely, and he advises generating one angle at a time rather than expecting a single pass to land.",
+   "keywords": [
+    "Seedance 2.5",
+    "camera angles",
+    "video-to-video",
+    "Claude",
+    "prompt engineering",
+    "AI video editing"
+   ],
+   "url": "https://www.instagram.com/p/DdXX4Llv8Pn/",
+   "author": "dash.werk",
+   "author_url": "https://www.instagram.com/dash.werk/",
+   "date": "2026-09-16",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -7933,40 +8036,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Seedance 2.5 coming to Higgsfield with unlimited promo",
-   "synopsis": "Higgsfield announces that Seedance 2.5 is coming soon to its platform. The launch offer bundles 14 days of unlimited Seedance, starting with 7 days of unlimited Seedance 2.0 in 4K, billed as the most premium Seedance model. Users can then switch to any other Seedance model for 7 more days.",
-   "keywords": [
-    "Seedance 2.5",
-    "Seedance 2.0",
-    "Higgsfield",
-    "4K AI video"
-   ],
-   "url": "https://www.instagram.com/p/DbeAe-ICW7y/",
-   "author": "higgsfield.ai",
-   "author_url": "https://www.instagram.com/higgsfield.ai/",
-   "date": "2026-07-31",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "DeeVid AI Viral Studio one-click Spider-Man trend",
-   "synopsis": "DeeVid AI promotes its Viral Studio feature riding the Spider-Man transformation trend flooding feeds. Users upload a single photo and the tool composites them into the suit, pose, and city-skyline backdrop built around their own face. Access to the link is gated behind commenting the word SPIDER.",
-   "keywords": [
-    "DeeVid AI",
-    "Viral Studio",
-    "face swap",
-    "one-click video trend"
-   ],
-   "url": "https://www.instagram.com/p/DbXMv-JSNmb/",
-   "author": "deevidai",
-   "author_url": "https://www.instagram.com/deevidai/",
-   "date": "2026-07-29",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "Character sheets fix AI face drift between video shots",
    "synopsis": "The creator addresses the common failure where AI-generated characters change faces between shots when a scene is thrown directly at a video model. His fix is to build a character sheet before animating, using a node-based AI canvas with an image node dedicated to the character. The full workflow breakdown is gated behind a comment-to-DM funnel.",
    "keywords": [
@@ -8016,40 +8085,6 @@
    "author_url": "https://www.instagram.com/keyyzako/",
    "date": "2026-07-24",
    "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Google Vids: free all-in-one AI video creation tool",
-   "synopsis": "The post announces that Google released a free AI video tool, identified by hashtags as Google Vids, that creates full videos without limits. It generates scenes from text and combines AI avatars, voiceovers, images, and music with editing in a single place. The link is distributed through a comment-to-DM mechanic.",
-   "keywords": [
-    "Google Vids",
-    "Google AI",
-    "AI avatars",
-    "text-to-video"
-   ],
-   "url": "https://www.instagram.com/p/DbGC6JamtQw/",
-   "author": "sebintel",
-   "author_url": "https://www.instagram.com/sebintel/",
-   "date": "2026-07-22",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Claude edits a full video with no timeline or keyframes",
-   "synopsis": "This French creator claims the video was never opened in an editing suite, with no timeline or hand-placed keyframes. He simply described the desired result and Claude performed the entire edit, which he frames as removing the traditional barrier of not knowing how to edit. His full system guide is delivered via DM to those commenting MONTAGE.",
-   "keywords": [
-    "Claude",
-    "AI video editing",
-    "prompt-driven montage",
-    "no-timeline workflow"
-   ],
-   "url": "https://www.instagram.com/p/DbAp0UgIIc-/",
-   "author": "lemondedumarketing",
-   "author_url": "https://www.instagram.com/lemondedumarketing/",
-   "date": "2026-07-20",
-   "following": true,
    "confidence": "high"
   },
   {
