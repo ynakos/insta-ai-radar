@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T10:13:35+00:00",
+ "generated_at": "2026-10-15T08:35:12+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -4122,6 +4122,42 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "A three-step order for learning LLMs, ending at Karpathy's $48 nanochat run",
+   "synopsis": "The hook is a cost collapse — training GPT-2 ran about $43,000 in 2019, while Andrej Karpathy's nanochat reproduces a comparable model in roughly two hours of rented GPU time for about $48. The post's actual argument is that nanochat is the last step rather than the first, and it proposes an order: start with Karpathy's free YouTube lecture building a GPT line by line, then work through Sebastian Raschka's rasbt/LLMs-from-scratch repo and its seven chapters from tokenizer to fine-tuning, and only then rent GPUs for a nanochat run. The creator is explicit that what you get is a 2019-class model and not ChatGPT, the point being that having built one end to end removes any sense that LLMs are magic.",
+   "keywords": [
+    "nanochat",
+    "Andrej Karpathy",
+    "LLMs-from-scratch",
+    "GPT-2",
+    "LLM training"
+   ],
+   "url": "https://www.instagram.com/p/DeelOmFxjQY/",
+   "author": "anas.helloworld",
+   "author_url": "https://www.instagram.com/anas.helloworld/",
+   "date": "2026-10-14",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "\"Roast Room\": seven business-mentor subagents debating a decision in Claude Code",
+   "synopsis": "Nate Herk demos a free Claude Code skill he calls the Roast Room, which launches seven subagents modelled on Jeff Bezos, Warren Buffett, Paul Graham, Alex Hormozi, Gary Vaynerchuk, Dan Martell and Gino Wickman and has them argue a prompt out among themselves before voting. Each persona is backed by a brains folder holding books, frameworks, positions, principles, sources, stories and voice scraped from public talks — over 1.3 million words for Hormozi alone — so the subagents answer from a corpus rather than a one-line character sketch. The deliverable is a PDF recording what the council decided, the weighted average scores per option, the recommendation and the key points; the visual interface is optional, since the same session run directly in Claude Code produces the same output.",
+   "keywords": [
+    "Claude Code",
+    "Claude skills",
+    "subagents",
+    "multi-agent debate",
+    "decision support"
+   ],
+   "url": "https://www.instagram.com/p/DeaxjcMBKBy/",
+   "author": "nateherkai",
+   "author_url": "https://www.instagram.com/nateherkai/",
+   "date": "2026-10-13",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "Website-cloning tool driven by twelve abliterated agents is released free",
    "synopsis": "The author announces that a previously paid tool has been made free, giving anyone access to an abliterated, guardrail-stripped model stack described as the unrestricted equivalent of ChatGPT and Claude. You supply a URL and an array of twelve abliterated AI agents reconstructs the site or software behind it, the pitch being that you no longer settle for a generic AI-built landing page when you can rebuild one you already like. Because an exact copy is not supplied, the tool regenerates the visuals and branding to the user's own specification, which is framed as making any digital asset yours and is plainly an intellectual-property grey zone worth flagging.",
    "keywords": [
@@ -4267,6 +4303,24 @@
    "author": "seymourofdevin",
    "author_url": "https://www.instagram.com/seymourofdevin/",
    "date": "2026-10-10",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Ten keyword \"commands\" that change how ChatGPT explains a topic",
+   "synopsis": "Sabrina Ramonov walks through ten keywords you can drop anywhere into a ChatGPT prompt to change the shape of the explanation rather than the question itself: ELI5 for plain-language answers, 80/20 to surface only the most useful fifth of a topic, FEYNMAN-TECHNIQUE to force the model to explain until gaps show, FIRSTPRINCIPLES to rebuild a subject from its base ideas, and SOCRATES to be taught through questions instead of handed a conclusion. A second group asks for visual artefacts instead of prose — MAKE-STICKY-NOTES, MAKE-MINDMAP, MAKE-VISUAL-STUDYGUIDE and MAKE-SCHEMATIC each render the same material as a one-page guide, map, study sheet or schematic diagram. QUIZME rounds it out by making the model ask one question at a time until the topic sticks, and the advice is to start with a single command pasted alongside your own material rather than adopting all ten at once.",
+   "keywords": [
+    "ChatGPT",
+    "prompt engineering",
+    "ELI5",
+    "Feynman technique",
+    "study workflows"
+   ],
+   "url": "https://www.instagram.com/p/DeR3Gd8FJvs/",
+   "author": "sabrina_ramonov",
+   "author_url": "https://www.instagram.com/sabrina_ramonov/",
+   "date": "2026-10-09",
    "following": true,
    "confidence": "high"
   },
@@ -5201,60 +5255,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Token Hacking ep. 4: Grok Ultra's usage allowance versus Claude Max",
-   "synopsis": "Episode four of a workflow series comparing what the major coding plans actually give you in API-equivalent terms: a $200 Claude Max plan works out to over $7,000 of monthly API usage, while the $300 Grok Ultra plan is put at over $12,000. The creator has been running Claude 5.1 as the reasoning layer with Codex as the executor, but the Grok allowance is enough to make him reconsider the split. The proposed next experiment is Fable as the brains and GrokBot as the hands, with results promised in a follow-up.",
-   "keywords": [
-    "Grok Ultra",
-    "Claude Max",
-    "token economics",
-    "Codex",
-    "AI coding workflow"
-   ],
-   "url": "https://www.instagram.com/p/DdMoE8qhnKE/",
-   "author": "duck.tate",
-   "author_url": "https://www.instagram.com/duck.tate/",
-   "date": "2026-09-12",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Tencent DB Agent Memory: four-tier local recall for AI agents",
-   "synopsis": "Tencent open-sourced a fully local memory system addressing the fact that every agent session starts from zero, with no recollection of who you are, what you prefer, or what you worked on last week. The design mirrors human memory in four tiers — short-term handling the current exchange, long-term accumulating habits, preferences and personality — with the system watching conversations and extracting durable facts like a preference for Python or for concise answers. The reported effect is a 61% cut in token cost and over 50% improvement in task success, largely because the agent stops re-reading the same background into its context window every session.",
-   "keywords": [
-    "Tencent DB Agent Memory",
-    "agent memory",
-    "open source",
-    "token costs",
-    "local-first"
-   ],
-   "url": "https://www.instagram.com/p/DdKExW5t68N/",
-   "author": "felixcallahan.ai",
-   "author_url": "https://www.instagram.com/felixcallahan.ai/",
-   "date": "2026-09-11",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Claude plus a trending GitHub scraper, tested on real French lead generation",
-   "synopsis": "The tool — the week's number one trending GitHub project — lets Claude search the web or walk through business directories, collect publicly listed contact details and return them as a clean table. The creator tests it properly rather than just demoing it, asking for transport companies in the Oise département to pitch a fleet-management app; after roughly half an hour Claude returns company name, city, director's name, website, email and phone, which he spot-checks and finds accurate. His verdict is that it is not bullshit, though the caption adds a pointed GDPR warning about what you then do with the list.",
-   "keywords": [
-    "Claude",
-    "lead scraping",
-    "GitHub",
-    "GDPR",
-    "sales prospecting"
-   ],
-   "url": "https://www.instagram.com/p/DdJruPjO3LU/",
-   "author": "justezaki_",
-   "author_url": "https://www.instagram.com/justezaki_/",
-   "date": "2026-09-11",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "Higgsfield Genjutsu keeps the motion and swaps everyone in the frame (FR)",
    "synopsis": "Genjutsu, Higgsfield's new model, preserves the movement of a source video while replacing the person, the objects and the entire set around them. The reel opens with staged scam scenarios - a fake distressed relative asking for 800 euros, a bogus anti-fraud agent, an invented doctor pushing a supplement - to show that the lip-sync desynchronisation, blurred contours and vanishing details that used to betray AI video are essentially gone. The creator's position is that the result is stunning for advertising and film but alarming for fraud, and that testing these tools is the only way to understand either side.",
    "keywords": [
@@ -5308,24 +5308,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Prompt Master, a free Claude skill that rewrites your prompt before Claude answers",
-   "synopsis": "Prompt Master — 11,000 GitHub stars, free — targets the loop where you type a rough prompt, Claude does literally what you asked, and you burn several follow-up messages explaining what you actually meant. It takes one messy sentence and returns a finished prompt specifying what to output, which files to touch, and when to stop, having run the input through 35 known credit-wasting patterns. Setup is a one-minute upload via Claude's Customize → Skills panel, it retains decisions already made so they don't get lost mid-chat, and it works on ChatGPT and Cursor too.",
-   "keywords": [
-    "Prompt Master",
-    "Claude skills",
-    "prompt engineering",
-    "token savings",
-    "open source"
-   ],
-   "url": "https://www.instagram.com/p/Dc6dINIT27E/",
-   "author": "tessa.fairbrook",
-   "author_url": "https://www.instagram.com/tessa.fairbrook/",
-   "date": "2026-09-05",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "Abliterated Qwen 3.8 run locally through the Hermes agent",
    "synopsis": "A walkthrough of an abliterated, uncensored build of the open-source Qwen 3.8 model, downloaded from Hugging Face and driven locally through the Hermes Agent in LM Studio. The author tests the unrestricted variant against prompts a guardrailed model would refuse, positioning it as a fully local alternative with no API dependency. The practical catch is hardware: the post recommends substantial VRAM or a Mac Studio with 96GB and preferably 128GB of memory, noting it will run on a 32GB machine but slowly.",
    "keywords": [
@@ -5359,24 +5341,6 @@
    "author_url": "https://www.instagram.com/lemondedumarketing/",
    "date": "2026-09-03",
    "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Five ChatGPT slash-commands that turn a product photo into ad creative",
-   "synopsis": "A Brazilian-Portuguese reel walking through five shorthand commands and what each produces: /busstopad renders your product as a realistic bus-shelter poster, /metaad builds a professional Instagram and Facebook ad, /darkpremium restyles it as a dark, luxury-brand campaign, /splashhero generates the impact hero image used on big-brand sites, and /scrollstopper makes a visual designed to arrest a scrolling feed. Unusually for the genre, the five codes are actually demonstrated rather than merely teased. A further hundred codes and a paid 30-day AI course sit behind the comment gate.",
-   "keywords": [
-    "ChatGPT",
-    "slash commands",
-    "ad creative",
-    "product photography",
-    "prompt pack"
-   ],
-   "url": "https://www.instagram.com/p/DcuUyhyBs45/",
-   "author": "thaysfreire.ia",
-   "author_url": "https://www.instagram.com/thaysfreire.ia/",
-   "date": "2026-09-01",
-   "following": false,
    "confidence": "high"
   },
   {
@@ -5435,6 +5399,24 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Wiring an Obsidian vault into Claude Desktop through the Docker MCP catalog",
+   "synopsis": "Codrkai screen-records the full setup for letting Claude read and write an Obsidian vault, starting from installing Obsidian, creating the vault folder and letting it map whatever files are dropped in. The bridge is the community plugin Local REST API with MCP, which exposes an API key (the key only, not the Bearer prefix) that is then pasted as a secret into Docker Desktop's MCP Tools catalog, where the Obsidian server is enabled, added to a profile and attached to the Claude Desktop client. Verification is done from Claude Desktop under customize connectors, where the vault appears behind the MCP Docker connector, after which Claude can be asked to organise the vault or file chats and code into it.",
+   "keywords": [
+    "Obsidian",
+    "Claude Desktop",
+    "MCP",
+    "Docker MCP catalog",
+    "Local REST API plugin"
+   ],
+   "url": "https://www.instagram.com/p/DaJkUd2pqyT/",
+   "author": "codrkai",
+   "author_url": "https://www.instagram.com/codrkai/",
+   "date": "2026-06-29",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "OpenWA: a self-hosted, MIT-licensed WhatsApp API with no per-message fees",
    "synopsis": "OpenWA is an open-source WhatsApp API you deploy on your own server with a single Docker command, removing the per-message billing of the official Business API. One instance handles unlimited WhatsApp accounts and exposes messages, media, reactions and bulk sends through a REST API, with webhooks, a React dashboard and audit logs included. It is MIT licensed with a pluggable backend, so there is no middleman between the sender and the platform.",
    "keywords": [
@@ -5449,6 +5431,24 @@
    "author_url": "https://www.instagram.com/marc.kaz/",
    "date": "2026-06-14",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "SubQ claims the first frontier model that drops the Transformer",
+   "synopsis": "A Miami startup called SubQ claims to have shipped the first frontier model not built on the Transformer, targeting dense self-attention's O(n squared) cost — every token compared against every other token, so doubling the input quadruples the compute, a tax every model has paid since 2017. Its approach, sub-quadratic sparse attention, has each token dynamically attend only to the most relevant others, pushing scaling closer to linear and yielding a claimed native 12-million-token context window, roughly 52x faster than flash attention at 1M tokens and about a fifth the cost of GPT-5.5 or Claude Opus on long-context work. The post closes on its own caveat: no independent party has benchmarked SubQ on long-context tasks that matter, the model is in private beta, and Transformers have survived every architectural challenge for nine years — though the wall it attacks is real.",
+   "keywords": [
+    "SubQ",
+    "sparse attention",
+    "Transformer alternatives",
+    "long context",
+    "flash attention"
+   ],
+   "url": "https://www.instagram.com/p/DZNLew5MDKv/",
+   "author": "poojaduttttt",
+   "author_url": "https://www.instagram.com/poojaduttttt/",
+   "date": "2026-06-05",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -6846,6 +6846,25 @@
   },
   {
    "folder": "AI.Video",
+   "title": "A five-tool local stack that lets Claude Code edit video end to end",
+   "synopsis": "Kappa.ai lays out the toolchain behind \"Claude edits my videos\", distributed as a single file you drop into Claude Code that installs everything itself, runs locally on Mac or Windows, and needs no API keys or extra subscriptions. The pieces are HyperFrames as the video engine where the project lives (Remotion works in its place if you already use it), Whisper so Claude transcribes every word and places subtitles on time, CLAP so it can identify each sound and find similar ones in your library, Demucs to split a track into voice, drums, bass and the rest, and Blender so 3D objects are built locally instead of burning credits per shot. Once installed, the workflow is to describe the video you want and let Claude start cutting; an existing Higgsfield subscription can optionally be connected on top.",
+   "keywords": [
+    "Claude Code",
+    "HyperFrames",
+    "Demucs",
+    "CLAP",
+    "Whisper",
+    "Blender"
+   ],
+   "url": "https://www.instagram.com/p/DecYkDcI799/",
+   "author": "kappa.ai",
+   "author_url": "https://www.instagram.com/kappa.ai/",
+   "date": "2026-10-13",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "Turning a creator's editing style into a Claude Code skill and 12-step SOP",
    "synopsis": "The argument is that a short-form editor's signature look is a set of measurable rules, so instead of telling Claude Code to 'edit like Nick' you have it sample roughly 30 of that creator's videos and measure layout, pacing, captions and cuts into a specification document. A second prompt converts that document into a Claude skill encoding a twelve-step standard operating procedure, which then takes raw footage, proposes a storyboard for approval, and drafts and reviews its own edit until animation and timing match. The author's framing is that the model cannot interpret a stylistic instruction but executes rules and processes reliably, aimed at founders who avoid content because editing is too slow or too expensive.",
    "keywords": [
@@ -6917,6 +6936,25 @@
    "author": "kevbuildsapps",
    "author_url": "https://www.instagram.com/kevbuildsapps/",
    "date": "2026-10-09",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Open-source reconstruction of Higgsfield's Genjutsu video pipeline",
+   "synopsis": "Sirio reverse-engineers Higgsfield's Genjutsu effect and open-sources the whole pipeline: the uploaded video's audio is split into voice and music stems, the music is muted and the voice pitched up three semitones, then Video Depth Anything applies a depth mask from which the subject is segmented and laid back over the original footage. A mesh mask tracking over 478 points is generated alongside and saved as JSON, and the merged segmentation plus inputs are passed to Seedance for generation — the subject being unrecognisable and the voice pitched is what keeps the output clear of copyrighted likeness — before the original audio is restored at the end. He ships a GitHub repo, a simple UI, a tutorial and an agent skill; the only paid dependency is a Seedance enhancer API key, and he notes the same segment-and-replace workflow generalises to swapping any background or object.",
+   "keywords": [
+    "Higgsfield Genjutsu",
+    "Seedance",
+    "Video Depth Anything",
+    "segmentation",
+    "mesh tracking",
+    "open source"
+   ],
+   "url": "https://www.instagram.com/p/DePSAeQxJjP/",
+   "author": "heysirio",
+   "author_url": "https://www.instagram.com/heysirio/",
+   "date": "2026-10-08",
    "following": true,
    "confidence": "high"
   },
@@ -8001,24 +8039,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Seedance 2.5 lands with 30-second single-take generation and native audio",
-   "synopsis": "ByteDance's Seedance 2.5 generates continuous videos up to thirty seconds in a single generation while holding character, scene, and object consistency from start to finish. It accepts up to 50 reference images for people, products, brands, and environments, and allows editing a single detail without regenerating the whole video. Video and native audio are created together in one workflow, which the creator calls one of the biggest video model updates so far.",
-   "keywords": [
-    "Seedance 2.5",
-    "ByteDance",
-    "AI video",
-    "native audio",
-    "character consistency"
-   ],
-   "url": "https://www.instagram.com/p/DbilRIUElqz/",
-   "author": "sferro.ai",
-   "author_url": "https://www.instagram.com/sferro.ai/",
-   "date": "2026-08-02",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "A Spider-Man sequence generated entirely with Seedance 2.0",
    "synopsis": "Every web swing, gravity-defying movement, and cinematic transition in this sequence was generated with Seedance 2.0. The creator presents it as evidence the model turns simple ideas into blockbuster-style sequences. The result is described as dynamic, energetic, and unusually smooth.",
    "keywords": [
@@ -8031,23 +8051,6 @@
    "author": "fetoaciatania",
    "author_url": "https://www.instagram.com/fetoaciatania/",
    "date": "2026-07-31",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Character sheets fix AI face drift between video shots",
-   "synopsis": "The creator addresses the common failure where AI-generated characters change faces between shots when a scene is thrown directly at a video model. His fix is to build a character sheet before animating, using a node-based AI canvas with an image node dedicated to the character. The full workflow breakdown is gated behind a comment-to-DM funnel.",
-   "keywords": [
-    "character sheet workflow",
-    "AI video consistency",
-    "node-based AI canvas",
-    "image-to-video"
-   ],
-   "url": "https://www.instagram.com/p/DbNxSlgMb42/",
-   "author": "mr.evansugo",
-   "author_url": "https://www.instagram.com/mr.evansugo/",
-   "date": "2026-07-25",
    "following": false,
    "confidence": "high"
   },
