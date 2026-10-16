@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T08:35:12+00:00",
+ "generated_at": "2026-10-16T03:10:47+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -7088,25 +7088,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Cloning a viral creator with Codex character sheets and Higgsfield Genjutsu",
-   "synopsis": "Opening on the claim that most people can no longer tell AI-generated video from real footage, the creator demonstrates the full pipeline on a character who gained 240,000 followers in about a week. He pastes the video link into Codex and asks for a photorealistic character sheet, then brings that sheet into Higgsfield's newly released Genjutsu model. To test virality he compounds recognisable elements - generating a Cybertruck character sheet and mapping it onto an already-viral clip of an old man telling someone to stop fishing his spot.",
-   "keywords": [
-    "Higgsfield",
-    "Genjutsu",
-    "Codex",
-    "character sheet",
-    "AI video",
-    "synthetic media"
-   ],
-   "url": "https://www.instagram.com/p/DdwYuHMOB1p/",
-   "author": "ty.farrago",
-   "author_url": "https://www.instagram.com/ty.farrago/",
-   "date": "2026-09-26",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "Running Higgsfield's Genjutsu from inside ChatGPT with a slash command",
    "synopsis": "Higgsfield's JENJUTSU workflow combines a reference image with a video of yourself, transforming the scene and the identity while preserving your actual movement and performance. The creator shows the route through ChatGPT: install the Higgsfield plugin, start a new chat, upload the photo of the person or character to become plus a video of yourself moving, then tag Higgsfield and send slash Genjutsu. The division of labour is the point he stresses - the photo supplies identity and setting while the video supplies motion and performance, so one recorded clip becomes an unlimited number of different videos simply by swapping the reference image.",
    "keywords": [
@@ -8035,6 +8016,25 @@
    "author_url": "https://www.instagram.com/keemfinity/",
    "date": "2026-08-03",
    "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Seedance 2.5: 30-second single-shot video, 50 reference images, native audio",
+   "synopsis": "Sferro walks through ByteDance's Seedance 2.5 release, whose headline change is duration — a single generation now produces up to 30 seconds of continuous video while holding character, scene and object identity stable from first frame to last, which is the failure mode that forced earlier models into short stitched clips. Conditioning scales with it: up to 50 reference images can be supplied for people, products, brands and environments, and a single detail can be edited without regenerating the whole shot, turning an iteration cycle that used to mean a full re-roll into a local fix. Video and native audio are now generated together in one workflow, which is what makes the model a plausible end-to-end tool for AI ads, product videos and cinematic shorts rather than a silent-footage generator.",
+   "keywords": [
+    "Seedance 2.5",
+    "ByteDance",
+    "AI video generation",
+    "character consistency",
+    "reference images",
+    "native audio"
+   ],
+   "url": "https://www.instagram.com/p/DbilRIUElqz/",
+   "author": "sferro.ai",
+   "author_url": "https://www.instagram.com/sferro.ai/",
+   "date": "2026-08-02",
+   "following": true,
    "confidence": "high"
   },
   {
