@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T03:10:47+00:00",
+ "generated_at": "2026-10-17T03:16:07+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -3122,23 +3122,6 @@
   },
   {
    "folder": "AI.ETHICS",
-   "title": "Off-grid messaging tutorial with Meshtastic LoRa gear",
-   "synopsis": "A hands-on French tutorial for communicating when the internet or mobile network is down, based on a video by @arthurbfrd. It lists the exact hardware: a Heltec Automation V3 LoRa board (863-928 MHz) plus a 3.7V LiPo battery with JST 1.25mm connector. The build produces an off-grid mesh messaging node in the Meshtastic style.",
-   "keywords": [
-    "Meshtastic/LoRa",
-    "Heltec V3",
-    "off-grid communication",
-    "DIY hardware"
-   ],
-   "url": "https://www.instagram.com/p/DYz3Vfptd8-/",
-   "author": "madamet3ch",
-   "author_url": "https://www.instagram.com/madamet3ch/",
-   "date": "2026-05-26",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.ETHICS",
    "title": "Matrix Awakens scene reframed for the deepfake era",
    "synopsis": "The video uses the opening scene of The Matrix Awakens to ask what 'real' means when AI can think, create, and speak like humans. It argues the scene hits harder today because synthetic worlds, faces, and voices increasingly feel more alive than our own. It is a philosophical short on AI blurring the human-machine boundary.",
    "keywords": [
@@ -4117,6 +4100,25 @@
    "author": "nextwave.ma_",
    "author_url": "https://www.instagram.com/nextwave.ma_/",
    "date": "2025-08-12",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Build your own AI inference engine in six steps with vLLM and Qwen",
+   "synopsis": "Linda Vivah walks through a free Akamai Developers GitHub repo that stands up a self-hosted inference stack in six steps: provision a GPU-backed Kubernetes cluster for roughly 50 cents an hour, deploy vLLM as the open-source inference server loading the open-weight Qwen model, then port-forward a private tunnel from the laptop to the cluster. Because the vLLM endpoint is OpenAI-compatible, existing code is repointed by swapping only the base URL, with no rewrite. The last two steps put the server under load so the KV cache and continuous batching are visible live, then deploy a tool-calling agent running entirely on the self-owned inference, the stated payoff being cost, privacy and control plus a working mental model of what an AI API actually rents you.",
+   "keywords": [
+    "vLLM",
+    "Qwen",
+    "Kubernetes",
+    "KV cache",
+    "self-hosted inference",
+    "Akamai Cloud"
+   ],
+   "url": "https://www.instagram.com/p/DeiEOjfMczf/",
+   "author": "lindavivah",
+   "author_url": "https://www.instagram.com/lindavivah/",
+   "date": "2026-10-15",
    "following": false,
    "confidence": "high"
   },
@@ -5237,6 +5239,25 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "oMLX: running local LLMs fast on Apple Silicon and wiring them into Hermes",
+   "synopsis": "A Mac-only setup walkthrough for oMLX, a local inference server that optimizes models for Apple Silicon via the MLX framework, installed from a DMG published on the project's GitHub releases page. After setting an API key as the admin password, the built-in model downloader pulls a Qwen 3.5 9B checkpoint, which the author tests on a multi-stock web-search prompt that returns a sourced answer in about three minutes. The second half connects the server to the Hermes desktop client as a custom OpenAI-compatible endpoint at localhost:8000/v1, and the author rates oMLX above comparable MLX servers he tried for its context-window handling and automatic model downloads on a 32 GB M2 Pro.",
+   "keywords": [
+    "oMLX",
+    "Apple Silicon",
+    "MLX",
+    "Qwen3",
+    "Hermes",
+    "local LLM"
+   ],
+   "url": "https://www.instagram.com/p/DdKw4ivp5Oa/",
+   "author": "codrkai",
+   "author_url": "https://www.instagram.com/codrkai/",
+   "date": "2026-09-12",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "Running a 744B-parameter model on a laptop with no GPU, via the Calibri project",
    "synopsis": "An Italian developer ran GLM 5.2 — a 744-billion-parameter open model — on a laptop with no graphics card, using a project called Calibri. It works because only around 10 GB of the model is active at any moment, so Calibri holds that slice in RAM and streams the rest off disk on demand, the way a video service streams rather than downloading. Setup is cloning the repo and running one script; the heavy part is the 370 GB model download, after which it runs fully offline, and a serve mode exposes it as an OpenAI-compatible endpoint so a one-line code change drops your token bill to zero.",
    "keywords": [
@@ -5268,41 +5289,6 @@
    "author": "ninon.ia_officiel",
    "author_url": "https://www.instagram.com/ninon.ia_officiel/",
    "date": "2026-09-10",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Free Token: a Berkeley/MIT project running frontier-scale models on local hardware",
-   "synopsis": "Free Token is an Apache 2.0 open-source release from Berkeley and MIT researchers aimed at removing the API bill from local AI work. Three claims anchor the pitch: you can point Claude Code at your own machine with no API key (the researchers tested this themselves), you can run a 753-billion-parameter model on a single graphics card where that previously required rented datacenter infrastructure, and the permissive licence lets you build and sell products on top without paying anyone. The framing is a broader shift from rented cloud inference toward local compute.",
-   "keywords": [
-    "Free Token",
-    "Apache 2.0",
-    "local inference",
-    "Claude Code",
-    "open-source AI"
-   ],
-   "url": "https://www.instagram.com/p/Dc_SUtmtUdn/",
-   "author": "thevibefounder",
-   "author_url": "https://www.instagram.com/thevibefounder/",
-   "date": "2026-09-07",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Stacking prompt fragments instead of firing single AI “codes”",
-   "synopsis": "A carousel arguing that one-shot prompt snippets underperform because they give a generative model only a single axis of direction. The proposed fix is a six-slot stack — niche, goal, style, details, platform, output — assembled into one composite instruction so the model receives the full brief at once. The post shows the slot structure itself but keeps the worked examples behind a follow-and-save call to action.",
-   "keywords": [
-    "prompt stacking",
-    "prompt engineering",
-    "ChatGPT",
-    "content templates"
-   ],
-   "url": "https://www.instagram.com/p/Dc7iK7QEx51/",
-   "author": "richmeetings.ai",
-   "author_url": "https://www.instagram.com/richmeetings.ai/",
-   "date": "2026-09-06",
    "following": true,
    "confidence": "high"
   },
@@ -6846,6 +6832,25 @@
   },
   {
    "folder": "AI.Video",
+   "title": "An open-source pipeline for transferring real facial emotion into AI video",
+   "synopsis": "Sirio tackles emotion control for AI filmmaking, showing first why the obvious approach fails: Claude and Codex both built Hollywood-style facial-landmark dot masks, but stripped of the source video the masks are unreadable, with a crying performance rendering as laughter. His fix layers FLAME, a reshapeable 3D face model, with SPECTRE chosen over SMIRK for better mouth and lip reconstruction, then corrects the mask frame by frame against the tracked points. Grayscale detail from the original footage is blended back around the eyes and lips and directional light plus clay materials are added, producing a conditioning input for Seedance that does not guarantee an exact copy but gives the model a far more specific performance to follow; the pipeline is open-sourced and gated behind a 'workflow' comment.",
+   "keywords": [
+    "FLAME",
+    "SPECTRE",
+    "SMIRK",
+    "Seedance",
+    "emotion transfer",
+    "facial landmarks"
+   ],
+   "url": "https://www.instagram.com/p/DehOojnxT6M/",
+   "author": "heysirio",
+   "author_url": "https://www.instagram.com/heysirio/",
+   "date": "2026-10-15",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "A five-tool local stack that lets Claude Code edit video end to end",
    "synopsis": "Kappa.ai lays out the toolchain behind \"Claude edits my videos\", distributed as a single file you drop into Claude Code that installs everything itself, runs locally on Mac or Windows, and needs no API keys or extra subscriptions. The pieces are HyperFrames as the video engine where the project lives (Remotion works in its place if you already use it), Whisper so Claude transcribes every word and places subtitles on time, CLAP so it can identify each sound and find similar ones in your library, Demucs to split a track into voice, drums, bass and the rest, and Blender so 3D objects are built locally instead of burning credits per shot. Once installed, the workflow is to describe the video you want and let Claude start cutting; an existing Higgsfield subscription can optionally be connected on top.",
    "keywords": [
@@ -8016,25 +8021,6 @@
    "author_url": "https://www.instagram.com/keemfinity/",
    "date": "2026-08-03",
    "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Seedance 2.5: 30-second single-shot video, 50 reference images, native audio",
-   "synopsis": "Sferro walks through ByteDance's Seedance 2.5 release, whose headline change is duration — a single generation now produces up to 30 seconds of continuous video while holding character, scene and object identity stable from first frame to last, which is the failure mode that forced earlier models into short stitched clips. Conditioning scales with it: up to 50 reference images can be supplied for people, products, brands and environments, and a single detail can be edited without regenerating the whole shot, turning an iteration cycle that used to mean a full re-roll into a local fix. Video and native audio are now generated together in one workflow, which is what makes the model a plausible end-to-end tool for AI ads, product videos and cinematic shorts rather than a silent-footage generator.",
-   "keywords": [
-    "Seedance 2.5",
-    "ByteDance",
-    "AI video generation",
-    "character consistency",
-    "reference images",
-    "native audio"
-   ],
-   "url": "https://www.instagram.com/p/DbilRIUElqz/",
-   "author": "sferro.ai",
-   "author_url": "https://www.instagram.com/sferro.ai/",
-   "date": "2026-08-02",
-   "following": true,
    "confidence": "high"
   },
   {
