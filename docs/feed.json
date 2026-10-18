@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T06:15:04+00:00",
+ "generated_at": "2026-10-18T06:21:46+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -7480,13 +7480,14 @@
   },
   {
    "folder": "AI.Grfx",
-   "title": "Five-second visuals from a free tool, hinted as Napkin AI",
-   "synopsis": "The creator promises visuals generated in five seconds from a completely free AI and offers the link by DM on request. The tool is not named in the body, though the hashtags end with napkin and napkinai, which points at Napkin AI. Treat the identification as inferred from tags rather than stated.",
+   "title": "Napkin AI converts pasted text into editable visuals",
+   "synopsis": "The transcript confirms the tool as napkin.ai and walks it end to end. You create a free account, paste your text, and a blue lightning icon appears; clicking it produces highly detailed visuals from otherwise dull text in about five seconds. The visual is then editable, including colour and the text itself, and downloads as PNG for a post or presentation, with the creator urging viewers to use it while even the premium plan is free.",
    "keywords": [
     "Napkin AI",
-    "visual generation",
-    "free tool",
-    "diagrams"
+    "text to visuals",
+    "diagrams",
+    "PNG export",
+    "free premium"
    ],
    "url": "https://www.instagram.com/p/DFYC5xztBpi/",
    "author": "leoodeep",
@@ -7497,14 +7498,14 @@
   },
   {
    "folder": "AI.Grfx",
-   "title": "Three niche tools: Pollo AI, Inflact and Momo App",
-   "synopsis": "The creator lists three websites he frames as lifehacks and names all three in the caption. They are Pollo AI for video effects, Inflact Profile Analyzer for Instagram profile analysis and Momo App for photo generation. The links are gated behind commenting Send.",
+   "title": "Pollo AI effects, Inflact competitor stats and Polaroid generation",
+   "synopsis": "The transcript expands all three tools the caption listed by name only. The first opens a Video Effects section offering an AI kissing video generator, AI hug and AI handshake among others. The second takes a competitor's username and reports exactly when and how much they post, their top hashtags, caption keywords and highest-engagement posts, while the third converts a single image into multiple Polaroid-style pictures in seconds.",
    "keywords": [
     "Pollo AI",
     "Inflact",
-    "Momo App",
-    "video effects",
-    "profile analysis"
+    "competitor analysis",
+    "Polaroid generator",
+    "video effects"
    ],
    "url": "https://www.instagram.com/p/DFUNXuwTWgU/",
    "author": "harshhhgautam",
@@ -7598,20 +7599,21 @@
   },
   {
    "folder": "AI.Grfx",
-   "title": "A moodboard tool being built in public",
-   "synopsis": "The creator invites viewers to comment a moodboard prompt and mentions he is currently coding the tool with a friend. No product name or capability detail is given. The post is a build-in-public teaser tagged for Figma and design tools.",
+   "title": "A curated mood-board tool positioned against Pinterest",
+   "synopsis": "The transcript reveals a designer-focused mood-board tool the creator calls the Pinterest killer: you give it a prompt and it surfaces closely related logos and imagery from a curated collection. You can also build a mood board from scratch, with related keywords offered to guide your thinking. His favourite feature is auto-generating a written summary of the whole mood board to present to clients, and the product is in invite-only early access, DMed to anyone commenting mood board.",
    "keywords": [
-    "moodboard",
-    "Figma",
-    "design tools",
-    "build in public"
+    "mood board",
+    "design research",
+    "Pinterest alternative",
+    "client presentation",
+    "early access"
    ],
    "url": "https://www.instagram.com/p/DB1taBePqPZ/",
    "author": "michaelhroberson",
    "author_url": "https://www.instagram.com/michaelhroberson/",
    "date": "2024-11-01",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Grfx",
@@ -13627,19 +13629,20 @@
   },
   {
    "folder": "Hacks",
-   "title": "An attempted duvet-folding tutorial played for laughs",
-   "synopsis": "A French DIY clip in which the creator sets out to make a duvet tutorial, with the brevity of the caption suggesting it did not go to plan. No method is described in text. The humour and the technique are both in the video.",
+   "title": "The roll method for getting a duvet into its cover",
+   "synopsis": "Behind the comedy the transcript carries a real technique, the one the creator calls the sausage method. Turn the cover inside out and lay it down, then spread the duvet flat on top of it rather than trying to climb inside like a ghost. From there you roll duvet and cover together from one end into a long sausage, then unfold the cover back over the roll, which seats the duvet correctly.",
    "keywords": [
-    "DIY",
-    "duvet folding",
-    "humour"
+    "duvet cover",
+    "roll method",
+    "bedding technique",
+    "DIY humour"
    ],
    "url": "https://www.instagram.com/p/DEPK8-Cou2Z/",
    "author": "lou_bricoleur_dou_extreme",
    "author_url": "https://www.instagram.com/lou_bricoleur_dou_extreme/",
    "date": "2024-12-31",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Hacks",
@@ -13659,10 +13662,12 @@
   },
   {
    "folder": "Hacks",
-   "title": "A French one-liner expressing belated discovery",
-   "synopsis": "The caption asks why nobody told the creator sooner, with no subject attached. Nothing identifies the tool or trick involved. There is no extractable content.",
+   "title": "A revision tool found one exam season too late",
+   "synopsis": "The transcript gives the function but not the product. You paste in your course material and it produces summary sheets covering every point worth retaining, then lets you test yourself section by section. The creator's only commentary is regret at discovering it after his exams, and the tool itself is never named.",
    "keywords": [
-    "AI tip"
+    "study tool",
+    "revision sheets",
+    "self-testing"
    ],
    "url": "https://www.instagram.com/p/DD-DWFooPK8/",
    "author": "iamleo.ai",
@@ -13673,11 +13678,12 @@
   },
   {
    "folder": "Hacks",
-   "title": "Part four of an illegal-website series",
-   "synopsis": "The fourth instalment of a series pointing viewers at what the creator labels illegal websites. No site or category is named in the caption. The content and its legal status are both left to the video.",
+   "title": "A caller-ID spoofing site, described but not named",
+   "synopsis": "The transcript states the actual function the caption hid behind the illegal-website framing: a site that places a call to anyone from an unknown number, with no credit or top-up, free of charge. That is caller-ID spoofing, which is unlawful for impersonation or harassment in most jurisdictions, a caveat the creator does not raise. The site itself is never named.",
    "keywords": [
-    "websites",
-    "series"
+    "caller ID spoofing",
+    "telephony",
+    "anonymous calls"
    ],
    "url": "https://www.instagram.com/p/DD4SVLBi6cg/",
    "author": "learnwithvalerio",
@@ -13785,34 +13791,35 @@
   },
   {
    "folder": "Hacks",
-   "title": "A claimed way to watch all live sport",
-   "synopsis": "A French tip promising access to all live sport, tagged for television tricks. No service, device or method is named in the caption. The content is video-only and the legality is unstated.",
+   "title": "A free live-sport streaming aggregator, named in the audio",
+   "synopsis": "The transcript names the site the caption withheld: home.sportsurge.club, where you pick the sport, then the specific match, and watch. The creator presents it as free live sport with no further qualification. This is an unlicensed stream aggregator rather than a rights holder, so the legality he does not mention is the relevant caveat.",
    "keywords": [
-    "live sport",
-    "streaming",
-    "television"
+    "Sportsurge",
+    "live sport streaming",
+    "unlicensed streams"
    ],
    "url": "https://www.instagram.com/p/DBRX5SsOb9v/",
    "author": "maxime.astuces",
    "author_url": "https://www.instagram.com/maxime.astuces/",
    "date": "2024-10-18",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Hacks",
-   "title": "A home textiles and bedding post in Chinese",
-   "synopsis": "The caption is a four-character Chinese phrase meaning home textiles and bedding. No product, brand or technique is identified. There is nothing extractable from the text.",
+   "title": "A duvet-cover method learned after fifty years",
+   "synopsis": "The Chinese transcript turns out to contain the actual technique the caption only hinted at. Lay the cover inside out on the bed and spread the duvet flat on top of it, then grab the two corners and fold them into a triangle. Roll the bundle down from the top end, then turn the cover back the right way out over the roll and the duvet is in place.",
    "keywords": [
-    "home textiles",
-    "bedding"
+    "duvet cover",
+    "bedding technique",
+    "roll method"
    ],
    "url": "https://www.instagram.com/p/DBNV9JFPUwG/",
    "author": "teachermalaysia",
    "author_url": "https://www.instagram.com/teachermalaysia/",
    "date": "2024-10-17",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Hacks",
@@ -13846,17 +13853,22 @@
   },
   {
    "folder": "Hacks",
-   "title": "Ten useful websites listed in French",
-   "synopsis": "The caption announces ten useful websites and nothing more. None of the ten is named in text. The list exists only in the video.",
+   "title": "Nine genuinely useful sites, from stain removal to iFixit",
+   "synopsis": "The transcript names every site the caption withheld. Stain Solutions explains step by step how to remove any stain, coffee, foundation or paint; MerciApp is offered as one of the best French spelling and grammar checkers; Smodin rewrites and reformulates text without plagiarising; and MuscleWiki shows which gym exercise targets each individual muscle. Digital Defynd carries tens of thousands of free courses from major universities, iFixit shows how to repair electronics down to which tools a battery swap needs, and Microsoft Support Training covers Excel, Word and PowerPoint.",
    "keywords": [
-    "useful websites"
+    "Stain Solutions",
+    "MerciApp",
+    "Smodin",
+    "MuscleWiki",
+    "iFixit",
+    "Digital Defynd"
    ],
    "url": "https://www.instagram.com/p/DA8o7RJsqSZ/",
    "author": "monsieur_astuces_insta",
    "author_url": "https://www.instagram.com/monsieur_astuces_insta/",
    "date": "2024-10-10",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Hacks",
@@ -13938,19 +13950,19 @@
   },
   {
    "folder": "Hacks",
-   "title": "A claimed method to win every claw machine attempt",
-   "synopsis": "The creator insists viewers still do not believe his technique for winning at claw machines every time. The caption asserts the claim without describing the method. Everything is demonstrated in the video.",
+   "title": "A claw-machine sequence that holds the grip open",
+   "synopsis": "The transcript spells out the full routine: before inserting coins, move the joystick up twice, down twice, then left-right-left-right-left, and hold the drop button for at least five seconds. Then insert the coins and play normally, lining up on whatever prize you want. The part he insists matters most is holding the drop button continuously through the entire grab, which he claims keeps the claw clamped rather than releasing.",
    "keywords": [
     "claw machine",
-    "arcade",
-    "technique"
+    "arcade exploit",
+    "button timing"
    ],
    "url": "https://www.instagram.com/p/C9pjzasuDOo/",
    "author": "theclawbossog",
    "author_url": "https://www.instagram.com/theclawbossog/",
    "date": "2024-07-20",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Hacks",
@@ -13988,18 +14000,20 @@
   },
   {
    "folder": "Hacks",
-   "title": "A tip claiming to boost phone internet speed",
-   "synopsis": "A short French clip promising a trick to improve mobile internet performance. The caption is a single line with no setting, carrier or mechanism named. The tip itself is video-only.",
+   "title": "A dial code the creator claims forces a phone onto 5G",
+   "synopsis": "The transcript gives the exact codes: dial star-3-3-7-0-hash and press call to switch on, and hash-3-3-7-0-hash to cancel it. He presents this as a fix for places with no signal, claiming it jumps the handset to maximum 5G, and warns it drains the battery so it should be turned off when not needed. Worth flagging that this code is historically the GSM Enhanced Full Rate voice-codec toggle rather than a radio-band switch, so treat the 5G claim as the creator's, not established.",
    "keywords": [
-    "mobile network",
-    "phone tips"
+    "dial codes",
+    "EFR codec",
+    "mobile signal",
+    "battery drain"
    ],
    "url": "https://www.instagram.com/p/C7BvgxaCf5Z/",
    "author": "jimmy_laura_astuces",
    "author_url": "https://www.instagram.com/jimmy_laura_astuces/",
    "date": "2024-05-16",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Hacks",
@@ -14615,20 +14629,21 @@
   },
   {
    "folder": "IA",
-   "title": "A thirty-day photography email course behind a gate",
-   "synopsis": "The creator offers one email a day for thirty days on mastering professional photography, to anyone commenting the number 30. The hashtags mention presets, LUTs and ChatGPT as adjacent topics. No lesson content appears in the caption.",
+   "title": "Building Lightroom presets from any film's colour palette",
+   "synopsis": "The transcript delivers an editing method the caption never mentioned. Search online for a film's colour palette, Oppenheimer in his example, and save the resulting swatch image, then attach it to ChatGPT with a specific prompt: create a Lightroom preset from the attachment colours, output as an XMP file, editing hue, saturation and luminance to represent those colours and adjusting colour grade, white balance and a matching curve. ChatGPT returns the XMP, which imports straight into Lightroom, and he notes it works from any film, game or source whose palette you can find.",
    "keywords": [
-    "photography course",
-    "presets",
-    "LUTs",
-    "email series"
+    "Lightroom presets",
+    "XMP",
+    "ChatGPT",
+    "colour grading",
+    "film palettes"
    ],
    "url": "https://www.instagram.com/p/DEt7LumqYmt/",
    "author": "c.vladmanea",
    "author_url": "https://www.instagram.com/c.vladmanea/",
    "date": "2025-01-12",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA",
@@ -14666,13 +14681,14 @@
   },
   {
    "folder": "IA",
-   "title": "Google Imagen 3 paired with Viggle",
-   "synopsis": "The caption names only the two tools used, Google Imagen 3 for image generation and Viggle for character animation. No workflow, prompt or assessment is given. The combination output is shown in the video.",
+   "title": "Imagen 3 for the character, Viggle V3 for the motion",
+   "synopsis": "The transcript fills in the whole two-tool pipeline. The character is made in Google Imagen 3, which he notes has just been updated, is completely free and is much improved, and he mentions Google also launched Whisk, which lets you prompt with images; for Imagen you type the prompt, often drafted with ChatGPT, and get four options. He then takes a video of himself to Viggle and its new V3 model, uploading the video and the image and clicking create, with roughly three free generations, 9.99 a month, and a creator programme offering free credits.",
    "keywords": [
     "Imagen 3",
-    "Viggle",
+    "Viggle V3",
+    "Whisk",
     "character animation",
-    "image generation"
+    "free tier"
    ],
    "url": "https://www.instagram.com/p/DEicI1ku-lf/",
    "author": "benkaluza",
@@ -14751,11 +14767,12 @@
   },
   {
    "folder": "IA",
-   "title": "A tool list behind a one-word comment gate",
-   "synopsis": "The entire caption asks viewers to comment Tools to receive a link. No tool, category or capability is named. There is nothing recoverable from the text.",
+   "title": "An unnamed site aggregating tools across every discipline",
+   "synopsis": "The transcript describes the breadth without identifying the site. It claims to cover coding tools, website design on request, presentations, video editing and graphic design, essentially any task, with what the creator calls endless tools in one place. The link goes only to followers who comment tools.",
    "keywords": [
-    "AI tools",
-    "comment gate"
+    "tool aggregator",
+    "comment gate",
+    "no-code"
    ],
    "url": "https://www.instagram.com/p/DEJf9VlzVtW/",
    "author": "harshhhgautam",
@@ -14783,17 +14800,20 @@
   },
   {
    "folder": "IA",
-   "title": "A two-word reaction with no subject",
-   "synopsis": "The caption reads only that something is mind blowing, with no subject attached. Nothing identifies the tool, model or demonstration. There is no extractable content.",
+   "title": "Rollout builds a complete website from a spoken brief",
+   "synopsis": "The transcript turns a three-word caption into a specific product: rollout.site. The creator frames it against the agency process, where you brief a designer, review concepts, iterate on colours, logo and pages, and wait three to four months for a decent site. Instead you write a few lines describing what you want, in his example an Amazon-style storefront selling given products in given colours, and two minutes later the whole site exists with photos, features and colours in place.",
    "keywords": [
-    "AI demo"
+    "Rollout",
+    "AI website builder",
+    "prompt to site",
+    "web design agencies"
    ],
    "url": "https://www.instagram.com/p/DEB-INeSncF/",
    "author": "manikarthik",
    "author_url": "https://www.instagram.com/manikarthik/",
    "date": "2024-12-26",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA",
@@ -14813,19 +14833,21 @@
   },
   {
    "folder": "IA",
-   "title": "A professional logo in four seconds, free",
-   "synopsis": "The creator claims a professional logo can be produced in four seconds at no cost. The tool is not named in the caption, which is tagged for community management and freelance communication work. The identification is video-only.",
+   "title": "Blingshot generates royalty-free logos with no email",
+   "synopsis": "The transcript names the site the caption hid: blingshot.io, which generates royalty-free, usable images in seconds, free and without handing over an email address. The creator demonstrates prompting in French, asking for a therapist logo on a beige background as a genuine one-shot first attempt, and rates the result remarkable for the speed and price. A second test, a cat fishing in an igloo, renders in seconds and downloads with a single save.",
    "keywords": [
+    "Blingshot",
     "logo generation",
-    "free tool",
-    "branding"
+    "royalty-free images",
+    "no signup",
+    "French prompting"
    ],
    "url": "https://www.instagram.com/p/DD7aeTtCDPN/",
    "author": "becomethegirl",
    "author_url": "https://www.instagram.com/becomethegirl/",
    "date": "2024-12-23",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA",
@@ -14877,13 +14899,14 @@
   },
   {
    "folder": "IA",
-   "title": "ManyChat automation for Instagram DM lead generation",
-   "synopsis": "The creator argues automated DMs outperform manual ones and rejects both link-in-bio and DM-to-book-an-appointment patterns. The tool is identifiable because he offers a full tutorial and three free templates to anyone who DMs him the word MANYCHAT, alongside a separate comment gate on the word BURGERS. The use case is capturing leads and making sales directly inside Instagram.",
+   "title": "How ManyChat turns comment bait into automated DMs",
+   "synopsis": "The transcript explains the mechanic behind every comment-the-word post: when you comment the trigger word you receive an automatic DM within seconds, and the tool doing it is ManyChat. The creator is explicit about why creators use it beyond delivery, namely that it manufactures comment volume, which pushes Instagram to distribute the video further, so it both lifts views and sells around the clock. He then walks the setup: link your Instagram, go to Automations, click New Automation, select the trigger user comments on your post or reel, pick the post, set the keyword and write the message to send.",
    "keywords": [
     "ManyChat",
     "DM automation",
-    "lead generation",
-    "Instagram marketing"
+    "comment triggers",
+    "Instagram reach",
+    "lead capture"
    ],
    "url": "https://www.instagram.com/p/DDpNfZWOojO/",
    "author": "joshbutcheronline",
@@ -14894,19 +14917,20 @@
   },
   {
    "folder": "IA",
-   "title": "A hidden-websites list beginning with Maneken",
-   "synopsis": "The creator frames a list of sites supposedly hidden from the public, of which only the first is legible: Maneken App, the browser-based mockup tool. The remaining entries are replaced by filler dots. The links are gated behind commenting Video.",
+   "title": "Maneken turns a flat design into product mockups by drag and drop",
+   "synopsis": "The transcript identifies the hidden-websites list first entry as maneken.app and shows what it does. You drag your image onto a product to create the mockup, and can repeat it across different designs and products. The demonstration drops a design onto a billboard, which renders immediately and stays easy to edit afterwards.",
    "keywords": [
     "Maneken",
-    "mockups",
-    "website list"
+    "product mockups",
+    "billboard mockup",
+    "drag and drop"
    ],
    "url": "https://www.instagram.com/p/DDeDDMGzDeS/",
    "author": "onlinemarket2522",
    "author_url": "https://www.instagram.com/onlinemarket2522/",
    "date": "2024-12-12",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA",
@@ -14928,14 +14952,14 @@
   },
   {
    "folder": "IA",
-   "title": "Six marketing sites named for 2025",
-   "synopsis": "The creator lists six websites he claims will make you a marketing genius, and unusually names all six in the caption. They are Mojo App, Dzine AI, Free Ad Copy, Flow GPT, Jogg AI and Backpack Bot. The links are gated behind commenting Marketing.",
+   "title": "Six marketing sites, starting with Mojo for animated logos",
+   "synopsis": "The caption named all six tools, Mojo App, Dzine AI, Free Ad Copy, Flow GPT, Jogg AI and Backpack Bot, and the transcript demonstrates the first. At mojoapp.com you upload a logo, in his demo the KitKat mark, and the site returns an animated version of it within seconds. The remaining five are listed but not walked through.",
    "keywords": [
     "Mojo App",
+    "animated logo",
     "Dzine AI",
     "Flow GPT",
     "Jogg AI",
-    "Backpack Bot",
     "marketing tools"
    ],
    "url": "https://www.instagram.com/p/DDO17oaz8zE/",
@@ -14998,24 +15022,30 @@
   },
   {
    "folder": "IA",
-   "title": "A follow request for daily Instagram tips",
-   "synopsis": "The caption is a single line asking viewers to follow for daily Instagram tips. No tip is given. There is nothing extractable.",
+   "title": "Fake drone shots built free in Google Earth Studio",
+   "synopsis": "The transcript completely replaces a caption that said only follow for daily tips, and gives the whole method. Open Google Earth Studio, create a blank project, set the planet, dimensions and frame rate, then click Start; use the search icon to jump to the exact location and adjust camera position and rotation on the preview until the framing works. Scrolling down to Add Attributes and enabling time of day and clouds lets you set the lighting and weather, at which point the drone shot renders.",
    "keywords": [
-    "Instagram tips"
+    "Google Earth Studio",
+    "fake drone shots",
+    "camera keyframes",
+    "free tools",
+    "filmmaking"
    ],
    "url": "https://www.instagram.com/p/DC5B4K-p8YY/",
    "author": "instacoachmike",
    "author_url": "https://www.instagram.com/instacoachmike/",
    "date": "2024-11-27",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA",
-   "title": "AI video generation offered behind a comment gate",
-   "synopsis": "A two-line French post on generating video with AI, asking viewers to comment IA to receive everything. No tool or model is named. The post is lead capture.",
+   "title": "An unnamed image-to-video model with a property use case",
+   "synopsis": "The transcript shows the workflow without ever naming the tool, which stays behind the comment gate. You supply either a prompt or an image, in his case an AI-generated still, ask for a dynamic video, and it returns several variants in under a minute at what he calls ultra-realistic quality. The use case he develops is real estate: feed in a photograph of a room and get back a moving shot that travels through the space and its contents.",
    "keywords": [
-    "AI video",
+    "image to video",
+    "real estate marketing",
+    "video variants",
     "comment gate"
    ],
    "url": "https://www.instagram.com/p/DCoLJR7o-Us/",
@@ -15114,19 +15144,21 @@
   },
   {
    "folder": "IA",
-   "title": "PDF tools worth knowing, with the list gated",
-   "synopsis": "The creator promotes useful PDF tools and offers a list of top AI tools to anyone commenting ds. None of the PDF tools is named in the caption. The hashtags situate it in study and productivity use.",
+   "title": "NotebookLM and MapThis turn a PDF into study material",
+   "synopsis": "The transcript identifies both tools the caption kept vague. Google NotebookLM converts any PDF into a study guide, a briefing document or an FAQ. MapThis takes the same PDF and renders it as a flowchart, or alternatively as a mind map, which is the capability the creator rates most highly.",
    "keywords": [
-    "PDF tools",
-    "productivity",
-    "comment gate"
+    "NotebookLM",
+    "MapThis",
+    "PDF conversion",
+    "study guide",
+    "mind map"
    ],
    "url": "https://www.instagram.com/p/DAG8RLtygfl/",
    "author": "digitalsamaritan",
    "author_url": "https://www.instagram.com/digitalsamaritan/",
    "date": "2024-09-19",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA",
@@ -15147,10 +15179,12 @@
   },
   {
    "folder": "IA",
-   "title": "Tool names promised for a one-word comment",
-   "synopsis": "A single French line offering to send the names to anyone commenting IA. Neither the tools nor their category is stated. The post is pure lead capture.",
+   "title": "Two unnamed presentation generators pitched over Canva",
+   "synopsis": "The transcript argues nobody should still be using Canva or PowerPoint given current AI tooling, and describes two products without naming either. The first generates highly attractive visuals, using AI to produce personalised presentations tailored to your field. The second is positioned as more specialised in presentations carrying animations, which the creator frames as valuable for anyone wanting motion in a deck, and both are promised only by DM.",
    "keywords": [
-    "AI tools",
+    "presentation AI",
+    "Canva alternative",
+    "animated slides",
     "comment gate"
    ],
    "url": "https://www.instagram.com/p/C_-NEnwImOu/",
@@ -15197,13 +15231,15 @@
   },
   {
    "folder": "IA",
-   "title": "A one-minute guide to installing Flux AI locally",
-   "synopsis": "The creator offers a one-minute walkthrough for installing Flux AI on both Mac and PC. Flux is the open-weight image model positioned as a Midjourney alternative, and local installation is the point of the post. The steps themselves are in the video rather than the caption.",
+   "title": "Installing Flux locally through Pinocchio in one minute",
+   "synopsis": "The walkthrough installs Flux locally on PC or Mac with four steps: download and install the app from Pinocchio.computer, open the Explore tab, click Flux Web UI and press download, then press Start in the left menu if it does not launch itself. The first image pulls the model so it is slow, after which generation speeds up, and two variants are offered, Flux Schnell and Flux Merged. The hard requirement he states is 12 GB of video memory, with ComfyUI named as the route to run it on less.",
    "keywords": [
-    "Flux AI",
-    "local installation",
-    "image generation",
-    "open weights"
+    "Flux",
+    "Pinocchio",
+    "Flux Schnell",
+    "ComfyUI",
+    "local inference",
+    "12GB VRAM"
    ],
    "url": "https://www.instagram.com/p/C-kD0VNx2jc/",
    "author": "mattfarmerai",
