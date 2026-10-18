@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T03:16:07+00:00",
+ "generated_at": "2026-10-18T04:16:31+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -201,24 +201,6 @@
    "author": "buildwithneej",
    "author_url": "https://www.instagram.com/buildwithneej/",
    "date": "2026-08-26",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Agents",
-   "title": "DeepSeek Harness: an agent that writes its own tools mid-run",
-   "synopsis": "DeepSeek open-sourced an agent harness that breaks the assumption a human must fix the tool list before the agent runs. The agent starts on a small fixed tool set and authors the extra tools it needs during execution. The creator pairs it with a cleanup rule so none of the invented tools survive past the job.",
-   "keywords": [
-    "DeepSeek Harness",
-    "agent tooling",
-    "runtime tool authoring",
-    "open source",
-    "coding agents"
-   ],
-   "url": "https://www.instagram.com/p/DcaACJsFXmI/",
-   "author": "adam.goodyer",
-   "author_url": "https://www.instagram.com/adam.goodyer/",
-   "date": "2026-08-25",
    "following": true,
    "confidence": "high"
   },
@@ -1233,6 +1215,25 @@
    "url": "https://www.instagram.com/p/DXSaEhIEteE/",
    "author": "advicewithjean",
    "author_url": "https://www.instagram.com/advicewithjean/",
+   "date": "2026-04-19",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Agents",
+   "title": "Driving Claude Code with free open-source coding models",
+   "synopsis": "The reel opens on a familiar wall — a Claude Code session that has run out of its usage allowance mid-project — and pitches a single configuration change that swaps the backend for open-weight coding models instead of paying for more. The caption frames it as running Qwen, Kimi or Gemma locally through Ollama and pointing Claude Code at that endpoint, while the Hindi voiceover claims the setup yielded roughly 15 million extra tokens at zero cost and names Kimi, Qwen3.5 and GLM as the models on offer. The actual configuration steps are withheld behind a \"Comment CODE\" DM gate, so the clip establishes the pattern — Claude Code as a client against a swappable model backend — without showing the wiring.",
+   "keywords": [
+    "Claude Code",
+    "Ollama",
+    "Qwen3.5",
+    "Kimi",
+    "GLM",
+    "open-weight coding models"
+   ],
+   "url": "https://www.instagram.com/p/DXUDCbZEzqp/",
+   "author": "wdf_ai",
+   "author_url": "https://www.instagram.com/wdf_ai/",
    "date": "2026-04-19",
    "following": false,
    "confidence": "high"
@@ -5439,6 +5440,24 @@
   },
   {
    "folder": "AI.pix",
+   "title": "Seven slash-codes that steer ChatGPT image editing",
+   "synopsis": "Limor Markman walks through seven short \"slash codes\" appended to the end of a ChatGPT prompt, each one pinning the model to a specific photo-editing job rather than leaving the interpretation open. The list runs /photo restore for faded or torn family pictures, /professional retouch, /background change, /object remove, /golden hour for warm low-sun relighting, and /professional portrait to give a phone selfie headshot framing and lighting. The one she flags as non-negotiable is /identity preserve — without it, she argues, successive edits drift the subject's face into someone else's, so it belongs in every single request; a fuller catalogue of around a hundred codes sits behind a \"Comment IMAGE\" DM gate.",
+   "keywords": [
+    "ChatGPT",
+    "image editing",
+    "photo restoration",
+    "identity preservation",
+    "prompt shortcodes"
+   ],
+   "url": "https://www.instagram.com/p/DejxRT3Rx9a/",
+   "author": "limor_markman",
+   "author_url": "https://www.instagram.com/limor_markman/",
+   "date": "2026-10-16",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
    "title": "Prompt de caricature numerique joyeuse pour Gemini",
    "synopsis": "Carrousel presentant un prompt d'edition photo destine a Gemini, qui transforme un portrait en caricature numerique d'allure joyeuse et cartoon. La legende se limite a une ligne de description et a une poignee de hashtags, sans exposer le texte du prompt ni les reglages employes. Le post ne comporte pas de piste audio, donc aucune transcription ne peut en completer le contenu.",
    "keywords": [
@@ -6637,23 +6656,6 @@
    "date": "2026-06-10",
    "following": false,
    "confidence": "low"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Claude + GPT Image 2 Two-Tool Campaign Pipeline",
-   "synopsis": "The post argues that high-performing AI ad campaigns are designed before any image is generated, not improvised inside the image model. It offers twenty Claude prompts for planning GPT Image 2 campaigns plus a full Two-Tool Pipeline PDF. The core idea is using Claude as the strategy and prompt-design layer feeding GPT Image 2 as the render engine.",
-   "keywords": [
-    "Claude",
-    "GPT Image 2.0",
-    "AI ad campaigns",
-    "prompt pipeline"
-   ],
-   "url": "https://www.instagram.com/p/DZB_O5aEUHn/",
-   "author": "piyush.glitch",
-   "author_url": "https://www.instagram.com/piyush.glitch/",
-   "date": "2026-06-01",
-   "following": false,
-   "confidence": "high"
   },
   {
    "folder": "AI.pix",
@@ -8110,7 +8112,7 @@
    "author": "cindiezhu",
    "author_url": "https://www.instagram.com/cindiezhu/",
    "date": "2026-07-12",
-   "following": false,
+   "following": true,
    "confidence": "high"
   },
   {
