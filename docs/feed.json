@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T13:38:42+00:00",
+ "generated_at": "2026-10-18T13:59:55+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -12140,18 +12140,21 @@
   },
   {
    "folder": "Athens",
-   "title": "Daily Greek news teaser",
-   "synopsis": "A reel whose entire caption is a prompt to follow the account for daily Greek news. No story or topic is identified in the text. The author is @georgemoulosofficial.",
+   "title": "Ten mega-projects reshaping Athens, with budgets and dates",
+   "synopsis": "The transcript turns a follow-prompt into a costed infrastructure rundown. Metro Line 4 is a wholly new 1.8 billion euro line of fifteen stations running from Alsos Veikou to Goudi, already well under construction, while two large football stadiums are advancing: Panathinaikos' ground in Votanikos has stands under construction targeting around 2027, and Olympiacos has unveiled a 250 million euro privately funded rebuild of Karaiskakis taking it from 33,000 to more than 53,000 seats, approved but not yet started pending permits. A 370 million euro coastal metropolitan park has just signed contracts with main construction from January 2027 and completion targeted for the second half of 2029, followed by a 380 million euro project in Marousi.",
    "keywords": [
-    "Greek news",
-    "follow prompt"
+    "Metro Line 4",
+    "Karaiskakis",
+    "Votanikos stadium",
+    "metropolitan park",
+    "Athens infrastructure"
    ],
    "url": "https://www.instagram.com/p/DdZcMX8oMds/",
    "author": "georgemoulosofficial",
    "author_url": "https://www.instagram.com/georgemoulosofficial/",
    "date": "2026-09-17",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Athens",
@@ -12172,19 +12175,21 @@
   },
   {
    "folder": "Athens",
-   "title": "Life-in-Greece reel with hashtags only",
-   "synopsis": "A short reel whose caption contains nothing but lifestyle and viral hashtags about living in Greece. The author is @thepamelaokyere. No subject, venue or claim can be extracted from the text.",
+   "title": "Libertine, an Athens brunch for two at 28 euros with mimosas",
+   "synopsis": "The transcript replaces a hashtag-only caption with a specific recommendation. Pamela, an American living in Greece, names Libertine as her absolute favourite brunch spot in Athens, calling it stylish, cosy and affordable with excellent food. The concrete detail is the bill: brunch for two including multiple mimosas came to just 28 euros.",
    "keywords": [
-    "life in Greece",
-    "Athens",
-    "lifestyle reel"
+    "Libertine",
+    "Athens brunch",
+    "28 euros",
+    "mimosas",
+    "expat recommendation"
    ],
    "url": "https://www.instagram.com/p/DanXI0nsE20/",
    "author": "thepamelaokyere",
    "author_url": "https://www.instagram.com/thepamelaokyere/",
    "date": "2026-07-10",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Athens",
@@ -12205,19 +12210,21 @@
   },
   {
    "folder": "Athens",
-   "title": "Five historic souvlaki spots in Athens",
-   "synopsis": "A Greek one-liner announcing five historic souvlaki venues in Athens. The venues themselves are named only in the video, not the caption. The creator is @eatchers.",
+   "title": "Five historic Athens souvlaki spots, ranked, from 1924 onwards",
+   "synopsis": "The transcript delivers the five venues in the creator's order of preference. It opens with Achilleas and his handmade gyros carrying nearly forty years of history, then the famous souvlaki of Kostas on Filellinon, whose bifteki they call the tastiest they have tried, from a recipe held since 1950. Christos in Egaleo has served pork kalamaki and handmade beef bifteki in fluffy oiled pita since 1988, followed by the first kebab shop in Greece, open since 1924, and a palm-sized souvlaki served strictly with onion, tomato, parsley and red pepper, running since 1951.",
    "keywords": [
+    "Kostas Filellinon",
+    "Achilleas",
+    "Christos Egaleo",
     "historic souvlaki",
-    "Athens souvlaki",
-    "Greek street food"
+    "since 1924"
    ],
    "url": "https://www.instagram.com/p/DP1XF1ejIg7/",
    "author": "eatchers",
    "author_url": "https://www.instagram.com/eatchers/",
    "date": "2025-10-15",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Athens",
@@ -12270,20 +12277,21 @@
   },
   {
    "folder": "Athens",
-   "title": "The sacred ten: the most epic souvlaki joints in Athens and Piraeus",
-   "synopsis": "A Greek-language ranking billed as the sacred ten, listing the ten most epic souvlatzidika across Athens and Piraeus. The caption announces the list without naming the venues. The ranking itself is delivered in the video.",
+   "title": "The sacred ten souvlaki joints, opening with Achilleas in Neos Kosmos",
+   "synopsis": "The transcript delivers the alphabetical ranking of the ten best souvlatzidika across Athens and Piraeus, with a recommended order at each. It opens in Neos Kosmos at Spintharou 18, where since March 1987 Achilleas has made what the creator calls the tastiest handmade gyros in Athens: preparation starts at 6am with meat from the Rentis meat market, the shop opens to the public at 4pm and the single daily gyros has physically run out by 7:30. It is seasoned with black pepper, oregano and a four-spice mix they blend themselves; the tour then drops down to the old market of Piraeus at Gounari 18.",
    "keywords": [
-    "souvlatzidiko ranking",
-    "Athens souvlaki",
+    "Achilleas souvlaki",
+    "Neos Kosmos",
+    "Spintharou 18",
     "Piraeus",
-    "top ten"
+    "handmade gyros"
    ],
    "url": "https://www.instagram.com/p/DE5VmoxsjhY/",
    "author": "ikon5",
    "author_url": "https://www.instagram.com/ikon5/",
    "date": "2025-01-16",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Athens",
@@ -12490,19 +12498,21 @@
   },
   {
    "folder": "Athens",
-   "title": "Favourite wraps in Athens",
-   "synopsis": "A one-line Greek caption pointing to favourite tylichta, or wraps, in Athens, with no venues named. The author is @eatchers. The specific spots are only identifiable from the video itself.",
+   "title": "Five Athens wrap counters, from Elliniko to Drapetsona",
+   "synopsis": "The transcript turns a one-line caption into a five-stop wrap tour. It starts with the famous souvlaki of Elliniko, where the queue is the tell, then stays in the southern suburbs for Mani Mani in Argyroupoli, which puts gourounopoula, slow-roast pork, inside the wrap. Patisia contributes Vasiliki, a traditional pita shop with wraps the audience recommended, Drapetsona hides one with fluffy pita, juicy meat and an aromatic sauce, and the tour closes with a souvlaki carrying nearly fifty years of tradition, served without potatoes but with a very good tomato sauce.",
    "keywords": [
+    "Elliniko souvlaki",
+    "Mani Mani Argyroupoli",
+    "gourounopoula",
     "Athens wraps",
-    "tylichta",
-    "Greek street food"
+    "Drapetsona"
    ],
    "url": "https://www.instagram.com/p/C53kXdaoFHc/",
    "author": "eatchers",
    "author_url": "https://www.instagram.com/eatchers/",
    "date": "2024-04-17",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Athens",
@@ -12814,19 +12824,21 @@
   },
   {
    "folder": "Athens",
-   "title": "A freakishly delicious Athens food find",
-   "synopsis": "A short Athens food clip whose caption says only that the food is freakishly delicious, with no venue or dish named. The author is @joshetcetera. The specific place cannot be identified from the caption alone.",
+   "title": "An unmarked Athens restaurant worth going back to twice",
+   "synopsis": "The transcript reveals an unmarked restaurant in Athens where the creator had one of the best meals of their life, complete with a resident cat and a room so busy they sat inside. The dishes were free bread, roasted beets with goat cheese over the beet greens most Americans discard, fava made from yellow split peas under heavy olive oil, standout potatoes, Greek finger food and mushrooms in olive oil. The meal was good enough that they returned a second time to check they were not imagining it, staying for local ouzo and a homely dessert; the venue is deliberately never named.",
    "keywords": [
-    "Athens food",
-    "street food",
-    "unnamed venue"
+    "unmarked restaurant",
+    "fava",
+    "roasted beets",
+    "ouzo",
+    "Athens dining"
    ],
    "url": "https://www.instagram.com/p/C3qjgxUtqat/",
    "author": "joshetcetera",
    "author_url": "https://www.instagram.com/joshetcetera/",
    "date": "2024-02-22",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Athens",
@@ -13691,19 +13703,21 @@
   },
   {
    "folder": "Brussels",
-   "title": "A Saturday 10am appointment",
-   "synopsis": "A French one-liner telling followers to meet on Saturday at 10am, with entrepreneur and marketing hashtags. Neither the event, the subject nor the location is given. Nothing substantive can be extracted from the caption.",
+   "title": "Magasin Panda goes retail: Rituals-style 500ml bottles at 3.50 euros",
+   "synopsis": "The transcript reveals the Saturday appointment as the retail launch of Magasin Panda at Chaussée de Mons 1425, opposite the IKEA in Anderlecht with a KFC alongside, on 14 February at 10am. The shop has just moved to one hundred percent retail, meaning no minimum order and no minimum spend, so customers can buy a single item. The headline comparison is private-collection fragrances the creator says cost 40 euros at Rituals selling for 3.50 in 500ml, across sakura, lotus flower and oud variants, alongside a three-litre, sixty-wash Panda laundry detergent at three euros.",
    "keywords": [
-    "event teaser",
-    "entrepreneurship",
-    "marketing"
+    "Magasin Panda",
+    "Chaussée de Mons",
+    "Anderlecht",
+    "Rituals dupes",
+    "no minimum order"
    ],
    "url": "https://www.instagram.com/p/DUnWmZICJyw/",
    "author": "soufyane_derdour",
    "author_url": "https://www.instagram.com/soufyane_derdour/",
    "date": "2026-02-11",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Brussels",
@@ -14489,19 +14503,21 @@
   },
   {
    "folder": "Brussels",
-   "title": "Booking pointer for Rawa Bialyemen",
-   "synopsis": "A one-line French post directing viewers to @rawa.bialyemen to make a reservation. No dishes, prices or address are given. It functions purely as a booking signpost for the Yemeni restaurant.",
+   "title": "Rawa Bialyemen's 22-euro all-you-can-eat Yemeni buffet",
+   "synopsis": "The transcript turns a bare booking pointer into the actual offer: an all-you-can-eat buffet at this Yemeni restaurant in Brussels for 22 euros. The spread covers a wide range of house-made dishes, including three kinds of slow-cooked meat, several varieties of rice and many wholly Yemeni starters. The creator stresses the offer runs only until the end of Ramadan and that booking is essential.",
    "keywords": [
     "Rawa Bialyemen",
-    "Yemeni food",
-    "reservation"
+    "Yemeni buffet",
+    "22 euros",
+    "all you can eat",
+    "Ramadan offer"
    ],
    "url": "https://www.instagram.com/p/DHL_YQno5E8/",
    "author": "decouverte_de_sarah",
    "author_url": "https://www.instagram.com/decouverte_de_sarah/",
    "date": "2025-03-14",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Brussels",
@@ -14920,18 +14936,20 @@
   },
   {
    "folder": "Brussels",
-   "title": "Uncaptioned Brussels reel",
-   "synopsis": "A video saved under Brussels with no caption text whatsoever, posted by @vidalalexe. There is no venue, topic or claim to extract. Identification depends entirely on the video.",
+   "title": "Volaillerie Beldi's one-metre sandwich for four euros",
+   "synopsis": "The transcript identifies the uncaptioned reel as a visit to Volaillerie Beldi in Brussels, which builds sandwiches a literal metre long. On the day of filming the remaining filling was minced beef mixed with chicken breast. The sandwich costs four euros, up from 2.50 before the cost-of-living squeeze, which the creator still calls reasonable, and the bulk of the clip is incredulous riffing on its size.",
    "keywords": [
-    "Brussels",
-    "uncaptioned reel"
+    "Volaillerie Beldi",
+    "one metre sandwich",
+    "4 euros",
+    "Brussels cheap eats"
    ],
    "url": "https://www.instagram.com/p/DEfYYUDI2Qx/",
    "author": "vidalalexe",
    "author_url": "https://www.instagram.com/vidalalexe/",
    "date": "2025-01-06",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Brussels",
@@ -15004,19 +15022,21 @@
   },
   {
    "folder": "Brussels",
-   "title": "La Sardine, under Toulouse",
-   "synopsis": "A cryptic French one-liner referencing La Sardine under Toulouse, tagging rugby player Antoine Dupont. No venue detail, location or claim is given in the caption. The content cannot be characterised without the video.",
+   "title": "A comedy monologue roasting Toulouse, Antoine Dupont and Airbus",
+   "synopsis": "The transcript shows this is a stand-up-style comedy reel about Toulouse, not a Brussels venue post. It runs through the Basilica of Saint-Sernin, the place du Capitole and Antoine Dupont as a monument you can visit free with the culture pass, then jokes that rugby is fifteen against fifteen except in Toulouse, where it is fifteen against Dupont. It closes on the city's Airbus dependency, with the line that one person in two works there and everyone else works for a subcontractor.",
    "keywords": [
-    "La Sardine",
+    "Toulouse",
     "Antoine Dupont",
-    "cryptic caption"
+    "Airbus",
+    "comedy reel",
+    "rugby"
    ],
    "url": "https://www.instagram.com/p/DEDCdB-gQZu/",
    "author": "tombaldetti",
    "author_url": "https://www.instagram.com/tombaldetti/",
    "date": "2024-12-26",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Brussels",
@@ -15438,19 +15458,21 @@
   },
   {
    "folder": "Brussels",
-   "title": "A well-kept secret in Brussels",
-   "synopsis": "A French reel whose entire caption is the phrase a well-kept secret, with no venue or location named. The author is @leguideultime. The subject is only identifiable from the video itself.",
+   "title": "The hidden Brussels restaurant whose chef turned down three Michelin stars",
+   "synopsis": "The transcript explains the teaser caption: this is the story of a chef the video names as Sébastien Brasse, presented as the first to refuse the highest distinction in gastronomy, in order to take a layer of pressure off himself and his teams and concentrate on the cooking. The result is an intimate restaurant hidden at the top of a museum, serving exceptional food in a smart but very warm setting. Lunch is 50 euros, which the creator says is worth every euro.",
    "keywords": [
-    "Brussels",
-    "hidden spot",
-    "teaser caption"
+    "refused Michelin stars",
+    "Brussels fine dining",
+    "museum restaurant",
+    "50 euro lunch",
+    "hidden restaurant"
    ],
    "url": "https://www.instagram.com/p/C_0rHlyoknE/",
    "author": "leguideultime",
    "author_url": "https://www.instagram.com/leguideultime/",
    "date": "2024-09-12",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Brussels",
@@ -16185,53 +16207,57 @@
   },
   {
    "folder": "Business hacks",
-   "title": "A Taobao tutorial for resellers",
-   "synopsis": "A short French post flagged as a Taobao tutorial, aimed at buy-and-resell operators. The hashtags cover resale and supplier sourcing. No steps, agent service or cost detail appears in the caption.",
+   "title": "Ordering from Taobao without a private agent, with shipping costs",
+   "synopsis": "The transcript gives the actual tutorial: buying from Taobao through the AllChinaBuy platform rather than paying a private agent. You register with an email and password, pick your product and check the quality yourself, set delivery to France and tick the photo-inspection option before paying and choosing a shipping line. The creator recommends the two-week line at roughly ten to twelve euros per kilo.",
    "keywords": [
     "Taobao",
-    "reselling",
-    "China sourcing",
-    "tutorial"
+    "AllChinaBuy",
+    "photo inspection",
+    "shipping per kilo",
+    "reselling"
    ],
    "url": "https://www.instagram.com/p/DKMc_BVtMdQ/",
    "author": "sk_resellfr",
    "author_url": "https://www.instagram.com/sk_resellfr/",
    "date": "2025-05-28",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
-   "title": "Comment-gated AI tool promising 1,000 dollars every seven days",
-   "synopsis": "A post inviting viewers to comment TikTok to learn how one AI tool supposedly makes a thousand dollars every seven days. The tool is not named and no mechanism is described. The claim is unverifiable from the caption alone.",
+   "title": "One-click AI video cloning to replace a 800-dollar-a-year tool stack",
+   "synopsis": "The transcript sets out the workflow behind the income claim. You copy the link of a high-performing faceless video, paste it in and click Generate Script, then pick an image style, a voiceover and music and click Generate Video, producing a finished clip in seconds ready to download and post. The creator's pitch is that this replaces separate Midjourney, ChatGPT, ElevenLabs and CapCut subscriptions costing around eight hundred dollars a year; the tool itself is still only named behind the comment gate.",
    "keywords": [
-    "AI tool",
-    "comment gate",
-    "income claim",
-    "TikTok"
+    "AI video cloning",
+    "faceless YouTube",
+    "ElevenLabs",
+    "CapCut",
+    "content automation"
    ],
    "url": "https://www.instagram.com/p/DJtTsmlIgs-/",
    "author": "mattuncut",
    "author_url": "https://www.instagram.com/mattuncut/",
    "date": "2025-05-16",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
-   "title": "China wholesale clothing reel with hashtags only",
-   "synopsis": "A reel captioned solely with China wholesale, wholesale clothing and manufacturer hashtags. There is no written claim or detail to analyse. Everything of substance is in the video.",
+   "title": "Caps at 50 cents a piece on a 10,000-unit closeout",
+   "synopsis": "The transcript reveals a supplier pitch rather than a sourcing lesson. The seller, who says they are a current supplier in China, is clearing caps in many styles at fifty cents each on a final run of ten thousand pieces. They point to the fabric and detailing as evidence of quality and suggest a resale price of five to ten dollars in the buyer's own market.",
    "keywords": [
-    "China wholesale",
-    "clothing manufacturer",
-    "sourcing"
+    "cap wholesale",
+    "50 cents",
+    "closeout stock",
+    "China supplier",
+    "resale margin"
    ],
    "url": "https://www.instagram.com/p/DInbmV3y4uY/",
    "author": "achourisourcing",
    "author_url": "https://www.instagram.com/achourisourcing/",
    "date": "2025-04-19",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
@@ -16253,20 +16279,21 @@
   },
   {
    "folder": "Business hacks",
-   "title": "Nihao Jewelry sourcing reel with hashtags only",
-   "synopsis": "A reel whose caption consists purely of hashtags referencing Nihao Jewelry, Alibaba deals and small-business sourcing. No claim, price or method appears in the text. The substance is entirely in the video.",
+   "title": "Three Chinese sourcing sites that cut out the Alibaba middleman",
+   "synopsis": "The transcript delivers the alternatives the hashtags only hinted at, arguing that on Alibaba you often reach a middleman who has inflated the price. For bags it points to bao66.cn, for clothing to 3e3e.cn and for jewellery to melong.cn. It then recommends an English-language site, which the audio renders imperfectly but which matches the Nihao jewellery platform tagged on the post, carrying over three hundred thousand products with no minimum order quantity and new-user discounts.",
    "keywords": [
-    "Nihao Jewelry",
-    "Alibaba",
-    "sourcing",
-    "small business"
+    "bao66.cn",
+    "3e3e.cn",
+    "melong.cn",
+    "Nihao",
+    "Alibaba alternatives"
    ],
    "url": "https://www.instagram.com/p/DIlqtRqyS5z/",
    "author": "achourisourcing",
    "author_url": "https://www.instagram.com/achourisourcing/",
    "date": "2025-04-18",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
@@ -16305,19 +16332,21 @@
   },
   {
    "folder": "Business hacks",
-   "title": "Comment-gated exclusive suppliers list",
-   "synopsis": "A French post offering an exclusive suppliers list free to anyone commenting Fournisseurs. The hashtags target clothing brands and fashion design. Neither the suppliers nor the selection criteria are described.",
+   "title": "Dongguan Master Headwear, Alibaba's top-ranked cap supplier from 95 cents",
+   "synopsis": "The transcript names the supplier the caption kept gated: Dongguan Master Headwear, which the creator calls the number-one-ranked cap supplier on Alibaba. It makes fully customised snapbacks, beanies, baseball caps, mesh and sports caps and bucket hats. The creator praises consistent quality, made-to-measure order quantities and prices starting at 95 cents, presenting it as one entry from a wider list.",
    "keywords": [
-    "suppliers list",
-    "comment gate",
-    "clothing brand"
+    "Dongguan Master Headwear",
+    "Alibaba",
+    "custom caps",
+    "snapbacks",
+    "95 cents"
    ],
    "url": "https://www.instagram.com/p/DH1CtvoRskj/",
    "author": "verso_supply",
    "author_url": "https://www.instagram.com/verso_supply/",
    "date": "2025-03-30",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
@@ -16337,34 +16366,38 @@
   },
   {
    "folder": "Business hacks",
-   "title": "AI in service of your success",
-   "synopsis": "A generic French one-liner inviting viewers to discover the potential of AI for their own success. No tool, use case or sector is specified. Nothing concrete can be extracted from the caption.",
+   "title": "Selling AI-generated comic books, via a custom GPT and ComicAI",
+   "synopsis": "The transcript replaces a generic AI slogan with a concrete three-step business the creator says is taking off in the US and is repeatable in France. Step one is generating the story, for which they built a custom GPT that produces short stories on demand. Step two is an account on ComicAI.ai, which generates the comic itself; step three is pasting in the generated title, choosing a visual style and pasting the story chapter by chapter to render it instantly.",
    "keywords": [
-    "AI potential",
-    "business AI"
+    "ComicAI",
+    "custom GPT",
+    "AI comics",
+    "digital products",
+    "AI business"
    ],
    "url": "https://www.instagram.com/p/DFwMjztpEfI/",
    "author": "soclosehub",
    "author_url": "https://www.instagram.com/soclosehub/",
    "date": "2025-02-07",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
-   "title": "The stuff in your house equals money",
-   "synopsis": "A four-word caption equating household possessions with cash, implying a reselling angle. No platform, method or pricing approach is described. The argument exists only in the video.",
+   "title": "Earning Amazon commissions by filming the products already in your house",
+   "synopsis": "The transcript explains the four-word caption as an Amazon video-affiliate method. Find a product you own on Amazon and check the listing already has a video section, then film a quick one-to-two-minute clip explaining how the product works and upload it there. When a shopper watches your video on that listing and buys, you earn a commission, and the creator says a listing selling ten thousand units a month keeps generating views and commissions indefinitely. No face is needed on camera.",
    "keywords": [
-    "reselling",
-    "declutter",
-    "side income"
+    "Amazon affiliate",
+    "product videos",
+    "passive commissions",
+    "faceless content"
    ],
    "url": "https://www.instagram.com/p/DFeFK24IPXH/",
    "author": "ericfromshuckabuck",
    "author_url": "https://www.instagram.com/ericfromshuckabuck/",
    "date": "2025-01-31",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
@@ -16386,19 +16419,21 @@
   },
   {
    "folder": "Business hacks",
-   "title": "Comment-gated fashion-brand masterclass",
-   "synopsis": "A post inviting viewers to comment the word Class to access a free masterclass. The hashtags target clothing brands, fashion design and fashion designers. No curriculum, tool or technique is described in the caption.",
+   "title": "Four Turkish clothing manufacturers and the brands they already produce for",
+   "synopsis": "The transcript turns a comment gate into a usable sourcing list of Turkey-based manufacturers. Galasim has produced for The North Face, Napapijri, Timberland and Vans and can make almost anything; Barco Textile produces for Lacoste, Moncler, Armani and Hugo Boss and specialises in technical sportswear and swimwear. Zaryatex supplies large retail brands including Zara with womenswear from dresses to shirts, and Memtex specialises in activewear and seamless apparel, producing for names such as Gymshark.",
    "keywords": [
-    "fashion masterclass",
-    "comment gate",
-    "clothing brand"
+    "Galasim",
+    "Barco Textile",
+    "Zaryatex",
+    "Memtex",
+    "Turkey manufacturing"
    ],
    "url": "https://www.instagram.com/p/DFEIEU0oOEC/",
    "author": "chatwithkollar",
    "author_url": "https://www.instagram.com/chatwithkollar/",
    "date": "2025-01-20",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
@@ -16437,12 +16472,13 @@
   },
   {
    "folder": "Business hacks",
-   "title": "Launching a clothing brand in five minutes, tool link on request",
-   "synopsis": "A French claim that creating your own clothing brand in five minutes is possible in 2025, with the tool link promised to anyone who asks in the comments. The hashtags position it as a no-code AI tool. The tool itself is not named in the caption.",
+   "title": "A clothing brand in five minutes: custom GPT, Midjourney, Printify and Shopify",
+   "synopsis": "The transcript names the whole stack the caption kept behind a comment gate. The creator built a custom GPT that designs garments on demand, took its prompt into Midjourney to render the image, then opened a free Printify account and picked from roughly a thousand products. The design goes onto a t-shirt, the catalogue can be sold through Shopify, and Printify handles printing, packing and shipping each order.",
    "keywords": [
-    "clothing brand",
-    "no-code AI",
-    "comment gate",
+    "Printify",
+    "Midjourney",
+    "Shopify",
+    "custom GPT",
     "print on demand"
    ],
    "url": "https://www.instagram.com/p/DEC_VC6t8Ue/",
@@ -16450,22 +16486,24 @@
    "author_url": "https://www.instagram.com/leoodeep/",
    "date": "2024-12-26",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
-   "title": "Something the creator says they should not be sharing",
-   "synopsis": "A single-line teaser claiming the creator should not even be sharing what follows. No tool, method or topic is identified in the caption. The content exists only in the video.",
+   "title": "A Google site-search trick for finding internal-linking opportunities",
+   "synopsis": "The transcript delivers the withheld SEO tip. Search Google for your own domain plus the target keyword in quotes, and Google returns every page it has indexed on your site that uses that keyword. Open three to five of those pages and make sure the keyword text on them links to the single page you actually want ranking for it, consolidating internal link equity.",
    "keywords": [
-    "teaser",
-    "business tips"
+    "SEO",
+    "internal linking",
+    "Google site search",
+    "keyword ranking"
    ],
    "url": "https://www.instagram.com/p/DD7wZHHyrTW/",
    "author": "heytony.agency",
    "author_url": "https://www.instagram.com/heytony.agency/",
    "date": "2024-12-23",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
@@ -16487,19 +16525,21 @@
   },
   {
    "folder": "Business hacks",
-   "title": "TubeMagic pitched as a game-changer",
-   "synopsis": "A one-line hype post from the TubeMagic account declaring the AI a game-changer. The caption offers no description of what the tool does or who it is for. Only the account name identifies the product.",
+   "title": "TubeMagic scans a rival channel and scripts the video for you",
+   "synopsis": "The transcript explains what the tool actually does. You enter the name of any large YouTuber in your niche and TubeMagic scans their channel, returning viral video ideas derived from content already performing well there. It then writes the full script and supplies an SEO-optimised title, description and tags. Access is gated behind commenting a keyword.",
    "keywords": [
     "TubeMagic",
-    "AI tool",
-    "YouTube"
+    "YouTube automation",
+    "video ideas",
+    "SEO metadata",
+    "AI scripting"
    ],
    "url": "https://www.instagram.com/p/DDDr00_o4A0/",
    "author": "tubemagicai",
    "author_url": "https://www.instagram.com/tubemagicai/",
    "date": "2024-12-02",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
@@ -16655,19 +16695,21 @@
   },
   {
    "folder": "Business hacks",
-   "title": "Comment-gated guide to finding big brands' suppliers",
-   "synopsis": "A lead-generation post promising a guide to finding the same suppliers that large brands use, delivered only to users who comment the word supplier. No sourcing method, platform or directory is named in the caption. The substance sits behind the comment gate.",
+   "title": "Reverse-engineering a competitor's stack with BuiltWith, SimilarWeb and the Facebook Ads Library",
+   "synopsis": "A four-step teardown method for copying a brand that makes millions selling oversized blankets, framed around the good-artists-copy line. Step one is BuiltWith to list every software and tool running the target's site; step two a SimilarWeb Chrome extension to see where their traffic and therefore revenue comes from; step three the Facebook Ads Library to read the creative they are running right now. Step four, finding their exact suppliers, is the part held back behind the comment gate.",
    "keywords": [
-    "supplier sourcing",
-    "comment gate",
-    "ecommerce"
+    "BuiltWith",
+    "SimilarWeb",
+    "Facebook Ads Library",
+    "competitor research",
+    "supplier sourcing"
    ],
    "url": "https://www.instagram.com/p/C-hURBgItr4/",
    "author": "marc_prehn_mehlsen",
    "author_url": "https://www.instagram.com/marc_prehn_mehlsen/",
    "date": "2024-08-11",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
@@ -20614,19 +20656,21 @@
   },
   {
    "folder": "Morocco",
-   "title": "A calm street in Tangier",
-   "synopsis": "A reel captioned only as a calm street, with food, restaurant and Tangier hashtags. No venue or street name is given. The subject is only visible in the video.",
+   "title": "Calm Street, a 120-dirham tapas board in central Tangier",
+   "synopsis": "The transcript shows Calm Street is the restaurant's name, not a description, and that the creator was surprised by the quality from such a small room. They tested the evening menu's tapas assortment, a gourmet selection of small bites with charcuterie, cheese, house croquettes and seafood, designed to share between two and priced at only 120 dirhams, followed by a well-cooked salmon dish. They rate the value highly and recommend it for dinners, brunches or a quiet coffee, placing it in the city centre near the Roxy, opposite restaurant Eldorado.",
    "keywords": [
+    "Calm Street",
     "Tangier",
-    "food spot",
-    "street scene"
+    "tapas board",
+    "120 dirhams",
+    "Eldorado"
    ],
    "url": "https://www.instagram.com/p/DLibpnCsTnf/",
    "author": "tanger.guide_",
    "author_url": "https://www.instagram.com/tanger.guide_/",
    "date": "2025-06-30",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Morocco",
@@ -20699,19 +20743,21 @@
   },
   {
    "folder": "Morocco",
-   "title": "A secret spot in Tangier",
-   "synopsis": "A French one-liner promising a secret place in Tangier that very few people know. No name, street or category is given. The reveal exists only in the video.",
+   "title": "A Tangier seafront terrace facing Spain, with the full price list",
+   "synopsis": "The transcript reveals the secret spot as a terrace directly facing the Mediterranean and, across it, Spain. The breakfast formula is 100 dirhams or about ten euros, which the creator concedes sounds steep but calls generous enough for two people. Other prices given are orange juice and tea at 40 dirhams each, tagine from 100, pizza at 60 and Friday couscous at 100; they rate the setting exceptional and worth doing at least once in Tangier.",
    "keywords": [
-    "Tangier",
-    "hidden spot",
-    "Morocco"
+    "Tangier seafront",
+    "breakfast formula",
+    "100 dirhams",
+    "sea view terrace",
+    "Friday couscous"
    ],
    "url": "https://www.instagram.com/p/DEIQ01uIdoB/",
    "author": "accromaroc",
    "author_url": "https://www.instagram.com/accromaroc/",
    "date": "2024-12-28",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Morocco",
@@ -20733,19 +20779,21 @@
   },
   {
    "folder": "Morocco",
-   "title": "One of the best chaabi couscous in Tangier",
-   "synopsis": "A one-line French claim about one of the best chaabi, or popular-style, couscous in Tangier. The venue is not named in the caption. Only the dish and the city can be established from the text.",
+   "title": "Restaurant El Amrani, 40-dirham Friday couscous in the Tangier medina",
+   "synopsis": "The transcript supplies both the venue and walking directions the caption withheld. In the Tangier medina, from where the bureaux de change are, take the small alley on the left, go down about twenty metres, turn right onto the street the audio renders as rue Fraie Siméhi and follow it to the very end: Restaurant El Amrani. The Friday chicken-and-vegetable couscous arrives in five minutes flat and costs 40 dirhams, roughly four euros, which the creator calls consistently excellent and genuinely cheap.",
    "keywords": [
-    "chaabi couscous",
-    "Tangier",
-    "Moroccan food"
+    "Restaurant El Amrani",
+    "Tangier medina",
+    "Friday couscous",
+    "40 dirhams",
+    "budget eats"
    ],
    "url": "https://www.instagram.com/p/DDzha4vo0PD/",
    "author": "accromaroc",
    "author_url": "https://www.instagram.com/accromaroc/",
    "date": "2024-12-20",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Morocco",
@@ -21006,18 +21054,21 @@
   },
   {
    "folder": "Morocco",
-   "title": "In Morocco",
-   "synopsis": "A reel captioned only with the words in Morocco and an emoji. No place, venue or subject is identified. The content is only determinable from the video.",
+   "title": "Archival French protectorate newsreel on Morocco, 1912 to 1914",
+   "synopsis": "The audio is not a travel reel but archival colonial newsreel narration about Morocco under the French protectorate. It opens on a register about Moroccan craftsmanship and the love of things well made, then shifts into period propaganda describing Morocco in 1912 as in decline, saved by a resident general who restored order between 1912 and 1914 as dissidence receded. The clip is a historical document rather than contemporary travel content.",
    "keywords": [
-    "Morocco",
-    "travel reel"
+    "French protectorate",
+    "Morocco 1912",
+    "archival newsreel",
+    "colonial history",
+    "resident general"
    ],
    "url": "https://www.instagram.com/p/C3DSCVXofZG/",
    "author": "imane.ainn",
    "author_url": "https://www.instagram.com/imane.ainn/",
    "date": "2024-02-07",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Morocco",
@@ -21054,19 +21105,21 @@
   },
   {
    "folder": "Morocco",
-   "title": "The perfect day in Marrakech",
-   "synopsis": "A French one-line caption promising the perfect day in Marrakech. No venues, timings or itinerary steps appear in the text. The whole plan is delivered in the video.",
+   "title": "A full day in Marrakech: Café Bacha, the Sultana and tangia at a petrol station",
+   "synopsis": "A French day-plan for Marrakech that starts with a cheap breakfast inside a palace at Café Bacha, hidden behind a riad, which the creator credits with the best coffee selection in Morocco, taken with a brioche au amlou. The day moves through the medina for local shopping, then a secret alleyway to the Sultana, a thousand-and-one-nights palace for afternoon tea or an evening cocktail. Lunch is the best local tangia, served improbably at a petrol station with its own butcher on site, bread straight from the oven and meat cooked for hours; afterwards they recommend Marrakech Insider, a group of biker guides who show the city's secrets.",
    "keywords": [
-    "Marrakech",
-    "day itinerary",
-    "Morocco travel"
+    "Café Bacha",
+    "the Sultana",
+    "tangia",
+    "Marrakech Insider",
+    "Marrakech itinerary"
    ],
    "url": "https://www.instagram.com/p/C2W6ZD2IanL/",
    "author": "leguideultime",
    "author_url": "https://www.instagram.com/leguideultime/",
    "date": "2024-01-21",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "NotebookLM",
@@ -21399,18 +21452,21 @@
   },
   {
    "folder": "Thessaloniki",
-   "title": "Greece news teaser",
-   "synopsis": "A reel whose caption is only a prompt to follow the account for more news on Greece. No story or subject is identified. Nothing substantive can be extracted from the text.",
+   "title": "Ten mega-projects reshaping Thessaloniki, counted down",
+   "synopsis": "The transcript delivers a costed countdown of Thessaloniki projects. Tenth is PAOK's new roughly 35,000-seat Toumba stadium, with technical designs underway, permit applications targeted for December and construction planned for summer 2027; ninth is an innovation district beside the airport, where the quoted phase-A figure of 50 billion euros is implausible and most likely a mis-transcription, with the government saying core infrastructure is the current focus. Eighth is the 40 million euro Holocaust Museum of Greece beside the old railway station, under construction this year with Metka and targeted for 2028, and seventh is the 53.4 million euro Western Suburban Railway, which also links Thessaloniki port directly to the national network, with technical evaluation complete and contractor selection next.",
    "keywords": [
-    "Greek news",
-    "follow prompt"
+    "Toumba stadium",
+    "Holocaust Museum of Greece",
+    "Western Suburban Railway",
+    "Thessaloniki infrastructure",
+    "PAOK"
    ],
    "url": "https://www.instagram.com/p/DdgtYZQRv-m/",
    "author": "georgemoulosofficial",
    "author_url": "https://www.instagram.com/georgemoulosofficial/",
    "date": "2026-09-20",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Thessaloniki",
@@ -21467,19 +21523,21 @@
   },
   {
    "folder": "Thessaloniki",
-   "title": "Bougatsa, the famous Greek cream pie",
-   "synopsis": "An introductory reel presenting bougatsa as the famous Greek cream pie, with a prompt asking what the creator should try next. No venue or city district is named. It is a dish explainer rather than a recommendation.",
+   "title": "How bougatsa is made, at a Thessaloniki shop working since 1970",
+   "synopsis": "The transcript turns a dish explainer into a production walkthrough, filmed at a family bougatsa shop in Thessaloniki that the audio renders as Teneon and dates to 1970. Everything is handmade: the phyllo is hand-stretched, cut into squares and filled with a sweet vanilla semolina cream some would call custard, folded, trayed and baked, then cut and dusted with powdered sugar and cinnamon. The creator's closing instruction is to eat it with chocolate milk, and notes bougatsa originated in northern Greece.",
    "keywords": [
     "bougatsa",
-    "Greek cream pie",
-    "Thessaloniki"
+    "hand-stretched phyllo",
+    "semolina cream",
+    "Thessaloniki",
+    "since 1970"
    ],
    "url": "https://www.instagram.com/p/C_3VSMFtgRr/",
    "author": "balkandad",
    "author_url": "https://www.instagram.com/balkandad/",
    "date": "2024-09-13",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Thessaloniki",
