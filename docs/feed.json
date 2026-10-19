@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T03:39:58+00:00",
+ "generated_at": "2026-10-19T06:18:48+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -1476,19 +1476,22 @@
   },
   {
    "folder": "AI",
-   "title": "Paid versus free AI tools, with the list behind a DM gate",
-   "synopsis": "The post compares paid AI tools against free alternatives as a starting point for beginners. No tool is actually named in the caption; the list is promised by DM to anyone commenting the word AI. It functions as lead capture rather than a comparison.",
+   "title": "Seven paid AI tools paired with a free substitute each",
+   "synopsis": "The transcript reads out the whole comparison the caption kept behind a DM gate, as monthly price pairs. ChatGPT at 20 dollars is set against Storm at zero, ElevenLabs at 22 against Chatterbox, Canva at 13 against Microsoft Designer, and Lovable at 20 against Trae AI. For video he pits Veo 3 at 75 dollars against Seedance at zero and Gemini's Veo 3 tier at 20 against Wan, and for agents Manus at 16 against a free alternative he pronounces as Zona.ai. Several names are audibly mangled and the spellings here are the closest plausible readings.",
    "keywords": [
-    "AI tools",
+    "Seedance",
+    "Trae AI",
+    "Chatterbox",
+    "Microsoft Designer",
     "free alternatives",
-    "DM gate"
+    "tool pricing"
    ],
    "url": "https://www.instagram.com/p/DN0Kjj0WoYu/",
    "author": "urvvi.patel",
    "author_url": "https://www.instagram.com/urvvi.patel/",
    "date": "2025-08-26",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI",
@@ -1509,34 +1512,41 @@
   },
   {
    "folder": "AI",
-   "title": "A single meta-prompt to improve every other prompt",
-   "synopsis": "The creator claims one prompt will substantially improve all of a user subsequent prompts. The prompt itself is not in the caption, which redirects to a full video on his YouTube channel. Nothing is reproducible from the post alone.",
+   "title": "Lyra, the meta-prompt, and where it actually came from",
+   "synopsis": "The transcript names the prompt as Lyra and, more usefully, traces its provenance. The creator credits X user Min Choi for the post that spread it, where searching Lyra turns up a long prompt with some 343,000 views, then points out that Min Choi's own post cites Reddit as the source. The original author is an anonymous Reddit user who, on a 147th attempt to get ChatGPT to write an email that did not sound robotic, spent 72 hours building the meta-prompt and gave it away in full on r/ChatGPT.",
    "keywords": [
+    "Lyra",
+    "meta-prompt",
+    "Min Choi",
+    "r/ChatGPT",
     "prompt engineering",
-    "meta-prompt"
+    "provenance"
    ],
    "url": "https://www.instagram.com/p/DMVweC6pIcX/",
    "author": "paytonbilodeau",
    "author_url": "https://www.instagram.com/paytonbilodeau/",
    "date": "2025-07-20",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI",
-   "title": "Your children, not you, will be the ones adopting robots",
-   "synopsis": "A two-line French provocation arguing that household robot adoption will come from the next generation rather than from adults today. The only technical hook is a Hugging Face hashtag, with no product or model named. The reasoning is in the video.",
+   "title": "Hugging Face's 299-euro Reachy Mini as a generational wedge",
+   "synopsis": "The transcript supplies the product the caption never named: Hugging Face's Reachy Mini, a small humanoid at 299 euros that moves, hears, answers and is programmable, sold as an educational tool. The creator's argument is that this is how adoption actually happens, by analogy with mobile phones entering households through children, so robots will not be adopted so much as expected and demanded by a generation that grew up with them. She calls it a gentle desensitisation and insists the real turning point is generational rather than technological.",
    "keywords": [
-    "robotics adoption",
+    "Reachy Mini",
     "Hugging Face",
-    "generational shift"
+    "299 EUR",
+    "humanoid robot",
+    "generational adoption",
+    "edtech"
    ],
    "url": "https://www.instagram.com/p/DL-euePsM38/",
    "author": "ninon.ia_officiel",
    "author_url": "https://www.instagram.com/ninon.ia_officiel/",
    "date": "2025-07-11",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI",
@@ -1559,12 +1569,13 @@
   },
   {
    "folder": "AI",
-   "title": "Website cloning and AI influencers behind a comment gate",
-   "synopsis": "The post advertises a tool that clones any website and produces explainer videos and AI influencers. No product is named; the link is released only to people who comment the word AI. The caption is pure lead capture.",
+   "title": "Website cloning, explainer animations and AI influencers, none named",
+   "synopsis": "The transcript walks all three tools without naming any of them, so the AI comment gate is never opened. The first copies a site from its URL, demonstrated on nike.com and described as coding almost the whole thing into a customisable clone. The second turns a confusion such as linear equations into a narrated animation, explaining y equals mx plus b, the intercept and the slope as rise over run, and also accepts an uploaded PDF. The third builds an AI influencer from preferences and prompts, generates its content and chats with fans.",
    "keywords": [
     "website cloning",
-    "AI influencers",
-    "explainer video",
+    "explainer animation",
+    "AI influencer",
+    "unnamed tools",
     "comment gate"
    ],
    "url": "https://www.instagram.com/p/DKleNfyzNZW/",
@@ -7038,11 +7049,14 @@
   },
   {
    "folder": "AI.Grfx",
-   "title": "High-quality AI video without JSON prompting",
-   "synopsis": "A single-line claim that you can produce high-quality AI video without resorting to JSON prompts. No tool, model or alternative method is named. The entire substance is in the video.",
+   "title": "Plain-English video prompting on a V4.0 model, site unnamed",
+   "synopsis": "The transcript explains the alternative to JSON prompting but never names the website, so the post stays unreproducible. You select a V4.0 model in the dashboard and write ordinary sentences instead of a prompt structure, his examples being a Coca-Cola bottle transforming into a diner, a Nutella jar exploding into a full breakfast and an IKEA box unfolding into furniture. Edits work the same way, with instructions such as adding a cheering sound effect or making the transformation faster.",
    "keywords": [
-    "AI video",
-    "JSON prompting"
+    "plain-English prompting",
+    "JSON prompt alternative",
+    "product transformation video",
+    "unnamed tool",
+    "V4.0"
    ],
    "url": "https://www.instagram.com/p/DNp87T7h3S-/",
    "author": "harshhhgautam",
@@ -7088,13 +7102,14 @@
   },
   {
    "folder": "AI.Grfx",
-   "title": "Royalty-free images and product VFX ads behind a gate",
-   "synopsis": "The creator advertises tools for creating royalty-free images, product VFX advertising and image editing. No product is named anywhere in the caption. The link is released only to people commenting Change.",
+   "title": "Copyright stripping, product VFX and an editing suite, none named",
+   "synopsis": "The transcript describes three tools without naming any, so the Change gate holds. The first takes an uploaded copyrighted image and an aspect ratio and returns a non-copyrighted version the creator says is sometimes better than the original, a legal framing worth treating sceptically. The second turns a product image, demonstrated on a Pepsi can, into a VFX marketing video with no skill required. The third bundles editing tools in one place: object removal, background clearing, recolouring and sky replacement.",
    "keywords": [
-    "royalty-free images",
+    "copyright stripping",
     "product VFX",
-    "image editing",
-    "comment gate"
+    "image editing suite",
+    "sky replacement",
+    "unnamed tools"
    ],
    "url": "https://www.instagram.com/p/DLJepwNT_gl/",
    "author": "harshhhgautam",
@@ -7105,20 +7120,22 @@
   },
   {
    "folder": "AI.Grfx",
-   "title": "A Luma AI video update covering style transfer",
-   "synopsis": "The creator calls the new Luma AI video update wild, with hashtags pointing at Modify Video, style transfer and consistent characters alongside Runway Gen-4. The caption itself contains no feature description or comparison. The link is gated behind commenting AI.",
+   "title": "Runway plus Luma Modify for a consistent character, 30 dollars a month",
+   "synopsis": "The transcript names both halves of the workflow the caption gated. On runway.ml you upload a photo of yourself, a photo of the location and a hand-drawn sketch mapping the composition, then prompt it so the images act as references and generate a frame containing you, the place and the layout. That frame goes to Luma Labs, where you upload a phone video of yourself acting out the scene, hit Modify and supply the generated image as the style reference with a short prompt such as man flying the plane. He puts the whole stack at about thirty dollars a month.",
    "keywords": [
-    "Luma AI",
+    "Runway",
+    "Luma Labs",
     "Modify Video",
     "style transfer",
-    "consistent characters"
+    "consistent character",
+    "30 USD/month"
    ],
    "url": "https://www.instagram.com/p/DKmf4zrtyGF/",
    "author": "rourke",
    "author_url": "https://www.instagram.com/rourke/",
    "date": "2025-06-07",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Grfx",
@@ -7225,27 +7242,32 @@
   },
   {
    "folder": "AI.Grfx",
-   "title": "A free unlimited image generator behind a comment gate",
-   "synopsis": "The creator expresses disbelief that a free and unlimited AI image generator exists and offers the link by DM. The site is never named in the caption. Nothing can be verified or reproduced from the text alone.",
+   "title": "Gentube.app, free and unlimited image generation",
+   "synopsis": "The transcript names the site the caption kept behind an image comment: Gentube.app, which the creator calls the world's fastest generator, free with unlimited generations. He types prompts such as mythical cat straight into the prompt box and notes how fast each render returns, swapping the subject to a dog to show it again. He also points to a second tool on the same site that builds an image from a set of combined keywords.",
    "keywords": [
-    "free image generator",
-    "comment gate"
+    "Gentube.app",
+    "free image generation",
+    "unlimited generations",
+    "prompt box",
+    "keyword-to-image"
    ],
    "url": "https://www.instagram.com/p/DIhezmHTvqj/",
    "author": "harley.digital",
    "author_url": "https://www.instagram.com/harley.digital/",
    "date": "2025-04-16",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Grfx",
-   "title": "VFX, 3D mockups and websites from one gated list",
-   "synopsis": "The creator promises tools for finding VFX, creating 3D mockups and building websites with AI. None of the three products is named in the caption. The links are released only to people commenting Creative.",
+   "title": "VFX, 3D mockups and AI sitemaps, all three sites unnamed",
+   "synopsis": "The transcript describes all three tools but names none of them, so the Creative comment gate holds. The first offers hundreds of 4K VFX elements searchable by effect, his example being car flipping, downloadable straight into your edit. The second turns any uploaded picture into a 3D device mockup or animation in seconds. The third takes a brief such as a website for a creative agency and returns a sitemap, converts it into a customisable wireframe and lets you pick a theme before pasting the design into Webflow.",
    "keywords": [
-    "VFX",
+    "VFX elements",
     "3D mockups",
-    "AI websites",
+    "AI wireframes",
+    "Webflow",
+    "unnamed tools",
     "comment gate"
    ],
    "url": "https://www.instagram.com/p/DIfh_XdzNiD/",
@@ -7346,34 +7368,42 @@
   },
   {
    "folder": "AI.Grfx",
-   "title": "Five use cases for a new ChatGPT update",
-   "synopsis": "A single-line claim of five remarkable use cases unlocked by the latest ChatGPT update. Neither the update nor any use case is named in the caption. All of it is in the video.",
+   "title": "Five marketing uses of the ChatGPT image update",
+   "synopsis": "The transcript names the update as ChatGPT's image generation release and walks the five uses the caption withheld. It turns plain product photos into finished ads, generates an ad creative from nothing but an emailed brief, and upgrades low-quality photos into high-production shots with copy. The creator's own favourite is feeding it a competitor's ad creative so it reproduces the same execution with your product, and he also combines brand guidelines with a YouTube transcript to get a postable infographic, plus UGC-style shots by telling it to feature a human with a plain product.",
    "keywords": [
-    "ChatGPT",
-    "product update"
+    "ChatGPT image generation",
+    "ad creatives",
+    "competitor ad cloning",
+    "UGC",
+    "product photography",
+    "infographics"
    ],
    "url": "https://www.instagram.com/p/DHygAWvpH1l/",
    "author": "wellcopymax",
    "author_url": "https://www.instagram.com/wellcopymax/",
    "date": "2025-03-29",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Grfx",
-   "title": "A master list for AI content creation behind a gate",
-   "synopsis": "The creator offers his master list covering AI video, image and character creation plus ecommerce and business use. Nothing from the list appears in the caption, which is otherwise a wall of hashtags. Links are released to anyone commenting List.",
+   "title": "The gated master list, read out in full: fourteen named tools",
+   "synopsis": "This is the transcript with the biggest payoff of the batch, because the creator reads the entire gated list aloud and names every tool. Images go to Midjourney, image-to-video to Kling AI, match-cut effects to LTX Studio, relighting to Magnific AI, AI characters driven by your own motion to Viggle, and lip sync onto other characters to Hydra. For commerce he names Flare AI for models holding your products, Pitco Pilot for product imagery, RenderNet for videos of models wearing clothes, HowTech AI for simply dressing models, Pika for replacing things in video and OpenMagic for product VFX, closing with Hugging Face as a free tool library and Adobe Firefly for commercially safe output.",
    "keywords": [
-    "AI content creation",
-    "master list",
-    "comment gate"
+    "Midjourney",
+    "Kling AI",
+    "LTX Studio",
+    "Magnific AI",
+    "Viggle",
+    "RenderNet",
+    "Adobe Firefly"
    ],
    "url": "https://www.instagram.com/p/DHNuUidAh1x/",
    "author": "rourke",
    "author_url": "https://www.instagram.com/rourke/",
    "date": "2025-03-15",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Grfx",
@@ -7516,19 +7546,21 @@
   },
   {
    "folder": "AI.Grfx",
-   "title": "A website roundup opening with Recraft Mockup Creator",
-   "synopsis": "A list-format post on sites the creator calls real-life cheat codes, of which only the first is legible in the caption: Recraft Mockup Creator. The remaining entries are replaced by filler dots. The rest of the list is video-only.",
+   "title": "Recraft Mockup Creator, prompted then overlaid",
+   "synopsis": "The transcript covers only the first item of the list but confirms how it is used. You write a plain-language mockup brief, his example being a man in a yellow t-shirt holding a watermelon, and Recraft Mockup Creator renders the scene. You then drag and drop your own design anywhere inside that generated mockup, and the creator points out it maps onto any surface in the image, even the watermelon.",
    "keywords": [
     "Recraft",
-    "mockups",
-    "website roundup"
+    "Mockup Creator",
+    "design overlay",
+    "product mockups",
+    "prompt-to-mockup"
    ],
    "url": "https://www.instagram.com/p/DE0Avd9Sw7T/",
    "author": "techsanitymedia",
    "author_url": "https://www.instagram.com/techsanitymedia/",
    "date": "2025-01-14",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Grfx",
@@ -7566,18 +7598,22 @@
   },
   {
    "folder": "AI.Grfx",
-   "title": "A saved-for-later tip with no named tool",
-   "synopsis": "The caption only urges viewers to save the post so they do not forget, and to subscribe for the next tip. Hashtags reference ChatGPT, Claude and no-code tools but nothing is actually named. The tip exists only in the video.",
+   "title": "Abacus.ai pitched as a single page replacing ChatGPT",
+   "synopsis": "The transcript names the site the caption hid: abacus.ai, which the creator says is breaking the AI market by putting ChatGPT and its competitors side by side on one page. The same page generates images through Flux, DALL-E and Recraft, demonstrated with an annoyed panda, produces video from several models, builds downloadable PowerPoint decks, and humanises text in a tone you choose. The link itself is still offered only on request in the comments.",
    "keywords": [
-    "AI tools",
-    "no-code"
+    "Abacus.ai",
+    "Flux",
+    "Recraft",
+    "DALL-E",
+    "multi-model aggregator",
+    "AI PowerPoint"
    ],
    "url": "https://www.instagram.com/p/DDZsVcFt8C6/",
    "author": "leoodeep",
    "author_url": "https://www.instagram.com/leoodeep/",
    "date": "2024-12-10",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Grfx",
@@ -7617,36 +7653,39 @@
   },
   {
    "folder": "AI.Grfx",
-   "title": "Imagen 3 presented as possibly the best image generator",
-   "synopsis": "The creator argues Google Imagen 3 may be the strongest AI image generator available. The caption is a headline plus hashtags including a nod to Flux as a reference point, with no comparison, sample or prompt detail. The evidence is in the video.",
+   "title": "Imagen 3 benchmarked on adherence, text and realism",
+   "synopsis": "The creator runs Google Imagen 3 through a fixed four-part test and reports results: a spacesuit-and-galaxy prompt looks good but less creative than rivals, and a bear standing on a chair holding a duck is the first time any generator passed his prompt-adherence test outright. Text rendering works with errors on complex or very long strings, and a realistic TED-talk portrait is called photographic, possibly beating Flux. He flags odd censorship, since it refused text containing his full name, and points to the free Google AI Test Kitchen.",
    "keywords": [
     "Imagen 3",
-    "Google",
-    "image generation",
-    "Flux"
+    "Google AI Test Kitchen",
+    "Flux",
+    "prompt adherence",
+    "image generation benchmark"
    ],
    "url": "https://www.instagram.com/p/C-tjMwnPjiK/",
    "author": "mattfarmerai",
    "author_url": "https://www.instagram.com/mattfarmerai/",
    "date": "2024-08-16",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Ai.LM",
-   "title": "A Qwen capability shown via Chat.qwenlm.ai",
-   "synopsis": "The caption is a single line pointing to Chat.qwenlm.ai as where the demonstrated capability is available. Neither the model version nor the feature is described in text. The subject exists only in the video.",
+   "title": "Qwen 2.5 Max positioned above DeepSeek V3",
+   "synopsis": "The transcript identifies what the one-line caption pointed at: Alibaba's Qwen 2.5 Max, which the creator reports Alibaba claims is the best model of the moment and better than DeepSeek V3. She names the dimensions where it is said to pull ahead, namely advanced comprehension, coding and general knowledge, and reads the release as a problem for the United States rather than just for DeepSeek. It is available through chat.qwenlm.ai, as the caption indicated.",
    "keywords": [
-    "Qwen",
+    "Qwen 2.5 Max",
     "Alibaba",
-    "chat model"
+    "DeepSeek V3",
+    "chat.qwenlm.ai",
+    "model benchmarks"
    ],
    "url": "https://www.instagram.com/p/DFchJ7TMh6I/",
    "author": "ninon.ia_officiel",
    "author_url": "https://www.instagram.com/ninon.ia_officiel/",
    "date": "2025-01-30",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "AI.Marketing",
@@ -14730,12 +14769,13 @@
   },
   {
    "folder": "Brussels",
-   "title": "Which country's cuisine next in Brussels?",
-   "synopsis": "A world-cuisine reel whose caption only asks which countries the creator should cover next and prompts a follow. No venue or dish is named in the text. The subject is identifiable only from the video.",
+   "title": "Brussels world-cuisine reel carried by a Turkish song",
+   "synopsis": "Transcription does not rescue this card: the audio is a Turkish song lyric and nothing else, so no venue, dish or neighbourhood is ever spoken. The caption only asks which countries to cover next in the Brussels world-cuisine series. The subject remains visual-only and unidentifiable from text.",
    "keywords": [
+    "Brussels",
     "world cuisine",
-    "Brussels restaurants",
-    "audience poll"
+    "music-only audio",
+    "no usable transcript"
    ],
    "url": "https://www.instagram.com/p/DFNO6mqNTsW/",
    "author": "theguide_brussels",
@@ -16084,20 +16124,22 @@
   },
   {
    "folder": "Business hacks",
-   "title": "Comment-gated supplier sourcing help",
-   "synopsis": "A French post asking whether you are struggling to find a good supplier for your brand and offering the information to anyone commenting sourcing. The hashtags cover Alibaba, dropshipping and launching a clothing brand. No supplier or vetting method is described in the caption.",
+   "title": "A Chinese body-kit factory that ages a 2007 X5 into a 2024",
+   "synopsis": "The transcript is about car facelift kits rather than the clothing sourcing the hashtags suggest, and it names the factory. The car shown is a 2007 X5 converted with a full kit, and the creator recommends a Chinese plant he pronounces as Shenzhou Fueto Molded Plastics, specialising in facelifts and complete body kits for German SUVs and saloons, reachable directly on Alibaba. His market explanation is that the Maghreb and Middle East tax new cars so heavily that converting an old model beats paying some 30,000 euros more for a new one, and he rates the parts and interior finish as manufacturer quality.",
    "keywords": [
-    "supplier sourcing",
-    "Alibaba",
-    "comment gate",
-    "dropshipping"
+    "body kit",
+    "facelift conversion",
+    "Alibaba supplier",
+    "BMW X5",
+    "Maghreb market",
+    "car import"
    ],
    "url": "https://www.instagram.com/p/DOX9cFwgkBp/",
    "author": "verso_supply",
    "author_url": "https://www.instagram.com/verso_supply/",
    "date": "2025-09-09",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
@@ -16297,20 +16339,21 @@
   },
   {
    "folder": "Business hacks",
-   "title": "Alternatives to Alibaba and Made-in-China",
-   "synopsis": "A sourcing post urging viewers to stop using Alibaba and Made-in-China in favour of other websites. The alternatives are not named anywhere in the caption, only in the video. The hashtags cover China sourcing, factories and import across clothing, shoes and car accessories.",
+   "title": "Five named Alibaba alternatives by product category",
+   "synopsis": "The transcript delivers the five sourcing sites the caption withheld, with the creator's argument that Alibaba mostly surfaces middlemen who inflate prices. He routes each category separately: vvic.com for women's clothing, 3e3e for children's clothing, softset.com for shoes, yiwugo.com for small commodities and a car-accessories site he pronounces as yuncheeping. The last two domain endings are indistinct in the audio and should be treated as approximate.",
    "keywords": [
-    "China sourcing",
+    "vvic.com",
+    "yiwugo.com",
     "Alibaba alternatives",
-    "import",
-    "manufacturers"
+    "China sourcing",
+    "wholesale marketplaces"
    ],
    "url": "https://www.instagram.com/p/DIjPaYySHob/",
    "author": "achourisourcing",
    "author_url": "https://www.instagram.com/achourisourcing/",
    "date": "2025-04-17",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
@@ -16543,20 +16586,22 @@
   },
   {
    "folder": "Business hacks",
-   "title": "Comment-gated clothing suppliers list",
-   "synopsis": "A lead-generation post offering a free suppliers list to anyone who comments the word BRAND, delivered by direct message. The hashtags target people starting a clothing brand and cover hoodie, t-shirt, jacket and sweatshirt manufacturers. No supplier, platform or criterion is named in the caption.",
+   "title": "ASPX, a no-MOQ Portuguese clothing manufacturer",
+   "synopsis": "The transcript names one supplier from the gated list: ASPX, a Portuguese manufacturer offering premium ready-made blanks with no minimum order quantity, so a brand can buy as little as a single unit. The creator shows a zip-up hoodie and a t-shirt they produced, notes print and embroidery options plus seven-day-a-week WhatsApp support, and adds that they also take low-MOQ custom manufacturing. The wider worldwide supplier list for clothing, footwear and jewellery stays behind commenting BRAND.",
    "keywords": [
-    "clothing suppliers",
-    "comment gate",
-    "clothing brand",
-    "manufacturing"
+    "ASPX",
+    "Portugal",
+    "no MOQ",
+    "clothing manufacturing",
+    "private label",
+    "comment gate"
    ],
    "url": "https://www.instagram.com/p/DC40XZFI47c/",
    "author": "jackgriffinparry",
    "author_url": "https://www.instagram.com/jackgriffinparry/",
    "date": "2024-11-27",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
@@ -16679,19 +16724,21 @@
   },
   {
    "folder": "Business hacks",
-   "title": "Two powerful money-saving tools",
-   "synopsis": "A French post claiming two very powerful tools for saving money, aimed at entrepreneurs and website owners. Neither tool is named in the caption. The identification depends on the video.",
+   "title": "TempMail and TempSMS used to dodge paid trials",
+   "synopsis": "The transcript names the two tools the caption withheld: TempMail for throwaway email addresses and TempSMS for disposable phone numbers in many countries. The creator's pitch is that between them you can re-register on any online service indefinitely and never pay a subscription, receiving both the confirmation mail and the SMS code in the browser. It is presented as a money-saving hack for entrepreneurs, with no mention that this breaks most providers' terms of service.",
    "keywords": [
-    "money-saving tools",
-    "entrepreneurship",
-    "online business"
+    "TempMail",
+    "TempSMS",
+    "disposable identity",
+    "trial abuse",
+    "subscription avoidance"
    ],
    "url": "https://www.instagram.com/p/C-8C6dWintz/",
    "author": "qs_seo",
    "author_url": "https://www.instagram.com/qs_seo/",
    "date": "2024-08-21",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Business hacks",
@@ -18123,19 +18170,21 @@
   },
   {
    "folder": "Hacks",
-   "title": "A natural-cleaning ebook behind a comment gate",
-   "synopsis": "The creator promotes an ebook of natural cleaning methods to anyone commenting BOOK. The hashtags point at suede fading, sneaker edge stains, leather care and white-sneaker cleaning as its subject matter. No method appears in the caption.",
+   "title": "Three home shoe-care recipes from the gated ebook",
+   "synopsis": "The transcript gives three concrete recipes rather than the ebook pitch the caption leads with. Hand cream mixed with glycerine is said to make leather shoes shine as if waxed. Hand cream combined with hair conditioner and warm water, shaken and sprayed onto suede, is claimed to restore colour instantly. Toothpaste mixed with alcohol and worked with a scrub sponge is offered for the white rubber edges of sneakers.",
    "keywords": [
-    "natural cleaning",
     "shoe care",
-    "ebook"
+    "suede restoration",
+    "leather shine",
+    "white sneaker edges",
+    "household cleaning"
    ],
    "url": "https://www.instagram.com/p/DLHk77cOFfZ/",
    "author": "cleanwithjie",
    "author_url": "https://www.instagram.com/cleanwithjie/",
    "date": "2025-06-20",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Hacks",
@@ -18190,12 +18239,14 @@
   },
   {
    "folder": "Hacks",
-   "title": "A free-trial workaround presented as legal",
-   "synopsis": "The creator shares a method for obtaining free trials, insisting it is completely legal while warning viewers not to misuse it. The technique is not described in the caption, though credit cards and streaming services appear in the hashtags. The method is video-only.",
+   "title": "A card generator for trial paywalls, site unnamed",
+   "synopsis": "The transcript reveals the method is a card-number generator rather than any legitimate trial extension, but never names the website, so the post stays unactionable. The creator shows expanding a tools menu, picking a card type and generating a number to get past pages that require payment details for a free trial. His caption claim that this is completely legal does not hold: generating card numbers to bypass payment verification breaches the terms of every service concerned, and his own on-camera caveat is only not to misuse it.",
    "keywords": [
-    "free trials",
-    "virtual cards",
-    "tech tips"
+    "card generator",
+    "free trial bypass",
+    "payment fraud risk",
+    "unnamed site",
+    "false legality claim"
    ],
    "url": "https://www.instagram.com/p/DG2-wVoR-Mc/",
    "author": "unespc",
@@ -18221,18 +18272,21 @@
   },
   {
    "folder": "Hacks",
-   "title": "A back-to-work tech tip offered as a favour",
-   "synopsis": "The creator frames a tech trick as a public service now that the holidays are ending. No tool, platform or technique is named in the caption. The tip exists only in the video.",
+   "title": "Fake update screens from widescreen.online",
+   "synopsis": "The transcript names the site the caption withheld: widescreen.online, whose lower sections hold prank screens and then a set of fake system-update screens for several Windows versions and macOS. You pick the one matching your machine, set a duration, with 120 minutes suggested as enough for a long coffee break, and a starting percentage, then expand it to fill the screen. The creator frames it openly as a way to look busy at work.",
    "keywords": [
-    "tech tip",
-    "productivity"
+    "widescreen.online",
+    "fake update screen",
+    "prank",
+    "workplace",
+    "screensaver"
    ],
    "url": "https://www.instagram.com/p/DEVVBuQs0qc/",
    "author": "haylsworld",
    "author_url": "https://www.instagram.com/haylsworld/",
    "date": "2025-01-02",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Hacks",
@@ -18253,12 +18307,14 @@
   },
   {
    "folder": "Hacks",
-   "title": "Part thirteen of a series on ethical hacking resources",
-   "synopsis": "The thirteenth entry in a French series pointing to a powerful site for learning ethical hacking. The site itself is never named in the caption. Identification depends entirely on the video.",
+   "title": "Part 13 of the ethical-hacking series, site still unnamed",
+   "synopsis": "The transcript repeats the caption almost word for word and never names the site, so part thirteen stays unidentifiable. The only added detail is the example query: the creator asks how to recover a Wi-Fi password and the site returns a step-by-step guide. He closes by stating the material is for educational purposes only.",
    "keywords": [
     "ethical hacking",
-    "learning resources",
-    "series"
+    "step-by-step guides",
+    "Wi-Fi password",
+    "unnamed site",
+    "French series"
    ],
    "url": "https://www.instagram.com/p/DENfyUINL6w/",
    "author": "iaexploreria",
@@ -18334,19 +18390,21 @@
   },
   {
    "folder": "Hacks",
-   "title": "Solving a Rubik's cube and the myth of not being smart",
-   "synopsis": "The creator argues the puzzle was set up to make people feel unintelligent when in fact everyone is capable, framing a Rubik's cube trick as proof. The method itself is not in the caption. It is positioned as a family game-night demonstration.",
+   "title": "Solving any Rubik's cube by repeating one move eight times",
+   "synopsis": "The transcript gives the trick in full: from any scrambled state, repeat a single short sequence eight times and the cube resolves. The creator describes the sequence as side up, top across, a 90-degree turn, then up and across again, counting the repetitions down on camera. It is presented as proof of his framing that the puzzle was built to make people feel unintelligent when the mechanism is actually trivial.",
    "keywords": [
     "Rubik's cube",
-    "puzzle",
-    "trick"
+    "repeated algorithm",
+    "eight repetitions",
+    "party trick",
+    "cube guy"
    ],
    "url": "https://www.instagram.com/p/DCzZS4mSCFq/",
    "author": "elevate.create.agency",
    "author_url": "https://www.instagram.com/elevate.create.agency/",
    "date": "2024-11-25",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Hacks",
@@ -18366,19 +18424,22 @@
   },
   {
    "folder": "Hacks",
-   "title": "Setting up a new car properly to avoid losing out",
-   "synopsis": "The creator warns that buying a new car without knowing how to configure it leaves you at a significant disadvantage. Which settings matter is not stated in the caption. The walkthrough is in the video.",
+   "title": "Four hidden car settings, including a single-door unlock",
+   "synopsis": "The transcript lists the four configurations the caption withheld, each a press-and-hold until the car beeps. Holding the door lock symbol five seconds makes the doors lock automatically above 15 km/h; setting the mirror switch to R in reverse and aiming at the rear tyres makes the mirror tilt down on every reverse to protect the wheels; holding the window switch up five seconds enables one-touch closing with anti-pinch. The last, which the creator addresses specifically to women, is holding lock and unlock together for five seconds so that unlocking opens only the driver's door.",
    "keywords": [
-    "car setup",
-    "vehicle settings",
-    "driving tips"
+    "car settings",
+    "auto-lock 15 km/h",
+    "reverse mirror tilt",
+    "anti-pinch windows",
+    "driver-door-only unlock",
+    "personal safety"
    ],
    "url": "https://www.instagram.com/p/DBYxenrPGZr/",
    "author": "learncar01",
    "author_url": "https://www.instagram.com/learncar01/",
    "date": "2024-10-21",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Hacks",
@@ -18526,20 +18587,21 @@
   },
   {
    "folder": "Hacks",
-   "title": "Unlocking a BIOS-locked Dell Precision workstation",
-   "synopsis": "The creator recounts getting past the BIOS lock on a Dell Precision workstation, and openly questions whether hacking is the right word for it or whether BIOS unlocking is more accurate. The caption gives the target and outcome but no method, tool or service. The technique is in the video.",
+   "title": "Clearing a Dell Precision BIOS password with bios-pw.org",
+   "synopsis": "The transcript supplies the method: on a BIOS-locked Dell the unlock prompt shows a system number, which you enter at bios-pw.org to get a matching serial back. Typing that serial into the prompt and confirming with Control-Enter rather than Enter clears the lock, after which you load defaults, reboot and install any OS. The creator frames it as recovering machines retired from schools and large organisations, and himself questions whether this counts as hacking.",
    "keywords": [
     "Dell Precision",
-    "BIOS unlock",
-    "firmware password",
-    "hardware repair"
+    "BIOS password",
+    "bios-pw.org",
+    "hardware recovery",
+    "ex-corporate machines"
    ],
    "url": "https://www.instagram.com/p/C9-3N2aumlo/",
    "author": "geekofalltrad3s",
    "author_url": "https://www.instagram.com/geekofalltrad3s/",
    "date": "2024-07-28",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Hacks",
@@ -18590,20 +18652,21 @@
   },
   {
    "folder": "Hacks",
-   "title": "Catching an iPhone thief when they plug in to charge",
-   "synopsis": "The creator claims that when a thief charges your stolen iPhone you will learn their location and see their face, and tells viewers to watch the trick closely. Which feature enables this, whether Find My, Stolen Device Protection or a shortcut, is never stated. The method is in the video.",
+   "title": "An iOS Shortcuts automation that photographs whoever charges your stolen iPhone",
+   "synopsis": "The transcript gives the full recipe the caption teased, and it is plain iOS Shortcuts rather than Find My. In the Shortcuts app you create a new automation triggered by the charger being connected, set to run immediately, then chain three actions: take a photo with the front camera with the preview hidden, save it to the gallery, and get the current location. A final Send Email action to your own address, with the compose sheet disabled, mails the photo and position silently the moment the phone is plugged in.",
    "keywords": [
-    "iPhone",
-    "theft recovery",
-    "Find My",
-    "device security"
+    "iOS Shortcuts",
+    "automation",
+    "stolen phone",
+    "front camera trigger",
+    "geolocation alert"
    ],
    "url": "https://www.instagram.com/p/C7FBh2Xs-m2/",
    "author": "rowanitoovideos",
    "author_url": "https://www.instagram.com/rowanitoovideos/",
    "date": "2024-05-17",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Hacks",
@@ -19154,11 +19217,14 @@
   },
   {
    "folder": "IA",
-   "title": "High-quality AI video without JSON prompting",
-   "synopsis": "A single-line claim that you can produce high-quality AI video without resorting to JSON prompts. No tool, model or alternative method is named. The entire substance is in the video.",
+   "title": "Plain-English video prompting on a V4.0 model, site unnamed",
+   "synopsis": "The transcript explains the alternative to JSON prompting but never names the website, so the post stays unreproducible. You select a V4.0 model in the dashboard and write ordinary sentences instead of a prompt structure, his examples being a Coca-Cola bottle transforming into a diner, a Nutella jar exploding into a full breakfast and an IKEA box unfolding into furniture. Edits work the same way, with instructions such as adding a cheering sound effect or making the transformation faster.",
    "keywords": [
-    "AI video",
-    "JSON prompting"
+    "plain-English prompting",
+    "JSON prompt alternative",
+    "product transformation video",
+    "unnamed tool",
+    "V4.0"
    ],
    "url": "https://www.instagram.com/p/DNp87T7h3S-/",
    "author": "harshhhgautam",
@@ -19187,19 +19253,22 @@
   },
   {
    "folder": "IA",
-   "title": "A Claude-built n8n automation, thanked but undescribed",
-   "synopsis": "The creator thanks Claude for an automation result, with hashtags spanning n8n, Claude Opus and business automation. Neither the workflow nor the problem it solves is stated in the caption. The build is video-only.",
+   "title": "ChatGPT writes the prompt, Claude writes the n8n workflow",
+   "synopsis": "The transcript explains the two-model chain the caption only thanked Claude for. You first ask ChatGPT to write a very precise prompt aimed at Claude, requesting JSON for an n8n workflow, and state there what the workflow must do. You copy that generated prompt into Claude, which writes the whole workflow as JSON. Copying the JSON and pasting it onto a blank n8n canvas materialises the complete, ready-to-use workflow, which the creator stresses took only these two models.",
    "keywords": [
-    "Claude",
     "n8n",
-    "workflow automation"
+    "Claude",
+    "ChatGPT",
+    "JSON workflow import",
+    "meta-prompting",
+    "automation"
    ],
    "url": "https://www.instagram.com/p/DLl9etKC6ez/",
    "author": "mats.automation",
    "author_url": "https://www.instagram.com/mats.automation/",
    "date": "2025-07-02",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA",
@@ -19219,12 +19288,13 @@
   },
   {
    "folder": "IA",
-   "title": "Website cloning and AI influencers behind a comment gate",
-   "synopsis": "The post advertises a tool that clones any website and produces explainer videos and AI influencers. No product is named; the link is released only to people who comment the word AI. The caption is pure lead capture.",
+   "title": "Website cloning, explainer animations and AI influencers, none named",
+   "synopsis": "The transcript walks all three tools without naming any of them, so the AI comment gate is never opened. The first copies a site from its URL, demonstrated on nike.com and described as coding almost the whole thing into a customisable clone. The second turns a confusion such as linear equations into a narrated animation, explaining y equals mx plus b, the intercept and the slope as rise over run, and also accepts an uploaded PDF. The third builds an AI influencer from preferences and prompts, generates its content and chats with fans.",
    "keywords": [
     "website cloning",
-    "AI influencers",
-    "explainer video",
+    "explainer animation",
+    "AI influencer",
+    "unnamed tools",
     "comment gate"
    ],
    "url": "https://www.instagram.com/p/DKleNfyzNZW/",
@@ -19341,12 +19411,14 @@
   },
   {
    "folder": "IA",
-   "title": "Generating a copyright-free version of existing material",
-   "synopsis": "The post promotes using AI to produce a copyright-free version of content you can legally use, framed as better, legal and yours. No tool is named and the mechanism by which the output becomes legally clear is not explained. Treat the legal claim as the creator's assertion rather than established.",
+   "title": "nomorecopyright.com regenerates a lookalike of a paid image",
+   "synopsis": "The transcript names the service as nomorecopyright.com and explains the mechanism the caption left vague: you drop in the original copyrighted image, choose a size and hit generate, and it returns a new AI image modelled on it that you download and use. The creator contrasts this with paying for the stock photo or risking a per-image fine. The claim that the output is legally clear is his alone and is not substantiated.",
    "keywords": [
-    "copyright",
-    "content licensing",
-    "AI generation"
+    "nomorecopyright.com",
+    "stock image replacement",
+    "copyright claim",
+    "image generation",
+    "legal risk"
    ],
    "url": "https://www.instagram.com/p/DEVgUY7yi8e/",
    "author": "torro.io",
@@ -19458,12 +19530,14 @@
   },
   {
    "folder": "IA",
-   "title": "Typing a project idea and watching AI build it step by step",
-   "synopsis": "The creator shows typing any project idea and having AI bring it to life step by step. The tool is not named in the caption, which carries only coding and productivity hashtags. The build is demonstrated in the video.",
+   "title": "An unnamed multi-agent site that builds a project from one sentence",
+   "synopsis": "The transcript shows what the tool does but withholds its name, so the post stays unverifiable. You type the task you want, his example being an alarm app that donates to charity each time you hit snooze, and the site spawns cooperating AI agents, delegating research to one bot and the front end to another while showing which subtasks are running, pending or done. A results tab then returns the details and ready-to-use code.",
    "keywords": [
-    "AI coding",
-    "project scaffolding",
-    "automation"
+    "multi-agent",
+    "task delegation",
+    "code generation",
+    "unnamed tool",
+    "agent orchestration"
    ],
    "url": "https://www.instagram.com/p/DD1yj5SSegL/",
    "author": "carlodigital_",
@@ -19491,18 +19565,21 @@
   },
   {
    "folder": "IA",
-   "title": "High-quality AI video promised behind a comment gate",
-   "synopsis": "The creator teases a method for creating high-quality AI video and asks for an AI comment to receive the link. No model or tool is named in the caption, which is otherwise a long hashtag block. Nothing is reproducible from the text.",
+   "title": "Pika named for try-on, 4K portraits and VFX",
+   "synopsis": "The transcript identifies the website as Pika, which the caption kept behind an AI comment. The creator describes three uses: uploading a photo of yourself plus a background and a garment to try clothing on, generating 4K visuals of yourself from one photo and a text prompt, and producing Hollywood-level VFX shots that would be impossible to film, again from a photo and a prompt. He says it can be started for free.",
    "keywords": [
-    "AI video",
-    "comment gate"
+    "Pika",
+    "virtual try-on",
+    "4K upscaling",
+    "AI VFX",
+    "image-to-video"
    ],
    "url": "https://www.instagram.com/p/DDoay6RgaiC/",
    "author": "rourke",
    "author_url": "https://www.instagram.com/rourke/",
    "date": "2024-12-16",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA",
@@ -19578,13 +19655,14 @@
   },
   {
    "folder": "IA",
-   "title": "Day sixty-six of a hundred-day AI tool series, on transitions",
-   "synopsis": "Entry sixty-six in a hundred-day series, covering a tool that creates video transitions in seconds. The caption also references AI voiceover, emotional voiceover and sound effects as adjacent capabilities. The tool name is withheld behind commenting Transition.",
+   "title": "Day 66: a transition tool kept secret",
+   "synopsis": "The transcript adds almost nothing to the caption and never names the tool, which it calls only a secret AI tool. The workflow is to open it, type a prompt describing the transition you want, and wait a few minutes for the clip. The name is withheld pending a Transition comment and a follow, so entry sixty-six of the hundred-day series remains unidentifiable.",
    "keywords": [
     "video transitions",
-    "AI voiceover",
-    "sound effects",
-    "tool series"
+    "comment gate",
+    "unnamed tool",
+    "100-day series",
+    "text-to-video"
    ],
    "url": "https://www.instagram.com/p/DDP-A9NRyGN/",
    "author": "unq_ai",
@@ -19612,13 +19690,14 @@
   },
   {
    "folder": "IA",
-   "title": "Turning photos into video with AI, behind a gate",
-   "synopsis": "The creator teases a method for converting photos into video using AI and asks for an AI comment to receive the link. The tool is not named, and the hashtags are a long block covering product photography and ecommerce. The post is disclosed as an ad.",
+   "title": "An unnamed product-photo-to-video tool with scene generation",
+   "synopsis": "The transcript describes the capability without naming the website, leaving the comment gate intact. It animates existing product photography so old content can be repurposed, and the creator claims companies the size of Nike and Meta use comparable sites for their AI ads. A newer scene-generation feature takes a dropped-in image plus a text prompt and returns a video in ten to thirty seconds, with camera moves such as zoom in or zoom out added by prompt. The post is disclosed as an ad.",
    "keywords": [
-    "image to video",
-    "product photography",
-    "ecommerce",
-    "comment gate"
+    "product video",
+    "scene generation",
+    "image-to-video",
+    "ecommerce ads",
+    "unnamed tool"
    ],
    "url": "https://www.instagram.com/p/DDHFsalgv2V/",
    "author": "rourke",
@@ -19683,29 +19762,33 @@
   },
   {
    "folder": "IA",
-   "title": "A claim that anyone can build an app in under a minute",
-   "synopsis": "The creator insists literally anyone, even a parent with no technical background, can build apps in under a minute with no code. The tool is not named in the caption, though ChatGPT, OpenAI, Anthropic and Claude all appear in the hashtags. The demonstration is video-only.",
+   "title": "A resume-matching app built with ChatGPT and v0.dev in under a minute",
+   "synopsis": "The transcript names the stack the hashtags only gestured at. The creator describes the app he wants in ChatGPT or Claude, copies the whole answer into v0.dev, and asks it to design a React site with Tailwind CSS. The result is a working tool for recruitment agencies that takes a job description plus a hundred resumes, scores the match and outputs names, match verdicts and any field such as email. He then publishes it directly as a link and positions it as fast prototyping.",
    "keywords": [
-    "no-code apps",
-    "app building",
+    "v0.dev",
+    "ChatGPT",
     "Claude",
-    "ChatGPT"
+    "React",
+    "Tailwind CSS",
+    "no-code prototyping"
    ],
    "url": "https://www.instagram.com/p/DA8iIpMSWXg/",
    "author": "brand.nat",
    "author_url": "https://www.instagram.com/brand.nat/",
    "date": "2024-10-10",
    "following": true,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "IA",
-   "title": "A hyper-realistic AI clothing site behind a gate",
-   "synopsis": "The creator teases a hyper-realistic AI clothing website and asks for an AI comment to receive it. The site is never named in the caption. Nothing can be verified from the text.",
+   "title": "An unnamed free AI clothing-swap site, still behind the comment gate",
+   "synopsis": "The transcript explains the workflow but never names the site, so the gate the caption set up is never opened. You drag in a photo of yourself and an image of the garment you want, which the creator stresses need not be an e-commerce shot but can simply be someone wearing the item, then hit run and the tool transplants the clothing with matching lighting and shadows and no Photoshop or generative fill. The name is reserved for people who comment AI.",
    "keywords": [
-    "AI clothing",
     "virtual try-on",
-    "comment gate"
+    "AI clothing swap",
+    "comment gate",
+    "unnamed tool",
+    "photo editing"
    ],
    "url": "https://www.instagram.com/p/DAk6idJA0DR/",
    "author": "rourke",
@@ -20571,19 +20654,22 @@
   },
   {
    "folder": "Marrakesh",
-   "title": "A good meal and a reminder to brush your teeth",
-   "synopsis": "A light French reel in which the creator jokes about their voice changing mid-video and confirms the food was good. Their sign-off, in keeping with the dental-food account, is a reminder to brush your teeth. No venue, dish or location is named.",
+   "title": "Chef Faisal's Moroccan fusion table at Azalai Urban Souk",
+   "synopsis": "The transcript turns a toothbrushing joke into a full restaurant review: Chef Faisal's kitchen at Azalai Urban Souk in Marrakesh, Moroccan fusion in what the creator calls an idyllic setting, with dishes between 90 and 170 dirhams. He walks the whole menu, from a trompe-l'oeil truffle with barbecued prawn and mushroom cream, to smoked aubergine with local fresh goat cheese, coconut sauce and onion-peel crackers, and a Moroccan salad cooked for an hour. Then come a theatrical tangia with couscous whose confit meat he calls the high point, a prawn pastilla he found merely good, and a pavlova to close.",
    "keywords": [
+    "Azalai Urban Souk",
+    "Chef Faisal",
     "Marrakesh",
-    "food reel",
-    "dental humour"
+    "Moroccan fusion",
+    "tangia",
+    "90-170 MAD"
    ],
    "url": "https://www.instagram.com/p/C9PQd7YuJaX/",
    "author": "yassdentalfood",
    "author_url": "https://www.instagram.com/yassdentalfood/",
    "date": "2024-07-10",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Morocco",
@@ -20868,11 +20954,13 @@
   },
   {
    "folder": "Morocco",
-   "title": "A nice café in Tangier",
-   "synopsis": "A short post describing a pleasant café in Tangier, with a prompt to follow the account for more. Neither the café's name nor its address appears in the caption. Identification requires the video.",
+   "title": "Villa Carlton, a family cafe in Tangier",
+   "synopsis": "The Arabic voiceover names the venue the caption only hinted at: Villa Carlton in Tangier. The creator describes it as a very good cafe with both indoor and outdoor seating, roomy enough to suit a family or a group of friends, and rates the food well. The closing line asks viewers to comment on how they found it.",
    "keywords": [
+    "Villa Carlton",
     "Tangier",
-    "café",
+    "cafe",
+    "family-friendly",
     "Morocco"
    ],
    "url": "https://www.instagram.com/p/C53zdA2r9DZ/",
@@ -20880,7 +20968,7 @@
    "author_url": "https://www.instagram.com/jaitestetanger.ma/",
    "date": "2024-04-17",
    "following": false,
-   "confidence": "low"
+   "confidence": "high"
   },
   {
    "folder": "Morocco",
