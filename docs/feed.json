@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T06:18:48+00:00",
+ "generated_at": "2026-10-21T07:49:14+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -1586,7 +1586,7 @@
    "confidence": "low"
   },
   {
-   "folder": "AI course",
+   "folder": "AI course ",
    "title": "A free three-hour AI course requiring no coding",
    "synopsis": "The creator points to a free AI training aimed at people who cannot code, totalling three hours split into short five-to-ten-minute videos. She flags clearly that the lessons are in English but French subtitles are available. The format is built for progressive viewing rather than a single sitting.",
    "keywords": [
@@ -3392,7 +3392,7 @@
    "confidence": "high"
   },
   {
-   "folder": "AI.BIOLOGY",
+   "folder": "AI.BIOLOGY ",
    "title": "Evo, an AI that wrote working viral genomes from scratch",
    "synopsis": "Researchers showed the Evo model more than two million bacteriophage genomes — viruses that attack and destroy bacteria — and it learned, recombined, and began inventing entirely new genetic sequences never seen in nature. Many were tested in the laboratory and sixteen of them actually worked, infecting and eliminating E. coli strains, with some more effective than their natural equivalents. The clip frames this as the first time an AI has written living genomes, a historic breakthrough that is also unnerving because an AI able to create life might one day destroy it.",
    "keywords": [
@@ -3407,6 +3407,24 @@
    "author_url": "https://www.instagram.com/supernova.hablo/",
    "date": "2025-11-24",
    "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Biz",
+   "title": "Six ChatGPT prompt recipes for restaurant branding assets",
+   "synopsis": "The carousel pitches six ChatGPT \"codes\" aimed at restaurant owners, each targeting a different asset class: menu layouts, food photography, advertising posters, packaging, café interior concepts and social-media content. Sample outputs are shown for each category to demonstrate what the prompts produce, with the claim that a whole visual identity can be assembled without a designer. The prompts themselves are withheld behind a comment gate (\"RESTRO\") or the bio link, so the post advertises the method rather than delivering it.",
+   "keywords": [
+    "ChatGPT",
+    "restaurant marketing",
+    "menu design",
+    "food photography",
+    "prompt pack"
+   ],
+   "url": "https://www.instagram.com/p/DelLGKGk4Op/",
+   "author": "richmeetings.ai",
+   "author_url": "https://www.instagram.com/richmeetings.ai/",
+   "date": "2026-10-17",
+   "following": true,
    "confidence": "high"
   },
   {
@@ -9125,6 +9143,42 @@
   },
   {
    "folder": "AI.pix",
+   "title": "Grain Art prompt restyles photos as editorial artwork in GPT Image 2",
+   "synopsis": "The creator demonstrates a single reusable \"Grain Art\" prompt applied to ordinary photographs in GPT Image 2, converting them into grainy editorial-magazine artwork. Before-and-after pairs carry the argument that one prompt plus one photo is enough to produce a distinctive social-media aesthetic, pitched as a trend to adopt before it saturates. The prompt text itself is not published and is sent only to users who comment \"PROMPT\".",
+   "keywords": [
+    "GPT Image 2",
+    "Grain Art",
+    "photo restyling",
+    "editorial aesthetic",
+    "prompt pack"
+   ],
+   "url": "https://www.instagram.com/p/Deq9LP1jRom/",
+   "author": "sferro.ai",
+   "author_url": "https://www.instagram.com/sferro.ai/",
+   "date": "2026-10-19",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
+   "title": "Six ChatGPT prompt recipes for restaurant branding assets",
+   "synopsis": "The carousel pitches six ChatGPT \"codes\" aimed at restaurant owners, each targeting a different asset class: menu layouts, food photography, advertising posters, packaging, café interior concepts and social-media content. Sample outputs are shown for each category to demonstrate what the prompts produce, with the claim that a whole visual identity can be assembled without a designer. The prompts themselves are withheld behind a comment gate (\"RESTRO\") or the bio link, so the post advertises the method rather than delivering it.",
+   "keywords": [
+    "ChatGPT",
+    "restaurant marketing",
+    "menu design",
+    "food photography",
+    "prompt pack"
+   ],
+   "url": "https://www.instagram.com/p/DelLGKGk4Op/",
+   "author": "richmeetings.ai",
+   "author_url": "https://www.instagram.com/richmeetings.ai/",
+   "date": "2026-10-17",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.pix",
    "title": "Seven slash-codes that steer ChatGPT image editing",
    "synopsis": "Limor Markman walks through seven short \"slash codes\" appended to the end of a ChatGPT prompt, each one pinning the model to a specific photo-editing job rather than leaving the interpretation open. The list runs /photo restore for faded or torn family pictures, /professional retouch, /background change, /object remove, /golden hour for warm low-sun relighting, and /professional portrait to give a phone selfie headshot framing and lighting. The one she flags as non-negotiable is /identity preserve — without it, she argues, successive edits drift the subject's face into someone else's, so it belongs in every single request; a fuller catalogue of around a hundred codes sits behind a \"Comment IMAGE\" DM gate.",
    "keywords": [
@@ -10311,39 +10365,6 @@
   },
   {
    "folder": "AI.pix",
-   "title": "World Cup Sketch Prompt for Collectible Posters",
-   "synopsis": "This Turkish-language carousel presents a WC Sketch Prompt that turns ordinary football imagery into collectible-style World Cup posters. The style combines brush strokes, energy bursts, and tournament atmosphere across national teams from Brazil to Argentina. It is a reusable prompt style template rather than a tool announcement.",
-   "keywords": [
-    "WC Sketch Prompt",
-    "AI poster art",
-    "football posters",
-    "prompt style"
-   ],
-   "url": "https://www.instagram.com/p/DZaNyw1DJGk/",
-   "author": "mertzabun.ai",
-   "author_url": "https://www.instagram.com/mertzabun.ai/",
-   "date": "2026-06-10",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.pix",
-   "title": "Persian Prompt Engineering Tips via Telegram",
-   "synopsis": "This Persian-language carousel promises to teach precise prompt writing so AI becomes a flawless personal assistant. The actual prompt is only available through the author's Telegram channel after liking and following. The caption references ChatGPT and prompt engineering hashtags but shares no concrete technique in the post itself.",
-   "keywords": [
-    "prompt engineering",
-    "ChatGPT",
-    "AI image prompts"
-   ],
-   "url": "https://www.instagram.com/p/DZZ9PCqEck0/",
-   "author": "graphicore_fz",
-   "author_url": "https://www.instagram.com/graphicore_fz/",
-   "date": "2026-06-10",
-   "following": false,
-   "confidence": "low"
-  },
-  {
-   "folder": "AI.pix",
    "title": "An AI celebrity portrait edit tagging Gal Gadot",
    "synopsis": "This is a silent visual post presenting an AI-generated or AI-edited celebrity portrait, tagged to Gal Gadot with a one-word caption. Transcription returned no speech at all, so no tool, model or prompt is disclosed anywhere in the post. It is saved as a visual reference rather than a technique.",
    "keywords": [
@@ -10767,6 +10788,24 @@
    "author": "timkoda_",
    "author_url": "https://www.instagram.com/timkoda_/",
    "date": "2025-12-17",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Claude Opus codes an entire Blender 3D animation end to end",
+   "synopsis": "The reel shows a 3D animation the creator says he produced without ever opening Blender by hand, and explicitly not through an AI video model such as Veo or Seedance: Claude Opus wrote the whole pipeline as code, building an After Effects-style interface as a web page and a Python script that assembles the 3D scene. The same pass animated a character hopping across the interface buttons and generated the music and every sound effect from scratch. Blender then rendered all 360 frames on a local GPU in roughly 15 minutes and FFmpeg stitched them into the finished clip; the setup guide and exact prompt stay behind a comment gate (\"Blender\").",
+   "keywords": [
+    "Claude Opus",
+    "Blender",
+    "Python scripting",
+    "FFmpeg",
+    "agentic 3D animation"
+   ],
+   "url": "https://www.instagram.com/p/DeuZ4BnhCqA/",
+   "author": "nateherkai",
+   "author_url": "https://www.instagram.com/nateherkai/",
+   "date": "2026-10-20",
    "following": true,
    "confidence": "high"
   },
@@ -11909,23 +11948,6 @@
    "date": "2026-08-04",
    "following": true,
    "confidence": "low"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Three free AI websites for cartoon video, model comparison, and image variations",
-   "synopsis": "The creator argues against paying for AI tools you barely use and presents three free alternatives. Between them they create cartoon videos, compare top AI models side by side, and generate dozens of image variations from a single prompt. All three are free to use.",
-   "keywords": [
-    "free AI tools",
-    "model comparison",
-    "cartoon video",
-    "image variations"
-   ],
-   "url": "https://www.instagram.com/p/DbnMq5pAeEV/",
-   "author": "sferro.ai",
-   "author_url": "https://www.instagram.com/sferro.ai/",
-   "date": "2026-08-04",
-   "following": true,
-   "confidence": "high"
   },
   {
    "folder": "AI.Video",
@@ -13353,6 +13375,24 @@
    "author_url": "https://www.instagram.com/mr.trouve/",
    "date": "2024-01-28",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "Brussels",
+   "title": "Mina: Italian-inspired dining and cocktails in Ixelles",
+   "synopsis": "A French-language reel promoting Mina, a restaurant on Chaussée d'Ixelles in Brussels, built around Italian-inspired cooking, a cocktail list and a warm evening atmosphere. The clip is pure venue ambience — plated dishes, drinks being poured and interior shots — rather than a review or a menu breakdown. Beyond the street location no prices, opening hours or booking details are given.",
+   "keywords": [
+    "Mina Brussels",
+    "Ixelles",
+    "Italian cuisine",
+    "cocktail bar",
+    "restaurant"
+   ],
+   "url": "https://www.instagram.com/p/DeZ9j7qgIAB/",
+   "author": "mina.brussels",
+   "author_url": "https://www.instagram.com/mina.brussels/",
+   "date": "2026-10-12",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -15180,23 +15220,6 @@
    "author": "theguide_brussels",
    "author_url": "https://www.instagram.com/theguide_brussels/",
    "date": "2024-11-01",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "Brussels",
-   "title": "Medusa, a generous brunch beside the Congress Column",
-   "synopsis": "A French brunch recommendation for Medusa, located next to the Colonne du Congrès in Brussels, which the creator has adopted as their go-to. The draw is generous plates and very good toasts in a handsome room. Brunch service runs from 9:30 to 14:30.",
-   "keywords": [
-    "Medusa Brussels",
-    "Colonne du Congrès",
-    "brunch",
-    "toasts"
-   ],
-   "url": "https://www.instagram.com/p/DBwX00Zt1iV/",
-   "author": "foodctrl.bx",
-   "author_url": "https://www.instagram.com/foodctrl.bx/",
-   "date": "2024-10-30",
    "following": true,
    "confidence": "high"
   },
@@ -20672,7 +20695,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "A Spanish-language Marrakesh guide",
    "synopsis": "A Spanish post offering some of the creator's favourite plans for visiting Marrakesh, with an open invitation for recommendations. The caption names no venues or districts. The guide itself is delivered in the video.",
    "keywords": [
@@ -20688,7 +20711,7 @@
    "confidence": "low"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Ten Casablanca venues, handed over as a tag list",
    "synopsis": "A French post whose entire value is the account list for ten Casablanca venues: Table 3, L'Avenue, Le 7 Ciel, Xing Xing, Danolitaaa, Hotel Le Doge, Darua, Marion, Enso and Annabels. The creator adds that they also tracked down the account for Jean de Jacques. No individual reviews are offered.",
    "keywords": [
@@ -20706,7 +20729,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Square by Onomo Collection, an Art Deco boutique hotel in Gauthier",
    "synopsis": "A French note on the newly opened Square by Onomo Collection, a boutique hotel that pairs contemporary hospitality with respect for the Art Deco architectural heritage of the Gauthier district. The emphasis is on the building as much as the service. It is an accommodation lead rather than a stay review.",
    "keywords": [
@@ -20724,7 +20747,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Lime Tree opens in Rabat",
    "synopsis": "A new-opening note for Lime Tree in Rabat, described as offering fresh vibes, good food and a place to unwind. The hashtags point to a terrace and an evening programme with dancers. It is an opening flag rather than a menu review.",
    "keywords": [
@@ -20741,7 +20764,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Calm Street, a 120-dirham tapas board in central Tangier",
    "synopsis": "The transcript shows Calm Street is the restaurant's name, not a description, and that the creator was surprised by the quality from such a small room. They tested the evening menu's tapas assortment, a gourmet selection of small bites with charcuterie, cheese, house croquettes and seafood, designed to share between two and priced at only 120 dirhams, followed by a well-cooked salmon dish. They rate the value highly and recommend it for dinners, brunches or a quiet coffee, placing it in the city centre near the Roxy, opposite restaurant Eldorado.",
    "keywords": [
@@ -20759,7 +20782,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "The 46th Assilah Art Festival turns the white walls into murals",
    "synopsis": "An artist's post about joining sixteen others for the forty-sixth edition of the Assilah Art Festival, transforming the town's white walls into murals. The creator urges people to visit during that week. It documents a recurring public-art festival in northern Morocco.",
    "keywords": [
@@ -20777,7 +20800,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Domus Bistro, the most aesthetic coffee in Tangier",
    "synopsis": "A short post naming Domus Bistro Specialty Coffee as the most aesthetic coffee venue in Tangier. The claim is about the look of the place as much as the coffee. The venue tag is the actionable detail.",
    "keywords": [
@@ -20794,7 +20817,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "A Ramadan iftar experience at the Kenzi Tower Hotel",
    "synopsis": "A Ramadan-season post documenting an iftar experience hosted at the Kenzi Tower Hotel, tagged under the creator's own iftar series. The caption is hashtags and the venue tag rather than a review. It establishes the venue and the occasion but no menu or pricing.",
    "keywords": [
@@ -20811,7 +20834,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Pancakes & Wafflez in Bourgogne, non-stop brunch until 8pm",
    "synopsis": "A service announcement from Pancakes & Wafflez on Rue Ain Oulmes in the Bourgogne district of Casablanca. Brunch runs non-stop from 10:00 to 20:00. The all-day window is the practical detail that distinguishes it.",
    "keywords": [
@@ -20828,7 +20851,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "A Tangier seafront terrace facing Spain, with the full price list",
    "synopsis": "The transcript reveals the secret spot as a terrace directly facing the Mediterranean and, across it, Spain. The breakfast formula is 100 dirhams or about ten euros, which the creator concedes sounds steep but calls generous enough for two people. Other prices given are orange juice and tea at 40 dirhams each, tagine from 100, pizza at 60 and Friday couscous at 100; they rate the setting exceptional and worth doing at least once in Tangier.",
    "keywords": [
@@ -20846,7 +20869,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Kool Smoothies opens in Marrakesh, with the creator's order",
    "synopsis": "A new-opening post for Kool Smoothies in Marrakesh, where the creator sets out their personal KoolMenu. The picks are a Kool Kid drink, the Kool salad, a chicken and avocado sandwich and a stuffed date they describe as outstanding. It is an order-level recommendation rather than a full review.",
    "keywords": [
@@ -20864,7 +20887,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Restaurant El Amrani, 40-dirham Friday couscous in the Tangier medina",
    "synopsis": "The transcript supplies both the venue and walking directions the caption withheld. In the Tangier medina, from where the bureaux de change are, take the small alley on the left, go down about twenty metres, turn right onto the street the audio renders as rue Fraie Siméhi and follow it to the very end: Restaurant El Amrani. The Friday chicken-and-vegetable couscous arrives in five minutes flat and costs 40 dirhams, roughly four euros, which the creator calls consistently excellent and genuinely cheap.",
    "keywords": [
@@ -20882,7 +20905,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "The five best coffee spots in Casablanca, with ratings",
    "synopsis": "A French ranking of Casablanca coffee venues carrying their review scores. La Terrasse Jasmin at Hôtel Le Casablanca leads at 4.7 stars for the best view and a refined atmosphere, followed by Café Four Seasons at 4.6 for a luxurious setting with high-end service, then West 91 at 4.5 for its view and atmosphere. The star ratings make the list directly comparable.",
    "keywords": [
@@ -20900,7 +20923,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Rabat's African record-holders and its key heritage sites",
    "synopsis": "An Arabic-language post correcting misconceptions about Morocco's capital by listing where Rabat leads Africa: the largest theatre, the largest bus station, the largest swimming pool, the largest railway station, one of the tallest towers and the longest bridge, the last two in Salé. It then recommends the main heritage sites: Chellah, the Hassan Tower, the Mausoleum of Mohammed V, the Oudayas and the old medina. It reads as a civic-pride guide to the city.",
    "keywords": [
@@ -20918,7 +20941,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Kalyptus Luxury Camp at Lalla Takerkoust, with the full price list",
    "synopsis": "A detailed French review of Kalyptus Luxury Camp at Lake Lalla Takerkoust, roughly an hour and sixty kilometres from Marrakech, where the creator found the calm and the landscape perfect. Lunch and day passes are available by reservation, with starters at 80 to 110 dirhams, mains 80 to 190, desserts 50 to 65, fruit juices 50, cocktails 65 and coffee 30. Accommodation starts at 2,200 dirhams and a phone number is given.",
    "keywords": [
@@ -20936,7 +20959,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "La Dune Blanche at Dakhla",
    "synopsis": "A pin post for La Dune Blanche, the white sandbar at Dakhla in southern Morocco, with a videographer credit. The caption is the location and credit only. It is a landmark bookmark with no access or timing detail.",
    "keywords": [
@@ -20953,7 +20976,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Villa Carlton, a family cafe in Tangier",
    "synopsis": "The Arabic voiceover names the venue the caption only hinted at: Villa Carlton in Tangier. The creator describes it as a very good cafe with both indoor and outdoor seating, roomy enough to suit a family or a group of friends, and rates the food well. The closing line asks viewers to comment on how they found it.",
    "keywords": [
@@ -20971,7 +20994,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Moroccan lamb tagine with apricots, prunes and almonds",
    "synopsis": "A recipe reel for a Moroccan lamb tagine built on dried apricots, prunes and almonds. The caption states the dish and its components without listing quantities or method. It is a cooking reference rather than a venue tip.",
    "keywords": [
@@ -20989,7 +21012,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Depression nil, Tangier one",
    "synopsis": "A mood-driven reel whose caption is a scoreline putting Tangier ahead of depression. There is no venue, activity or location detail. It functions as destination sentiment only.",
    "keywords": [
@@ -21005,7 +21028,7 @@
    "confidence": "low"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Fendak Dar Dbagh, a new café in the Tangier medina",
    "synopsis": "An Arabic-captioned post flagging Fendak Dar Dbagh as a new café worth visiting in Tangier. The hashtags locate it in the old medina. The venue name is the actionable element.",
    "keywords": [
@@ -21022,7 +21045,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "One of the beautiful places in Tangier",
    "synopsis": "A scenic reel captioned only as one of the beautiful places in Tangier. No venue, street or viewpoint is named. The location can only be recognised from the visuals.",
    "keywords": [
@@ -21038,7 +21061,7 @@
    "confidence": "low"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Pink Art in Temara rated 10 out of 10",
    "synopsis": "A short endorsement scoring Pink Art a perfect ten, with the address given as Temara, Wifaq, opposite the Carrefour. The hashtags place it as a patisserie doing both sweet and savoury, in the Rabat area. The score and the landmark-based address are the substance.",
    "keywords": [
@@ -21056,7 +21079,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Pierre Hermé's 220-dirham millefeuille at La Mamounia",
    "synopsis": "An Arabic-captioned post on Le Menzeh by Pierre Hermé inside Hôtel La Mamounia on Avenue Bab Jdid in Marrakech. Two prices are given: the 2000 Feuilles millefeuille at 220 dirhams and the Corne de Gazelle Mamounia at 189. The creator's reaction flags the price as steep.",
    "keywords": [
@@ -21074,7 +21097,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Ourika valley near Marrakech",
    "synopsis": "A location-pin reel for Ourika near Marrakech, with a prompt to tag someone you would visit with. The caption gives the place name and nothing further. No route, venue or timing detail is included.",
    "keywords": [
@@ -21091,7 +21114,7 @@
    "confidence": "low"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Essaouira's vibe, just Moroccan",
    "synopsis": "A short French caption asking whether viewers also love the vibe, concluding it is not beautiful so much as simply Moroccan, with Essaouira tagged. No venue or activity is named. The sentiment carries the post rather than any detail.",
    "keywords": [
@@ -21107,7 +21130,7 @@
    "confidence": "low"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "La Vue Tanger in Ghandour, with dish prices",
    "synopsis": "A food review of La Vue Tanger in the Ghandour area of Tangier. The caption lists prices in dirhams: salade pêcheur at 85, spaghetti royal at 125 and chicken cordon bleu at 110. The pricing detail is the substance of the post.",
    "keywords": [
@@ -21125,7 +21148,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "A Tangier night walk, captioned with sparkles",
    "synopsis": "A night-photography reel whose caption is nothing but sparkle emoji followed by hashtags for Tangier, the medina and night walks. No location, venue or subject is stated in the text. The content is only identifiable from the video.",
    "keywords": [
@@ -21141,7 +21164,7 @@
    "confidence": "low"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Archival French protectorate newsreel on Morocco, 1912 to 1914",
    "synopsis": "The audio is not a travel reel but archival colonial newsreel narration about Morocco under the French protectorate. It opens on a register about Moroccan craftsmanship and the love of things well made, then shifts into period propaganda describing Morocco in 1912 as in decline, saved by a resident general who restored order between 1912 and 1914 as dissidence receded. The clip is a historical document rather than contemporary travel content.",
    "keywords": [
@@ -21159,7 +21182,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Six of the best pools in the Moroccan desert",
    "synopsis": "A travel post ranking six desert pools in Morocco and asking viewers which they would choose. It comes from a wider Morocco road trip, with more of the route in the account's story highlights. The format is visual shortlisting for accommodation with a pool.",
    "keywords": [
@@ -21176,7 +21199,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Dakhla, Morocco",
    "synopsis": "A save-this-post reel on Dakhla in Morocco, with a request to DM for the video credit. The caption is the place name plus a long tail of unrelated Moroccan travel and food hashtags. No activity, venue or practical detail is given.",
    "keywords": [
@@ -21192,7 +21215,7 @@
    "confidence": "low"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "A full day in Marrakech: Café Bacha, the Sultana and tangia at a petrol station",
    "synopsis": "A French day-plan for Marrakech that starts with a cheap breakfast inside a palace at Café Bacha, hidden behind a riad, which the creator credits with the best coffee selection in Morocco, taken with a brioche au amlou. The day moves through the medina for local shopping, then a secret alleyway to the Sultana, a thousand-and-one-nights palace for afternoon tea or an evening cocktail. Lunch is the best local tangia, served improbably at a petrol station with its own butcher on site, bread straight from the oven and meat cooked for hours; afterwards they recommend Marrakech Insider, a group of biker guides who show the city's secrets.",
    "keywords": [
@@ -21314,7 +21337,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "Browser-Use: free open-source rival to AI browser agents",
    "synopsis": "While attention was on ChatGPT Agent and Claude Computer Use, a developer released Browser-Use, a free open-source framework that does almost the same thing. It lives on GitHub and lets an AI drive a web browser to complete tasks autonomously. The video pitches it as a game changer for virtual assistants and automation builders.",
    "keywords": [
@@ -21332,7 +21355,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "ScrapeGraph AI does in free what Apify and Bright Data charge for",
    "synopsis": "An Italian developer released ScrapeGraph AI under an MIT licence, free forever, and it has already gathered 23,000 stars. You give it a URL and describe what you want in plain English, and the AI handles the rest — LinkedIn profiles, email addresses, Twitter accounts, Amazon, Zillow, Glassdoor — including multi-page scraping at scale. The creator's economic point is that Apify charges $49 a month and Bright Data $500, while agencies are already billing clients $5,000 per scraping project using this free tool.",
    "keywords": [
@@ -21350,7 +21373,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "Scrapling: 800x faster scraper that dodges Cloudflare",
    "synopsis": "A French video promoting Scrapling, a scraper billed as 800 times faster than existing tools, installable in 30 seconds via Claude Code. It reportedly bypasses Cloudflare without detection, enabling claims like 10,000 leads in one night with zero banned IPs. It is presented as compatible with OpenAI Codex and other agent tooling.",
    "keywords": [
@@ -21368,7 +21391,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "Install Scrapling in 30 seconds with Claude Code",
    "synopsis": "The pitch: hand Claude Code a GitHub link and 30 seconds later it has installed Scrapling, described as the most powerful scraping tool in the world. The tool claims to be 800 times faster than anything else and to get around Cloudflare protections. A free installation guide is offered to viewers who comment 'Scrap'.",
    "keywords": [
@@ -21385,7 +21408,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "ScrapeGraph-AI threatens paid scraping platforms",
    "synopsis": "A developer released ScrapeGraph-AI on GitHub, an open-source LLM-powered scraping tool that has already collected over 23,000 stars. The video claims it is replacing paid scraping platforms costing around 40,000 rupees a month. It frames the project as the moment free open-source AI killed the paid web-scraping market.",
    "keywords": [
@@ -21402,7 +21425,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "'Ultimate Web Scraper' Chrome extension demo",
    "synopsis": "A short demo naming the Chrome extension 'Ultimate Web Scraper' as the tool being showcased. The angle is no-code data extraction directly from the browser for automation, e-commerce, and productivity use cases. Details on capabilities are thin in the caption, but the tool itself is explicitly identified.",
    "keywords": [
@@ -21419,7 +21442,7 @@
    "confidence": "high"
   },
   {
-   "folder": "structural society changes",
+   "folder": "structural society changes ",
    "title": "A GitHub repo of design prompts that transform NotebookLM slide decks",
    "synopsis": "The creator argues NotebookLM's default slide output is merely fine, and that getting genuinely striking decks requires strong design prompts. He points to a GitHub repository holding dozens of design prompts that completely change the look of NotebookLM slides. The link is offered to commenters.",
    "keywords": [
@@ -21436,7 +21459,7 @@
    "confidence": "high"
   },
   {
-   "folder": "structural society changes",
+   "folder": "structural society changes ",
    "title": "Bezos reportedly raising $100bn to buy the physical economy, not AI apps",
    "synopsis": "Drawing on his contact with billionaire business angels, the creator reports Jeff Bezos is in talks to raise a fund of over $100 billion — larger than most private-equity houses can raise — to acquire companies in ageing industries and rebuild them with AI. His argument is that while the media debates an AI bubble and funding rounds concentrate on new models and apps, Bezos is looking elsewhere entirely. The targets are factories, logistics, production lines, inventory, bottlenecks, underused machinery and obsolete ERP systems — the real physical economy.",
    "keywords": [
