@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T09:10:14+00:00",
+ "generated_at": "2026-10-22T06:56:33+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -10875,6 +10875,44 @@
   },
   {
    "folder": "AI.Video",
+   "title": "Claude Code turns a YouTube link into ranked vertical clips",
+   "synopsis": "Tunde Anthony demos an open-source app, driven from Claude Code, that takes a pasted YouTube URL and cuts the episode into short vertical clips with burned-in captions. The workflow is plain repo plumbing - clone it, add the environment variables, then ask Claude to run the app - after which it listens to the audio, picks the strongest moments and also attaches an unexpected virality score to each clip. Tested on a fresh My First Million episode it took about 20 minutes to return 10 clips and the author, who already knew the episode, judged the picks genuinely the best parts; the repo is never named on screen and the setup guide is gated behind a “comment clips” CTA.",
+   "keywords": [
+    "Claude Code",
+    "YouTube clipping",
+    "short-form video",
+    "virality score",
+    "open-source repo",
+    "auto-captions"
+   ],
+   "url": "https://www.instagram.com/p/DeuHGI5iRW9/",
+   "author": "itstundeanthony",
+   "author_url": "https://www.instagram.com/itstundeanthony/",
+   "date": "2026-10-20",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Seven Claude skills, one per AI video format",
+   "synopsis": "Mr Pynk presents a set of seven Claude skills, each targeting one production format: premium motion graphics, claymation-style meta-advertisements, long-form video explainers, “singing story” musical shorts, cinematic AI commercials, 3D animated films and full cartoon episodes. The pitch is that each skill does the prompt engineering for you inside Claude Code and you then run its output in the image and video tools you already pay for, rather than the skill rendering anything itself. The skill files and their breakdowns are DM-gated behind a “comment PYNK” CTA, so neither the individual skill names nor the target render engines are stated in the reel.",
+   "keywords": [
+    "Claude Code",
+    "Claude skills",
+    "AI video generation",
+    "motion graphics",
+    "prompt automation",
+    "claymation ads"
+   ],
+   "url": "https://www.instagram.com/p/Deu5MAYIyIH/",
+   "author": "mr.pynk",
+   "author_url": "https://www.instagram.com/mr.pynk/",
+   "date": "2026-10-20",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "Claude Opus codes an entire Blender 3D animation end to end",
    "synopsis": "The reel shows a 3D animation the creator says he produced without ever opening Blender by hand, and explicitly not through an AI video model such as Veo or Seedance: Claude Opus wrote the whole pipeline as code, building an After Effects-style interface as a web page and a Python script that assembles the 3D scene. The same pass animated a character hopping across the interface buttons and generated the music and every sound effect from scratch. Blender then rendered all 360 frames on a local GPU in roughly 15 minutes and FFmpeg stitched them into the finished clip; the setup guide and exact prompt stay behind a comment gate (\"Blender\").",
    "keywords": [
@@ -11938,8 +11976,8 @@
     "posing"
    ],
    "url": "https://www.instagram.com/p/DbxfvTauf2G/",
-   "author": "benkaluza.tech",
-   "author_url": "https://www.instagram.com/benkaluza.tech/",
+   "author": "benkaluza.studio",
+   "author_url": "https://www.instagram.com/benkaluza.studio/",
    "date": "2026-08-08",
    "following": true,
    "confidence": "high"
@@ -12051,24 +12089,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "A fabric-reveal fashion commercial from one product photo in under 60 seconds",
-   "synopsis": "The creator contrasts clothing brands still paying for photo shoots that take weeks and cost heavily against a fabric-reveal commercial produced from a single product photo in under a minute. The process is to take your garment image, upload it to Google Flow, paste one specific prompt, and generate. The output is a premium fashion commercial showing off the garment's craftsmanship like a top-tier campaign.",
-   "keywords": [
-    "Google Flow",
-    "product video",
-    "fashion",
-    "AI advertising",
-    "prompt"
-   ],
-   "url": "https://www.instagram.com/p/Dblb2L1xtla/",
-   "author": "keemfinity",
-   "author_url": "https://www.instagram.com/keemfinity/",
-   "date": "2026-08-03",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "A Spider-Man sequence generated entirely with Seedance 2.0",
    "synopsis": "Every web swing, gravity-defying movement, and cinematic transition in this sequence was generated with Seedance 2.0. The creator presents it as evidence the model turns simple ideas into blockbuster-style sequences. The result is described as dynamic, energetic, and unusually smooth.",
    "keywords": [
@@ -12155,24 +12175,6 @@
    "author_url": "https://www.instagram.com/cindiezhu/",
    "date": "2026-07-12",
    "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "A $43k-a-month autonomous AI virtual model run from four markdown files",
-   "synopsis": "The post analyses how a 21-year-old student built a fully autonomous AI virtual model that generated roughly $43,000 in thirty days with no creative team, camera gear, studio, or real human face, running off a single laptop at about $400 a month. The described architecture treats a subscription profile as a closed-loop software pipeline rather than manual production, applying data engineering thinking to creator-economy management. Human identity is decomposed into four modular configuration files: persona.md for the psychological profile, voice.md for the acoustic signature, flux.md for the visual anchor, and brain.md for memory and contextual behaviour during subscriber chat.",
-   "keywords": [
-    "AI influencers",
-    "virtual models",
-    "OnlyFans",
-    "creator economy",
-    "automation architecture"
-   ],
-   "url": "https://www.instagram.com/p/DZWrKiKkpo1/",
-   "author": "thesaar.ai",
-   "author_url": "https://www.instagram.com/thesaar.ai/",
-   "date": "2026-06-09",
-   "following": false,
    "confidence": "high"
   },
   {
@@ -16674,24 +16676,6 @@
    "author_url": "https://www.instagram.com/madameb0nplan/",
    "date": "2024-12-15",
    "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "Business hacks",
-   "title": "TubeMagic scans a rival channel and scripts the video for you",
-   "synopsis": "The transcript explains what the tool actually does. You enter the name of any large YouTuber in your niche and TubeMagic scans their channel, returning viral video ideas derived from content already performing well there. It then writes the full script and supplies an SEO-optimised title, description and tags. Access is gated behind commenting a keyword.",
-   "keywords": [
-    "TubeMagic",
-    "YouTube automation",
-    "video ideas",
-    "SEO metadata",
-    "AI scripting"
-   ],
-   "url": "https://www.instagram.com/p/DDDr00_o4A0/",
-   "author": "tubemagicai",
-   "author_url": "https://www.instagram.com/tubemagicai/",
-   "date": "2024-12-02",
-   "following": false,
    "confidence": "high"
   },
   {
