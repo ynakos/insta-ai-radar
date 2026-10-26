@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T04:31:34+00:00",
+ "generated_at": "2026-10-26T11:17:08+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -5826,8 +5826,8 @@
     "Vostok Oil"
    ],
    "url": "https://www.instagram.com/p/DVB5eHwDnwD/",
-   "author": "beyondborders.maps",
-   "author_url": "https://www.instagram.com/beyondborders.maps/",
+   "author": "beyondbordersgeopolitics",
+   "author_url": "https://www.instagram.com/beyondbordersgeopolitics/",
    "date": "2026-02-21",
    "following": true,
    "confidence": "high"
@@ -7841,6 +7841,25 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Three Claude mods: cross-chat context, cost-aware model routing and a custom dashboard",
+   "synopsis": "@opusjake pitches a bundle of three community modifications for Claude aimed at people who run many sessions in parallel and watch their token spend. Connected chats lets separate Claude sessions share context so one can research prospects while another drafts outreach from those findings; smarter model routing matches each prompt to the most cost-effective model, keeping the stronger ones for genuinely hard work; and a custom dashboard reorganises the interface around the user's own tasks, messages, calendar and widgets. The mods themselves sit behind a comment-gate (\"Comment MOD and I'll send you all 3 mods + the setup guide\"), so the post documents what each one does without revealing how it is built.",
+   "keywords": [
+    "Claude",
+    "model routing",
+    "token optimization",
+    "custom dashboard",
+    "multi-session context",
+    "AI workflow"
+   ],
+   "url": "https://www.instagram.com/p/De6vxpANdgK/",
+   "author": "opusjake",
+   "author_url": "https://www.instagram.com/opusjake/",
+   "date": "2026-10-25",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "Build your own AI inference engine in six steps with vLLM and Qwen",
    "synopsis": "Linda Vivah walks through a free Akamai Developers GitHub repo that stands up a self-hosted inference stack in six steps: provision a GPU-backed Kubernetes cluster for roughly 50 cents an hour, deploy vLLM as the open-source inference server loading the open-weight Qwen model, then port-forward a private tunnel from the laptop to the cluster. Because the vLLM endpoint is OpenAI-compatible, existing code is repointed by swapping only the base URL, with no rewrite. The last two steps put the server under load so the KV cache and continuous batching are visible live, then deploy a tool-calling agent running entirely on the self-owned inference, the stated payoff being cost, privacy and control plus a working mental model of what an AI API actually rents you.",
    "keywords": [
@@ -8935,25 +8954,6 @@
    "date": "2026-09-15",
    "following": true,
    "confidence": "low"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Day 2 of a local-LLM Tamagotchi: a Raspberry Pi 5 thin client over WebSocket streaming",
-   "synopsis": "In the second instalment of building an oversized Tamagotchi around a self-hosted LLM, the creator keeps all computation on a dedicated server and adds a Raspberry Pi 5 as the client that talks to Luna, the local model. Latency is the binding constraint because Luna is meant to become a voice assistant, so the build uses a WebSocket plus token streaming combo: the server listens continuously and the reply renders word by word instead of waiting for the full sentence. The next problem flagged is memory - Luna currently forgets everything when the client is powered off.",
-   "keywords": [
-    "Raspberry Pi 5",
-    "local LLM",
-    "Gemma",
-    "WebSocket streaming",
-    "latency",
-    "self-hosting"
-   ],
-   "url": "https://www.instagram.com/p/DdUjCOAOCJT/",
-   "author": "theshalaulabs",
-   "author_url": "https://www.instagram.com/theshalaulabs/",
-   "date": "2026-09-15",
-   "following": true,
-   "confidence": "high"
   },
   {
    "folder": "AI.Models and apps",
