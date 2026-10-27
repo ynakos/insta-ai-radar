@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T11:17:08+00:00",
+ "generated_at": "2026-10-27T05:52:55+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -7841,6 +7841,24 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Claude Duet pitched as a business assistant, behind a US waitlist",
+   "synopsis": "This carousel presents Claude Duet as an assistant aimed at everyday business work — invoices, contracts and comparable repetitive admin — with access currently restricted to a US waitlist. The creator's advice is to start from a single repetitive task and measure how much of it can actually be automated before reaching for a broader agent build. The setup guide, including how to stand up an equivalent agent outside the US, is gated behind the comment keyword DUET.",
+   "keywords": [
+    "Claude",
+    "Claude Duet",
+    "AI agents",
+    "business automation",
+    "waitlist"
+   ],
+   "url": "https://www.instagram.com/p/De88YvhDCHw/",
+   "author": "sferro.ai",
+   "author_url": "https://www.instagram.com/sferro.ai/",
+   "date": "2026-10-26",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "Three Claude mods: cross-chat context, cost-aware model routing and a custom dashboard",
    "synopsis": "@opusjake pitches a bundle of three community modifications for Claude aimed at people who run many sessions in parallel and watch their token spend. Connected chats lets separate Claude sessions share context so one can research prospects while another drafts outreach from those findings; smarter model routing matches each prompt to the most cost-effective model, keeping the stronger ones for genuinely hard work; and a custom dashboard reorganises the interface around the user's own tasks, messages, calendar and widgets. The mods themselves sit behind a comment-gate (\"Comment MOD and I'll send you all 3 mods + the setup guide\"), so the post documents what each one does without revealing how it is built.",
    "keywords": [
@@ -7855,6 +7873,60 @@
    "author": "opusjake",
    "author_url": "https://www.instagram.com/opusjake/",
    "date": "2026-10-25",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "A model update adds image understanding, frame-level localization and 400-page documents",
+   "synopsis": "The creator walks through what he calls the first major update to a model he names only as “Jev” — the audio says “Jeff” — with the real identity held behind a comment-for-DM gate. Three changes are demonstrated: it now accepts images rather than text alone; it reports where an object is rather than only that it is present, tracking him across all 55 frames of a skateboarding clip at 180 ms each; and a setting lifts the document limit from 50 to roughly 400 pages, which he tests by loading 340 pages on Apollo 11 and getting back the 45 seconds of fuel left at touchdown. He notes the vendor marks these options as a “danger zone”, and transcription did not resolve the product name, so the tool behind the claims stays unidentified.",
+   "keywords": [
+    "multimodal LLM",
+    "visual grounding",
+    "long-context documents",
+    "model update",
+    "comment-gated"
+   ],
+   "url": "https://www.instagram.com/p/De1vKYpiBHV/",
+   "author": "theaisurfer",
+   "author_url": "https://www.instagram.com/theaisurfer/",
+   "date": "2026-10-23",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Rendair's updated Annotate Image tool: mark the area, describe the edit",
+   "synopsis": "Rendair.ai has updated its Annotate Image tool so you select regions directly on an uploaded picture and attach a written note describing the change you want in that spot. The flow is four steps — open rendair.ai, choose Annotate Image, upload, select the areas, describe the edit — replacing the usual single global prompt covering the whole frame. The demo shows a handful of localized annotations adding up to a substantially different final image.",
+   "keywords": [
+    "Rendair",
+    "image editing",
+    "localized inpainting",
+    "annotation UI",
+    "AI image tools"
+   ],
+   "url": "https://www.instagram.com/p/Dew15rXDVKe/",
+   "author": "rendair.ai",
+   "author_url": "https://www.instagram.com/rendair.ai/",
+   "date": "2026-10-21",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Stop publishing more — build a content system your agents keep improving",
+   "synopsis": "Jeremy argues that starting over on social media should mean building a system rather than raising output: a pipeline that turns an idea into content, spots what performs, and reuses the structures that work. The interesting use of AI, in his framing, is not writing the post for you but having agents learn what actually holds your audience's attention and reproduce your best results. The payoff he describes is a compounding content machine instead of a feed you refill by hand, with the underlying template gated behind the comment keyword SUPERPRODUCTIF.",
+   "keywords": [
+    "AI agents",
+    "content system",
+    "social media automation",
+    "content repurposing",
+    "performance analysis"
+   ],
+   "url": "https://www.instagram.com/p/DejYdHbEtsU/",
+   "author": "jeremy_ia",
+   "author_url": "https://www.instagram.com/jeremy_ia/",
+   "date": "2026-10-16",
    "following": true,
    "confidence": "high"
   },
@@ -8957,24 +9029,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Recreating any film's look from one phone take, via a Claude skill and Seedance 2.5",
-   "synopsis": "The claim is that a single phone take can be restyled into the look of any named film, series or director — not as a colour filter, but by rebuilding the lighting, camera work and scene. The workflow runs a Claude skill over the footage, which transcribes the take with precise timestamps and writes the full prompt automatically, encoding the film's lighting and the director's camera moves with cuts landing word by word against the speech. That prompt and the original video then go into Seedance 2.5, replacing what the creator says previously required a colourist, a DP and a set.",
-   "keywords": [
-    "Seedance 2.5",
-    "Claude skills",
-    "film look",
-    "colour grading",
-    "AI video"
-   ],
-   "url": "https://www.instagram.com/p/DdPXsY-PbAy/",
-   "author": "pauloshimas",
-   "author_url": "https://www.instagram.com/pauloshimas/",
-   "date": "2026-09-13",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "oMLX: running local LLMs fast on Apple Silicon and wiring them into Hermes",
    "synopsis": "A Mac-only setup walkthrough for oMLX, a local inference server that optimizes models for Apple Silicon via the MLX framework, installed from a DMG published on the project's GitHub releases page. After setting an API key as the admin password, the built-in model downloader pulls a Qwen 3.5 9B checkpoint, which the author tests on a multi-stock web-search prompt that returns a sourced answer in about three minutes. The second half connects the server to the Hermes desktop client as a custom OpenAI-compatible endpoint at localhost:8000/v1, and the author rates oMLX above comparable MLX servers he tried for its context-window handling and automatic model downloads on a 32 GB M2 Pro.",
    "keywords": [
@@ -8988,24 +9042,6 @@
    "url": "https://www.instagram.com/p/DdKw4ivp5Oa/",
    "author": "codrkai",
    "author_url": "https://www.instagram.com/codrkai/",
-   "date": "2026-09-12",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Running a 744B-parameter model on a laptop with no GPU, via the Calibri project",
-   "synopsis": "An Italian developer ran GLM 5.2 — a 744-billion-parameter open model — on a laptop with no graphics card, using a project called Calibri. It works because only around 10 GB of the model is active at any moment, so Calibri holds that slice in RAM and streams the rest off disk on demand, the way a video service streams rather than downloading. Setup is cloning the repo and running one script; the heavy part is the 370 GB model download, after which it runs fully offline, and a serve mode exposes it as an OpenAI-compatible endpoint so a one-line code change drops your token bill to zero.",
-   "keywords": [
-    "GLM 5.2",
-    "Calibri",
-    "local inference",
-    "offline AI",
-    "OpenAI-compatible endpoint"
-   ],
-   "url": "https://www.instagram.com/p/DdKwlcgoX8O/",
-   "author": "ai_vanta_ai",
-   "author_url": "https://www.instagram.com/ai_vanta_ai/",
    "date": "2026-09-12",
    "following": true,
    "confidence": "high"
@@ -9062,42 +9098,6 @@
    "author": "lemondedumarketing",
    "author_url": "https://www.instagram.com/lemondedumarketing/",
    "date": "2026-09-03",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Open Art turns one sentence into a directed explainer video",
-   "synopsis": "The whole demo video began from the single prompt “explain gravity”, with every subsequent refinement handled through conversation rather than a timeline. Testing it live on “explain recursion in a 30-second video”, the creator finds the tool generates a storyboard with GPT Image 2 and the audio track with Lyria, behind a paywall he ends up subscribing to. A second run explaining inflation in an anime style — which it chose to render in Spanish — also lands, and he rates it a “fact”.",
-   "keywords": [
-    "Open Art",
-    "GPT Image 2",
-    "Lyria",
-    "explainer video",
-    "text-to-video"
-   ],
-   "url": "https://www.instagram.com/p/DcjExUUKCFW/",
-   "author": "itstundeanthony",
-   "author_url": "https://www.instagram.com/itstundeanthony/",
-   "date": "2026-08-27",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "screenshot-to-code: the GitHub repo that clones a website from an image properly",
-   "synopsis": "The creator tests a repo called screenshot to code against the usual failure mode, where handing Claude a reference link produces something that barely resembles the original. After cloning the repo and adding environment variables, he runs a Crunchyroll clone through it and races the same task against Claude Code for comparison. The repo's output is clearly better — it correctly grabbed the logo and used the actual cover art — earning a “fact” verdict.",
-   "keywords": [
-    "screenshot-to-code",
-    "GitHub",
-    "UI cloning",
-    "Claude Code",
-    "front-end generation"
-   ],
-   "url": "https://www.instagram.com/p/Dcd3eY1iOMA/",
-   "author": "itstundeanthony",
-   "author_url": "https://www.instagram.com/itstundeanthony/",
-   "date": "2026-08-25",
    "following": true,
    "confidence": "high"
   },
@@ -10875,6 +10875,24 @@
   },
   {
    "folder": "AI.Video",
+   "title": "An AI rap video of ACP Pradyuman, with the prompt behind a comment gate",
+   "synopsis": "The reel turns ACP Pradyuman, the CID character, into an AI-generated rapper delivering unexpected hip-hop bars, assembled with lip-sync and face-swap effects. The creator frames it as a reusable template for making your own AI rapper, but releases the exact prompt only by DM to people who comment “PROMPT”. Transcription recovered no usable speech — the audio track is the music — so nothing beyond the caption could be established about the tools or the prompt.",
+   "keywords": [
+    "AI video",
+    "lip sync",
+    "face swap",
+    "AI music video",
+    "comment-gated"
+   ],
+   "url": "https://www.instagram.com/p/De331p_x_RV/",
+   "author": "sferro.ai",
+   "author_url": "https://www.instagram.com/sferro.ai/",
+   "date": "2026-10-24",
+   "following": true,
+   "confidence": "low"
+  },
+  {
+   "folder": "AI.Video",
    "title": "Claude Code turns a YouTube link into ranked vertical clips",
    "synopsis": "Tunde Anthony demos an open-source app, driven from Claude Code, that takes a pasted YouTube URL and cuts the episode into short vertical clips with burned-in captions. The workflow is plain repo plumbing - clone it, add the environment variables, then ask Claude to run the app - after which it listens to the audio, picks the strongest moments and also attaches an unexpected virality score to each clip. Tested on a fresh My First Million episode it took about 20 minutes to return 10 clips and the author, who already knew the episode, judged the picks genuinely the best parts; the repo is never named on screen and the setup guide is gated behind a “comment clips” CTA.",
    "keywords": [
@@ -10926,6 +10944,24 @@
    "author": "nateherkai",
    "author_url": "https://www.instagram.com/nateherkai/",
    "date": "2026-10-20",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Stop publishing more — build a content system your agents keep improving",
+   "synopsis": "Jeremy argues that starting over on social media should mean building a system rather than raising output: a pipeline that turns an idea into content, spots what performs, and reuses the structures that work. The interesting use of AI, in his framing, is not writing the post for you but having agents learn what actually holds your audience's attention and reproduce your best results. The payoff he describes is a compounding content machine instead of a feed you refill by hand, with the underlying template gated behind the comment keyword SUPERPRODUCTIF.",
+   "keywords": [
+    "AI agents",
+    "content system",
+    "social media automation",
+    "content repurposing",
+    "performance analysis"
+   ],
+   "url": "https://www.instagram.com/p/DejYdHbEtsU/",
+   "author": "jeremy_ia",
+   "author_url": "https://www.instagram.com/jeremy_ia/",
+   "date": "2026-10-16",
    "following": true,
    "confidence": "high"
   },
@@ -12089,23 +12125,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "A Spider-Man sequence generated entirely with Seedance 2.0",
-   "synopsis": "Every web swing, gravity-defying movement, and cinematic transition in this sequence was generated with Seedance 2.0. The creator presents it as evidence the model turns simple ideas into blockbuster-style sequences. The result is described as dynamic, energetic, and unusually smooth.",
-   "keywords": [
-    "Seedance 2.0",
-    "cinematic sequences",
-    "AI video",
-    "VFX"
-   ],
-   "url": "https://www.instagram.com/p/DbdNitIzjLc/",
-   "author": "fetoaciatania",
-   "author_url": "https://www.instagram.com/fetoaciatania/",
-   "date": "2026-07-31",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "Seven days of unlimited Higgsfield across Gemini OMNI Flash, Seedance 2.0 and Nano Banana Pro",
    "synopsis": "The creator promotes a one-day offer giving seven days of unlimited access to Higgsfield's top models. The visuals shown were made with Gemini OMNI Flash, but the plan also covers Seedance 2.0 and Nano Banana Pro. The offer advertises unlimited AI generation and unlimited cinematic video across all top models.",
    "keywords": [
@@ -12120,24 +12139,6 @@
    "author_url": "https://www.instagram.com/johngoldcreates/",
    "date": "2026-07-24",
    "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Overgrown, Blender's new open movie made with and about Blender",
-   "synopsis": "The creator introduces Overgrown, a new Blender feature film made in Blender, about Blender, and by the Blender community. Beyond the film itself, the project is set to share techniques for people who want to do animation without spending a fortune. The video encourages supporting the project and cites Blender Studio, Digital Production, BlenderNation, and Reddit as sources.",
-   "keywords": [
-    "Blender",
-    "Overgrown",
-    "open movie",
-    "3D animation",
-    "open source"
-   ],
-   "url": "https://www.instagram.com/p/DbLk9Nmhtl7/",
-   "author": "keyyzako",
-   "author_url": "https://www.instagram.com/keyyzako/",
-   "date": "2026-07-24",
-   "following": false,
    "confidence": "high"
   },
   {
@@ -17750,6 +17751,25 @@
    "author_url": "https://www.instagram.com/madameb0nplan/",
    "date": "2026-07-04",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "Hacking",
+   "title": "Agents Deck adds encrypted Wi-Fi so ESP32 panels can reach your agent",
+   "synopsis": "Brushknight's Agents Deck now accepts Wi-Fi connections from ESP32 boards over an encrypted data link, so a physical panel no longer needs a wired tether to talk to the agent. He has also tested a range of Waveshare display modules and adapted the interface to their different screen sizes. Because the decks can answer questions as well as display them, the pitch is to mount several around a home and stay reachable from any room; the project link is handed out by an automated DM to anyone commenting the word “agent”.",
+   "keywords": [
+    "Agents Deck",
+    "ESP32",
+    "Waveshare",
+    "encrypted Wi-Fi",
+    "home automation",
+    "AI hardware"
+   ],
+   "url": "https://www.instagram.com/p/De73HCiCE2l/",
+   "author": "brushknight",
+   "author_url": "https://www.instagram.com/brushknight/",
+   "date": "2026-10-25",
+   "following": false,
    "confidence": "high"
   },
   {
