@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T05:52:55+00:00",
+ "generated_at": "2026-10-28T08:55:41+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -16660,6 +16660,24 @@
    "author_url": "https://www.instagram.com/madameb0nplan/",
    "date": "2024-12-15",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "Business hacks",
+   "title": "TubeMagic scans a rival channel and scripts the video for you",
+   "synopsis": "The transcript explains what the tool actually does. You enter the name of any large YouTuber in your niche and TubeMagic scans their channel, returning viral video ideas derived from content already performing well there. It then writes the full script and supplies an SEO-optimised title, description and tags. Access is gated behind commenting a keyword.",
+   "keywords": [
+    "TubeMagic",
+    "YouTube automation",
+    "video ideas",
+    "SEO metadata",
+    "AI scripting"
+   ],
+   "url": "https://www.instagram.com/p/DDDr00_o4A0/",
+   "author": "tubemagicai",
+   "author_url": "https://www.instagram.com/tubemagicai/",
+   "date": "2024-12-02",
+   "following": false,
    "confidence": "high"
   },
   {
