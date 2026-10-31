@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T04:24:25+00:00",
+ "generated_at": "2026-10-31T06:57:18+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -6505,6 +6505,24 @@
   },
   {
    "folder": "AI.FUN",
+   "title": "Les Footaises returns: a dubbed Ballon d'Or awards sketch",
+   "synopsis": "A French comedy sketch re-dubbing footage of a Ballon d'Or-style awards ceremony, announced in the caption only as the return of the 'Footaises' series. The recovered audio is an invented backstage squabble in which Lamine Yamal collects a third 'revelation' trophy while Mbappe and others bicker over who is actually the best player in the world, with running gags about his age and an iPhone 18. It closes on the award going to Harry Kane and the argument carrying on unresolved.",
+   "keywords": [
+    "French comedy",
+    "football parody",
+    "Ballon d'Or",
+    "voice dubbing",
+    "sketch"
+   ],
+   "url": "https://www.instagram.com/p/DfAbWl4I53G/",
+   "author": "mehdidonk",
+   "author_url": "https://www.instagram.com/mehdidonk/",
+   "date": "2026-10-27",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.FUN",
    "title": "The Usual Action Heroes, an AI-generated action parody",
    "synopsis": "Another Higgsfield-made parody from the same creator, flagged as AI-generated fictional content with a warning for strong language. It pastiches action-movie tropes for comic effect. The caption discloses the tool and the fiction but describes no workflow.",
    "keywords": [
@@ -7841,6 +7859,42 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Teaching Claude to watch YouTube via a Gemini API key",
+   "synopsis": "A three-step setup for getting Claude to watch YouTube videos, which it cannot do out of the box. You create a free Gemini API key (Gemini natively ingests YouTube since it is Google's), then paste a skill link into Claude and have it install and configure that skill with the key, which routes video viewing through Gemini's native integration for accurate transcripts. The payoff shown is dropping any video into Claude and asking it to learn what the video teaches and convert it into a reusable skill.",
+   "keywords": [
+    "Claude",
+    "Claude Skills",
+    "Gemini API",
+    "YouTube transcripts",
+    "AI workflow setup"
+   ],
+   "url": "https://www.instagram.com/p/DfEb1GMKtD8/",
+   "author": "bengusberg",
+   "author_url": "https://www.instagram.com/bengusberg/",
+   "date": "2026-10-29",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Three mistakes that make AI characters look fake",
+   "synopsis": "A prompt-focused walkthrough of why AI-generated characters drift between shots, built around three fixes recovered from the reel's audio rather than its caption. Instead of the usual white-background sheet with twenty random poses, it argues for a three-panel reference (close-up, front, back) on a grey background, because white light kills the lighting reference. It also tells you to hand the model a location sheet instead of describing the setting, and to specify lens, light and film stock rather than just 'cinematic camera movement'.",
+   "keywords": [
+    "AI character consistency",
+    "character reference sheets",
+    "prompt engineering",
+    "AI video",
+    "cinematography prompting"
+   ],
+   "url": "https://www.instagram.com/p/De-fAeOPYGE/",
+   "author": "sega.cut",
+   "author_url": "https://www.instagram.com/sega.cut/",
+   "date": "2026-10-26",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "Claude Duet pitched as a business assistant, behind a US waitlist",
    "synopsis": "This carousel presents Claude Duet as an assistant aimed at everyday business work — invoices, contracts and comparable repetitive admin — with access currently restricted to a US waitlist. The creator's advice is to start from a single repetitive task and measure how much of it can actually be automated before reaching for a broader agent build. The setup guide, including how to stand up an equivalent agent outside the US, is gated behind the comment keyword DUET.",
    "keywords": [
@@ -8883,24 +8937,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Nano Jev, la replique open source chinoise de Jev AI",
-   "synopsis": "Le post presente Nano Jev, une replique legere et open source de Jev AI developpee en Chine et deja creditee d'environ deux mille etoiles sur GitHub. Son argument differenciant est la prise de decisions en parallele: on lui soumet plusieurs choix et il les arbitre simultanement, le tout gratuitement. L'auteur le positionne comme brique a integrer dans des workflows d'agents et d'automatisation, et renvoie le mode d'emploi complet vers le lien en bio.",
-   "keywords": [
-    "Nano Jev",
-    "Jev AI",
-    "open source",
-    "agents IA",
-    "automatisation"
-   ],
-   "url": "https://www.instagram.com/p/DdoNHwNTeMX/",
-   "author": "julian.goldie_",
-   "author_url": "https://www.instagram.com/julian.goldie_/",
-   "date": "2026-09-23",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "needle: a 45M-parameter foundation model in a 14MB binary for phones and robots",
    "synopsis": "needle, from cactus-compute, packs a 45-million-parameter foundation model into a single 14MB binary that runs entirely offline on phones, wearables and robots. Quantised to 2 bits it needs roughly 28MB of RAM and is 5 to 70 times smaller than comparable models such as FunctionGemma. It takes text in and emits JSON out with tool calling built in, and ships under Apache-2.0.",
    "keywords": [
@@ -8934,25 +8970,6 @@
    "date": "2026-09-19",
    "following": true,
    "confidence": "low"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Six markdown context files that keep an AI coding agent on the rails",
-   "synopsis": "The post prescribes six markdown files to commit at the start of any vibe-coding project so the agent inherits durable context instead of re-guessing it every session. They are prd.md (what is being built, for whom, which features), architecture.md (file and folder layout, tech stack, how the parts connect), rules.md (a rulebook of libraries, error handling and constraints), design.md (colours, typography, components and spacing so the UI stays consistent), tasks.md (the project split into small units handed to the agent one at a time), and memory.md (running project context). The framing is tool-agnostic across Claude Code and Cursor, and the caption enumerates all six files even though a fuller step-by-step guide sits behind a comment gate.",
-   "keywords": [
-    "vibe coding",
-    "Claude Code",
-    "Cursor",
-    "agent context files",
-    "PRD",
-    "prompt engineering"
-   ],
-   "url": "https://www.instagram.com/p/DdeCyNIqBWz/",
-   "author": "avani.codes",
-   "author_url": "https://www.instagram.com/avani.codes/",
-   "date": "2026-09-19",
-   "following": false,
-   "confidence": "high"
   },
   {
    "folder": "AI.Models and apps",
@@ -10875,6 +10892,43 @@
   },
   {
    "folder": "AI.Video",
+   "title": "Open-source rebuild of the Higgsfield-style character swap",
+   "synopsis": "The viral Higgsfield-style character-swap effect has been rebuilt by someone as an open-source GitHub project, and this post lays out the pipeline end to end. You upload an original clip plus a reference image, generate depth maps and isolate the subject, then track facial movements to preserve expressions before using Seedance to generate the swap and restoring the original audio over the result. The workflow code itself is free, but it still needs paid API access for the generation steps.",
+   "keywords": [
+    "Seedance",
+    "Higgsfield",
+    "character swap",
+    "open source",
+    "depth maps",
+    "AI video"
+   ],
+   "url": "https://www.instagram.com/p/DfCoDNJj47X/",
+   "author": "thechriscordero",
+   "author_url": "https://www.instagram.com/thechriscordero/",
+   "date": "2026-10-28",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Three mistakes that make AI characters look fake",
+   "synopsis": "A prompt-focused walkthrough of why AI-generated characters drift between shots, built around three fixes recovered from the reel's audio rather than its caption. Instead of the usual white-background sheet with twenty random poses, it argues for a three-panel reference (close-up, front, back) on a grey background, because white light kills the lighting reference. It also tells you to hand the model a location sheet instead of describing the setting, and to specify lens, light and film stock rather than just 'cinematic camera movement'.",
+   "keywords": [
+    "AI character consistency",
+    "character reference sheets",
+    "prompt engineering",
+    "AI video",
+    "cinematography prompting"
+   ],
+   "url": "https://www.instagram.com/p/De-fAeOPYGE/",
+   "author": "sega.cut",
+   "author_url": "https://www.instagram.com/sega.cut/",
+   "date": "2026-10-26",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "An AI rap video of ACP Pradyuman, with the prompt behind a comment gate",
    "synopsis": "The reel turns ACP Pradyuman, the CID character, into an AI-generated rapper delivering unexpected hip-hop bars, assembled with lip-sync and face-swap effects. The creator frames it as a reusable template for making your own AI rapper, but releases the exact prompt only by DM to people who comment “PROMPT”. Transcription recovered no usable speech — the audio track is the music — so nothing beyond the caption could be established about the tools or the prompt.",
    "keywords": [
@@ -12073,24 +12127,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "Draw a path on an image and make the camera follow it",
-   "synopsis": "The creator demonstrates drawing directly on an image to define a path that the camera then follows through the generated shot. The technique is shown alongside a Higgsfield promotion offering Seedance 2.0 in 4K with two days of unlimited generation. A further seven days of unlimited Seedance 2.5 in 4K is announced for when that model lands on the platform.",
-   "keywords": [
-    "Higgsfield",
-    "Seedance 2.0",
-    "camera path",
-    "motion control",
-    "AI video"
-   ],
-   "url": "https://www.instagram.com/p/DbqFzUYih3L/",
-   "author": "jadheshvp",
-   "author_url": "https://www.instagram.com/jadheshvp/",
-   "date": "2026-08-05",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "Italian AI prompt pack teased for comment delivery",
    "synopsis": "An Italian-language post offering a free complete prompt pack in exchange for a comment. The visible caption carries only trend hashtags and no description of the pack contents.",
    "keywords": [
@@ -12121,24 +12157,6 @@
    "author_url": "https://www.instagram.com/karthikramaniai/",
    "date": "2026-08-03",
    "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Seven days of unlimited Higgsfield across Gemini OMNI Flash, Seedance 2.0 and Nano Banana Pro",
-   "synopsis": "The creator promotes a one-day offer giving seven days of unlimited access to Higgsfield's top models. The visuals shown were made with Gemini OMNI Flash, but the plan also covers Seedance 2.0 and Nano Banana Pro. The offer advertises unlimited AI generation and unlimited cinematic video across all top models.",
-   "keywords": [
-    "Higgsfield",
-    "Gemini OMNI Flash",
-    "Seedance 2.0",
-    "Nano Banana Pro",
-    "AI video"
-   ],
-   "url": "https://www.instagram.com/p/DbMOBU4yyjf/",
-   "author": "johngoldcreates",
-   "author_url": "https://www.instagram.com/johngoldcreates/",
-   "date": "2026-07-24",
-   "following": true,
    "confidence": "high"
   },
   {
@@ -12453,22 +12471,6 @@
    "author": "souvlakination_",
    "author_url": "https://www.instagram.com/souvlakination_/",
    "date": "2024-08-24",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "Athens",
-   "title": "Athens' best restaurants in a five-creator carousel",
-   "synopsis": "A carousel collecting restaurant and dish picks across Athens, crediting creators including @bouujiee, @snackeatingsnackss, @athen_food_explorer, @melbfoodieee and @eat.inathens. The caption asks readers to name their favourite traditional dish. Specific venues appear on the slides rather than in the text.",
-   "keywords": [
-    "Athens restaurants",
-    "traditional dishes",
-    "food carousel"
-   ],
-   "url": "https://www.instagram.com/p/C-c0Z7NoCbe/",
-   "author": "athenstravel",
-   "author_url": "https://www.instagram.com/athenstravel/",
-   "date": "2024-08-09",
    "following": true,
    "confidence": "high"
   },
@@ -13460,6 +13462,24 @@
    "author_url": "https://www.instagram.com/mr.trouve/",
    "date": "2024-01-28",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "Brussels",
+   "title": "Big Trouble in Chinatown opens in Saint-Gilles",
+   "synopsis": "The teams behind Old Boy and Nenu have opened Big Trouble in Chinatown in Saint-Gilles, a large Hong Kong-inspired restaurant drawing on flavours from across China. The laminated menu runs to dim sum, roast meats, a notably tender orange chicken and prawn toasts, served family-style around big round tables with turning trays, in a deliberately kitsch setting of neon, an aquarium and a dragon coming out of the wall. Drinks lean Asian-accented cocktails, low-sugar mocktails and natural wines, with starters from 7 euros and mains from 15 euros.",
+   "keywords": [
+    "Brussels",
+    "Saint-Gilles",
+    "Chinese restaurant",
+    "Hong Kong cuisine",
+    "restaurant opening"
+   ],
+   "url": "https://www.instagram.com/p/DfFjwCWK9kh/",
+   "author": "romane_hkbt",
+   "author_url": "https://www.instagram.com/romane_hkbt/",
+   "date": "2026-10-29",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -15202,23 +15222,6 @@
    "author": "tombaldetti",
    "author_url": "https://www.instagram.com/tombaldetti/",
    "date": "2024-12-26",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "Brussels",
-   "title": "Kings, a fully halal Korean barbecue where you run the grill",
-   "synopsis": "A French feature on Kings, a one-hundred-percent halal Korean barbecue in Brussels where diners cook at the table. The marinated meats include beef bulgogi, soy beef and chicken marinated in mango and honey. The creator pitches it as an immersive outing for family or friends.",
-   "keywords": [
-    "Kings Brussels",
-    "halal Korean BBQ",
-    "bulgogi",
-    "table grill"
-   ],
-   "url": "https://www.instagram.com/p/DD_4CouNuTt/",
-   "author": "foodctrl.bx",
-   "author_url": "https://www.instagram.com/foodctrl.bx/",
-   "date": "2024-12-25",
    "following": true,
    "confidence": "high"
   },
@@ -17274,7 +17277,7 @@
    "author": "deeptech",
    "author_url": "https://www.instagram.com/deeptech/",
    "date": "2026-08-20",
-   "following": false,
+   "following": true,
    "confidence": "high"
   },
   {
