@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T06:26:00+00:00",
+ "generated_at": "2026-11-05T08:20:14+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -1623,7 +1623,7 @@
    "confidence": "low"
   },
   {
-   "folder": "AI course",
+   "folder": "AI course ",
    "title": "A free three-hour AI course requiring no coding",
    "synopsis": "The creator points to a free AI training aimed at people who cannot code, totalling three hours split into short five-to-ten-minute videos. She flags clearly that the lessons are in English but French subtitles are available. The format is built for progressive viewing rather than a single sitting.",
    "keywords": [
@@ -3454,7 +3454,7 @@
    "confidence": "high"
   },
   {
-   "folder": "AI.BIOLOGY",
+   "folder": "AI.BIOLOGY ",
    "title": "Evo, an AI that wrote working viral genomes from scratch",
    "synopsis": "Researchers showed the Evo model more than two million bacteriophage genomes — viruses that attack and destroy bacteria — and it learned, recombined, and began inventing entirely new genetic sequences never seen in nature. Many were tested in the laboratory and sixteen of them actually worked, infecting and eliminating E. coli strains, with some more effective than their natural equivalents. The clip frames this as the first time an AI has written living genomes, a historic breakthrough that is also unnerving because an AI able to create life might one day destroy it.",
    "keywords": [
@@ -3698,6 +3698,42 @@
    "author": "mattganzak",
    "author_url": "https://www.instagram.com/mattganzak/",
    "date": "2026-03-07",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Camera",
+   "title": "Twenty cinematic lighting prompts for AI portraits",
+   "synopsis": "A prompt pack that re-lights ordinary portrait photos in twenty named cinematic styles. The audio enumerates the full list: dappled light, high-key and low-key, red emergency lighting, golden hour, moonlight, direct flash, venetian blinds, fluorescent, candlelight, coloured gels, flashlight, clamshell, sodium vapour, underlighting, practical lights, rim lighting, firelight, backlit silhouettes and lightning flashes. Neither the caption nor the audio names the tool or model behind it, and the guide itself sits behind a comment-for-DM gate.",
+   "keywords": [
+    "AI portraits",
+    "cinematic lighting",
+    "prompt pack",
+    "photo relighting",
+    "gated guide"
+   ],
+   "url": "https://www.instagram.com/p/DfUZ_rLhbW5/",
+   "author": "sferro.ai",
+   "author_url": "https://www.instagram.com/sferro.ai/",
+   "date": "2026-11-04",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Camera",
+   "title": "Higgsfield turns one static shot into a full production",
+   "synopsis": "Higgsfield pitches its creative suite as a way to re-shoot a single static take without filming again. With Seedance 2.5 and Genjutsu it changes camera angle, lighting, objects, outfits and even the location from the original footage. The claim is creative control over every element of a scene that is already in the can.",
+   "keywords": [
+    "Higgsfield",
+    "Seedance 2.5",
+    "Genjutsu",
+    "AI video",
+    "camera angle control"
+   ],
+   "url": "https://www.instagram.com/p/DfIgZoUi5aa/",
+   "author": "higgsfield.ai",
+   "author_url": "https://www.instagram.com/higgsfield.ai/",
+   "date": "2026-10-30",
    "following": true,
    "confidence": "high"
   },
@@ -4006,6 +4042,25 @@
    "author_url": "https://www.instagram.com/jb.roy_/",
    "date": "2026-05-17",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "JCode, a coding-agent harness rebuilt from scratch in Rust",
+   "synopsis": "A developer rebuilt the middle layer of a coding agent - the harness - from scratch in Rust and released it as JCode. The post claims 20x more efficiency than Claude Code and 63x faster than Codex, plus auto-memory with no setup and multi-agent work on one codebase, all free and open source. These are the creator's own unverified benchmarks, and the link is gated behind a comment-for-DM.",
+   "keywords": [
+    "JCode",
+    "Rust",
+    "coding agent",
+    "open source",
+    "Claude Code",
+    "Codex"
+   ],
+   "url": "https://www.instagram.com/p/DfHKGq9JYkX/",
+   "author": "me.alex.verse",
+   "author_url": "https://www.instagram.com/me.alex.verse/",
+   "date": "2026-10-30",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -5253,25 +5308,6 @@
    "author_url": "https://www.instagram.com/sebintel/",
    "date": "2025-12-27",
    "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.CODE",
-   "title": "Google Code Wiki turns a GitHub repo into self-updating docs you can interrogate",
-   "synopsis": "100x Engineers walks through Code Wiki, a Google tool that scans an entire GitHub repository and generates structured documentation, architecture diagrams and a Gemini-powered chatbot grounded in the actual code. The pitch targets the weeks new developers lose tracing function calls and recursion in someone else's codebase: you can ask it something like \"where does telemetry happen for prompts?\" and get an explanation back with links to the exact files. Documentation regenerates on every push, which is the part the reel leans on hardest — it removes the stale-docs problem rather than just easing onboarding.",
-   "keywords": [
-    "Code Wiki",
-    "Google",
-    "Gemini",
-    "codebase documentation",
-    "developer onboarding",
-    "GitHub"
-   ],
-   "url": "https://www.instagram.com/p/DSrn8Nkiby3/",
-   "author": "100xengineers",
-   "author_url": "https://www.instagram.com/100xengineers/",
-   "date": "2025-12-25",
-   "following": false,
    "confidence": "high"
   },
   {
@@ -7879,6 +7915,43 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Five Claude Code power settings, including a 690-hour unattended run",
+   "synopsis": "Part one of a series on the five Claude Code commands and settings the author rates highest. Number four is the configuration behind a 690-hour continuous run that stopped only because the machine needed rebooting; the others are a plugin where a second agent checks the first agent's work, an auto-compact setting that keeps long runs coherent, and Ultracode for coordinating dozens to hundreds of agents. The number-one pick is withheld and the full list is gated behind a follow-then-comment DM.",
+   "keywords": [
+    "Claude Code",
+    "Ultracode",
+    "auto-compact",
+    "multi-agent review",
+    "long-running agents"
+   ],
+   "url": "https://www.instagram.com/p/DfS0h0Nqyi4/",
+   "author": "j.t.rivard",
+   "author_url": "https://www.instagram.com/j.t.rivard/",
+   "date": "2026-11-03",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Five free Claude Code plugins, from token pools to a skill malware scanner",
+   "synopsis": "A walkthrough of five free Claude Code plugins, each fixing a different problem: FreeLLMAPI pools over 7 billion free tokens across 600+ models and auto-switches when a usage limit runs out, Lemo Opuscar adds 60+ animation styles for explainer videos, and Ponytail cuts output usage by more than half without losing accuracy. The fourth is AgentReach, for scraping gated platforms like LinkedIn, Instagram, X and Reddit; the fifth is NVIDIA's Skill Spectre, an antivirus-style scanner that checks Claude skills for hidden malware before installation. Plugins four and five exist only in the audio - the caption stops at the third.",
+   "keywords": [
+    "Claude Code",
+    "FreeLLMAPI",
+    "Ponytail",
+    "AgentReach",
+    "NVIDIA Skill Spectre",
+    "plugins"
+   ],
+   "url": "https://www.instagram.com/p/DfPuiYyP4Hy/",
+   "author": "nick_saraev",
+   "author_url": "https://www.instagram.com/nick_saraev/",
+   "date": "2026-11-02",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "Three sound-effect tools that fix Claude's AI video edits",
    "synopsis": "The creator argues that AI video editing with Claude now fails on audio rather than visuals, with generated sound effects still giving the edit away. Three tools are proposed to close the gap: Openverse, which opens over five million free sounds for the agent to search and download itself; Earshot, which actually listens to candidate sounds and tells the model which one fits, synthesising a new one when nothing does; and Real SFX, which scans the cut for moments needing a sound and places it on the exact frame. The caption gates the tool list behind a comment.",
    "keywords": [
@@ -7931,6 +8004,25 @@
    "date": "2026-10-31",
    "following": true,
    "confidence": "low"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "JCode, a coding-agent harness rebuilt from scratch in Rust",
+   "synopsis": "A developer rebuilt the middle layer of a coding agent - the harness - from scratch in Rust and released it as JCode. The post claims 20x more efficiency than Claude Code and 63x faster than Codex, plus auto-memory with no setup and multi-agent work on one codebase, all free and open source. These are the creator's own unverified benchmarks, and the link is gated behind a comment-for-DM.",
+   "keywords": [
+    "JCode",
+    "Rust",
+    "coding agent",
+    "open source",
+    "Claude Code",
+    "Codex"
+   ],
+   "url": "https://www.instagram.com/p/DfHKGq9JYkX/",
+   "author": "me.alex.verse",
+   "author_url": "https://www.instagram.com/me.alex.verse/",
+   "date": "2026-10-30",
+   "following": false,
+   "confidence": "high"
   },
   {
    "folder": "AI.Models and apps",
@@ -8002,6 +8094,25 @@
    "author": "opusjake",
    "author_url": "https://www.instagram.com/opusjake/",
    "date": "2026-10-25",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
+   "title": "Voice Studio, a local open-source alternative to ElevenLabs",
+   "synopsis": "Voice Studio is a free open-source speech toolkit that runs entirely on your own computer, installed by pasting an install prompt into Claude Code. It checks whether the hardware is capable, lets you pick the output quality, and offers voice cloning, voice design, dubbing and transcription. The demo clones the presenter's own voice locally from a single 15-second clip and plays back a convincing result.",
+   "keywords": [
+    "Voice Studio",
+    "ElevenLabs alternative",
+    "voice cloning",
+    "open source",
+    "local inference",
+    "Claude Code"
+   ],
+   "url": "https://www.instagram.com/p/De1zlGniBQp/",
+   "author": "itstundeanthony",
+   "author_url": "https://www.instagram.com/itstundeanthony/",
+   "date": "2026-10-23",
    "following": true,
    "confidence": "high"
   },
@@ -8586,6 +8697,24 @@
   },
   {
    "folder": "AI.Models and apps",
+   "title": "Mining your own Claude conversation history to improve your setup",
+   "synopsis": "Claude stores every conversation on your own machine as well as server-side, and the post argues that history is an unmined record of what the model got wrong and how you actually work. The author runs a custom /improve-system skill over it twice a week. It reports what he is doing wrong, which skills he should create and what context he is missing - including flagging the things he repeats often enough to be worth automating.",
+   "keywords": [
+    "Claude Code",
+    "conversation history",
+    "self-improving system",
+    "custom skills",
+    "workflow audit"
+   ],
+   "url": "https://www.instagram.com/p/DeAne_MjMoi/",
+   "author": "austin.marchese",
+   "author_url": "https://www.instagram.com/austin.marchese/",
+   "date": "2026-10-02",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Models and apps",
    "title": "Meta's Muse agent can read your Instagram saves — including what is inside the videos",
    "synopsis": "Itstundeanthony tests Muse, Meta's first personal agent, whose differentiator is simply access: no other assistant is wired into your Instagram account. On camera he connects his account and asks whether it can see his saved posts; it confirms, correctly reports 442 saves, and pulls recent ones. The part that convinces him is topical retrieval across the collection — asking for five saved posts about AI, then five saved fashion videos, and verifying against his own account that the returned posts really were ones he had saved.",
    "keywords": [
@@ -8919,80 +9048,6 @@
   },
   {
    "folder": "AI.Models and apps",
-   "title": "Unlazy: a prompt-level fix aimed at partial compliance in Claude and ChatGPT",
-   "synopsis": "The creator, Stanford founder Ben Gusberg, argues that frontier assistants routinely cut corners and then report the job as finished - behaviour he labels partial compliance, the familiar pattern of an assistant skipping a step and apologising only when challenged. His proposed remedy is a free tool called Unlazy that forces the model to decompose a request into subtasks and give each one full attention, invoked by typing slash Unlazy at the start of a project. Setup is to paste the tool's URL into Claude or ChatGPT and ask it to install; note that the framing that labs deliberately designed models to be lazy and to lie is the creator's claim, not a documented vendor position.",
-   "keywords": [
-    "partial compliance",
-    "Unlazy",
-    "prompt engineering",
-    "task decomposition",
-    "Claude",
-    "ChatGPT"
-   ],
-   "url": "https://www.instagram.com/p/DdpyqASx6SW/",
-   "author": "bengusberg",
-   "author_url": "https://www.instagram.com/bengusberg/",
-   "date": "2026-09-24",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Hermes adds a Claude plugin that runs on your subscription, no API key",
-   "synopsis": "A Hermes plugin update reconnects Claude to the agent without requiring an API key or a separate usage bill, running instead on an existing Claude subscription. Users can switch between Opus, Sonnet, Haiku and Fable with a single line, and the creator says installation takes about three minutes via one command. Hermes keeps its memory, tools, browsing and approval flow throughout, so the agent can still read files, browse the web and check its own work inside existing workflows.",
-   "keywords": [
-    "Hermes",
-    "Claude",
-    "agent plugin",
-    "model switching",
-    "subscription auth"
-   ],
-   "url": "https://www.instagram.com/p/DdpkTHSlM8U/",
-   "author": "aiprofitlabdaily",
-   "author_url": "https://www.instagram.com/aiprofitlabdaily/",
-   "date": "2026-09-24",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "A two-agent content machine turning one product photo into ten on-brand visuals (FR)",
-   "synopsis": "Testing what fully AI-generated brand content is worth in 2026, the creator starts from a single product shot of a New Balance FuelCell v5 plus a moodboard gathered from Pinterest, Cosmos or Google Images. A visual-DNA agent analyses and describes each reference image, then passes its reading to a creative-director agent that writes ten coherent prompts, and the pipeline renders ten usable visuals. His verdict is that this clearly does not replace a real shoot, but earns its place in three cases: zero budget, high volume, or testing visual directions ahead of a production.",
-   "keywords": [
-    "multi-agent workflow",
-    "art direction",
-    "brand content",
-    "moodboard",
-    "product photography"
-   ],
-   "url": "https://www.instagram.com/p/DdpBKVniboB/",
-   "author": "yass.majid",
-   "author_url": "https://www.instagram.com/yass.majid/",
-   "date": "2026-09-23",
-   "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Pairing the UI UX Pro Max skill with 21st.dev's MCP server in Claude Code",
-   "synopsis": "The setup installs the UI UX Pro Max skill into Claude Code straight from its GitHub URL, giving the model a reference library of over 50 UI styles, 97 colour palettes and 57 font pairings. It then adds 21st.dev's magic MCP server with a single install command. With both in place, Claude Code's generated sites come out with proper animations, glassmorphism, gradients and layouts that look professionally designed rather than default.",
-   "keywords": [
-    "Claude Code",
-    "UI UX Pro Max",
-    "21st.dev",
-    "MCP server",
-    "web design",
-    "glassmorphism"
-   ],
-   "url": "https://www.instagram.com/p/DdonmPbIbaX/",
-   "author": "bob.curtis.creator",
-   "author_url": "https://www.instagram.com/bob.curtis.creator/",
-   "date": "2026-09-23",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
    "title": "needle: a 45M-parameter foundation model in a 14MB binary for phones and robots",
    "synopsis": "needle, from cactus-compute, packs a 45-million-parameter foundation model into a single 14MB binary that runs entirely offline on phones, wearables and robots. Quantised to 2 bits it needs roughly 28MB of RAM and is 5 to 70 times smaller than comparable models such as FunctionGemma. It takes text in and emits JSON out with tool calling built in, and ships under Apache-2.0.",
    "keywords": [
@@ -9007,24 +9062,6 @@
    "author": "fullstackparody",
    "author_url": "https://www.instagram.com/fullstackparody/",
    "date": "2026-09-21",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Models and apps",
-   "title": "Jev AI part two: Jevpilot, a Subway Surfers agent, and 700 leads scored for nine cents",
-   "synopsis": "The creator frames Jev as the yin to an LLM's yang - where a language model writes, Jev makes fast decisions inside your computer. Three demos carry the reel: Jevpilot, a Tesla-style self-driving agent that stops at a red light and resumes on green; a Subway Surfers player choosing lanes, jumps and slides with near-superhuman reaction; and a sales tool that assessed 700 leads and their outreach messages in 40 seconds. That last run reportedly cost nine cents, letting a team catch bad-fit messages before they are ever sent.",
-   "keywords": [
-    "Jev AI",
-    "Jevpilot",
-    "decision models",
-    "agent automation",
-    "lead scoring"
-   ],
-   "url": "https://www.instagram.com/p/Ddb2wLbjAan/",
-   "author": "brochbuilds",
-   "author_url": "https://www.instagram.com/brochbuilds/",
-   "date": "2026-09-18",
    "following": true,
    "confidence": "high"
   },
@@ -10628,6 +10665,25 @@
   },
   {
    "folder": "AI.SKILLS",
+   "title": "Five free Claude Code plugins, from token pools to a skill malware scanner",
+   "synopsis": "A walkthrough of five free Claude Code plugins, each fixing a different problem: FreeLLMAPI pools over 7 billion free tokens across 600+ models and auto-switches when a usage limit runs out, Lemo Opuscar adds 60+ animation styles for explainer videos, and Ponytail cuts output usage by more than half without losing accuracy. The fourth is AgentReach, for scraping gated platforms like LinkedIn, Instagram, X and Reddit; the fifth is NVIDIA's Skill Spectre, an antivirus-style scanner that checks Claude skills for hidden malware before installation. Plugins four and five exist only in the audio - the caption stops at the third.",
+   "keywords": [
+    "Claude Code",
+    "FreeLLMAPI",
+    "Ponytail",
+    "AgentReach",
+    "NVIDIA Skill Spectre",
+    "plugins"
+   ],
+   "url": "https://www.instagram.com/p/DfPuiYyP4Hy/",
+   "author": "nick_saraev",
+   "author_url": "https://www.instagram.com/nick_saraev/",
+   "date": "2026-11-02",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.SKILLS",
    "title": "A RISC-V processor compiled into a 4B Qwen model's weights",
    "synopsis": "The reel covers a project that compiled a full 32-bit RISC-V processor directly into the weights of a 4-billion-parameter Qwen model, using the model's own memory layers as RAM. It is not an external tool the model calls: the processor runs during the ordinary forward pass, executes real C and MicroPython, passes the official RISC-V test suite, and a variant keeps a filesystem inside those layers so files saved in one chat survive into a later one. A follow-up compiled a vector unit with bit-exact matrix multiply, attention and softmax, then ran Karpathy's 260K-parameter language model on top, so one model executes another entirely inside itself.",
    "keywords": [
@@ -10661,6 +10717,42 @@
    "date": "2026-10-31",
    "following": true,
    "confidence": "low"
+  },
+  {
+   "folder": "AI.SKILLS",
+   "title": "An open-source library of standardised gym exercise videos",
+   "synopsis": "Someone open-sourced video demonstrations of effectively every gym exercise, all filmed to one standardised format so the clips look consistent side by side. The angle the reel pushes is using it as the asset layer for a workout-tracking or programme-building mobile app, illustrating each exercise with video instead of stock images. The repository link is gated behind a “commente musculation” DM.",
+   "keywords": [
+    "open source",
+    "exercise video dataset",
+    "fitness app",
+    "workout tracking",
+    "app assets"
+   ],
+   "url": "https://www.instagram.com/p/DfAZbzTEcey/",
+   "author": "ialan_automatise",
+   "author_url": "https://www.instagram.com/ialan_automatise/",
+   "date": "2026-10-27",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.SKILLS",
+   "title": "Eleven Claude skills that clone, rebuild and mod console games",
+   "synopsis": "The caption says only “ca part trop loin”, but the audio describes a free bundle of eleven Claude skills with one job each: reverse-engineering a game, regenerating its graphics, building the backend, and binding it to any controller. The headline feature is a modding skill that rebuilds a described change straight into the game - new levels, new outfits, or merging two titles such as GTA inside Minecraft. The “Claude just killed PlayStation” framing, and the legality of the whole exercise, are the creator's claims rather than established facts.",
+   "keywords": [
+    "Claude skills",
+    "game cloning",
+    "reverse engineering",
+    "game modding",
+    "console emulation"
+   ],
+   "url": "https://www.instagram.com/p/De1bqW6uQq_/",
+   "author": "dryxio.us",
+   "author_url": "https://www.instagram.com/dryxio.us/",
+   "date": "2026-10-25",
+   "following": true,
+   "confidence": "high"
   },
   {
    "folder": "AI.SKILLS",
@@ -10949,6 +11041,24 @@
   },
   {
    "folder": "AI.Video",
+   "title": "A free AI video-editing setup built on Claude Desktop in Code mode",
+   "synopsis": "The author publishes the AI editing setup others hide behind a paid course: Claude Desktop in Code mode plus a Video Studio folder split into A-Roll, B-Roll, Reference and Export. A single prompt installs the four required tools, and the edit style is copied from three to five of your own existing videos. You film yourself, drop the take into A-Roll, and Claude cuts the dead air, adds the subtitles and lays in the music.",
+   "keywords": [
+    "Claude Desktop",
+    "AI video editing",
+    "A-Roll B-Roll",
+    "auto-subtitles",
+    "content workflow"
+   ],
+   "url": "https://www.instagram.com/p/DfOvPAZDk4V/",
+   "author": "melvynxdev",
+   "author_url": "https://www.instagram.com/melvynxdev/",
+   "date": "2026-11-02",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
    "title": "Three sound-effect tools that fix Claude's AI video edits",
    "synopsis": "The creator argues that AI video editing with Claude now fails on audio rather than visuals, with generated sound effects still giving the edit away. Three tools are proposed to close the gap: Openverse, which opens over five million free sounds for the agent to search and download itself; Earshot, which actually listens to candidate sounds and tells the model which one fits, synthesising a new one when nothing does; and Real SFX, which scans the cut for moments needing a sound and places it on the exact frame. The caption gates the tool list behind a comment.",
    "keywords": [
@@ -10983,6 +11093,24 @@
    "author_url": "https://www.instagram.com/hatsunama/",
    "date": "2026-11-01",
    "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.Video",
+   "title": "Higgsfield turns one static shot into a full production",
+   "synopsis": "Higgsfield pitches its creative suite as a way to re-shoot a single static take without filming again. With Seedance 2.5 and Genjutsu it changes camera angle, lighting, objects, outfits and even the location from the original footage. The claim is creative control over every element of a scene that is already in the can.",
+   "keywords": [
+    "Higgsfield",
+    "Seedance 2.5",
+    "Genjutsu",
+    "AI video",
+    "camera angle control"
+   ],
+   "url": "https://www.instagram.com/p/DfIgZoUi5aa/",
+   "author": "higgsfield.ai",
+   "author_url": "https://www.instagram.com/higgsfield.ai/",
+   "date": "2026-10-30",
+   "following": true,
    "confidence": "high"
   },
   {
@@ -12134,23 +12262,6 @@
   },
   {
    "folder": "AI.Video",
-   "title": "A full video from a single prompt with Seedance 2.5 on Morphic",
-   "synopsis": "The creator made an entire video from one prompt using Seedance 2.5 inside Morphic Studios. The workflow is to open Morphic, select Seedance 2.5, add references, paste the prompt, and generate. The model supports 30-second single-shot videos, up to 50 references, and extending existing videos.",
-   "keywords": [
-    "Seedance 2.5",
-    "Morphic",
-    "AI video",
-    "reference images"
-   ],
-   "url": "https://www.instagram.com/p/Db8SgXcAHXW/",
-   "author": "ai.akshu",
-   "author_url": "https://www.instagram.com/ai.akshu/",
-   "date": "2026-08-12",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
    "title": "Multi-angle edit from a single-camera take, via a Claude skill plus Google Omni",
    "synopsis": "The workflow chains two tools: a Claude skill transcribes the source video with precise timestamps and writes the entire downstream prompt automatically, then that prompt is pasted into Google Omni along with the original single-angle footage. Omni synthesises additional camera angles that were never filmed — the creator notes with some disbelief that it infers what the side of his head looks like. He flags one practical blocker, needing a VPN to Japan for access, and rates the tool a genuine “fact” rather than hype.",
    "keywords": [
@@ -12234,25 +12345,6 @@
    "author_url": "https://www.instagram.com/sanji.chien/",
    "date": "2026-07-18",
    "following": false,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.Video",
-   "title": "Apple-style scroll-linked product animations in four no-code steps",
-   "synopsis": "The creator reproduces the scroll-driven animations agencies charge thousands for — where a product spins or assembles itself as you scroll — in four steps with zero code. You generate a start frame and an end frame in Google Flow, use its frames-to-video mode to animate everything in between, then run that clip through EasyGIF's video-to-image-sequence tool at 30 frames per second and download the frames as a zip. Finally you drop the whole folder into your AI coding tool and ask it to build a scroll-linked image sequence on a canvas, which she notes is exactly the trick Apple uses on its product pages.",
-   "keywords": [
-    "Google Flow",
-    "EasyGIF",
-    "scroll animation",
-    "canvas",
-    "Claude Code",
-    "web design"
-   ],
-   "url": "https://www.instagram.com/p/DasLm6opzIO/",
-   "author": "cindiezhu",
-   "author_url": "https://www.instagram.com/cindiezhu/",
-   "date": "2026-07-12",
-   "following": true,
    "confidence": "high"
   },
   {
@@ -14142,6 +14234,40 @@
   },
   {
    "folder": "Brussels",
+   "title": "Crookies Coffee on Rue Piers, Molenbeek",
+   "synopsis": "A bare pin post for Crookies Coffee at Rue Piers 59 in 1081 Molenbeek. The caption is the tag and the address, with no description. The name points to the croissant-cookie hybrid as the house product.",
+   "keywords": [
+    "Crookies Coffee",
+    "Molenbeek",
+    "crookie",
+    "Brussels coffee"
+   ],
+   "url": "https://www.instagram.com/p/DPb7Qb2DFyx/",
+   "author": "ou_manger_sur_bruxelles",
+   "author_url": "https://www.instagram.com/ou_manger_sur_bruxelles/",
+   "date": "2025-10-05",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "Brussels",
+   "title": "Le Grain, brunch and pastry masterclasses in Brussels",
+   "synopsis": "A French discovery post for Le Grain Brussels, recommended both for a generous brunch and for its pastries. Beyond the warm, cosy room it runs masterclasses led by prominent pastry chefs. There is also a terrace and a private room suited to events.",
+   "keywords": [
+    "Le Grain Brussels",
+    "pastry masterclass",
+    "brunch",
+    "private room"
+   ],
+   "url": "https://www.instagram.com/p/DPR-U_VjXDr/",
+   "author": "ou_manger_sur_bruxelles",
+   "author_url": "https://www.instagram.com/ou_manger_sur_bruxelles/",
+   "date": "2025-10-01",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "Brussels",
    "title": "A new favourite Italian restaurant in Brussels",
    "synopsis": "A one-line endorsement calling the venue the creator's new favourite restaurant, with everything rated absolutely delicious. The hashtags place it as Italian and suitable for date night. No venue name, address or dish appears in the caption.",
    "keywords": [
@@ -15252,25 +15378,6 @@
   },
   {
    "folder": "Brussels",
-   "title": "King's BBQ: halal Korean grill-your-own in Jette",
-   "synopsis": "A French-language reel from foodctrl.bx promoting King's BBQ in Jette, a 100% halal Korean barbecue where diners cook the meat themselves at the table. The marinated line-up runs to beef bulgogi, soy beef and a mango-and-honey chicken, pitched as an immersive outing for family or friends. Concrete numbers are given: around 35 euros per person for roughly 450 g of meat, unlimited sides and one soft drink, at Chaussée de Jette 590 in 1090 Jette.",
-   "keywords": [
-    "King's BBQ",
-    "Jette",
-    "Brussels",
-    "Korean barbecue",
-    "halal restaurant",
-    "grill-your-own"
-   ],
-   "url": "https://www.instagram.com/p/DD_4CouNuTt/",
-   "author": "foodctrl.bx",
-   "author_url": "https://www.instagram.com/foodctrl.bx/",
-   "date": "2024-12-25",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "Brussels",
    "title": "Where to eat the world's third-best sandwich in central Brussels",
    "synopsis": "A shawarma post anchored on TasteAtlas rankings, which placed the sandwich third best in the world in 2024 and its toum sauce first in 2023. The creator declares for chicken shawarma with extra toum, the Lebanese garlic emulsion. The clip answers where to eat it in central Brussels.",
    "keywords": [
@@ -15354,25 +15461,6 @@
    "author": "theguide_brussels",
    "author_url": "https://www.instagram.com/theguide_brussels/",
    "date": "2024-11-01",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "Brussels",
-   "title": "Medusa: a generous brunch spot by the Congress Column",
-   "synopsis": "A French-language reel from foodctrl.bx recommending Medusa as a new Brussels brunch find, located on Rue du Congrès just beside the Congress Column. The pitch is a generous, flavour-heavy brunch built around toasts the author rates as exceptionally good, served in a setting she calls magnificent with copious plates. Practical details are included: brunch runs 9:30 to 14:30, with the classic à la carte menu available from midday.",
-   "keywords": [
-    "Medusa",
-    "Brussels",
-    "Rue du Congrès",
-    "brunch",
-    "breakfast",
-    "restaurant"
-   ],
-   "url": "https://www.instagram.com/p/DBwX00Zt1iV/",
-   "author": "foodctrl.bx",
-   "author_url": "https://www.instagram.com/foodctrl.bx/",
-   "date": "2024-10-30",
    "following": true,
    "confidence": "high"
   },
@@ -15897,25 +15985,6 @@
    "author": "urbankaraoke.bxl",
    "author_url": "https://www.instagram.com/urbankaraoke.bxl/",
    "date": "2024-08-27",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "Brussels",
-   "title": "Kaiju: asian-fusion on the ground floor of the Jam Hotel, Saint-Gilles",
-   "synopsis": "Food critic Carlo de Pascale reviews Kaiju, an asian-fusion restaurant that has taken over the ground floor of the Jam Hotel in Saint-Gilles where a Neapolitan pizzeria used to trade, and his verdict is that it is genuinely very good. He singles out the punchy fusion wantan and a dining room with real visual character, though dark enough that you can barely see what you are eating, and praises service that handled a table full of allergies with unusual care. His one caveat is portion maths: three dishes per person proved too much where two to two-and-a-half would do, leaving a sugar-salt-fried heaviness, but he flags it as a rare Brussels address you can safely bring gluten-free, egg-free, dairy-free and nut-free friends to.",
-   "keywords": [
-    "Kaiju",
-    "Saint-Gilles",
-    "Brussels",
-    "asian fusion",
-    "allergy-friendly dining",
-    "restaurant review"
-   ],
-   "url": "https://www.instagram.com/p/C_GoquhtXRX/",
-   "author": "carlo_de_pascale",
-   "author_url": "https://www.instagram.com/carlo_de_pascale/",
-   "date": "2024-08-25",
    "following": true,
    "confidence": "high"
   },
@@ -17859,6 +17928,24 @@
   },
   {
    "folder": "Hacking",
+   "title": "Mistral Large 4 goes downloadable in a three-week-hardened build",
+   "synopsis": "Mistral has made Large 4 downloadable, and not the version originally announced but a build refined for three extra weeks. The post credits it as better at agentic coding, very solid on cyber defence, and 63% cheaper per task. It frames the real test as who will actually self-host it.",
+   "keywords": [
+    "Mistral Large 4",
+    "open weights",
+    "agentic coding",
+    "cyber defence",
+    "self-hosting"
+   ],
+   "url": "https://www.instagram.com/p/DfPBUHmIAy2/",
+   "author": "renauddekode",
+   "author_url": "https://www.instagram.com/renauddekode/",
+   "date": "2026-11-02",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "Hacking",
    "title": "Agents Deck adds encrypted Wi-Fi so ESP32 panels can reach your agent",
    "synopsis": "Brushknight's Agents Deck now accepts Wi-Fi connections from ESP32 boards over an encrypted data link, so a physical panel no longer needs a wired tether to talk to the agent. He has also tested a range of Waveshare display modules and adapted the interface to their different screen sizes. Because the decks can answer questions as well as display them, the pitch is to mount several around a home and stay reachable from any room; the project link is handed out by an automated DM to anyone commenting the word “agent”.",
    "keywords": [
@@ -17949,6 +18036,23 @@
   },
   {
    "folder": "Hacking",
+   "title": "Seven one-off purchases that replace monthly subscriptions",
+   "synopsis": "A carousel presenting seven gadgets and tools that let you cancel a recurring subscription, spanning examples such as local photo storage and free library reading. The argument is buy-once-keep-using, reducing dependence on services that bill every month. The creator notes some options need setup but the savings compound, and asks which subscription viewers would cancel first.",
+   "keywords": [
+    "subscription alternatives",
+    "local storage",
+    "self-hosting",
+    "cost saving"
+   ],
+   "url": "https://www.instagram.com/p/DeGtzcpmpuU/",
+   "author": "unfoldedai",
+   "author_url": "https://www.instagram.com/unfoldedai/",
+   "date": "2026-10-05",
+   "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "Hacking",
    "title": "A comedy skit about the scariest AI breakthrough",
    "synopsis": "A comedy sketch riffing on AI doom discourse, tagged as a skit and a meme referencing OpenAI, ChatGPT and Claude. There is no technical claim to extract. It is entertainment rather than reporting.",
    "keywords": [
@@ -17960,6 +18064,25 @@
    "author": "officialjadenwilliams",
    "author_url": "https://www.instagram.com/officialjadenwilliams/",
    "date": "2026-10-02",
+   "following": false,
+   "confidence": "high"
+  },
+  {
+   "folder": "Hacking",
+   "title": "PS4 jailbreak walkthrough through the console's hidden browser",
+   "synopsis": "A Portuguese-language walkthrough for exploiting a PS4 via its hidden browser: open it with the internet connection live, enter the given address, and save the page as cache. The console then comes up with GoldHEN active, after which Debug Settings then Package Installer takes two files in sequence to 100% and a homebrew store appears. The caption's shouted warning is the real caveat - a console already on a specific newer firmware cannot run the procedure at all.",
+   "keywords": [
+    "PS4",
+    "GoldHEN",
+    "jailbreak",
+    "homebrew",
+    "Package Installer",
+    "firmware version"
+   ],
+   "url": "https://www.instagram.com/p/DdmFxjWRgEq/",
+   "author": "vinas_explosaodogame",
+   "author_url": "https://www.instagram.com/vinas_explosaodogame/",
+   "date": "2026-09-22",
    "following": false,
    "confidence": "high"
   },
@@ -20915,7 +21038,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Ten Marrakesh recommendations, named",
    "synopsis": "The Spanish-language mini-guide lists what the caption only promised: the Koutoubia Mosque as the city's emblem (noting Seville's Giralda was modelled on it), sunset terraces with Nobu as a favourite that also works all day, an open-air market for traditional clothing and jackets, the chaotic square near the mosque that the creator argues captures Marrakesh's spirit, and a wander through the Medina and souk to watch the artisans work. For museums she points to the Yves Saint Laurent museum and the Majorelle gardens, and for the authentic experience local restaurants, a riad and a hammam. She closes on the climate and the gardens of La Mamounia, and asks for further recommendations in the comments.",
    "keywords": [
@@ -20933,7 +21056,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Ten Casablanca venues, handed over as a tag list",
    "synopsis": "A French post whose entire value is the account list for ten Casablanca venues: Table 3, L'Avenue, Le 7 Ciel, Xing Xing, Danolitaaa, Hotel Le Doge, Darua, Marion, Enso and Annabels. The creator adds that they also tracked down the account for Jean de Jacques. No individual reviews are offered.",
    "keywords": [
@@ -20951,7 +21074,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Square by Onomo Collection, an Art Deco boutique hotel in Gauthier",
    "synopsis": "A French note on the newly opened Square by Onomo Collection, a boutique hotel that pairs contemporary hospitality with respect for the Art Deco architectural heritage of the Gauthier district. The emphasis is on the building as much as the service. It is an accommodation lead rather than a stay review.",
    "keywords": [
@@ -20969,7 +21092,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Lime Tree opens in Rabat",
    "synopsis": "A new-opening note for Lime Tree in Rabat, described as offering fresh vibes, good food and a place to unwind. The hashtags point to a terrace and an evening programme with dancers. It is an opening flag rather than a menu review.",
    "keywords": [
@@ -20986,7 +21109,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Calm Street, a 120-dirham tapas board in central Tangier",
    "synopsis": "The transcript shows Calm Street is the restaurant's name, not a description, and that the creator was surprised by the quality from such a small room. They tested the evening menu's tapas assortment, a gourmet selection of small bites with charcuterie, cheese, house croquettes and seafood, designed to share between two and priced at only 120 dirhams, followed by a well-cooked salmon dish. They rate the value highly and recommend it for dinners, brunches or a quiet coffee, placing it in the city centre near the Roxy, opposite restaurant Eldorado.",
    "keywords": [
@@ -21004,7 +21127,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "The 46th Assilah Art Festival turns the white walls into murals",
    "synopsis": "An artist's post about joining sixteen others for the forty-sixth edition of the Assilah Art Festival, transforming the town's white walls into murals. The creator urges people to visit during that week. It documents a recurring public-art festival in northern Morocco.",
    "keywords": [
@@ -21022,7 +21145,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Domus Bistro, the most aesthetic coffee in Tangier",
    "synopsis": "A short post naming Domus Bistro Specialty Coffee as the most aesthetic coffee venue in Tangier. The claim is about the look of the place as much as the coffee. The venue tag is the actionable detail.",
    "keywords": [
@@ -21039,7 +21162,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "A Ramadan iftar experience at the Kenzi Tower Hotel",
    "synopsis": "A Ramadan-season post documenting an iftar experience hosted at the Kenzi Tower Hotel, tagged under the creator's own iftar series. The caption is hashtags and the venue tag rather than a review. It establishes the venue and the occasion but no menu or pricing.",
    "keywords": [
@@ -21056,7 +21179,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Pancakes & Wafflez in Bourgogne, non-stop brunch until 8pm",
    "synopsis": "A service announcement from Pancakes & Wafflez on Rue Ain Oulmes in the Bourgogne district of Casablanca. Brunch runs non-stop from 10:00 to 20:00. The all-day window is the practical detail that distinguishes it.",
    "keywords": [
@@ -21073,7 +21196,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "A Tangier seafront terrace facing Spain, with the full price list",
    "synopsis": "The transcript reveals the secret spot as a terrace directly facing the Mediterranean and, across it, Spain. The breakfast formula is 100 dirhams or about ten euros, which the creator concedes sounds steep but calls generous enough for two people. Other prices given are orange juice and tea at 40 dirhams each, tagine from 100, pizza at 60 and Friday couscous at 100; they rate the setting exceptional and worth doing at least once in Tangier.",
    "keywords": [
@@ -21091,7 +21214,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Kool Smoothies opens in Marrakesh, with the creator's order",
    "synopsis": "A new-opening post for Kool Smoothies in Marrakesh, where the creator sets out their personal KoolMenu. The picks are a Kool Kid drink, the Kool salad, a chicken and avocado sandwich and a stuffed date they describe as outstanding. It is an order-level recommendation rather than a full review.",
    "keywords": [
@@ -21109,7 +21232,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Restaurant El Amrani, 40-dirham Friday couscous in the Tangier medina",
    "synopsis": "The transcript supplies both the venue and walking directions the caption withheld. In the Tangier medina, from where the bureaux de change are, take the small alley on the left, go down about twenty metres, turn right onto the street the audio renders as rue Fraie Siméhi and follow it to the very end: Restaurant El Amrani. The Friday chicken-and-vegetable couscous arrives in five minutes flat and costs 40 dirhams, roughly four euros, which the creator calls consistently excellent and genuinely cheap.",
    "keywords": [
@@ -21127,7 +21250,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "The five best coffee spots in Casablanca, with ratings",
    "synopsis": "A French ranking of Casablanca coffee venues carrying their review scores. La Terrasse Jasmin at Hôtel Le Casablanca leads at 4.7 stars for the best view and a refined atmosphere, followed by Café Four Seasons at 4.6 for a luxurious setting with high-end service, then West 91 at 4.5 for its view and atmosphere. The star ratings make the list directly comparable.",
    "keywords": [
@@ -21145,7 +21268,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Rabat's African record-holders and its key heritage sites",
    "synopsis": "An Arabic-language post correcting misconceptions about Morocco's capital by listing where Rabat leads Africa: the largest theatre, the largest bus station, the largest swimming pool, the largest railway station, one of the tallest towers and the longest bridge, the last two in Salé. It then recommends the main heritage sites: Chellah, the Hassan Tower, the Mausoleum of Mohammed V, the Oudayas and the old medina. It reads as a civic-pride guide to the city.",
    "keywords": [
@@ -21163,7 +21286,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Kalyptus Luxury Camp at Lalla Takerkoust, with the full price list",
    "synopsis": "A detailed French review of Kalyptus Luxury Camp at Lake Lalla Takerkoust, roughly an hour and sixty kilometres from Marrakech, where the creator found the calm and the landscape perfect. Lunch and day passes are available by reservation, with starters at 80 to 110 dirhams, mains 80 to 190, desserts 50 to 65, fruit juices 50, cocktails 65 and coffee 30. Accommodation starts at 2,200 dirhams and a phone number is given.",
    "keywords": [
@@ -21181,7 +21304,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "La Dune Blanche at Dakhla",
    "synopsis": "A pin post for La Dune Blanche, the white sandbar at Dakhla in southern Morocco, with a videographer credit. The caption is the location and credit only. It is a landmark bookmark with no access or timing detail.",
    "keywords": [
@@ -21198,7 +21321,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Villa Carlton, a family cafe in Tangier",
    "synopsis": "The Arabic voiceover names the venue the caption only hinted at: Villa Carlton in Tangier. The creator describes it as a very good cafe with both indoor and outdoor seating, roomy enough to suit a family or a group of friends, and rates the food well. The closing line asks viewers to comment on how they found it.",
    "keywords": [
@@ -21216,7 +21339,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Moroccan lamb tagine with apricots, prunes and almonds",
    "synopsis": "A recipe reel for a Moroccan lamb tagine built on dried apricots, prunes and almonds. The caption states the dish and its components without listing quantities or method. It is a cooking reference rather than a venue tip.",
    "keywords": [
@@ -21234,7 +21357,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Depression nil, Tangier one",
    "synopsis": "A mood-driven reel whose caption is a scoreline putting Tangier ahead of depression. There is no venue, activity or location detail. It functions as destination sentiment only.",
    "keywords": [
@@ -21250,7 +21373,7 @@
    "confidence": "low"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Fendak Dar Dbagh, a new café in the Tangier medina",
    "synopsis": "An Arabic-captioned post flagging Fendak Dar Dbagh as a new café worth visiting in Tangier. The hashtags locate it in the old medina. The venue name is the actionable element.",
    "keywords": [
@@ -21267,7 +21390,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "One of the beautiful places in Tangier",
    "synopsis": "A scenic reel captioned only as one of the beautiful places in Tangier. No venue, street or viewpoint is named. The location can only be recognised from the visuals.",
    "keywords": [
@@ -21283,7 +21406,7 @@
    "confidence": "low"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Pink Art in Temara rated 10 out of 10",
    "synopsis": "A short endorsement scoring Pink Art a perfect ten, with the address given as Temara, Wifaq, opposite the Carrefour. The hashtags place it as a patisserie doing both sweet and savoury, in the Rabat area. The score and the landmark-based address are the substance.",
    "keywords": [
@@ -21301,7 +21424,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Pierre Hermé's 220-dirham millefeuille at La Mamounia",
    "synopsis": "An Arabic-captioned post on Le Menzeh by Pierre Hermé inside Hôtel La Mamounia on Avenue Bab Jdid in Marrakech. Two prices are given: the 2000 Feuilles millefeuille at 220 dirhams and the Corne de Gazelle Mamounia at 189. The creator's reaction flags the price as steep.",
    "keywords": [
@@ -21319,7 +21442,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Ourika valley near Marrakech",
    "synopsis": "A location-pin reel for Ourika near Marrakech, with a prompt to tag someone you would visit with. The caption gives the place name and nothing further. No route, venue or timing detail is included.",
    "keywords": [
@@ -21336,7 +21459,7 @@
    "confidence": "low"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Essaouira's vibe, just Moroccan",
    "synopsis": "A short French caption asking whether viewers also love the vibe, concluding it is not beautiful so much as simply Moroccan, with Essaouira tagged. No venue or activity is named. The sentiment carries the post rather than any detail.",
    "keywords": [
@@ -21352,7 +21475,7 @@
    "confidence": "low"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "La Vue Tanger in Ghandour, with dish prices",
    "synopsis": "A food review of La Vue Tanger in the Ghandour area of Tangier. The caption lists prices in dirhams: salade pêcheur at 85, spaghetti royal at 125 and chicken cordon bleu at 110. The pricing detail is the substance of the post.",
    "keywords": [
@@ -21370,7 +21493,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "A Tangier night walk, captioned with sparkles",
    "synopsis": "A night-photography reel whose caption is nothing but sparkle emoji followed by hashtags for Tangier, the medina and night walks. No location, venue or subject is stated in the text. The content is only identifiable from the video.",
    "keywords": [
@@ -21386,7 +21509,7 @@
    "confidence": "low"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Archival French protectorate newsreel on Morocco, 1912 to 1914",
    "synopsis": "The audio is not a travel reel but archival colonial newsreel narration about Morocco under the French protectorate. It opens on a register about Moroccan craftsmanship and the love of things well made, then shifts into period propaganda describing Morocco in 1912 as in decline, saved by a resident general who restored order between 1912 and 1914 as dissidence receded. The clip is a historical document rather than contemporary travel content.",
    "keywords": [
@@ -21404,7 +21527,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Six of the best pools in the Moroccan desert",
    "synopsis": "A travel post ranking six desert pools in Morocco and asking viewers which they would choose. It comes from a wider Morocco road trip, with more of the route in the account's story highlights. The format is visual shortlisting for accommodation with a pool.",
    "keywords": [
@@ -21421,7 +21544,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "Dakhla, Morocco",
    "synopsis": "A save-this-post reel on Dakhla in Morocco, with a request to DM for the video credit. The caption is the place name plus a long tail of unrelated Moroccan travel and food hashtags. No activity, venue or practical detail is given.",
    "keywords": [
@@ -21437,7 +21560,7 @@
    "confidence": "low"
   },
   {
-   "folder": "Morocco",
+   "folder": "Morocco ",
    "title": "A full day in Marrakech: Café Bacha, the Sultana and tangia at a petrol station",
    "synopsis": "A French day-plan for Marrakech that starts with a cheap breakfast inside a palace at Café Bacha, hidden behind a riad, which the creator credits with the best coffee selection in Morocco, taken with a brioche au amlou. The day moves through the medina for local shopping, then a secret alleyway to the Sultana, a thousand-and-one-nights palace for afternoon tea or an evening cocktail. Lunch is the best local tangia, served improbably at a petrol station with its own butcher on site, bread straight from the oven and meat cooked for hours; afterwards they recommend Marrakech Insider, a group of biker guides who show the city's secrets.",
    "keywords": [
@@ -21559,7 +21682,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "Browser-Use: free open-source rival to AI browser agents",
    "synopsis": "While attention was on ChatGPT Agent and Claude Computer Use, a developer released Browser-Use, a free open-source framework that does almost the same thing. It lives on GitHub and lets an AI drive a web browser to complete tasks autonomously. The video pitches it as a game changer for virtual assistants and automation builders.",
    "keywords": [
@@ -21577,7 +21700,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "ScrapeGraph AI does in free what Apify and Bright Data charge for",
    "synopsis": "An Italian developer released ScrapeGraph AI under an MIT licence, free forever, and it has already gathered 23,000 stars. You give it a URL and describe what you want in plain English, and the AI handles the rest — LinkedIn profiles, email addresses, Twitter accounts, Amazon, Zillow, Glassdoor — including multi-page scraping at scale. The creator's economic point is that Apify charges $49 a month and Bright Data $500, while agencies are already billing clients $5,000 per scraping project using this free tool.",
    "keywords": [
@@ -21595,7 +21718,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "Scrapling: 800x faster scraper that dodges Cloudflare",
    "synopsis": "A French video promoting Scrapling, a scraper billed as 800 times faster than existing tools, installable in 30 seconds via Claude Code. It reportedly bypasses Cloudflare without detection, enabling claims like 10,000 leads in one night with zero banned IPs. It is presented as compatible with OpenAI Codex and other agent tooling.",
    "keywords": [
@@ -21613,7 +21736,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "Install Scrapling in 30 seconds with Claude Code",
    "synopsis": "The pitch: hand Claude Code a GitHub link and 30 seconds later it has installed Scrapling, described as the most powerful scraping tool in the world. The tool claims to be 800 times faster than anything else and to get around Cloudflare protections. A free installation guide is offered to viewers who comment 'Scrap'.",
    "keywords": [
@@ -21630,7 +21753,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "ScrapeGraph-AI threatens paid scraping platforms",
    "synopsis": "A developer released ScrapeGraph-AI on GitHub, an open-source LLM-powered scraping tool that has already collected over 23,000 stars. The video claims it is replacing paid scraping platforms costing around 40,000 rupees a month. It frames the project as the moment free open-source AI killed the paid web-scraping market.",
    "keywords": [
@@ -21647,7 +21770,7 @@
    "confidence": "high"
   },
   {
-   "folder": "Scrapper",
+   "folder": "Scrapper ",
    "title": "'Ultimate Web Scraper' Chrome extension demo",
    "synopsis": "A short demo naming the Chrome extension 'Ultimate Web Scraper' as the tool being showcased. The angle is no-code data extraction directly from the browser for automation, e-commerce, and productivity use cases. Details on capabilities are thin in the caption, but the tool itself is explicitly identified.",
    "keywords": [
@@ -21664,7 +21787,7 @@
    "confidence": "high"
   },
   {
-   "folder": "structural society changes",
+   "folder": "structural society changes ",
    "title": "A GitHub repo of design prompts that transform NotebookLM slide decks",
    "synopsis": "The creator argues NotebookLM's default slide output is merely fine, and that getting genuinely striking decks requires strong design prompts. He points to a GitHub repository holding dozens of design prompts that completely change the look of NotebookLM slides. The link is offered to commenters.",
    "keywords": [
@@ -21681,7 +21804,7 @@
    "confidence": "high"
   },
   {
-   "folder": "structural society changes",
+   "folder": "structural society changes ",
    "title": "Bezos reportedly raising $100bn to buy the physical economy, not AI apps",
    "synopsis": "Drawing on his contact with billionaire business angels, the creator reports Jeff Bezos is in talks to raise a fund of over $100 billion — larger than most private-equity houses can raise — to acquire companies in ageing industries and rebuild them with AI. His argument is that while the media debates an AI bubble and funding rounds concentrate on new models and apps, Bezos is looking elsewhere entirely. The targets are factories, logistics, production lines, inventory, bottlenecks, underused machinery and obsolete ERP systems — the real physical economy.",
    "keywords": [
