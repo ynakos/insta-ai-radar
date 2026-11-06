@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T08:20:14+00:00",
+ "generated_at": "2026-11-06T04:31:05+00:00",
  "account": "yannisnakos",
  "source": "insta-ai-radar",
  "items": [
@@ -4413,25 +4413,6 @@
   },
   {
    "folder": "AI.CODE",
-   "title": "Four free Claude Code plugins that cut token usage, fact-checked",
-   "synopsis": "A reaction-style fact-check of the claim that four free plugins fix Claude Code usage limits, confirming all four exist while correcting the numbers. Headroom sits between you and the model and compresses context reversibly so nothing is lost (almost 30,000 GitHub stars), Graphify turns the codebase into a knowledge graph so Claude need not reread every file per message (inspired by Andrej Karpathy, cutting token cost up to 70x), and Code Burn breaks token spend down by cost, task, model and tool entirely on-device with no API keys. The creator flags the headline figure as wrong: Ponytail trims output, but independent tests show 54% less code and only 22% fewer tokens rather than the claimed 50% usage cut.",
-   "keywords": [
-    "Claude Code",
-    "Headroom",
-    "Graphify",
-    "Code Burn",
-    "Ponytail",
-    "token optimization"
-   ],
-   "url": "https://www.instagram.com/p/DbTMVshNbk6/",
-   "author": "moshbariofficial",
-   "author_url": "https://www.instagram.com/moshbariofficial/",
-   "date": "2026-07-27",
-   "following": true,
-   "confidence": "high"
-  },
-  {
-   "folder": "AI.CODE",
    "title": "Rebuilding MyFitnessPal from scratch to kill a $300/year subscription",
    "synopsis": "Episode 2 of a series in which the creator cancels every paid app subscription and rebuilds each one himself. Cloning MyFitnessPal's interface turned out to be the trivial part; the real moat was the food database behind the barcode scanner, which he solved by finding a large free calorie database covering almost any food item and wiring it into his own backend. The rebuild worked on the food he actually eats day to day, retiring a $300/year subscription, and the source code is offered via a comment gate.",
    "keywords": [
@@ -5308,6 +5289,25 @@
    "author_url": "https://www.instagram.com/sebintel/",
    "date": "2025-12-27",
    "following": true,
+   "confidence": "high"
+  },
+  {
+   "folder": "AI.CODE",
+   "title": "Google Code Wiki turns any GitHub repo into self-updating, Gemini-queryable docs",
+   "synopsis": "Google has released Code Wiki, a tool that ingests an entire GitHub repository and generates structured documentation, architecture diagrams and a Gemini-powered chatbot grounded in the actual code. Developers can ask natural-language questions such as where telemetry is emitted for prompts and get an explanation that cites the exact files involved, which targets the weeks new joiners normally lose tracing function calls and recursion. Because the documentation regenerates on every push, it stays in sync with the codebase instead of drifting into the stale docs teams learn to distrust.",
+   "keywords": [
+    "Code Wiki",
+    "Google",
+    "Gemini",
+    "codebase onboarding",
+    "automated documentation",
+    "developer tools"
+   ],
+   "url": "https://www.instagram.com/p/DSrn8Nkiby3/",
+   "author": "100xengineers",
+   "author_url": "https://www.instagram.com/100xengineers/",
+   "date": "2025-12-25",
+   "following": false,
    "confidence": "high"
   },
   {
@@ -7927,7 +7927,7 @@
    "url": "https://www.instagram.com/p/DfS0h0Nqyi4/",
    "author": "j.t.rivard",
    "author_url": "https://www.instagram.com/j.t.rivard/",
-   "date": "2026-11-03",
+   "date": "2026-11-05",
    "following": true,
    "confidence": "high"
   },
